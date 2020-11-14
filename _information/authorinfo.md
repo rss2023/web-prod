@@ -3,6 +3,7 @@ layout: page
 title: Author Information
 description: Instructions for paper submission.
 priority: 8
+invisible: true
 ---
 
 <p class="message">

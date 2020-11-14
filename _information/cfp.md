@@ -2,7 +2,7 @@
 layout: page
 title: Call for Papers
 description: Paper submission guidelines.
-invisible: false
+invisible: true
 ---
 
 <span style="color:red">As R:SS 2020 will be held as a virtual conference, some of the information below is obsolete. This is the original Call for Papers. (See the original 

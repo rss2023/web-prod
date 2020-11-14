@@ -6,8 +6,8 @@ description: Reviewing team.
 
  <div id="area-chairs" class="row text-center">
     <b>Program Chair</b><br>
-        <a href="http://ipvs.informatik.uni-stuttgart.de/mlr/marc/">Marc Toussaint</a><br>
-		<i>University of Stuttgart</i><br>
+        <a href="http://robotics.cs.tamu.edu/dshell">Dylan Shell</a><br>
+        <i>Texas A&amp;M University</i><br>
             <br>
 	<b>Area Chairs</b><br>
     {% for member in site.data.acs %}

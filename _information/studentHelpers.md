@@ -3,7 +3,7 @@ layout: page
 title: Information for Student Helpers
 description: 
 priority: 0
-invisible: false
+invisible: true
 ---
 
 We decided to let authors themselves be the host of their zoom

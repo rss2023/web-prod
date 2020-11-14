@@ -10,7 +10,7 @@ Congratulations to the following paper nominees!
 
 ### Best Student Paper Nominees
 
-* #7 (WINNER): [*A Continuous Representation of Belief over SO(3) for Robust
+* #7: [*A Continuous Representation of Belief over SO(3) for Robust
  Rotation Learning with Uncertainty*]({{site.baseurl}}/program/papers/7/)
  Valentin Peretroukhin, Matthew
  Giamou, David M. Rosen, W. Nicholas Greene, Nicholas Roy, Jonathan
@@ -28,7 +28,7 @@ Congratulations to the following paper nominees!
 * #75: [*Quantile QT-Opt for Risk-Aware Vision-Based Robotic Grasping*]({{site.baseurl}}/program/papers/75/)
  Cristian Bodnar, Adrian Li, Karol Hausman, Peter Pastor, Mrinal
  Kalakrishnan
-* #81 (WINNER): [*AlphaPilot: Autonomous Drone Racing*]({{site.baseurl}}/program/papers/81/) Philipp Foehn, Dario
+* #81: [*AlphaPilot: Autonomous Drone Racing*]({{site.baseurl}}/program/papers/81/) Philipp Foehn, Dario
  Brescianini, Elia Kaufmann, Titus Cieslewski, Mathias Gehrig, Manasi
  Muglikar, Davide Scaramuzza
 
@@ -40,6 +40,6 @@ Congratulations to the following paper nominees!
  Adelson
 * #40: [*Deep Drone Acrobatics*]({{site.baseurl}}/program/papers/40/) Elia Kaufmann, Antonio Loquercio, René
  Ranftl, Matthias Müller, Vladlen Koltun, Davide nan Scaramuzza
-* #64 (WINNER): [*Learning Agile Robotic Locomotion Skills by Imitating Animals*]({{site.baseurl}}/program/papers/64/)
+* #64: [*Learning Agile Robotic Locomotion Skills by Imitating Animals*]({{site.baseurl}}/program/papers/64/)
 Xue Bin Peng , Erwin Coumans , Tingnan Zhang , Tsang-Wei Lee , Jie Tan
 , Sergey Levine
