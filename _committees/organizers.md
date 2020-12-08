@@ -3,7 +3,10 @@ layout: page
 title: Organizing Committee
 description: Organizing team.
 ---
+
+
 <div>
+
     <div class="row text-center">
             <b>Program Chair</b><br>
             <a href="http://robotics.cs.tamu.edu/dshell">Dylan Shell</a><br>
@@ -15,12 +18,12 @@ description: Organizing team.
             <br>
 	    <b>Workshop Chairs</b><br>
             <table style="margin-left:auto;margin-right:auto;"><tr>
-            <td style="width:45%;">
+            <td style="width:200px;vertical-align:top;">
             <a href="http://www.cs.utah.edu/~thermans/">Tucker Hermans</a><br>
             <i>University of Utah</i><br>
             </td>
-            <td style="width:10%;"></td>
-            <td style="width:45%;">
+            <td style="width:45px;"></td>
+            <td style="width:200px;vertical-align:top;">
             <a href="http://web.tuat.ac.jp/~venture/">Gentiane Venture</a><br>
             <i>Tokyo University of Agriculture and Technology</i><br>
             </td>
@@ -31,36 +34,37 @@ description: Organizing team.
             <a href="https://scalar.seas.upenn.edu/">M. Ani Hsieh</a><br>
             <i>University of Pennsylvania</i><br>
             <br>
-            <br>
 	    <b>Sponsorship Chair</b><br>
             <a href="https://mcube.mit.edu/">Alberto Rodriguez</a><br>
             <i>MIT</i><br>
             <br>
-            <br>
 	    <b>Inclusion Chairs</b><br>
             <table style="margin-left:auto;margin-right:auto;"><tr>
-            <td style="width:45%;">
+            <td style="width:200px;vertical-align:top;">
             <a href="https://www.andrew.cmu.edu/user/amj1/">Aaron Johnson</a><br>
             <i>Carnegie Mellon University</i><br>
             </td>
-            <td style="width:10%;"></td>
-            <td style="width:45%;">
+            <td style="width:45px;"></td>
+            <td style="width:200px;vertical-align:top;">
             <a href="https://www.csee.umbc.edu/people/faculty/cynthia-matuszek/">Cynthia Matuszek</a><br>
             <i>University of Maryland, Baltimore County</i><br></td>
             </tr>
             </table>
+            <br>
 	    <b>RSS Pioneers Chair</b><br>
             <table style="margin-left:auto;margin-right:auto;"><tr>
-            <td style="width:45%;">
+            <td style="width:200px;vertical-align:top;">
             <a href="https://people.eecs.berkeley.edu/~abajcsy/">Andrea Bajcsy</a><br>
             <i>UC Berkeley</i><br>
             </td>
-            <td style="width:10%;"></td>
-            <td style="width:45%;">
-            <a href="https://www.ias.informatik.tu-darmstadt.de/Team/GeorgiaChalvatzaki">Georgia Chalvatzaki</a><br>
+            <td style="width:45px;"></td>
+            <td style="width:200px;vertical-align:top;">
+            <a href="https://www.ias.informatik.tu-darmstadt.de/Team/GeorgiaChalvatzaki">Georgia Chalvatzaki </a><br>
             <i>TU Darmstadt</i><br></td>
             </tr>
             </table>
+            <br>
+    </div>
 
 </div>
 
