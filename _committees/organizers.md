@@ -32,6 +32,11 @@ description: Organizing team.
             <i>University of Pennsylvania</i><br>
             <br>
             <br>
+	    <b>Sponsorship Chair</b><br>
+            <a href="https://mcube.mit.edu/">Alberto Rodriguez</a><br>
+            <i>MIT</i><br>
+            <br>
+            <br>
 	    <b>Inclusion Chairs</b><br>
             <table style="margin-left:auto;margin-right:auto;"><tr>
             <td style="width:45%;">
@@ -44,6 +49,19 @@ description: Organizing team.
             <i>University of Maryland, Baltimore County</i><br></td>
             </tr>
             </table>
+	    <b>RSS Pioneers Chair</b><br>
+            <table style="margin-left:auto;margin-right:auto;"><tr>
+            <td style="width:45%;">
+            <a href="https://people.eecs.berkeley.edu/~abajcsy/">Andrea Bajcsy</a><br>
+            <i>UC Berkeley</i><br>
+            </td>
+            <td style="width:10%;"></td>
+            <td style="width:45%;">
+            <a href="https://www.ias.informatik.tu-darmstadt.de/Team/GeorgiaChalvatzaki">Georgia Chalvatzaki</a><br>
+            <i>TU Darmstadt</i><br></td>
+            </tr>
+            </table>
+
 </div>
 
 
