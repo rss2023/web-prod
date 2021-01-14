@@ -99,7 +99,10 @@ None of the above override the requirements of other publishing venues. In addit
 ## Plagiarism
 RSS is utterly intolerant of plagiarism. Submitted papers are expected to contain original work executed by the authors with adequate, proper and scholarly citations to the work of others. It is the job of the authors to clearly identify both their own contribution(s) and also published results / techniques on which they depend or build. RSS reviewers are charged to ensure these standards are met. In cases of alleged plagiarism, the program chair will be guided by Section 8.2.4 Allegations of Misconduct as laid out by the IEEE in this <a href="{{site.baseurl}}/docs/opsmanual.pdf">document</a>.
 
-
+## Review Process
+Authors, Program Committee members, and Area Chairs will all be anonymous. Each paper will receive 3 reviews.
+Consistent with last year, we will not have conditional acceptances, nor will we have a full author-to-reviewer rebuttal process,
+instead we will keep the opportunity to write a post-review response to the Area Chairs.
 
 {% comment %}
 Please examine the [Review form]({{site.baseurl}}/information/reviewform) 
