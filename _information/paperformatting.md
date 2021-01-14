@@ -5,11 +5,33 @@ description: Submission Formatting and Presentation Guidelines
 invisible: true
 ---
 
+## Requirments
+
 ### Document Format
 
-We only accept submissions in PDF.  
+We only accept submissions in PDF.  We do not accept papers submitted after the
+deadline no matter what the reason is, so please check on your ability to
+convert to PDF early. 
 
-### Paper Presentation*
+### Templates
+
+A paper template is available and is linked below.  Do not modify the formatting provided in the templates. Any change to font
+sizes, page dimensions, line spacing, etc. may delay the publication of your
+paper. Please do not include any additional markings such as <i>Draft</i> or
+<i>To appear in...</i> on the pages. Make sure your paper does not contain page
+numbers. 
+
+### Paper Length
+For RSS 2021, no arbitrary maximum (or minimum) length is imposed on papers,
+but material other than the abstract, references, and the first eight pages may
+be considered as supplementary and will be read at the reviewer's discretion.
+
+
+<br>
+
+## Recommendations and Suggestions*
+
+### Paper Presentation
 
 Submissions should be written such that their content, style, and appearance 
 aid the reviewing process.
@@ -23,13 +45,9 @@ to appreciate the merits of the submission) or directly (the PC decides that
 the community will be better served by the paper being revised and
 resubmitted). 
 
-#### Paper Length
-For RSS 2021, no arbitrary maximum (or minimum) length is imposed on papers,
-but material other than the abstract, references, and the first eight pages may
-be considered as supplementary and will be read at the reviewer's discretion.
-
-
-The first few pages of a submission should contain a concise and lucid 
+### Length Considerations
+Since RSS 2021 has no arbitrary maximum page count,
+the first few pages of a submission should contain a concise and lucid 
 presentation of the merits of the paper, including a discussion of its
 importance, prior work, and an outline of key technical ideas and methods used
 to achieve the main claims. The submission should also allow reviewers to
@@ -44,21 +62,13 @@ rules just to save on page count.
 *In optimization jargon: Think of the paper length not as a constraint but as a
 cost.* 
 
-### Templates
+### Templates and Font Embedding
 
 A paper template is available in <a
 href="{{site.baseurl}}/docs/paper-template-latex.tar.gz">LaTeX</a> and <a
 href="{{site.baseurl}}/docs/paper-template-word.zip">Word</a>.
 
-Do not modify the formatting provided in the templates. Any change to font
-sizes, page dimensions, line spacing, etc. may delay the publication of your
-paper. Please do not include any additional markings such as <i>Draft</i> or
-<i>To appear in...</i> on the pages. Make sure your paper does not contain page
-numbers. 
-
-Submit a PDF-format paper. We do not accept papers submitted after the deadline
-no matter what the reason is, so please check on your ability to convert to PDF
-early. Delays in the production of proceedings are usually caused by PDF file
+Submit a PDF-format paper. Delays in the production of proceedings are usually caused by PDF file
 submissions that do not embed all fonts. Please follow the below instructions
 to ensure that your PDF document will not suffer from this problem.
 
