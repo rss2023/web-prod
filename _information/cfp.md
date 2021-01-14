@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for Papers
-description: Paper submission guidelines.
+description: Request for Participation
 ---
 
 It's a pleasure to invite you to submit your best research to the 2021
@@ -45,13 +45,20 @@ Submission information is available [here]({{site.baseurl}}/information/authorin
 
 ## Subject Areas 
 
-We invite submissions in all areas of robotics, including the
-following. 
+We're seeking high-quality research papers that introduce new ideas and
+stimulate future trends in robotics across a diverse range of areas.
+We invite submissions in all areas of robotics, including:
+mechanisms and design, robot learning, control and dynamics,
+planning, manipulation, field robotics, human-robot interaction,
+robot perception, formal methods, multi-robot systems,
+healthcare and medica robotics, biological robotics, mobile robotics.
+*Also, we specifically encourage creative submissions that 
+strike out in new directions and define new sub-areas.
+Excellence of ideas will a central criterion for acceptance.*
 
 {% comment %}
 During submission, please mark 1 primary and up to 2
 secondary subject areas to help us assigning the paper to reviewers.
-{% endcomment %}
 
 * **Mechanisms and Design:** Mechatronics, Humanoids, Hands, Novel Materials, Legged Systems, Snake Robots, Novel Actuators, Reconfigurable Robots, MEMS/NEMS, Micro/Nanobots, Novel Sensors, Haptics, Tactile Interfaces, Soft Robots, Wearable Robots, Design Optimization of Robotic Systems, Minimality in design
 * **Robot Learning:** Machine Learning and Control, Deep Learning, Safe Learning, Model-Constrained Learning, Reinforcement Learning, Inverse RL, Model-Based & Model-Free RL, Imitation Learning, Learning from Demonstration, Sim2Real and Real2Sim Learning
@@ -66,18 +73,17 @@ secondary subject areas to help us assigning the paper to reviewers.
 * **Healthcare and Medical Robotics:** Rehabilitation Robotics, Mobility Aids, Navigation Aids, Robotic Prostheses, Exoskeletons, Robot-assisted Procedures, Smart Surgical Tools, Clinical Support Robots, Robots for Behavioral and Mental Health, Telehealth Robots, Ambulatory Care Robots
 * **Biological Robotics:** Biomimetic Robotics, Robotic Investigation of Biological Science and Systems, Neurobotics, Prosthetics, Robotics and Molecular Biology
 * **Mobile Robotics:** Mapping, Localization, Locomotion, Navigation, SLAM, Collision Avoidance, Exploration
+{% endcomment %}
 
 
 ## Special Journal Issues
 
-RSS maintains a strong on-going relationship with top robotics journals. In 2021, about _half_ of the selected papers will be invited for submission to special journal issues.
-In 2020, the most recently published special issues with RSS papers are
+RSS maintains a strong on-going relationship with top robotics journals. 
+In 2021, about _half_ of the selected papers will be invited for submission to 
+a special issue of International Journal of Robotics Research (IJRR) and a special issue of Autonomous Robots (AuRo).
+As of late 2020, the most recently published special issues with RSS papers are
 [International Journal of Robotics Research (IJRR)](https://journals.sagepub.com/toc/ijra/39/2-3) and 
 [Autonomous Robots (AuRo)](https://link.springer.com/journal/10514/volumes-and-issues/44-7).
-
-{% comment %}
-About _half_ of the selected papers will be invited for submission to a special issue of International Journal of Robotics Research (IJRR) and a special issue of Autonomous Robots (AuRo).
-{% endcomment %}
 
 {% comment %}
 For example, out of the 57 accepted papers in RSS 2014, 15 appeared in the [IJRR Special Issue](http://ijr.sagepub.com/content/35/1-3.toc), and 13 in the [AuRo Special Issue](http://link.springer.com/journal/10514/39/3/page/1).

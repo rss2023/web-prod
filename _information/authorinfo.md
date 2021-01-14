@@ -28,13 +28,18 @@ Submissions may be up to 8 pages in length, including figures but possibly exclu
 {% endcomment %}
 
 We only accept submissions in PDF. 
-A paper template is available in <a href="{{site.baseurl}}/docs/paper-template-latex.tar.gz">Latex</a> and <a href="{{site.baseurl}}/docs/paper-template-word.zip">Word</a>.
+A paper template is available in <a href="{{site.baseurl}}/docs/paper-template-latex.tar.gz">LaTeX</a> and <a href="{{site.baseurl}}/docs/paper-template-word.zip">Word</a>.
 
 Do not modify the formatting provided in the templates. Any change to font sizes, page dimensions, line spacing, etc. may delay the publication of your paper. Please do not include any additional markings such as <i>Draft</i> or <i>To appear in...</i> on the pages. Make sure your paper does not contain page numbers. 
 
-Submit a PDF-format paper. We do not accept papers submitted after the deadline no matter what the reason is, so please check on your ability to convert to PDF early. Delays in the production of proceedings are usually caused by PDF file submissions that do not embed all fonts. Please follow the below instructions to ensure that your PDF document will not suffer from this problem.
+Submit a PDF-format paper. We do not accept papers submitted after the deadline
+no matter what the reason is, so please check on your ability to convert to PDF
+early. Delays in the production of proceedings are usually caused by PDF file
+submissions that do not embed all fonts. Please follow the below instructions
+to ensure that your PDF document will not suffer from this problem.
 
-When preparing your document in LateX, make sure to create the PDF file from your LateX source by use of these commands:
+When preparing your document in LaTeX, make sure to create the PDF file from
+your LaTeX source using these (or equivalent, xelatex or pdflatex) commands:
 
 {% highlight js %}
 latex paper.tex
@@ -44,6 +49,12 @@ ps2pdf paper.ps
 
 
 The arguments provided to dvips will ensure that all fonts are embedded in the PDF file produced by ps2pdf.
+
+
+{% comment %}
+Here is some additional [detail on formating and presentation]({{site.baseurl}}/information/paperformatting).
+{% endcomment %}
+
 
 ## Supplementary Materials
 Authors may submit supplementary material such as a video or an expanded version of a proof. The deadline for supplementary material is the same as for paper submission. Note that reviewers are not required to view this material and include it in their assessment of the paper. Lastly, if authors feel they must link to additional supplementary material, they are cautioned to ensure that their identities are not revealed. Please note that the link to upload supplementary material becomes active only after the paper submission is complete.
@@ -89,7 +100,10 @@ None of the above override the requirements of other publishing venues. In addit
 RSS is utterly intolerant of plagiarism. Submitted papers are expected to contain original work executed by the authors with adequate, proper and scholarly citations to the work of others. It is the job of the authors to clearly identify both their own contribution(s) and also published results / techniques on which they depend or build. RSS reviewers are charged to ensure these standards are met. In cases of alleged plagiarism, the program chair will be guided by Section 8.2.4 Allegations of Misconduct as laid out by the IEEE in this <a href="{{site.baseurl}}/docs/opsmanual.pdf">document</a>.
 
 
+
 {% comment %}
+Please examine the [Review form]({{site.baseurl}}/information/reviewform) 
+
 ## Review Process
 Please read the [review form]({{site.baseurl}}{% post_url 2019-12-04-review-form%}) to understand our emphasis this year.
 Authors, Program Committee members, and Area Chairs will all be anonymous. Each paper will receive 3 reviews.
