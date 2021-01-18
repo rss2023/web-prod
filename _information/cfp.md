@@ -51,10 +51,10 @@ We invite submissions in all areas of robotics, including:
 mechanisms and design, robot learning, control and dynamics,
 planning, manipulation, field robotics, human-robot interaction,
 robot perception, formal methods, multi-robot systems,
-healthcare and medica robotics, biological robotics, mobile robotics.
+healthcare and medical robotics, biological robotics, mobile robotics.
 *Also, we specifically encourage creative submissions that 
 strike out in new directions and define new sub-areas.
-Excellence of ideas will a central criterion for acceptance.*
+Excellence of ideas will be a central criterion for acceptance.*
 
 {% comment %}
 During submission, please mark 1 primary and up to 2
