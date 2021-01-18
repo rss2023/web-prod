@@ -29,31 +29,9 @@ Submissions may be up to 8 pages in length, including figures but possibly exclu
 
 We only accept submissions in PDF. 
 A paper template is available in <a href="{{site.baseurl}}/docs/paper-template-latex.tar.gz">LaTeX</a> and <a href="{{site.baseurl}}/docs/paper-template-word.zip">Word</a>.
+Do not modify the formatting provided in the templates. Any change to font sizes, page dimensions, line spacing, etc. may delay the publication of your paper. Make sure your paper does not contain page numbers. 
 
-Do not modify the formatting provided in the templates. Any change to font sizes, page dimensions, line spacing, etc. may delay the publication of your paper. Please do not include any additional markings such as <i>Draft</i> or <i>To appear in...</i> on the pages. Make sure your paper does not contain page numbers. 
-
-Submit a PDF-format paper. We do not accept papers submitted after the deadline
-no matter what the reason is, so please check on your ability to convert to PDF
-early. Delays in the production of proceedings are usually caused by PDF file
-submissions that do not embed all fonts. Please follow the below instructions
-to ensure that your PDF document will not suffer from this problem.
-
-When preparing your document in LaTeX, make sure to create the PDF file from
-your LaTeX source using these (or equivalent, xelatex or pdflatex) commands:
-
-{% highlight js %}
-latex paper.tex
-dvips paper.dvi -o paper.ps -t letter -Ppdf -G0
-ps2pdf paper.ps 
-{% endhighlight %}
-
-
-The arguments provided to dvips will ensure that all fonts are embedded in the PDF file produced by ps2pdf.
-
-
-{% comment %}
-Here is some additional [detail on formating and presentation]({{site.baseurl}}/information/paperformatting).
-{% endcomment %}
+For additional detail on formating and presentation please see [these requirements and recommendations]({{site.baseurl}}/information/paperformatting).
 
 
 ## Supplementary Materials
