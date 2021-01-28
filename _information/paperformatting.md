@@ -5,7 +5,7 @@ description: Submission Formatting and Presentation Guidelines
 invisible: true
 ---
 
-## Requirments
+## Requirements
 
 ### Document Format
 
@@ -22,10 +22,12 @@ paper. Please do not include any additional markings such as <i>Draft</i> or
 numbers. 
 
 ### Paper Length
-For RSS 2021, no arbitrary maximum (or minimum) length is imposed on papers,
-but material other than the abstract, references, and the first eight pages may
-be considered as supplementary and will be read at the reviewer's discretion.
-
+For RSS 2021, no arbitrary maximum (or minimum) length is imposed on papers.
+Reviewers will be instructed that they do not need to review material
+other than the abstract, references, and the first eight pages. Papers
+will not be summarily rejected for exceeding eight pages of technical
+content, but authors should not expect the reviewers to read beyond
+eight pages.
 
 <br>
 
@@ -40,6 +42,7 @@ their submission will be evaluated not only by experts in their subarea but
 also by the entire PC. The submission should be addressed to a broad spectrum
 of roboticists, not solely to experts in a single subarea.
 
+
 Poor presentation may result in rejection either indirectly (the reviewers fail
 to appreciate the merits of the submission) or directly (the PC decides that
 the community will be better served by the paper being revised and
@@ -47,7 +50,7 @@ resubmitted).
 
 ### Length Considerations
 Since RSS 2021 has no arbitrary maximum page count,
-the first few pages of a submission should contain a concise and lucid 
+the first eight pages of a submission should contain a concise and lucid 
 presentation of the merits of the paper, including a discussion of its
 importance, prior work, and an outline of key technical ideas and methods used
 to achieve the main claims. The submission should also allow reviewers to
@@ -56,9 +59,14 @@ deem important to the evaluation of the submission. Ideally, it should include
 all of the ideas necessary for an expert to fully verify the central claims in
 the paper.
 
-Papers may be perceived as too long if they are 
+Authors should anticipate that their papers may be
+rejected if the key technical result is not adequately presented and
+evaluated in the first eight pages. The reason we have removed the page
+limit is to acknowledge that the page limit is arbitrary, and there may
+be good reasons to take a little more space.  Papers may be perceived as too long if they are 
 verbose or repetitive, or too short if they omit important details or tamper with formatting
 rules just to save on page count. 
+
 *In optimization jargon: Think of the paper length not as a constraint but as a
 cost.* 
 
