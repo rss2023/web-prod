@@ -7,19 +7,20 @@ priority: 8
 
 
 ## Submission Instructions
-The submissions site at <a href="https://cmt3.research.microsoft.com/RSS2021/"> https://cmt3.research.microsoft.com/RSS2021/</a> will open for submission Feb 1st.
 
 {% comment %}
+The submissions site at <a href="https://cmt3.research.microsoft.com/RSS2021/"> https://cmt3.research.microsoft.com/RSS2021/</a> will open for submission Feb 1st.
+{% endcomment %}
+
 
 Browse to [https://cmt3.research.microsoft.com/RSS2021/](https://cmt3.research.microsoft.com/RSS2021/) for submissions.
 
 * **Logging into the system**: If you already have a CMT account, use those credentials to login. If you do not, sign up as a new user.
 * **Conflict domains**: When you login for the first time, CMT will prompt you to enter your conflict domains. You will not be allowed to start the submission process without finishing this step.
-* **Paper submission**: Enter title, abstract, and authors. Select your primary and secondary [subject areas]({{site.baseurl}}/information/cfp/#subject-areas). Your paper may now be uploaded. Papers must be in the accepted conference style format and must be submitted as a PDF. Papers may be edited, updated and replaced up to the full paper final submission deadline. Answer if your first author is a student (eligible then for the Best Student Paper Award) and select which [Area Chair]({{site.baseurl}}/committees/pc/) might be best suited to handle your submission. Finally, if you want your accepted paper to be considered for invitation to special issues (potentially with expedited review), please give your consent to us forwarding the reviews to the journal editors who decide on such invitations.
+* **Paper submission**: Enter title, abstract, and authors. Select your primary and secondary [subject areas]({{site.baseurl}}/information/cfp/#subject-areas). Your paper may now be uploaded. Papers must be in the conference style format and must be submitted as a PDF. Papers may be edited, updated and replaced up to the full paper final submission deadline.  Answer if your first author is a student (eligible then for the Best Student Paper Award). Finally, if you want your accepted paper to be considered for invitation to special issues (potentially with expedited review), please give your consent to us forwarding the reviews to the journal editors who decide on such invitations.
 * **Paper ID**: After clicking the Submit link, your paper will be assigned an ID.
 * **Supplementary material**: Authors may submit supplementary material such as a video or an expanded version of a proof (20MB max, accepted formats: avi, mov, mp4, mpg, pdf, tar, tgz, zip). Please note that the link to upload supplementary material becomes active only after the paper submission is complete.
 
-{% endcomment %}
 
 ## Paper Format
 {% comment %}
