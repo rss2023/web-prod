@@ -64,6 +64,10 @@ description: Organizing team.
             </tr>
             </table>
             <br>
+	    <b>Website Integration Chair</b><br>
+            <a href="https://www.rit.edu/directory/jrheee-jamison-heard">Jamison Heard</a><br>
+            <i>Rochester Institute of Technology</i><br>
+            <br>
     </div>
 
 </div>
