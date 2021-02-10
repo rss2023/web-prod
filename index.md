@@ -16,6 +16,11 @@ considering some the potential of localized distal in-person events, but
 that being contingent on the possibility of safe travel, CoVid-19 vaccine
 availability, etc.
 
+## News and Updates
+* The [Call for Workshops and Tutorials]({{site.baseurl}}/information/cfw/) has been posted.
+* See [Author Information]({{site.baseurl}}/information/authorinfo/) for submission instructions and paper templates.
+
+
 ### Timeline
 
 <table class="table">
