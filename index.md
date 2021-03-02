@@ -16,7 +16,12 @@ considering some the potential of localized distal in-person events, but
 that being contingent on the possibility of safe travel, CoVid-19 vaccine
 availability, etc.
 
+<span style="text:style:bold;color:red">Some authors reported upload issues via CMT within the
+last minutes yesterday. Please email the <a mailto="dshell@tamu.edu">program
+chair</a> ASAP for help resolving these issues.</span>
+
 ## News and Updates
+* The [Call for Workshops and Tutorials]({{site.baseurl}}/information/cfw/) has been posted.
 * The [Call for Workshops and Tutorials]({{site.baseurl}}/information/cfw/) has been posted.
 * See [Author Information]({{site.baseurl}}/information/authorinfo/) for submission instructions and paper templates.
 
