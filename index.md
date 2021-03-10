@@ -53,10 +53,15 @@ chair</a> ASAP for help resolving these issues.</span>-->
         <td><a href="https://time.is/Anywhere_on_Earth">Anywhere on Earth</a></td>
         <td>Author Feedback Deadline</td>
       </tr>
-      <tr >
+      <tr>
         <td colspan="2">May 10th, 2021</td>
         <td>Paper Acceptance Notification</td>
       </tr>
+      <tr>
+        <td colspan="2">June 10th, 2021</td>
+        <td>Camera-Ready Submission Deadline</td>
+      </tr>
+
       <tr>
         <td colspan="2">July 12th - 16th, 2021</td>
         <td>Virtual Conference</td>
