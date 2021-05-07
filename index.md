@@ -21,6 +21,7 @@ last minutes yesterday. Please email the <a mailto="dshell@tamu.edu">program
 chair</a> ASAP for help resolving these issues.</span>-->
 
 ## News and Updates
+* The [Inclusion@RSS 2021](https://sites.google.com/andrew.cmu.edu/inclusion-2021) website is up, and is open for applications.
 * The [Call for Workshops and Tutorials]({{site.baseurl}}/information/cfw/) has been posted.
 * See [Author Information]({{site.baseurl}}/information/authorinfo/) for submission instructions and paper templates.
 
@@ -35,21 +36,21 @@ chair</a> ASAP for help resolving these issues.</span>-->
     </thead>
     <tbody>
       <tr>
-        <td>March 1st, 2021</td>
+        <td><s>March 1st, 2021</s></td>
         <td><a href="https://time.is/Anywhere_on_Earth">Anywhere on Earth</a></td>
         <td>Paper Submission Deadline</td>
       </tr>
       <tr>
-        <td>March 15th, 2021</td>
+        <td><s>March 15th, 2021</s></td>
         <td><a href="https://time.is/Anywhere_on_Earth">Anywhere on Earth</a></td>
         <td>Workshop Submission Deadline</td>
       </tr>
       <tr>
-      <td colspan="2">April 5th, 2021</td>
+      <td colspan="2"><s>April 5th, 2021</s></td>
         <td>Workshop Acceptance Notification</td>
       </tr>
       <tr>
-        <td>April 23rd, 2021</td>
+        <td><s>April 23rd, 2021</s></td>
         <td><a href="https://time.is/Anywhere_on_Earth">Anywhere on Earth</a></td>
         <td>Author Feedback Deadline</td>
       </tr>
