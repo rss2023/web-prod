@@ -11,7 +11,7 @@ We offer several opportunities for sponsors at RSS 2021:
 3. Logos directly on the conference platform and acknowledgements on
 roboticsconference.org
 
-Please contact Alberto Rodriguez <albertor@mit.edu> or Dylan Shell <dshelll@tamu.edu> if you are interested in supporting RSS 2021.
+Please contact Alberto Rodriguez <albertor@mit.edu> or Dylan Shell <dshell@tamu.edu> if you are interested in supporting RSS 2021.
 
 
 
