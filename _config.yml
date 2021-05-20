@@ -36,9 +36,9 @@ collections:
 #   attending:
 #       output: true
 #       permalink: /attending/:path/
-#    program:
-#        output: true
-#        permalink: /program/:path/
+    program:
+        output: true
+        permalink: /program/:path/
     information:
         output: true
         permalink: /information/:path/

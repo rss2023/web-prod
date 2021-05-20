@@ -3,7 +3,7 @@ layout: page
 title: Keynote Talk
 description: Keynote talk title, abstract and speaker bio.
 priority: 8
-invisible: false
+invisible: true
 ---
 
 It is our great pleasure to announce this year's Keynote Talk by Josh

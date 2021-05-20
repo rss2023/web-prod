@@ -2,62 +2,46 @@
 layout: page
 title: Workshops
 description: Workshop times, venues, and details.
-days: ['SUN', 'MON']
-room_pictures: ['32-123', '32-124', '32-141', '32-144', '32-155', '36-112', '36-144', '36-153', '36-155', '36-156', '34-101', '34-301', '34-302']
-invisible: False
+days: ['First', 'Second']
+invisible: false
 ---
 
 
-Workshops will take place July 12 and 13, 2020. They are generally scheduled to take place between 7:00AM PST and 11:15PM PST (14:00-18:15 UCT), and are recommended to have coffee breaks from 9:15-9:30AM and 11:15-11:30AM PST. However, each workshop is organized as a semi-independent event, and has a unique schedule that may deviate from the recommended schedule. Please check the workshop websites for more details on their particular schedules.
+
+Workshops will take place across four days of the conference July 12 through 15, 2020. 
+{% comment %}
+They are generally scheduled to take place between 7:00AM PST and 11:15PM PST (14:00-18:15 UCT), 
+and are recommended to have coffee breaks from 9:15-9:30AM and 11:15-11:30AM PST. 
+{% endcomment %}
+Each workshop is organized as a semi-independent event, and has a unique schedule reflecting the
+planned activities, constraints and preferences of the organizers.
+Please check the workshop websites for more details on their particular schedules.
 
 {% comment %}
 [Here]({{ site.baseurl }}/docs/campusmap.pdf) is a labeled map of the workshop buildings.
 {% endcomment %}
 
-
-
-
 {% for day in page.days %}
-{% if day == 'SUN' %}
-#### Sunday, July 12  {#sun}
-{% elsif day == 'MON' %}
-#### Monday, July 13    {#mon}
+{% if day == 'First' %}
+### Sunday, July 12 and Monday, July 13  
+{% elsif day == 'Second' %}
+### Tuesday, July 14 and Wednesday, July 15  
 {% endif %}
+
 
 
 <table class="table table-striped table-workshop">
   <thead>
     <tr>
       <th width="15%" align="center">WS</th>
-      <th width="36%">Title</th>
+      <th width="55%">Title</th>
       <th width="30%">Organizers</th>
-      <th width="20%">Virtual Session Link</th>
     </tr>
   </thead>
   <tbody>
     {% for workshop in site.data.workshops %}
-    {% if workshop.date contains day %}
+    {% if workshop.block contains day %}
 
-	{% if workshop.external_id == 'WS1-1' or workshop.external_id == 'WS1-7' %}
-       <tr>
-      <td> <s> {{ workshop.external_id }} </s></td>
-      <td> <s>
-        <a href="{{ workshop.url }}">
-          {{ workshop.title }}
-        </a> </s>
-      </td>
-      <td>
-	<s>
-        {{ workshop.organizers | replace: ',', '<br/>' }}
- 	</s>
-      </td>
-	<td>
-        <s> N/A </s>
-	</td>
-     
-          </tr>
-    
-    {% else %}
     <tr>
       <td>{{ workshop.external_id }}</td>
       <td>
@@ -65,18 +49,36 @@ Workshops will take place July 12 and 13, 2020. They are generally scheduled to 
           {{ workshop.title }}
         </a>
       </td>
-      <td>
-        {{ workshop.organizers | replace: ',', '<br/>' }}
+      <td style="font-size:smaller;">
+        {{ workshop.organizers | replace: ',', '<br/>' | truncatewords: 7, "&nbsp;<button type='button' class='collapsible' style='border:none;background:none;font-size:smaller;color:#222299;'>...more&gt;</button>"}}
+      <div class="content" style="display:none; padding-top:20px;">
+        {{ workshop.organizers | replace: ',', '<br/>'}}
+      </div>
       </td>     
-
-<td> <a href="{{ workshop.pheedloop }}">
-          [Session]
-        </a> </td>
     </tr>
-	{% endif %}
     {% endif %}
     {% endfor %}
   </tbody>
 </table>
 {% endfor %}
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    this.style.display = "none";
+    var content = this.nextElementSibling;
+    //if (content.style.display === "block") {
+    //  content.style.display = "none";
+    //} else {
+    //  content.style.display = "block";
+    //}
+    var c = this.parentElement;
+    c.innerHTML = content.innerHTML;
+    });
+}
+</script>
 

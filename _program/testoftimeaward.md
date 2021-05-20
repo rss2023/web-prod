@@ -3,7 +3,7 @@ layout: page
 title: Test of Time Award
 description: Early Career Awards, keynote information and speaker bio.
 priority: 7
-invisible: false
+invisible: true
 ---
 
 [*<center>The keynote slides are available here</center>*]({{site:baseurl}}/docs/keynote-TestOfTime-DellaertKaess.pdf)

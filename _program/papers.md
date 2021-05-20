@@ -2,7 +2,7 @@
 layout: page
 title: Accepted Papers
 description: Accepted papers.
-invisible: false
+invisible: true
 ---
 
 
