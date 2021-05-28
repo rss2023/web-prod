@@ -31,9 +31,9 @@ How to access everything:
     1. The title and abstract
     2. Names and ordering of authors
     3. Upload files: a camera-ready PDF
-    4. To submit, you will need to agree to the author agreement. You can upload newer versions of these files until the deadline.
+    4. Submission requires acknowledgement of assent to the author agreement. 
 
-(If there additional complexities, for example in getting your surname alphabetized correctly, please email the [Program Chair](mailto:dshell@tamu.edu).)
+You can upload newer versions of these files until the deadline.  If there additional complexities, for example in getting your surname alphabetized correctly, please email the [Program Chair](mailto:dshell@tamu.edu).
 
 
 {% comment %}
