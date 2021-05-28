@@ -5,13 +5,41 @@ description: Instructions for paper submission.
 priority: 8
 ---
 
+## Instructions for Camera-ready Submissions
+The conference proceedings for Robotics: Science and Systems 2021 will be
+published online with open access, and in a book.  A revised version of your
+paper is due to be uploaded to CMT by AOE June 10, 2021.  Please be aware that
+there will be no additional opportunity to revise your paper. 
 
-## Submission Instructions
+In preparing for the proceedings, please follow the author guidelines posted
+below under “Paper Format” and these [requirements and
+recommendations]({{site.baseurl}}/information/paperformatting).  Your
+proceedings submission should, of course, include your names, affiliations, and
+acknowledgements as we are past the double-blind review phase. 
+There is no provision for supplementary materials in the proceedings, so please
+embed links in your pdf to stable URLs for any additional content.  
+
+
+<u>Note</u>: Like the original submission, no arbitrary page limits are placed on your camera ready paper.  As a rule: *it should contain material that has undergone peer review, or be in response to the requests that arose during the review process.*  This may mean your paper may be a bit longer than your submitted manuscript in most cases, this to be an additional page or so. Use this additional freedom responsibly.
+
+How to access everything:
+
+* Login to CMT at [https://cmt3.research.microsoft.com/RSS2021/](https://cmt3.research.microsoft.com/RSS2021/)
+* Make sure your role is “Author”
+* Click on “Create Camera Ready Submission” in the “Actions” column for each of your accepted papers.
+* You will be taken to a new screen where you can modify:
+    1. The title and abstract
+    2. Names and ordering of authors
+    3. Upload files: a camera-ready PDF
+    4. To submit, you will need to agree to the author agreement. You can upload newer versions of these files until the deadline.
+
+(If there additional complexities, for example in getting your surname alphabetized correctly, please email the [Program Chair](mailto:dshell@tamu.edu).)
+
 
 {% comment %}
-The submissions site at <a href="https://cmt3.research.microsoft.com/RSS2021/"> https://cmt3.research.microsoft.com/RSS2021/</a> will open for submission Feb 1st.
-{% endcomment %}
+## Submission Instructions
 
+The submissions site at <a href="https://cmt3.research.microsoft.com/RSS2021/"> https://cmt3.research.microsoft.com/RSS2021/</a> will open for submission Feb 1st.
 
 Browse to [https://cmt3.research.microsoft.com/RSS2021/](https://cmt3.research.microsoft.com/RSS2021/) for submissions.
 
@@ -21,6 +49,7 @@ Browse to [https://cmt3.research.microsoft.com/RSS2021/](https://cmt3.research.m
 * **Paper ID**: After clicking the Submit link, your paper will be assigned an ID.
 * **Supplementary material**: Authors may submit supplementary material such as a video or an expanded version of a proof (20MB max, accepted formats: avi, mov, mp4, mpg, pdf, tar, tgz, zip). Please note that the link to upload supplementary material becomes active only after the paper submission is complete.
 
+{% endcomment %}
 
 ## Paper Format
 {% comment %}
