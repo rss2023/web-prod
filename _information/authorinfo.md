@@ -153,7 +153,7 @@ from years 2020 and 2019).
 
 The pre-recorded presentations need to be submitted by 
 uploaded by AOE ~~June 17, 2021~~ <span style="color:red;">June 25,</span> 2021.
-<i>The upload is as a file directly in CMT, as a second file (see below).</i>
+<i>The upload is as a file directly in CMT, as a second file (see above).</i>
 You are free to use any tools you like to create the video. 
 Below we have a list of potential tools for your help. 
 The requirements for the videos are:
