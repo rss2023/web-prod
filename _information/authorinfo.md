@@ -5,10 +5,40 @@ description: Instructions for paper submission.
 priority: 8
 ---
 
+<center>
+<table class="table" style="width:480px; border-left: solid 4px gray; border-right: solid 4px gray; border-bottom: solid thin gray;">
+      <tr style="background: #ffffd0;">
+        <th><span style="font-weight:bold">Update!</span></th>
+      </tr>
+      <tr style="background: #fffff0;">
+        <td>To minimize pain and accomodate other robotics deadlines, we have pushed both PDF and video submission dates to the last possible time: June 25th, 2021. <i>This is a firm deadline.</i></td>
+      </tr>
+  </table>
+</center>
+
+
+### Uploading files:
+
+* Login to CMT at [https://cmt3.research.microsoft.com/RSS2021/](https://cmt3.research.microsoft.com/RSS2021/)
+* Make sure your role is “Author”
+* Click on “Create Camera Ready Submission” in the “Actions” column for each of your accepted papers.
+* You will be taken to a new screen where you can modify:
+    1. The title and abstract
+    2. Names and ordering of authors
+    3. Upload files: 
+        * A camera-ready (PDF)
+        * Your 5 min spotlight video (MP4)
+    4. Submission requires acknowledgement of assent to the author agreement. 
+
+You can upload newer versions of these files until the deadline.  If there additional complexities, for example in getting your surname alphabetized correctly, please email the [Program Chair](mailto:dshell@tamu.edu).
+
+
+
 ## Instructions for Camera-ready Submissions
 The conference proceedings for Robotics: Science and Systems 2021 will be
 published online with open access, and in a book.  A revised version of your
-paper is due to be uploaded to CMT by AOE June 10, 2021.  Please be aware that
+paper is due to be uploaded to CMT by AOE ~~June 10, 2021~~ <span style="color:red;">June 25,</span> 2021.
+Please be aware that
 there will be no additional opportunity to revise your paper. 
 
 In preparing for the proceedings, please follow the author guidelines posted
@@ -22,18 +52,6 @@ embed links in your pdf to stable URLs for any additional content.
 
 <u>Note</u>: Like the original submission, no arbitrary page limits are placed on your camera ready paper.  As a rule: *it should contain material that has undergone peer review, or be in response to the requests that arose during the review process.*  This may mean your paper may be a bit longer than your submitted manuscript in most cases, this to be an additional page or so. Use this additional freedom responsibly.
 
-How to access everything:
-
-* Login to CMT at [https://cmt3.research.microsoft.com/RSS2021/](https://cmt3.research.microsoft.com/RSS2021/)
-* Make sure your role is “Author”
-* Click on “Create Camera Ready Submission” in the “Actions” column for each of your accepted papers.
-* You will be taken to a new screen where you can modify:
-    1. The title and abstract
-    2. Names and ordering of authors
-    3. Upload files: a camera-ready PDF
-    4. Submission requires acknowledgement of assent to the author agreement. 
-
-You can upload newer versions of these files until the deadline.  If there additional complexities, for example in getting your surname alphabetized correctly, please email the [Program Chair](mailto:dshell@tamu.edu).
 
 
 {% comment %}
@@ -64,6 +82,7 @@ Do not modify the formatting provided in the templates. Any change to font sizes
 For additional detail on formating and presentation please see [these requirements and recommendations]({{site.baseurl}}/information/paperformatting).
 
 
+{% comment %}
 ## Supplementary Materials
 Authors may submit supplementary material such as a video or an expanded version of a proof. The deadline for supplementary material is the same as for paper submission. Note that reviewers are not required to view this material and include it in their assessment of the paper. Lastly, if authors feel they must link to additional supplementary material, they are cautioned to ensure that their identities are not revealed. Please note that the link to upload supplementary material becomes active only after the paper submission is complete.
 
@@ -111,6 +130,7 @@ RSS is utterly intolerant of plagiarism. Submitted papers are expected to contai
 Authors, Program Committee members, and Area Chairs will all be anonymous. Each paper will receive 3 reviews.
 Consistent with last year, we will not have conditional acceptances, nor will we have a full author-to-reviewer rebuttal process,
 instead we will keep the opportunity to write a post-review response to the Area Chairs.
+{% endcomment %}
 
 {% comment %}
 Please examine the [Review form]({{site.baseurl}}/information/reviewform) 
@@ -121,3 +141,56 @@ Authors, Program Committee members, and Area Chairs will all be anonymous. Each 
 This year, we will have no rebuttals nor conditional acceptances.
 
 {% endcomment %}
+
+
+## Instructions for uploading the pre-recorded paper spotlight presentations {#videos}
+{: .text-left}
+
+At RSS 2021 all paper presentations will be pre-recorded. They will be
+hosted on YouTube and will be made available before the conference and
+stay accessible indefinitely (similar to the recordings of the talks
+from years 2020 and 2019).
+
+The pre-recorded presentations need to be submitted by 
+uploaded by AOE ~~June 17, 2021~~ <span style="color:red;">June 25,</span> 2021.
+<i>The upload is as a file directly in CMT, as a second file (see below).</i>
+You are free to use any tools you like to create the video. 
+Below we have a list of potential tools for your help. 
+The requirements for the videos are:
+
+* Duration max. 5 min
+* MP4 format
+* File size max. 350 MB
+* 16:9 aspect ratio (strongly preferred)
+* 1920x1080 resolution (strongly preferred, at least 720 height)
+* Should ideally have an inset with a video of the speaker
+
+Please email the program chair for questions related to the video submission.
+
+#### Tools for recording the presentations:
+
+* [Debut (Windows, Mac): Free, allows including webcam](https://www.nchsoftware.com/capture/index.html)
+* [OBS Studio (Windows, Linux, Mac): OpenSource, allows including webcam](https://obsproject.com/)
+* [PowerPoint (Windows, Mac): Narrations and timing can be directly recorded in PowerPoint and exported as videos. Recordings are on a per slide basis (i.e., you cannot talk during slide transitions). Recent versions (Office 365) enable recording a webcam inset as well (Windows only)](https://support.microsoft.com/en-us/office/record-a-slide-show-with-narration-and-slide-timings-0b9502c6-5f6c-40ae-b1e7-e47d8741161c?ui=en-us&rs=en-us&ad=us)
+* [Loom (Windows, Mac): Pro version is free for educational institutions, allows including webcam](https://www.loom.com/education)
+* [Zoom (Windows, Linux, Mac): Using “local recording”. Free version is sufficient. Tends not to record videos embedded in the presentation very well, allows including webcam](https://zoom.us/)
+* [CamStudio (Windows): OpenSource, allows including webcam](https://camstudio.org/)
+* [Ezvid (Windows): Free, allows including webcam](https://www.ezvid.com/download)
+* [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/)  / [kazam (Linux): OpenSource, screen capture only](https://launchpad.net/kazam)
+
+#### General tips:
+
+* Prepare a script on what to say. This will also help to cut the video later.
+* Record in one long session, repeating parts that you didn't like on the fly.
+* Then cut together the parts you like (might be easier if you prepared a script earlier).
+
+#### Free cross platform (Windows, Linux, Mac) video editing tools:
+
+* [DaVinci Resolve: advanced (excellent, but might need nvidia GPU, esp on Linux)](https://www.blackmagicdesign.com/sa/products/davinciresolve/)
+* [kdenlive: advanced](https://kdenlive.org/en/)
+* [ShotCut: advanced ](https://shotcut.org/)
+* [avidemux: simple](http://avidemux.sourceforge.net/)
+* [lightworks: advanced](https://www.lwks.com/)
+* [OpenShot: advanced](https://www.openshot.org/)
+
+
