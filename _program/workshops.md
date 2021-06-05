@@ -23,9 +23,9 @@ Please check the workshop websites for more details on their particular schedule
 
 {% for day in page.days %}
 {% if day == 'First' %}
-### Sunday, July 12 and Monday, July 13  
+### Monday, July 12 and Tuesday, July 13  
 {% elsif day == 'Second' %}
-### Tuesday, July 14 and Wednesday, July 15  
+### Wednesday, July 14 and Thursday, July 15  
 {% endif %}
 
 
