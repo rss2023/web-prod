@@ -6,57 +6,56 @@ priority: 8
 invisible: false
 ---
 
-RSS 2020 will be held using a central virtual conference platform to
+RSS 2021 will be held using a central virtual conference platform to
 host all live events, allow users to flexibly join all workshops,
 paper discussion sessions, the plenary sessions, interact with each
 other and sponsors, and manage attendees.
 
-Registration fees will be US$ 20 for students, and US$ 50 for
+{% comment %}
+Registration fees will be US $20 for students, and US$ 50 for
 non-students, and give full access to the virtual conference platform,
 including the workshop and main conference events.
-
-Please use the form embedded below to register. <b>If the below form does not work for your browser, register [here]() instead</b>. 
-
-{% comment %}
-
-Contact
-toussaint@tu-berlin.de and J.Kober@tudelft.nl if you encounter problems. 
-
 {% endcomment %}
+
+Please use the form embedded below to register. <b>If the below form does not work for your browser, register [here](https://pheedloop.com/rss2021/site/register/) instead</b>. 
+
+Contact dshell@tamu.edu if you encounter problems. 
+
 
 ### Attendee Registration Form
 
+{% comment %}
 Registration is closed.
 
-{% comment %}
-
-https://pheedloop.com/register/rss2020/attendee/
+https://pheedloop.com/register/rss2021/attendee/
 
 {% endcomment %}
 
-{% comment %}
 
-<script src="https://pheedloop.s3.amazonaws.com/embed/embed.js"></script>
-<link rel="stylesheet" type="text/css" href="https://pheedloop.s3.amazonaws.com/embed/embed.css" />
 
-<a class="pheedloop-popup-25930 popup-btn">Registration Main</a>
-<div id="pheedloop-embed-25930"></div>
+<script src="https://static.pheedloop.com/static/embed/embed.js"></script>
+<link rel="stylesheet" type="text/css" href="https://static.pheedloop.com/static/embed/embed.css" />
+
+<a class="pheedloop-popup-93484 popup-btn">Registration Main</a>
+<div id="pheedloop-embed-93484"></div>
 
 <script type="text/javascript">
   createSection({
-    event: 'rss2020',
-    section: '25930',
+    event: 'rss2021',
+    section: '93484',
     height: 2000,
     resize: false,
     popup: false,
   });
 </script>
-{% endcomment %}
-
-
-
 
 {% comment %}
+
+### Press Passes
+
+Journalists may request a free press ticket by contacting the program chair.
+
+
 ### Press Passes
 
 Journalists may request a free press ticket by

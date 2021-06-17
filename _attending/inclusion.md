@@ -7,7 +7,16 @@ invisible: false
 
 The RSS community is committed to increasing the participation of groups traditionally underrepresented in robotics (including but not limited to: women, LGBTQ+, underrepresented minorities, and people with disabilities), especially people early in their studies and career. Such efforts are crucial for increasing research capacity, creativity, and broadening the impact of robotics research. To that end, Inclusion @ RSS will be an integral part of RSS that will focus on programs that increase and sustain a broader participation in the robotics research community. Component programs will range from co-located events to sponsored activities during the main conference.
 
-The primary focus of the 2020 Inclusion@RSS will be to increase the number of new conference participants. Comprehensive travel support will be awarded to selected BSc, MSc, and first and second year PhD students. Priority will be given to students who have not previously attended RSS and/or are new to the robotics research community. Applications can be submitted using this [form](https://docs.google.com/forms/d/e/1FAIpQLScZhz4oXKlcxQGmrdbIuvpBxje3jOYWxDBXMfeet4bVG7f9jw/viewform?usp=sf_link). 
+
+The primary goal of the 2021 Inclusion@RSS is to increase the number of new
+conference participants from groups traditionally underrepresented in robotics.
+Fellowships will be awarded to selected BSc, MSc, and first and second year PhD
+students. Priority will be given to students who have not previously attended
+RSS and/or are new to the robotics research community.
+For additional details, please see the event's 
+[website](https://sites.google.com/andrew.cmu.edu/inclusion-2021). 
+
+{% comment %}
 
 
 <table class="table">
@@ -37,7 +46,6 @@ The primary focus of the 2020 Inclusion@RSS will be to increase the number of ne
 
 
 
-{% comment %}
 The RSS community is committed to increasing the participation of groups
 traditionally underrepresented in robotics (including but not limited to:
 women, LGBTQ+, underrepresented minorities, and people with disabilities),

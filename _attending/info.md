@@ -6,18 +6,22 @@ priority: 10
 invisible: false
 ---
 
-<center><i>Thank you for joining the first virtual RSS!</i></center>
+<center><i>Thank you for joining the second virtual RSS!</i></center>
 
 <br/>
 
 * The virtual conference will be held on
-[**https://pheedloop.com/rss2020/virtual/**](https://pheedloop.com/rss2020/virtual/).
+[**https://pheedloop.com/rss2021/virtual/**](https://pheedloop.com/rss2021/virtual/).
 * When attending the conference, please respect the
-[**RSS 2020 Code of Conduct**](../codeOfConduct/).
+[**RSS 2021 Code of Conduct**](../codeOfConduct/).
+
+{% comment %}
 * Help & Technical support is provided at the **Help Desk Meetup** on the virtual platform.
 * **Best experience with zoom sessions**: Try to log into *some* zoom account in a separate brower tab. This will generate some cookies that might avoid you having to enter credentials and CAPTCHAs every time you switch between sessions.
+{% endcomment %}
 
 
+{% comment %}
 
 ## The Paper Discussion Sessions
 
@@ -110,3 +114,5 @@ send an e-mail to mark.dejongh@nowpublishers.com.
 Best wishes<br>
 Mark de Jongh<br>
 Now Publishers
+
+{% endcomment %}

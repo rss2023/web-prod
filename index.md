@@ -21,9 +21,10 @@ last minutes yesterday. Please email the <a mailto="dshell@tamu.edu">program
 chair</a> ASAP for help resolving these issues.</span>-->
 
 ## News and Updates
+* Registration for the event is [now live!]({{site.baseurl}}/attending/registration/).
 * The [Inclusion@RSS 2021](https://sites.google.com/andrew.cmu.edu/inclusion-2021) website is up, and is open for applications.
-* The [Call for Workshops and Tutorials]({{site.baseurl}}/information/cfw/) has been posted.
 * See [Author Information]({{site.baseurl}}/information/authorinfo/) for submission instructions and paper templates.
+* Here is a list of the [accepted workshops]({{site.baseurl}}/program/workshops/).
 
 
 ### Timeline
@@ -77,60 +78,39 @@ chair</a> ASAP for help resolving these issues.</span>-->
   </table>
 
 
-The website of the 2020 RSS conference can be found [here](https://roboticsconference.org/2020/).
 
-{% comment %}
 ### RSS Sponsors
 
-<html>
 
 <table width="100%">
-
 <tr>
 <td style="width: 30%; text-align: center;">
 <a href="http://www.tri.global/">
-  <img width="90%" src="{{ site.baseurl }}/images/sponsors/tri.png"
+  <img height="80px" src="{{ site.baseurl }}/images/sponsors/tri.png"
        alt="Toyota Research Institute"/> </a>
 </td>
 
-<td style="width: 30%; text-align: center;">
-<a href="https://www.amazon.science/">
-  <img width="90%" src="{{ site.baseurl }}/images/sponsors/amazon_logo_RGB.png"
-       alt="Amazon Robotics"/></a>
-</td>
-
-<td style="width: 30%; text-align: center;">
-<a href="https://clearpathrobotics.com/">
-  <img width="90%" src="{{ site.baseurl }}/images/sponsors/Clearpath-Logo-Q309---Short-Run_Colour_Trans.png" alt="Clearpath Robotics"/> </a>
-</td>
-
-</tr>
-
-<tr>
-
-
-
-<td style="width: 30%; text-align: center;">
+<td style="width: 20%; text-align: center;">
 <a href="https://www.nvidia.com/en-us/research/">
-  <img width="90%" src="{{ site.baseurl }}/images/sponsors/nvidia.png"
+  <img height="90px" src="{{ site.baseurl }}/images/sponsors/nvidia.png"
        alt="NVDIA"/> </a>
 
 </td>
 
-<td style="width: 30%; text-align: center;">
-	<a href="https://robotics.sciencemag.org/">
-  	<img width="90%" src="{{ site.baseurl }}/images/sponsors/ScienceRobotics-AAAS stacked color.jpg" alt="Science Robotics"/> </a>
-</td>
-
-<td style="width: 30%; text-align: center;">
+<td style="width: 20%; text-align: center;">
 <a href="https://waymo.com/">
-  <img width="90%" src="{{ site.baseurl }}/images/sponsors/Waymo.png"
+  <img width="140px" src="{{ site.baseurl }}/images/sponsors/Waymo.png"
        alt="Waymo"/> </a>
 </td>
+
 </tr>
+
+<tr>
+<td>
+&nbsp;
+</td>
+</tr>
+
 </table>
 
-</html>
-
-{% include sponsors.html %}
-{% endcomment %}
+The website of the 2020 RSS conference can be found [here](https://roboticsconference.org/2020/).
