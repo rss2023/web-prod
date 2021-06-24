@@ -21,7 +21,7 @@ last minutes yesterday. Please email the <a mailto="dshell@tamu.edu">program
 chair</a> ASAP for help resolving these issues.</span>-->
 
 ## News and Updates
-* Registration for the event is [now live!]({{site.baseurl}}/attending/registration/)
+* Registration for the event is [now open!]({{site.baseurl}}/attending/registration/)
 * The [Inclusion@RSS 2021](https://sites.google.com/andrew.cmu.edu/inclusion-2021) website is up, and is open for applications.
 * See [Author Information]({{site.baseurl}}/information/authorinfo/) for submission instructions and paper templates.
 * Here is a list of the [accepted workshops]({{site.baseurl}}/program/workshops/).
