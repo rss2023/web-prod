@@ -84,22 +84,27 @@ chair</a> ASAP for help resolving these issues.</span>-->
 
 <table width="100%">
 <tr>
-<td style="width: 30%; text-align: center;">
+<td style="text-align: center;">
 <a href="http://www.tri.global/">
-  <img height="80px" src="{{ site.baseurl }}/images/sponsors/tri.png"
+  <img height="70px" src="{{ site.baseurl }}/images/sponsors/tri.png"
        alt="Toyota Research Institute"/> </a>
 </td>
 
-<td style="width: 20%; text-align: center;">
+<td style="text-align: center;">
+<a href="https://www.merl.com/">
+  <img height="75px" src="{{ site.baseurl }}/images/sponsors/merl.png"
+       alt="MERL"/> </a>
+</td>
+<td style="text-align: center;">
 <a href="https://www.nvidia.com/en-us/research/">
-  <img height="90px" src="{{ site.baseurl }}/images/sponsors/nvidia.png"
+  <img height="80px" src="{{ site.baseurl }}/images/sponsors/nvidia.png"
        alt="NVDIA"/> </a>
 
 </td>
 
-<td style="width: 20%; text-align: center;">
+<td style="text-align: center;">
 <a href="https://waymo.com/">
-  <img width="140px" src="{{ site.baseurl }}/images/sponsors/Waymo.png"
+  <img width="120px" src="{{ site.baseurl }}/images/sponsors/Waymo.png"
        alt="Waymo"/> </a>
 </td>
 

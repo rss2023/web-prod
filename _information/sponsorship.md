@@ -25,13 +25,18 @@ description: Sponsorship information
 <table width="100%" class="center">
 <tr>
 <td style="width: 20%; text-align: center;">
+<a href="https://www.merl.com/">
+  <img height="120px;" src="{{ site.baseurl }}/images/sponsors/merl.png"
+       alt="MERL"/> </a>
+</td>
+<td style="width: 20%; text-align: center;">
 <a href="https://www.nvidia.com/en-us/research/">
-  <img height="180px;" src="{{ site.baseurl }}/images/sponsors/nvidia.png"
+  <img height="108px;" src="{{ site.baseurl }}/images/sponsors/nvidia.png"
        alt="NVDIA"/> </a>
 </td>
 <td style="width: 20%; text-align: center;">
 <a href="https://waymo.com/">
-  <img height="200px;" src="{{ site.baseurl }}/images/sponsors/Waymo.png"
+  <img height="120px;" src="{{ site.baseurl }}/images/sponsors/Waymo.png"
        alt="Waymo"/> </a>
 </td>
 </tr>
