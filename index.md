@@ -82,12 +82,21 @@ chair</a> ASAP for help resolving these issues.</span>-->
 ### RSS Sponsors
 
 
-<table width="100%">
+<table width="75%" style="margin-left: auto; margin-right: auto;">
 <tr>
-<td style="text-align: center;">
+<td style="text-align: center;" colspan=2>
 <a href="http://www.tri.global/">
   <img height="70px" src="{{ site.baseurl }}/images/sponsors/tri.png"
        alt="Toyota Research Institute"/> </a>
+</td>
+
+</tr>
+<tr>
+
+<td style="text-align: center;">
+<a href="https://clearpathrobotics.com/">
+  <img height="50px;" src="{{ site.baseurl }}/images/sponsors/Clearpath-Logo-Q309---Short-Run_Colour_Trans.png"
+       alt="Clearpath Robotics"/> </a>
 </td>
 
 <td style="text-align: center;">
@@ -95,23 +104,24 @@ chair</a> ASAP for help resolving these issues.</span>-->
   <img height="75px" src="{{ site.baseurl }}/images/sponsors/merl.png"
        alt="MERL"/> </a>
 </td>
+
+</tr>
+<tr>
+
 <td style="text-align: center;">
 <a href="https://www.nvidia.com/en-us/research/">
   <img height="80px" src="{{ site.baseurl }}/images/sponsors/nvidia.png"
        alt="NVDIA"/> </a>
-
 </td>
-
 <td style="text-align: center;">
 <a href="https://waymo.com/">
   <img width="120px" src="{{ site.baseurl }}/images/sponsors/Waymo.png"
        alt="Waymo"/> </a>
 </td>
-
 </tr>
 
 <tr>
-<td>
+<td style="padding-bottom:60px;">
 &nbsp;
 </td>
 </tr>

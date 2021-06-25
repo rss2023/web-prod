@@ -21,14 +21,24 @@ description: Sponsorship information
 
 
 ### RSS Sponsors
-
 <table width="100%" class="center">
 <tr>
+<td style="width: 20%; text-align: center;">
+<a href="https://clearpathrobotics.com/">
+  <img height="80px;" src="{{ site.baseurl }}/images/sponsors/Clearpath-Logo-Q309---Short-Run_Colour_Trans.png"
+       alt="Clearpath Robotics"/>
+</a>
+</td>
+
 <td style="width: 20%; text-align: center;">
 <a href="https://www.merl.com/">
   <img height="120px;" src="{{ site.baseurl }}/images/sponsors/merl.png"
        alt="MERL"/> </a>
 </td>
+
+</tr>
+<tr style="border-top: solid white 50px;" >
+
 <td style="width: 20%; text-align: center;">
 <a href="https://www.nvidia.com/en-us/research/">
   <img height="108px;" src="{{ site.baseurl }}/images/sponsors/nvidia.png"
@@ -41,6 +51,7 @@ description: Sponsorship information
 </td>
 </tr>
 <tr>
+<td style="padding-bottom:70px;"> </td>
 <td style="padding-bottom:70px;"> </td>
 </tr>
 </table>
