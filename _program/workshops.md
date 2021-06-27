@@ -24,7 +24,7 @@ Please check the workshop websites for more details on their particular schedule
 {% for day in page.days %}
 {% if day == 'First' %}
 ### Monday, July 12 and Tuesday, July 13  
-{% assign innerdays = "12th, 13th, tbd" | split: ", " %}
+{% assign innerdays = "12th, 13th, 12-13, tbd" | split: ", " %}
 {% elsif day == 'Second' %}
 ### Wednesday, July 14 and Thursday, July 15  
 {% assign innerdays = "14th, 15th, tbd" | split: ", " %}
