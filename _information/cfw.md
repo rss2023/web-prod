@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for Workshops and Tutorials
+title: Call for Workshops &amp; Tutorials
 description: Workshop submission guidelines.
 ---
 {% comment %}

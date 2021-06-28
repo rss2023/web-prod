@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Workshops
+title: Workshops &amp; Tutorials
 description: Workshop times, venues, and details.
-days: ['First', 'Second']
+days: ['Mon', 'Tue', 'Wed', 'Thu']
 invisible: false
 ---
 
 
 
-Workshops will take place across four days of the conference July 12 through 15, 2020. 
+Workshops will take place across four days of the conference July 12 through 15, 2021. 
 {% comment %}
 They are generally scheduled to take place between 7:00AM PST and 11:15PM PST (14:00-18:15 UCT), 
 and are recommended to have coffee breaks from 9:15-9:30AM and 11:15-11:30AM PST. 
@@ -22,33 +22,37 @@ Please check the workshop websites for more details on their particular schedule
 {% endcomment %}
 
 {% for day in page.days %}
-{% if day == 'First' %}
-### Monday, July 12 and Tuesday, July 13  
-{% assign innerdays = "12th, 13th, 12-13, tbd" | split: ", " %}
-{% elsif day == 'Second' %}
-### Wednesday, July 14 and Thursday, July 15  
-{% assign innerdays = "14th, 15th, tbd" | split: ", " %}
+{% if day == 'Mon' %}
+### Monday, July 12
+{% assign innerdays = "12th, 12-13, tbd" | split: ", " %}
+{% elsif day == 'Tue' %}
+### Tuesday, July 13  
+{% assign innerdays = "13th, 12-13, tbd" | split: ", " %}
+{% elsif day == 'Wed' %}
+### Wednesday, July 14  
+{% assign innerdays = "14th, tbd" | split: ", " %}
+{% elsif day == 'Thu' %}
+### Thursday, July 15  
+{% assign innerdays = "15th, tbd" | split: ", " %}
 {% endif %}
-
-
 
 <table class="table table-striped table-workshop">
   <thead>
     <tr>
-      <th width="10%" align="center">WS</th>
-      <th width="10%" align="center">Day</th>
+      <th width="7%" align="center">ID</th>
+      <th width="15%" align="center">Day</th>
       <th width="50%">Title</th>
-      <th width="30%">Organizers</th>
+      <th width="28%">Organizers</th>
     </tr>
   </thead>
   <tbody>
     {% for innerday in innerdays %}
     {% for workshop in site.data.workshops %}
-    {% if workshop.block contains day and workshop.date contains innerday %}
+    {% if workshop.date contains innerday %}
 
     <tr>
-      <td>{{ workshop.external_id }}</td>
-      <td>{{ workshop.date}}</td>
+      <td><span style="font-weight:bold; color: #3a3946;"> {{ workshop.external_id }} </span></td>
+      <td>{{ workshop.date}} &nbsp; <span style="font-size:smaller; line-height:0.9; display:block;">{{workshop.timing_note}}</span> </td>
       <td>
         <a href="{{ workshop.url }}">
           {{ workshop.title }}
@@ -61,7 +65,7 @@ Please check the workshop websites for more details on their particular schedule
       </div>
       </td>     
     </tr>
-    {% elsif workshop.block contains day and workshop.date contains "?" and innerday contains 'tbd' %}
+    {% elsif workshop.date contains "?" and innerday contains 'tbd' %}
     <tr>
       <td>{{ workshop.external_id }}</td>
       <td><span style="color:#aaa;font-size:smaller;text-align:center;">TBD</span></td>
