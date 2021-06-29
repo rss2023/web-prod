@@ -65,3 +65,16 @@ Relevant links:
 - [Families@RSS]({{ site.baseurl }}/attending/families/)
 - [Women in Robotics workshop]({{ site.baseurl }}/program/workshops/sat12/)
 {% endcomment %}
+
+We are very grateful to acknowledge the support of TRI in sponsoring Inclusion@RSS 2021.
+<table width="100%" class="center">
+<tr>
+<td style="width: 20%; text-align: center;">
+<a href="http://www.tri.global/">
+  <img width="50%"  style="padding-bottom:70px;" src="{{ site.baseurl }}/images/sponsors/tri.png"
+       alt="Toyota Research Institute"/> </a>
+</td>
+</tr>
+</table>
+
+

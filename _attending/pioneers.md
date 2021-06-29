@@ -54,3 +54,15 @@ Details about the workshop are available at the [workshop website](https://sites
 {% endcomment %}
 
 
+We are very grateful to acknowledge the support of TRI in sponsoring RSS Pioneers 2021.
+<table width="100%" class="center">
+<tr>
+<td style="width: 20%; text-align: center;">
+<a href="http://www.tri.global/">
+  <img width="50%"  style="padding-bottom:70px;" src="{{ site.baseurl }}/images/sponsors/tri.png"
+       alt="Toyota Research Institute"/> </a>
+</td>
+</tr>
+</table>
+
+

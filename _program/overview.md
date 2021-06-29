@@ -3,23 +3,22 @@ layout: page
 title: Overview
 description: Overview of the program.
 priority: 10
-invisible: true
+invisible: false
 ---
 
-We will have a central virtual conference platform to host all live
-events, allow users to flexibly join workshops and paper discussion
-sessions, interact with each other and sponsors, and manage
-registration. In addition, all accepted papers and pre-recorded talks
+We will use pheedloop as our virtual conference platform to 
+release videos, and to facilitate hosting of the live
+events. All accepted papers and pre-recorded spotlight and plenary talks
 will be freely available on [roboticsconference.org](https://roboticsconference.org) and our [RSS youtube
-channel](https://www.youtube.com/channel/UCeEbAUGjtBlzmqWO5u6VeGg), as
-will be recordings of the live plenary talks.
+channel](https://www.youtube.com/channel/UCeEbAUGjtBlzmqWO5u6VeGg).
 
-Below is a preliminary live event schedule. Please understand that this may subject to major changes. Once the central conference platform is up and running, the schedule will be maintained there.
+Below is a preliminary event schedule, showing live events at a glance.
 
 <br>
 
-<img src="{{ site.baseurl }}/images/schedule-crop.jpg"
-       alt="Preliminary Virtual Event Schedule" width = "700" /> 
+<a href="{{ site.baseurl }}/images/RSS21-schedule-at-a-glance.pdf">
+<img src="{{ site.baseurl }}/images/RSS21-schedule-at-a-glance.png"
+       alt="Preliminary Virtual Event Schedule" width = "1010" /></a> 
 
 
 {% comment %}
