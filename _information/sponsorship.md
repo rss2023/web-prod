@@ -4,11 +4,18 @@ title: Sponsors
 description: Sponsorship information
 ---
 
-### RSS Gold Sponsor
+### RSS Gold Sponsors
 
 <table width="100%" class="center">
 <tr>
-<td style="width: 20%; text-align: center;">
+<td style="width: 20%; text-align: center; padding-bottom: 30px;">
+<a href="https://www.amazon.science/">
+  <img width="50%" src="{{ site.baseurl }}/images/sponsors/amazon_logo_RGB.png"
+       alt="Amazon Robotics"/></a>
+</td>
+</tr>
+<tr>
+<td style="width: 20%; text-align: center; padding-bottom: 10px;">
 <a href="http://www.tri.global/">
   <img width="75%"  style="padding-bottom:70px;" src="{{ site.baseurl }}/images/sponsors/tri.png"
        alt="Toyota Research Institute"/> </a>
@@ -24,11 +31,20 @@ description: Sponsorship information
 <table width="100%" class="center">
 <tr>
 <td style="width: 20%; text-align: center;">
+<a href="https://global.abb/">
+  <img height="75px;" src="{{ site.baseurl }}/images/sponsors/abblogo.png"
+       alt="ABB"/> </a>
+</td>
+
+<td style="width: 20%; text-align: center;">
 <a href="https://clearpathrobotics.com/">
   <img height="80px;" src="{{ site.baseurl }}/images/sponsors/Clearpath-Logo-Q309---Short-Run_Colour_Trans.png"
        alt="Clearpath Robotics"/>
 </a>
 </td>
+
+</tr>
+<tr style="border-top: solid white 50px;" >
 
 <td style="width: 20%; text-align: center;">
 <a href="https://www.merl.com/">
@@ -36,20 +52,25 @@ description: Sponsorship information
        alt="MERL"/> </a>
 </td>
 
-</tr>
-<tr style="border-top: solid white 50px;" >
 
 <td style="width: 20%; text-align: center;">
 <a href="https://www.nvidia.com/en-us/research/">
   <img height="108px;" src="{{ site.baseurl }}/images/sponsors/nvidia.png"
        alt="NVDIA"/> </a>
 </td>
-<td style="width: 20%; text-align: center;">
+
+</tr>
+<tr style="border-top: solid white 50px;" >
+
+<td style="width: 20%; text-align: center;" colspan=2>
 <a href="https://waymo.com/">
   <img height="120px;" src="{{ site.baseurl }}/images/sponsors/Waymo.png"
        alt="Waymo"/> </a>
 </td>
 </tr>
+
+
+
 <tr>
 <td style="padding-bottom:70px;"> </td>
 <td style="padding-bottom:70px;"> </td>

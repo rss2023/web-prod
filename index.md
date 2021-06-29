@@ -82,43 +82,55 @@ chair</a> ASAP for help resolving these issues.</span>-->
 ### RSS Sponsors
 
 
-<table width="75%" style="margin-left: auto; margin-right: auto;">
+<table width="75%" style="margin-left: 10%; margin-right: auto;">
 <tr>
-<td style="text-align: center;" colspan=2>
+<td style="width: 20%; text-align: center;">
+<a href="https://www.amazon.science/">
+  <img height="40px" src="{{ site.baseurl }}/images/sponsors/amazon_logo_RGB.png"
+       alt="Amazon Robotics"/></a>
+</td>
+<td style="width: 20%; text-align: center; padding-bottom: 18px;">
 <a href="http://www.tri.global/">
-  <img height="70px" src="{{ site.baseurl }}/images/sponsors/tri.png"
+  <img height="60px" src="{{ site.baseurl }}/images/sponsors/tri.png"
        alt="Toyota Research Institute"/> </a>
 </td>
-
 </tr>
 <tr>
 
 <td style="text-align: center;">
+<a href="https://global.abb/">
+  <img height="48px;" src="{{ site.baseurl }}/images/sponsors/abblogo.png"
+       alt="ABB"/> </a>
+</td>
+
+<td style="text-align: center; padding-bottom: 18px;">
 <a href="https://clearpathrobotics.com/">
   <img height="50px;" src="{{ site.baseurl }}/images/sponsors/Clearpath-Logo-Q309---Short-Run_Colour_Trans.png"
        alt="Clearpath Robotics"/> </a>
 </td>
+</tr>
 
+<tr>
 <td style="text-align: center;">
 <a href="https://www.merl.com/">
   <img height="75px" src="{{ site.baseurl }}/images/sponsors/merl.png"
        alt="MERL"/> </a>
 </td>
-
-</tr>
-<tr>
-
-<td style="text-align: center;">
+<td style="text-align: center; padding-bottom: 15px;">
 <a href="https://www.nvidia.com/en-us/research/">
   <img height="80px" src="{{ site.baseurl }}/images/sponsors/nvidia.png"
        alt="NVDIA"/> </a>
 </td>
-<td style="text-align: center;">
+</tr>
+
+<tr>
+<td style="text-align: center;" colspan=2>
 <a href="https://waymo.com/">
   <img width="120px" src="{{ site.baseurl }}/images/sponsors/Waymo.png"
        alt="Waymo"/> </a>
 </td>
 </tr>
+
 
 <tr>
 <td style="padding-bottom:60px;">
