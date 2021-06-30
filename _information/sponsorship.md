@@ -77,7 +77,7 @@ description: Sponsorship information
 </tr>
 </table>
 
-
+{%comment%}
 We offer several opportunities for sponsors at RSS 2021:
 
 1. Logos on the pre-recorded video presentations for the accepted papers, which will be uploaded publicly.
@@ -87,6 +87,7 @@ roboticsconference.org
 
 Please contact Alberto Rodriguez <albertor@mit.edu> or Dylan Shell <dshell@tamu.edu> if you are interested in supporting RSS 2021.
 
+{%endcomment%}
 
 
 

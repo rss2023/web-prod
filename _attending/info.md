@@ -10,8 +10,16 @@ invisible: false
 
 <br/>
 
+{% comment %}
 * The virtual conference will be held on
 [**https://pheedloop.com/rss2021/virtual/**](https://pheedloop.com/rss2021/virtual/).
+{% endcomment %}
+
+* The virtual conference will be held via a combination of platforms:
+  * The pheedloop platform will be the central launching point. We'll push announcements to attendees directly via pheedloop. (Additionally, it helps handle your registration ticket, login details, receipts, etc.)
+  * From Monday 12th&ndash;Friday 16th, interactive poster sessions will run in the RSS'21 gather.town metropolis
+  * The <a href="{{ site.baseurl }}/program/workshops/">Workshops and Tutorials</a> will use a variety of different tools and platforms, as suits their requirements.
+
 * When attending the conference, please respect the
 [**RSS 2021 Code of Conduct**](../codeOfConduct/).
 

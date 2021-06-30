@@ -5,6 +5,15 @@ title: Home
 <h1 class="page-title">{{ site.title }}<br>
 July 12-16, 2021</h1>
 
+
+## News and Updates
+* **Registration for the event is [now open!]({{site.baseurl}}/attending/registration/)**
+* See the [program-at-a-glance](program/overview/)
+* The official [proceedings](http://www.roboticsproceedings.org/rss17/) are available.
+* The [Inclusion@RSS 2021](https://sites.google.com/andrew.cmu.edu/inclusion-2021) website is up, and is open for applications.
+* See [Author Information]({{site.baseurl}}/information/authorinfo/) for submission instructions and paper templates.
+* Here is a list of the [accepted workshops]({{site.baseurl}}/program/workshops/).
+
 ### Call for Participation
 The Robotics: Science and Systems has a long history of bringing together
 researchers in all areas of robotics from around the world for an engaging and
@@ -19,12 +28,6 @@ availability, etc.
 <!--<span style="text:style:bold;color:red">Some authors reported upload issues via CMT within the
 last minutes yesterday. Please email the <a mailto="dshell@tamu.edu">program
 chair</a> ASAP for help resolving these issues.</span>-->
-
-## News and Updates
-* Registration for the event is [now open!]({{site.baseurl}}/attending/registration/)
-* The [Inclusion@RSS 2021](https://sites.google.com/andrew.cmu.edu/inclusion-2021) website is up, and is open for applications.
-* See [Author Information]({{site.baseurl}}/information/authorinfo/) for submission instructions and paper templates.
-* Here is a list of the [accepted workshops]({{site.baseurl}}/program/workshops/).
 
 
 ### Timeline

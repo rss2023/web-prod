@@ -2,7 +2,7 @@
 layout: page
 title: Accepted Papers
 description: Accepted papers.
-invisible: true
+invisible: false
 ---
 
 
@@ -54,14 +54,15 @@ invisible: true
     <th>Paper ID</th>
     <th>Title</th>
     <th>Authors</th>
-    <th>Virtual Session Link</th>
   </tr>
- {% for paper in site.data.CameraReadyIntegration %}
+ {% for paper in site.data.rss2021CameraReadyIntegration %}
  <tr>
-    <td width="8%" height="100px">{{paper.PaperId }}</td>
+    <td width="8%" height="100px">{{paper.PaperID }}</td>
+    <td width="30%" height="100px" > <a href="http://www.roboticsproceedings.org/rss17/p{{paper.PaperID3}}.pdf">{{paper.PaperTitle}}</a></td>
+{% comment %}
     <td width="30%" height="100px" > <a href="{{ site.baseurl }}/program/papers/{{ paper.PaperId}}/">{{paper.PaperTitle}}</a></td>
+{% endcomment %}
     <td width="30%" height="100px">{{paper.AuthorNames}}</td>
-    <td width="20%" height="100px"><a href="{{paper.deeplink}}/">Virtual Session #{{paper.PaperSession}}</a></td>
   </tr>
 {% endfor %}
 </table>
