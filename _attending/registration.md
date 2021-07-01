@@ -19,6 +19,23 @@ including the workshop and main conference events.
 
 Please use the form embedded below to register. <b>If the below form does not work for your browser, register [here](https://pheedloop.com/rss2021/site/register/) instead</b>. 
 
+The registration costs are as follows: 
+
+<table style="margin-left: 40px; margin-bottom: 40px;">
+    <thead>
+    <tr style="border-bottom: 1px solid #444444;; padding: 5px;">
+        <th> Registration type </th> <th> &nbsp; </th> <th style="padding:5px;"> Price </th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td> Student registration </td> <td> </td> <td style="padding:5px;"> US$ 20 </td></tr>
+      <tr>
+        <td> Non-student registration </td> <td> </td> <td style="padding:5px;"> US$ 50 </td></tr>
+    </tbody>
+</table>
+
+
+
 Contact dshell@tamu.edu if you encounter problems. 
 
 
