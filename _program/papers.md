@@ -62,7 +62,7 @@ invisible: false
 {% comment %}
     <td width="30%" height="100px" > <a href="{{ site.baseurl }}/program/papers/{{ paper.PaperId}}/">{{paper.PaperTitle}}</a></td>
 {% endcomment %}
-    <td width="30%" height="100px">{{paper.AuthorNames}}</td>
+    <td width="30%" height="100px">{{paper.AuthorNames | replace: ';', ','}}</td>
   </tr>
 {% endfor %}
 </table>
