@@ -58,10 +58,10 @@ invisible: false
  {% for paper in site.data.rss2021CameraReadyIntegration %}
  <tr>
     <td width="8%" height="100px">{{paper.PaperID }}</td>
-{% comment %}
     <td width="30%" height="100px" > <a href="http://www.roboticsproceedings.org/rss17/p{{paper.PaperID3}}.pdf">{{paper.PaperTitle}}</a></td>
-{% endcomment %}
+{% comment %}
     <td width="30%" height="100px" > <a href="{{ site.baseurl }}/program/papers/{{ paper.PaperID3}}/">{{paper.PaperTitle}}</a></td>
+{% endcomment %}
     <td width="30%" height="100px">{{paper.AuthorNames | replace: ';', ','}}</td>
   </tr>
 {% endfor %}
