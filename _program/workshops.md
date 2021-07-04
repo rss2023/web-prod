@@ -21,7 +21,10 @@ Please check the workshop websites for more details on their particular schedule
 [Here]({{ site.baseurl }}/docs/campusmap.pdf) is a labeled map of the workshop buildings.
 {% endcomment %}
 
+
 {% for day in page.days %}
+
+<a name="{{ day }}"><span style="color:white; font-size:50px;">&nbsp;</span></a>
 {% if day == 'Mon' %}
 ### Monday, July 12
 {% assign innerdays = "12th, 12-13, tbd" | split: ", " %}
@@ -87,6 +90,13 @@ Please check the workshop websites for more details on their particular schedule
   </tbody>
 </table>
 {% endfor %}
+
+<span style="color:white; font-size:50px;">&nbsp;</span><br>
+<span style="color:white; font-size:50px;">&nbsp;</span><br>
+<span style="color:white; font-size:50px;">&nbsp;</span><br>
+<span style="color:white; font-size:50px;">&nbsp;</span><br>
+<span style="color:white; font-size:50px;">&nbsp;</span><br>
+
 
 <script>
 var coll = document.getElementsByClassName("collapsible");
