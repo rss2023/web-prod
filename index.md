@@ -7,8 +7,8 @@ July 12-16, 2021</h1>
 
 
 ## News and Updates
+* See the [program-at-a-glance](program/overview/) and **[browse the schedule]({{site.baseurl}}/program/schedule.svg)**
 * **Registration for the event is [now open!]({{site.baseurl}}/attending/registration/)**
-* See the [program-at-a-glance](program/overview/)
 * The official [proceedings](http://www.roboticsproceedings.org/rss17/) are available.
 * The [Inclusion@RSS 2021](https://sites.google.com/andrew.cmu.edu/inclusion-2021) website is up, and is open for applications.
 * See [Author Information]({{site.baseurl}}/information/authorinfo/) for submission instructions and paper templates.
