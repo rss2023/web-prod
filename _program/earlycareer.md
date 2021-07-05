@@ -32,7 +32,7 @@ RSS'21 will have two early career plenary talks.
     <table style="margin-top:5px;" width="100%">
     <tr>
     <td><img style="padding-top:10px; padding-right:1px;" src="{{ site.baseurl }}/images/kaist_logo.png" height="75"/></td>
-    <td valign="top" style="text-align:left; font-weight:normal;"><i>Assistant Professor,<br><a href="https://me.kaist.ac.kr/eng/main/main.html">Mechanical Engineering</a>,<a href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology</a></i></td>
+    <td valign="top" style="text-align:left; font-weight:normal;"><i>Assistant Professor,<br><a href="https://me.kaist.ac.kr/eng/main/main.html">Mechanical Engineering</a>,<br><a href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology</a></i></td>
     </tr>
     <tr><td colspan="2" style="font-size:18px; padding-top:18px;">Tuesday, July 13</td></tr>
     </table>
@@ -64,7 +64,7 @@ RSS'21 will have two early career plenary talks.
     <td><img style="padding-top:10px; padding-right:1px;" src="{{ site.baseurl }}/images/kth_logo.png" height="75"/></td>
     <td valign="top" style="text-align:left; font-weight:normal;"><i>Assistant Professor,<br><a href="https://www.kth.se/en/csc">School of Computer Science and Communication</a>,<br><a href="https://www.kth.se/">KTH Royal Institute of Technology</a></i></td>
     </tr>
-    <tr><td colspan="2" style="font-size:18px; padding-top:15px;">Thursday, July 15</td></tr>
+    <tr><td colspan="2" style="font-size:18px; padding-top:18px;">Thursday, July 15</td></tr>
     </table>
 </th>
 </tr>
