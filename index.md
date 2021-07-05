@@ -59,22 +59,22 @@ chair</a> ASAP for help resolving these issues.</span>-->
         <td>Author Feedback Deadline</td>
       </tr>
       <tr>
-        <td colspan="2">May 10th, 2021</td>
+        <td colspan="2"><s>May 10th, 2021</s></td>
         <td>Paper Acceptance Notification</td>
       </tr>
       <tr>
-        <td><s>June 10th, 2021 <span style="color:red;">June 25th,</span> 2021 </s></td>
+        <td><s>June 25th, 2021</s></td>
         <td><a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Camera-Ready Submission Deadline</td>
       </tr>
       <tr>
-        <td><s>June 17th, 2021 <span style="color:red;">June 25th,</span> 2021 </s></td>
+        <td><s>June 25th, 2021</s></td>
         <td><a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Spotlight Video Submission Deadline</td>
       </tr>
 
       <tr>
-        <td colspan="2">July 12th - 16th, 2021</td>
+        <td colspan="2">July 12th &ndash; 16th, 2021</td>
         <td>Virtual Conference</td>
       </tr>
     </tbody>
