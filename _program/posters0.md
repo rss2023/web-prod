@@ -124,7 +124,7 @@ invisible: true
  
 ### The 2021 cohort of RSS pioneers
 
- This poster session will highlight the work of soon to be famous roboticists. The RSS Pioneers [event](https://sites.google.com/view/rsspioneers2021) will run through the 11th
+ This poster session will highlight the work of soon to be famous roboticists. The [RSS Pioneers event](https://sites.google.com/view/rsspioneers2021) will run through the 11th
 
 
 <script>

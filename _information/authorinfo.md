@@ -194,3 +194,19 @@ Please email the program chair for questions related to the video submission.
 * [OpenShot: advanced](https://www.openshot.org/)
 
 
+## Preparing a poster suitable for the interactive poster sessions in gather.town {#posters}
+{: .text-left}
+
+RSS 2021 will try to emulate some of the feeling of an in-person poster session via a <a href="https://gather.town/">gather.town</a> space.
+We have sent the corresponding authors a link to a form through which they can upload a file for their poster. (If you have not received this email, please email the [program chair](mailto:dshell@tamu.edu).)
+Half an hour before each poster session, the submitted files will be pulled from the form, automatically uploaded, and affixed to the poster stand allotted to you within the space. 
+The poster will be seen by navigating toward the virtual poster stand, and hitting the 'x' key. Because this differs from the more traditional printed poster, here are some guidelines that are provided in the
+hope that they may be useful:
+
+* The only file formats that are permitted by gather.town are PNG and JPG. The maximum file size supported is 3&nbsp;MB.
+* Most people will view the poster full screen, so it is wise to pick a poster proportions (and sub-boxes or content divisions) that approximates those aspect ratios. <a href="{{site.baseurl}}/information/sample-poster.pdf">This example works well</a>, while <a href="{{site.baseurl}}/information/sample-poster2.pdf">this is much less effective</a>.
+* There is some ability to move the poster around on screen, which helps as not all screens are identical. Also, one may interactively magnify the view to help see some detail. This means that some smaller text can be legible, even if not at an "arm's length".
+* To facilitate clarity and allow reasonable magnification, a resolution of 2000&times;1100 pixels<sup>2</sup> is recommended. We have had good success with more than double that size, so long as respect the requirements on the maximum file size.
+
+
+<br>
