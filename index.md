@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 <h1 class="page-title">{{ site.title }}<br>
-July 12-16, 2021</h1>
+July 12&ndash;16, 2021</h1>
 
 
 ## News and Updates

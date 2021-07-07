@@ -67,6 +67,8 @@ invisible: false
 {% endfor %}
 </table>
 
+<br>
+
 <script>
 var $rows = $('#myTable tr');
 $('#search').keyup(function() {
