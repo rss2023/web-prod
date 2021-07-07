@@ -11,7 +11,7 @@ title:            "Robotics: Science and Systems"
 tagline:          'A Robotics Conference'
 description:      'July 12th - 16th, 2021.'
 url:
-baseurl:
+baseurl:          
 include:          ['_pages']
 exclude:          ['README.md', 'LICENSE.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor', 'GRTAGS', 'GPATH', 'GTAGS', 'deploy.sh']
 
