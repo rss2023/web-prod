@@ -121,7 +121,7 @@ invisible: true
 </table> 
 </td><td width="15%">&nbsp;</td> </tr></table> 
  <br> 
- <table style="padding:2px;">
+ <table style="padding:2px;" id="side-by-side">
 <tr>
 <td style="vertical-align: top;" width="50%">
 <table id="myTable">
