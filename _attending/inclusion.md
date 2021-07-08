@@ -23,31 +23,31 @@ that have worked for you. Topics include (but are not limited to):
 
 * Improving the experience of diverse grad students
 
-* Research group dynamics
+    * Research group dynamics
   
-* Inclusive teaching
+    * Inclusive teaching
   
-* Applications, requirements, and program structure
+    * Applications, requirements, and program structure
   
 * Recruiting, supporting, and retaining a diverse faculty
   
-* Recruitment and interviewing practices
-  
-* Department culture
-  
-* RPT structure and evaluation
+    * Recruitment and interviewing practices
+    
+    * Department culture
+    
+    * RPT structure and evaluation
   
 * Making conferences more inclusive
   
-* Inclusive reviewing practices
-  
-* Program structure
-  
+    * Inclusive reviewing practices
+    
+    * Program structure
+    
 * Strategies for impactful outreach
   
-* Scalability and survivability 
-  
-* Measurable outcomes
+    * Scalability and survivability 
+    
+    * Measurable outcomes
 
 In advance of the discussion group, we encourage you to spend some time reading
 and reflecting on these issues. To get you started, consider these resources:
