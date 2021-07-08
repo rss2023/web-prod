@@ -39,7 +39,7 @@ Please check the workshop websites for more details on their particular schedule
 {% assign innerdays = "15th, tbd" | split: ", " %}
 {% endif %}
 
-<table class="table table-striped table-workshop">
+<table class="table table-striped table-workshop id='{{ day }}'">
   <thead>
     <tr>
       <th width="7%" align="center">ID</th>
