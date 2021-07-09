@@ -21,23 +21,23 @@ invisible: true
   margin-bottom: 12px;
 }
 
-#myTable0 #myTable1 {
+#myTable {
   border-collapse: collapse;
   width: 100%;
   border: 1px solid #ddd;
   font-size: 100%;
 }
 
-#myTable0 th, #myTable0 td, #myTable1 th, #myTable1 td {
+#myTable th, #myTable td {
   text-align: left;
   padding: 12px;
 }
 
-#myTable0 tr, #myTable1 tr {
+#myTable tr {
   border-bottom: 1px solid #ddd;
 }
 
-#myTable0 tr.header, #myTable0 tr:hover, #myTable1 tr.header, #myTable1 tr:hover {
+#myTable tr.header, #myTable tr:hover {
   background-color: #f1f1f1;
 }
 
@@ -124,7 +124,7 @@ invisible: true
  <table style="padding:2px;" id="side-by-side">
 <tr>
 <td style="vertical-align: top;" width="50%">
-<table id="myTable1">
+<table id="myTable">
 <tr class="toprowHeader"><th colspan="2"><center>Left Poster Room</center></th></tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/016/' | absolute_url }}"><b>Modeling Human Helpfulness with Individual and Contextual Factors for Robot Planning</b></a><br>Amal Nanavati, Christoforos Mavrogiannis, Kevin Weatherwax, Leila Takayama, Maya Cakmak, Siddhartha Srinivasa</td>
  </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
@@ -152,7 +152,7 @@ invisible: true
  </tr></table></td>
 
 <td style="vertical-align: top;" width="50%">
-<table id="myTable0">
+<table id="myTable">
 <tr class="toprowHeader"><th colspan="2"><center>Right Poster Room</center></th></tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/015/' | absolute_url }}"><b>Jerk-limited Real-time Trajectory Generation with Arbitrary Target States</b></a><br>Lars Berscheid, Torsten Kroeger</td>
  <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/017/' | absolute_url }}"><b>Proximal and Sparse Resolution of Constrained Dynamic Equations</b></a><br>Justin Carpentier, Rohan Budhiraja, Nicolas Mansard</td>
