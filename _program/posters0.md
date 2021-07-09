@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interactive Poster Session for RSS Pioneers
-description: Intractive Poster Sesions held in the RSS 2021 gather.town space
+description: Interactive Poster Sesions held in the RSS 2021 gather.town space
 priority: 7
 invisible: true
 ---
@@ -133,29 +133,263 @@ invisible: true
 <table width="90%"  style="margin-left:auto; margin-right: auto;">
 <tr><td>
 
-{% assign count = 0 %}
-{% assign extra = "0" %}
-
 <table id="myTable">
   <tr class="toprowHeader">
-    <th style="text-align:center;">ID</th>
+    <th style="text-align:center;"></th>
+    <th style="text-align:center;" width=10px>ID</th>
     <th style="text-align:center;">Title</th>
     <th style="text-align:center;">Authors</th>
   </tr>
- {% for paper in site.data.pioneers_posters %}
+ 
  <tr>
-    {% assign count = count | plus: 1 %}
-
-    {% if count > 9  %}
-    {% assign extra = "" %}
-    {% endif  %}
-
-
-    <td style="font-size:90%;"><i>{{ extra }}{{ count  }}</i></td>
-    <td style="font-size:90%;"><b>{{paper.title}}</b></td>
-    <td style="font-size:90%;">{{paper.name| replace: ';', ','}}</td>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-01.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>01</i></td>
+    <td style="font-size:90%;"><b>Inductive Biases for Learning in Robotics and Control</b></td>
+    <td style="font-size:90%;">Michael Lutter</td>
   </tr>
-{% endfor %}
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-02.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>02</i></td>
+    <td style="font-size:90%;"><b>Towards Ubiquitous Haptics for Embodied AI Agents</b></td>
+    <td style="font-size:90%;">Jose Barreiros</td>
+  </tr>
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-03.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>03</i></td>
+    <td style="font-size:90%;"><b>Fostering Human-Robot Cohesion in Multi-Party Settings</b></td>
+    <td style="font-size:90%;">Filipa Correia, Francisco S. Melo, and Ana Paiva</td>
+  </tr>
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-04.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>04</i></td>
+    <td style="font-size:90%;"><b>Distributed and Safe Autonomy in Unknown and Communication-Denied Environments</b></td>
+    <td style="font-size:90%;">Yiannis Kantaros</td>
+  </tr>
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-05.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>05</i></td>
+    <td style="font-size:90%;"><b>Social Robots that Understand Natural Language Instructions and Resolve Ambiguities</b></td>
+    <td style="font-size:90%;">Fethiye Irmak Doğan</td>
+  </tr>
+
+ <tr>
+    
+
+    
+
+
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-06.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>06</i></td>
+    <td style="font-size:90%;"><b>Multimodal Representation Learning for Robot Perception and Agency</b></td>
+    <td style="font-size:90%;">Miguel Vasco, Francisco S. Melo, and Ana Paiva</td>
+  </tr>
+
+ <tr>
+    
+
+    
+
+
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-07.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>07</i></td>
+    <td style="font-size:90%;"><b>Certifiable Outlier-Robust Machine Perception</b></td>
+    <td style="font-size:90%;">Heng Yang</td>
+  </tr>
+
+ <tr>
+    
+
+    
+
+
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-08.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>08</i></td>
+    <td style="font-size:90%;"><b>Learning Deep Observation Models for Factor Graph Inference</b></td>
+    <td style="font-size:90%;">Paloma Sodhi</td>
+  </tr>
+
+ <tr>
+    
+
+    
+
+
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-09.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>09</i></td>
+    <td style="font-size:90%;"><b>Towards Terrain-Aware Autonomous Exploration in 3D Confined Spaces</b></td>
+    <td style="font-size:90%;">Héctor Azpúrua</td>
+  </tr>
+
+ <tr>
+    
+
+    
+
+
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-10.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>10</i></td>
+    <td style="font-size:90%;"><b>Bio-Inspired Robot Perception Coupled with Robot-Modeled Human Perception</b></td>
+    <td style="font-size:90%;">Tobias Fischer</td>
+  </tr>
+
+ <tr>
+    
+
+    
+
+
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-11.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>11</i></td>
+    <td style="font-size:90%;"><b>Uncertainty Estimation for Lifelong Robot Perception Systems</b></td>
+    <td style="font-size:90%;">Ali Harakeh</td>
+  </tr>
+
+ <tr>
+    
+
+    
+
+
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-12.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>12</i></td>
+    <td style="font-size:90%;"><b>Towards Predictive and Proactive Monitoring and Planning for Safe Autonomous Robotic Operations</b></td>
+    <td style="font-size:90%;">Esen Yel</td>
+  </tr>
+
+ <tr>
+    
+
+    
+
+
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-13.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>13</i></td>
+    <td style="font-size:90%;"><b>Interactive Reinforcement Learning from Imperfect Teachers</b></td>
+    <td style="font-size:90%;">Taylor A. Kessler Faulkner and Andrea Thomaz</td>
+  </tr>
+
+ <tr>
+    
+
+    
+
+
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-14.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>14</i></td>
+    <td style="font-size:90%;"><b>Honey, I Shrunk the Robot: Designing Miniature Surgical Robots</b></td>
+    <td style="font-size:90%;">Yash Chitalia</td>
+  </tr>
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-15.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>15</i></td>
+    <td style="font-size:90%;"><b>Toward Practical Collaborative Manipulation</b></td>
+    <td style="font-size:90%;">Preston Culbertson</td>
+  </tr>
+
+<tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-16.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>16</i></td>
+    <td style="font-size:90%;"><b>Limb Mechanics for Performance</b></td>
+    <td style="font-size:90%;">Justin Yim</td>
+  </tr>
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-17.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>17</i></td>
+    <td style="font-size:90%;"><b>Towards Continuous Learned Semantic Representation through a Viewpoint-Dependent Observation Model</b></td>
+    <td style="font-size:90%;">Yuri Feldman and Vadim Indelman</td>
+  </tr>
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-18.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>18</i></td>
+    <td style="font-size:90%;"><b>Leveraging Human Input for Robust Robot Learning</b></td>
+    <td style="font-size:90%;">Daniel S. Brown</td>
+  </tr>
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-19.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>19</i></td>
+    <td style="font-size:90%;"><b>Discovering and Segmenting Unseen Objects for Robot Perception</b></td>
+    <td style="font-size:90%;">Christopher Xie</td>
+  </tr>
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-20.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>20</i></td>
+    <td style="font-size:90%;"><b>Tactile Object Pose Estimation from the First Touch</b></td>
+    <td style="font-size:90%;">Maria Bauza Villalonga</td>
+  </tr>
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-21.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>21</i></td>
+    <td style="font-size:90%;"><b>Situational Awareness and Long-Term Autonomy for Robot Swarms</b></td>
+    <td style="font-size:90%;">Vivek Shankar Varadharajan</td>
+  </tr>
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-22.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>22</i></td>
+    <td style="font-size:90%;"><b>Active Perception for Aerial and Ground Robot Teams Operating in Unknown Enivronments</b></td>
+    <td style="font-size:90%;">Micah Corah</td>
+  </tr>
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-23.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>23</i></td>
+    <td style="font-size:90%;"><b>Structured and Distributed Approaches for Robot Perception and Control</b></td>
+    <td style="font-size:90%;">Alexander "Sasha" Lambert</td>
+  </tr>
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-24.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>24</i></td>
+    <td style="font-size:90%;"><b>Towards Safe and Resilient Autonomy in Multi-Robot Systems</b></td>
+    <td style="font-size:90%;">Wenhao Luo</td>
+  </tr>
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-25.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>25</i></td>
+    <td style="font-size:90%;"><b>Moving Object Segmentation for LiDAR-Based Localization and Mapping</b></td>
+    <td style="font-size:90%;">Xieyuanli Chen</td>
+  </tr>
+
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-26.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>26</i></td>
+    <td style="font-size:90%;"><b>Robotic (Collaborative) Manipulation: Is it "just" a Matter of Interfaces?</b></td>
+    <td style="font-size:90%;">Maria Pozzi</td>
+  </tr>
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-27.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>27</i></td>
+    <td style="font-size:90%;"><b>Variable Stiffness Soft Growing Robots as Manipulators</b></td>
+    <td style="font-size:90%;">Brian H. Do</td>
+  </tr>
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-28.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>28</i></td>
+    <td style="font-size:90%;"><b>Model-Based Control and Design of Soft Robots</b></td>
+    <td style="font-size:90%;">James M. Bern</td>
+  </tr>
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a href="{{ '/program/posters/map-29.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>29</i></td>
+    <td style="font-size:90%;"><b>Learning State-Dependent Measurement Likelihood Models with Limited Sensor Data</b></td>
+    <td style="font-size:90%;">Troi Williams and Yu Sun</td>
+  </tr>
+
 </table>
 
 </td></tr>
