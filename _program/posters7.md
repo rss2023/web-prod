@@ -125,56 +125,56 @@ invisible: true
 <tr>
 <td style="vertical-align: top;" width="50%">
 <table id="myTable">
-<tr class="toprowHeader"><th colspan="2"><center>Left Poster Room</center></th></tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+<tr class="toprowHeader"><th colspan="2"><center>Left Poster Room</center></th></tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/016/' | absolute_url }}"><b>Modeling Human Helpfulness with Individual and Contextual Factors for Robot Planning</b></a><br>Amal Nanavati, Christoforos Mavrogiannis, Kevin Weatherwax, Leila Takayama, Maya Cakmak, Siddhartha Srinivasa</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/019/' | absolute_url }}"><b>Learned Visual Navigation for Under-Canopy Agricultural Robots</b></a><br>Arun Narenthiran Sivakumar, Sahil Modi, Mateus Valverde Gasparino, Che Ellis, Andres Eduardo Baquero Velasquez, Girish Chowdhary, Saurabh Gupta</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/028/' | absolute_url }}"><b>Skill-based Shared Control</b></a><br>Christopher E Mower, Joao Moura, Sethu Vijayakumar</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/055/' | absolute_url }}"><b>Falling Into Place: Drop Assembly of Interlocking Puzzles</b></a><br>Amy Sniffen, Zezhou Sun, Samuel E Lensgraf, Emily Whiting, Alberto Quattrini Li, Devin Balkcom</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/059/' | absolute_url }}"><b>Scale invariant robot behavior with fractals</b></a><br>Sam Kriegman, Amir Mohammadi Nasab, Douglas Blackiston, Hannah Steele, Michael Levin, Rebecca Kramer-Bottiglio, Josh Bongard</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/062/' | absolute_url }}"><b>HJB-RL: Initializing Reinforcement Learning with Optimal Control Policies Applied to Autonomous Drone Racing</b></a><br>Keiko Nagami, Mac Schwager</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/064/' | absolute_url }}"><b>Learning Proofs of Motion Planning Infeasibility</b></a><br>Sihui Li, Neil Dantam</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/067/' | absolute_url }}"><b>DiSECt: A Differentiable Simulation Engine for Autonomous Robotic Cutting</b></a><br>Eric Heiden, Miles Macklin, Yashraj S Narang, Dieter Fox, Animesh Garg, Fabio Ramos</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/076/' | absolute_url }}"><b>A Low-Cost Compliant Gripper Using Cooperative Mini-Delta Robots for Dexterous Manipulation</b></a><br>Pragna Mannam, Avi Rudich, Kevin Zhang, Manuela Veloso, Oliver Kroemer, F. Zeynep Temel</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/077/' | absolute_url }}"><b>Safety and Liveness Guarantees through Reach-Avoid Reinforcement Learning</b></a><br>Kai-Chieh Hsu, Vicenç Rubies-Royo, Claire Tomlin, Jaime F Fisac</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/087/' | absolute_url }}"><b>Filter-Based Online System-Parameter Estimation for Multicopter UAVs</b></a><br>Christoph Böhm, Martin Scheiber, Stephan Weiss</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/088/' | absolute_url }}"><b>Robust Multi-Modal Policies for Industrial Assembly via Reinforcement Learning and Demonstrations: A Large-Scale Study</b></a><br>Jianlan Luo, Oleg Sushkov, Rugile Pevceviciute, Wenzhao Lian, Chang Su, Mel Vecerik, Ning Ye, Stefan Schaal, Jonathan Scholz</td>
  </tr></table></td>
 
 <td style="vertical-align: top;" width="50%">
 <table id="myTable">
 <tr class="toprowHeader"><th colspan="2"><center>Right Poster Room</center></th></tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/015/' | absolute_url }}"><b>Jerk-limited Real-time Trajectory Generation with Arbitrary Target States</b></a><br>Lars Berscheid, Torsten Kroeger</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/017/' | absolute_url }}"><b>Proximal and Sparse Resolution of Constrained Dynamic Equations</b></a><br>Justin Carpentier, Rohan Budhiraja, Nicolas Mansard</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/029/' | absolute_url }}"><b>Radar Odometry Combining Probabilistic Estimation and Unsupervised Feature Learning</b></a><br>Keenan Burnett, David J. Yoon, Angela P Schoellig, Tim Barfoot</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/039/' | absolute_url }}"><b>Sampling-Based Motion Planning on Sequenced Manifolds</b></a><br>Peter Englert, Isabel M Rayas Fernández, Ragesh Kumar Ramachandran, Gaurav Sukhatme</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/040/' | absolute_url }}"><b>Real-Time Multi-View 3D Human Pose Estimation using Semantic Feedback to Smart Edge Sensors</b></a><br>Simon Bultmann, Sven Behnke</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/042/' | absolute_url }}"><b>NeuroBEM: Hybrid Aerodynamic Quadrotor Model</b></a><br>Leonard Bauersfeld, Elia Kaufmann, Philipp Foehn, Sihao Sun, Davide Scaramuzza</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/044/' | absolute_url }}"><b>MQA: Answering the Question via Robotic Manipulation</b></a><br>Yuhong Deng, Di Guo, Xiaofeng Guo, Naifu Zhang, Huaping Liu, Fuchun Sun</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/057/' | absolute_url }}"><b>Probabilistic Discriminative Models address the Tactile Perceptual Aliasing Problem</b></a><br>John Lloyd, Yijiong Lin, Nathan Lepora</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/078/' | absolute_url }}"><b>Continuous Integration over SO(3) for IMU Preintegration</b></a><br>Cédric Le Gentil, Teresa A. Vidal-Calleja</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/084/' | absolute_url }}"><b>Potential iLQR: A Potential-Minimizing Controller for Planning Multi-Agent Interactive Trajectories</b></a><br>Talha Kavuncu, Ayberk Yaraneri, Negar Mehr</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/085/' | absolute_url }}"><b>Towards finding the shortest-paths for 3D rigid bodies</b></a><br>Weifu Wang, Ping Li</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr></table></td>
 
 </tr>

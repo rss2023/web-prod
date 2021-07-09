@@ -124,7 +124,46 @@ invisible: true
  
 ### The 2021 cohort of RSS pioneers
 
- This poster session will highlight the work of soon to be famous roboticists. The [RSS Pioneers event](https://sites.google.com/view/rsspioneers2021) will run through the 11th
+ This poster session will highlight the work of soon to be famous roboticists. The [RSS Pioneers event](https://sites.google.com/view/rsspioneers2021) will run through the 11th.
+
+
+
+
+<table width="90%"  style="margin-left:auto; margin-right: auto;">
+<tr><td>
+
+{% assign count = 0 %}
+{% assign extra = "0" %}
+
+<table id="myTable">
+  <tr class="toprowHeader">
+    <th style="text-align:center;">ID</th>
+    <th style="text-align:center;">Title</th>
+    <th style="text-align:center;">Authors</th>
+  </tr>
+ {% for paper in site.data.pioneers_posters %}
+ <tr>
+    {% assign count = count | plus: 1 %}
+
+    {% if count > 9  %}
+    {% assign extra = "" %}
+    {% endif  %}
+
+
+    <td style="font-size:90%;"><i>{{ extra }}{{ count  }}</i></td>
+    <td style="font-size:90%;"><b>{{paper.title}}</b></td>
+    <td style="font-size:90%;">{{paper.name| replace: ';', ','}}</td>
+  </tr>
+{% endfor %}
+</table>
+
+</td></tr>
+</table>
+
+
+
+
+<br>
 
 
 <script>

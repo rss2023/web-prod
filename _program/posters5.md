@@ -125,56 +125,56 @@ invisible: true
 <tr>
 <td style="vertical-align: top;" width="50%">
 <table id="myTable">
-<tr class="toprowHeader"><th colspan="2"><center>Left Poster Room</center></th></tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+<tr class="toprowHeader"><th colspan="2"><center>Left Poster Room</center></th></tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/002/' | absolute_url }}"><b>Manipulator-Independent Representations for Visual Imitation</b></a><br>Yuxiang Zhou, Yusuf Aytar, Konstantinos Bousmalis</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/004/' | absolute_url }}"><b>Inexact Loops in Robotics Problems</b></a><br>Erik Nelson</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/006/' | absolute_url }}"><b>Policy Transfer across Visual and Dynamics Domain Gaps via Iterative Grounding</b></a><br>Grace Zhang, Linghan Zhong, Youngwoon Lee, Joseph J Lim</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/027/' | absolute_url }}"><b>i3dLoc: Image-to-range Cross-domain Localization Robust to Inconsistent Environmental Conditions</b></a><br>Peng Yin, Lingyun Xu, Ji Zhang, Howie Choset, Sebastian Scherer</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/032/' | absolute_url }}"><b>Generalized Comprehensive Motion Theory for High-Order Differential Dynamics</b></a><br>Vincent Samy, Ko Ayusawa, Eiichi Yoshida</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/050/' | absolute_url }}"><b>Provably Safe and Efficient Motion Planning with Uncertain Human Dynamics</b></a><br>Shen Li, Nadia Figueroa, Ankit Shah, Julie A. Shah</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/054/' | absolute_url }}"><b>Droplet: Towards Autonomous Underwater Assembly of Modular Structures</b></a><br>Samuel E Lensgraf, Amy Sniffen, Zachary Zitzewitz, Evan Honnold, Jennifer Jain, Weifu Wang, Alberto Quattrini Li, Devin Balkcom</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/066/' | absolute_url }}"><b>Safe Occlusion-Aware Autonomous Driving via Game-Theoretic Active Perception</b></a><br>Zixu Zhang, Jaime F Fisac</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/071/' | absolute_url }}"><b>Ab Initio Particle-based Object Manipulation</b></a><br>Siwei Chen, Xiao Ma, Yunfan Lu, David Hsu</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/079/' | absolute_url }}"><b>Safe Policies for Factored Partially Observable Stochastic Games</b></a><br>Steven Carr, Nils Jansen, Sudarshanan Bharadwaj, Matthijs T. J. Spaan, Ufuk Topcu</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/081/' | absolute_url }}"><b>Toward Certifiable Motion Planning for Medical Steerable Needles</b></a><br>Mengyu Fu, Oren Salzman, Ron Alterovitz</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/090/' | absolute_url }}"><b>Semantic Abstraction-Guided Motion Planning for scLTL Missions in Unknown Environments</b></a><br>Kush Grover, Fernando S Barbosa, Jana Tumova, Jan Kretinsky</td>
  </tr></table></td>
 
 <td style="vertical-align: top;" width="50%">
 <table id="myTable">
 <tr class="toprowHeader"><th colspan="2"><center>Right Poster Room</center></th></tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/003/' | absolute_url }}"><b>Get to the Point: Learning Lidar Place Recognition and Metric Localisation Using Overhead Imagery</b></a><br>Tim Y. Tang, Daniele De Martini, Paul Newman</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/005/' | absolute_url }}"><b>Planning Multimodal Exploratory Actions for Online Robot Attribute Learning</b></a><br>Xiaohan Zhang, Jivko Sinapov, Shiqi Zhang</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/012/' | absolute_url }}"><b>Learning Generalizable Robotic Reward Functions from “In-The-Wild” Human Videos</b></a><br>Annie S. Chen, Suraj Nair, Chelsea Finn</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/030/' | absolute_url }}"><b>Inferring Objectives in Continuous Dynamic Games from Noise-Corrupted Partial State Observations</b></a><br>Lasse Peters, David Fridovich-Keil, Vicenç Rubies-Royo, Claire Tomlin, Cyrill Stachniss</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/049/' | absolute_url }}"><b>Resolving Conflict in Decision-Making for Autonomous Driving</b></a><br>Jack Geary, Subramanian Ramamoorthy, Henry Gouk</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/051/' | absolute_url }}"><b>Entropy-Guided Control Improvisation</b></a><br>Marcell J Vazquez-Chanlatte, Sebastian Junges, Daniel J Fremont, Sanjit Seshia</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/063/' | absolute_url }}"><b>Lyapunov-stable neural-network control</b></a><br>Hongkai Dai, Benoit Landry, Lujie Yang, Marco Pavone, Russ Tedrake</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/068/' | absolute_url }}"><b>Dual Online Stein Variational Inference for Control and Dynamics</b></a><br>Lucas Barcelos, Alexander Lambert, Rafael Oliveira, Paulo Borges, Byron Boots, Fabio Ramos</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/072/' | absolute_url }}"><b>NeRP: Neural Rearrangement Planning for Unknown Objects</b></a><br>Ahmed H Qureshi, Arsalan Mousavian, Chris Paxton, Michael Yip, Dieter Fox</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/080/' | absolute_url }}"><b>GROUNDED: The Localizing Ground Penetrating Radar Evaluation Dataset</b></a><br>Teddy Ort, Igor Gilitschenski, Daniela Rus</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/082/' | absolute_url }}"><b>Learning Riemannian Manifolds for Geodesic Motion Skills</b></a><br>Hadi Beik-Mohammadi, Søren Hauberg, Georgios Arvanitidis, Gerhard Neumann, Leonel Rozo</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr></table></td>
 
 </tr>

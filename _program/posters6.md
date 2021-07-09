@@ -125,56 +125,56 @@ invisible: true
 <tr>
 <td style="vertical-align: top;" width="50%">
 <table id="myTable">
-<tr class="toprowHeader"><th colspan="2"><center>Left Poster Room</center></th></tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+<tr class="toprowHeader"><th colspan="2"><center>Left Poster Room</center></th></tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/023/' | absolute_url }}"><b>Hierarchical Neural Dynamic Policies</b></a><br>Shikhar Bahl, Abhinav Gupta, Deepak Pathak</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/031/' | absolute_url }}"><b>Moving sidewinding forward: optimizing contact patterns for limbless robots via geometric mechanics</b></a><br>Baxi Chong, Tianyu Wang, Bo Lin, Shengkai Li, Howie Choset, Grigoriy Blekherman, Daniel Goldman</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/033/' | absolute_url }}"><b>On Minimizing the Number of Running Buffers for Tabletop Rearrangement</b></a><br>Kai Gao, Siwei Feng, Jingjin Yu</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/037/' | absolute_url }}"><b>On complementing end-to-end human behavior predictors with planning</b></a><br>Liting Sun, Xiaogang Jia, Anca Dragan</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/048/' | absolute_url }}"><b>Dipper: A Dynamically Transitioning Aerial-Aquatic Unmanned Vehicle</b></a><br>Friedrich M Rockenbauer, Simon Jeger, Liberto Beltran, Maximilian Berger, Marvin Harms, Noah Kaufmann, Marc Rauch, Moritz Reinders, Nicholas Lawrance, Thomas Stastny, Roland Siegwart</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/052/' | absolute_url }}"><b>Composable Energy Policies for Reactive Motion Generation and Reinforcement Learning </b></a><br>Julen Urain, Puze Liu, Anqi Li, Carlo D'Eramo, Jan Peters</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/056/' | absolute_url }}"><b>Adaptive-Control-Oriented Meta-Learning for Nonlinear Systems</b></a><br>Spencer M. Richards, Navid Azizan, Jean-Jacques Slotine, Marco Pavone</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/060/' | absolute_url }}"><b>GIFT: Generalizable Interaction-aware Functional Tool Affordances without Labels</b></a><br>Dylan Turpin, Liquan Wang, Stavros Tsogkas, Sven Dickinson, Animesh Garg</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/061/' | absolute_url }}"><b>Blind Bipedal Stair Traversal via Sim-to-Real Reinforcement Learning</b></a><br>Jonah Siekmann, Kevin Green, John Warila, Alan Fern, Jonathan Hurst</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/086/' | absolute_url }}"><b>Hamiltonian-based Neural ODE Networks on the SE(3) Manifold For Dynamics Learning and Control</b></a><br>Thai P Duong, Nikolay A Atanasov</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/089/' | absolute_url }}"><b>Surprisingly Robust In-Hand Manipulation: An Empirical Study</b></a><br>Aditya Bhatt, Adrian Sieler, Steffen Puhlmann, Oliver Brock</td>
- </tr><tr> <td  style="font-size:80%%; text-align:center;"><br></td>
+ </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/091/' | absolute_url }}"><b>Fast and Memory Efficient Graph Optimization via ICM for Visual Place Recognition</b></a><br>Stefan Schubert, Peer Neubert, Peter Protzel</td>
  </tr></table></td>
 
 <td style="vertical-align: top;" width="50%">
 <table id="myTable">
 <tr class="toprowHeader"><th colspan="2"><center>Right Poster Room</center></th></tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/008/' | absolute_url }}"><b>An End-to-End Differentiable Framework for Contact-Aware Robot Design</b></a><br>Jie Xu, Tao Chen, Lara Zlokapa, Michael Foshey, Wojciech Matusik, Shinjiro Sueda, Pulkit Agrawal</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/013/' | absolute_url }}"><b>Untangling Dense Non-Planar Knots by Learning Manipulation Features and Recovery Policies</b></a><br>Priya Sundaresan, Jennifer Grannen, Brijen Thananjeyan, Ashwin Balakrishna, Jeffrey Ichnowski, Ellen Novoseller, Minho Hwang, Michael Laskey, Joseph Gonzalez, Ken Goldberg</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/022/' | absolute_url }}"><b>Bayesian Deep Graph Matching for  Correspondence Identification in Collaborative Perception</b></a><br>Peng Gao, Hao Zhang</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/024/' | absolute_url }}"><b>Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations</b></a><br>Zhenyu Jiang, Yifeng Zhu, Maxwell Svetlik, Kuan Fang, Yuke Zhu</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/035/' | absolute_url }}"><b>Learning Instance-Level N-Ary Semantic Knowledge At Scale For Robots Operating in Everyday Environments</b></a><br>Weiyu Liu, Dhruva Bansal, Angel Daruna, Sonia Chernova</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/038/' | absolute_url }}"><b>On the Importance of Environments in Human-Robot Coordination</b></a><br>Matthew Fontaine, Ya-Chuan Hsu, Yulun Zhang, Bryon Tjanaka, Stefanos Nikolaidis</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/041/' | absolute_url }}"><b>MAGIC: Learning Macro-Actions for Online POMDP Planning </b></a><br>Yiyuan Lee, Panpan Cai, David Hsu</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/058/' | absolute_url }}"><b>PROMPT:  Probabilistic  Motion  Primitives  based  Trajectory  Planning</b></a><br>Tobias Loew, Tirthankar Bandyopadhyay, Jason Williams, Paulo Borges</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/065/' | absolute_url }}"><b>Error-Aware Policy Learning: Zero-Shot Generalization in Partially Observable Dynamic Environments</b></a><br>Visak C V Kumar, Sehoon Ha, C. Karen Liu</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/069/' | absolute_url }}"><b>Convex Risk Bounded Continuous-Time Trajectory Planning in Uncertain Nonconvex Environments</b></a><br>Ashkan Jasour, Weiqiao Han, Brian C. Williams</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/075/' | absolute_url }}"><b>Distributed Covariance Steering with Consensus ADMM for Stochastic Multi-Agent Systems</b></a><br>Augustinos D Saravanos, Alexandros Tsolovikos, Efstathios Bakolas, Evangelos Theodorou</td>
- <td  style="font-size:80%%; text-align:center;"><br></td>
+ <td  style="font-size:80%; text-align:center;"><br></td>
  </tr></table></td>
 
 </tr>
