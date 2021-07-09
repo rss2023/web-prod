@@ -77,13 +77,11 @@ mostly come from conversatoin among the participants.
 
 <br>
 
-Additionally, Inclusion@RSS will have several  "Coffee Break"  meetups in the gather.town space.
+Additionally, Inclusion@RSS will have several   meetups in the gather.town space.
 These are:
-* Black in Robotics meetup on Monday 7/12 at
-11:30-12:30 ET;
-* Women in Robotics event (tentatively in the same time on
-Tuesday); 
-* Queer in AI meetup on Wednesday 7/14 at 11:30-12:30 ET.
+* Black in Robotics "Coffee Break"  meetup on Monday 7/12 at 11:30-12:30 ET/ 8:30-9:30 PT.
+* Women in Robotics event (tentatively in the same time on Tuesday); 
+* Queer in AI "Fireside Chat" on Wednesday 7/14 at 9:00 ET/06:00 PT.
 
 For additional details, please see the event's 
 [website](https://sites.google.com/andrew.cmu.edu/inclusion-2021). 
