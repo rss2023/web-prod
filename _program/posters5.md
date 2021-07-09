@@ -21,23 +21,23 @@ invisible: true
   margin-bottom: 12px;
 }
 
-#myTable {
+#myTable0 #myTable1 {
   border-collapse: collapse;
   width: 100%;
   border: 1px solid #ddd;
   font-size: 100%;
 }
 
-#myTable th, #myTable td {
+#myTable0 th, #myTable0 td, #myTable1 th, #myTable1 td {
   text-align: left;
   padding: 12px;
 }
 
-#myTable tr {
+#myTable0 tr, #myTable1 tr {
   border-bottom: 1px solid #ddd;
 }
 
-#myTable tr.header, #myTable tr:hover {
+#myTable0 tr.header, #myTable0 tr:hover, #myTable1 tr.header, #myTable1 tr:hover {
   background-color: #f1f1f1;
 }
 
@@ -124,7 +124,7 @@ invisible: true
  <table style="padding:2px;" id="side-by-side">
 <tr>
 <td style="vertical-align: top;" width="50%">
-<table id="myTable">
+<table id="myTable1">
 <tr class="toprowHeader"><th colspan="2"><center>Left Poster Room</center></th></tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
  <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/002/' | absolute_url }}"><b>Manipulator-Independent Representations for Visual Imitation</b></a><br>Yuxiang Zhou, Yusuf Aytar, Konstantinos Bousmalis</td>
  </tr><tr> <td  style="font-size:80%; text-align:center;"><br></td>
@@ -152,7 +152,7 @@ invisible: true
  </tr></table></td>
 
 <td style="vertical-align: top;" width="50%">
-<table id="myTable">
+<table id="myTable0">
 <tr class="toprowHeader"><th colspan="2"><center>Right Poster Room</center></th></tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/003/' | absolute_url }}"><b>Get to the Point: Learning Lidar Place Recognition and Metric Localisation Using Overhead Imagery</b></a><br>Tim Y. Tang, Daniele De Martini, Paul Newman</td>
  <td  style="font-size:80%; text-align:center;"><br></td>
  </tr><tr> <td width="95%" style="font-size: 90%; text-align: justify;"> <a href="{{ '/program/papers/005/' | absolute_url }}"><b>Planning Multimodal Exploratory Actions for Online Robot Attribute Learning</b></a><br>Xiaohan Zhang, Jivko Sinapov, Shiqi Zhang</td>

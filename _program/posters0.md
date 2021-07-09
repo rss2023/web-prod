@@ -21,23 +21,23 @@ invisible: true
   margin-bottom: 12px;
 }
 
-#myTable {
+#myTable0 #myTable1 {
   border-collapse: collapse;
   width: 100%;
   border: 1px solid #ddd;
   font-size: 100%;
 }
 
-#myTable th, #myTable td {
+#myTable0 th, #myTable0 td, #myTable1 th, #myTable1 td {
   text-align: left;
   padding: 12px;
 }
 
-#myTable tr {
+#myTable0 tr, #myTable1 tr {
   border-bottom: 1px solid #ddd;
 }
 
-#myTable tr.header, #myTable tr:hover {
+#myTable0 tr.header, #myTable0 tr:hover, #myTable1 tr.header, #myTable1 tr:hover {
   background-color: #f1f1f1;
 }
 
@@ -135,7 +135,7 @@ invisible: true
 {% assign count = 0 %}
 {% assign extra = "0" %}
 
-<table id="myTable">
+<table id="myTable0">
   <tr class="toprowHeader">
     <th style="text-align:center;">ID</th>
     <th style="text-align:center;">Title</th>
