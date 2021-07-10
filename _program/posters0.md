@@ -390,6 +390,17 @@ invisible: true
     <td style="font-size:90%;">Troi Williams and Yu Sun</td>
   </tr>
 
+
+ <tr>
+    <td valign="top" style="padding:4px;"><a target="_blank" href="{{ '/program/posters/map-30.svg' | absolute_url }}"><img src="{{ '/images/map_icon.png' | absolute_url }}" alt="Show poster location" width="25" height="31"></a></td>
+    <td style="font-size:90%;"><i>30&nbsp;</i> </td>
+    <td style="font-size:90%;"><b>Enabling Safe and Reliable Surgeon-Robot Collaboration</b></td>
+    <td style="font-size:90%;">Niveditha Kalavakonda; Zeeshan Qazi; Laligam Sekhar; Ryan Calo; and Blake Hannaford</td>
+  </tr>
+
+
+
+
 </table>
 
 </td></tr>
