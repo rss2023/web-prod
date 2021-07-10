@@ -48,14 +48,14 @@ Please check the workshop websites for more details on their particular schedule
       </div>
       </td>     
     </tr>
-    <tr></tr>
-    <tr height="100px" style="background-color:#f40;">
+    <tr height="100px" style="background-color:#f40;" >
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
             Join via <a target="_blank" href="https://us05web.zoom.us/j/88557097758?pwd=eEJWdVdYcS9LaytZVTdhUjdQSUIzdz09">zoom</a>
         </td>
     </tr>
+    <tr></tr>
     
     
     
@@ -75,7 +75,15 @@ Please check the workshop websites for more details on their particular schedule
       </div>
       </td>     
     </tr>
-    
+     <tr height="100px" style="background-color:#f40;">
+        <td  style="background-color:#fcfcfc;">
+        </td>
+        <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
+            &nbsp;
+        </td>
+    </tr>
+    <tr></tr>
+       
     
     
 
@@ -94,6 +102,14 @@ Please check the workshop websites for more details on their particular schedule
       </div>
       </td>     
     </tr>
+     <tr height="100px" style="background-color:#f40;">
+        <td  style="background-color:#fcfcfc;">
+        </td>
+        <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
+            &nbsp;
+        </td>
+    </tr>
+    <tr></tr>
     
     
     
@@ -272,7 +288,15 @@ Please check the workshop websites for more details on their particular schedule
       </div>
       </td>     
     </tr>
-    
+     <tr height="100px" style="background-color:#f40;">
+        <td  style="background-color:#fcfcfc;">
+        </td>
+        <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
+            &nbsp;
+        </td>
+    </tr>
+    <tr></tr>
+     
     
     
 
@@ -291,7 +315,15 @@ Please check the workshop websites for more details on their particular schedule
       </div>
       </td>     
     </tr>
-    
+     <tr height="100px" style="background-color:#f40;">
+        <td  style="background-color:#fcfcfc;">
+        </td>
+        <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
+            &nbsp;
+        </td>
+    </tr>
+    <tr></tr>
+     
     
     
 
@@ -369,7 +401,15 @@ Please check the workshop websites for more details on their particular schedule
       </div>
       </td>     
     </tr>
-    
+     <tr height="100px" style="background-color:#f40;">
+        <td  style="background-color:#fcfcfc;">
+        </td>
+        <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
+            &nbsp;
+        </td>
+    </tr>
+    <tr></tr>
+     
     
     
     
@@ -470,7 +510,15 @@ Please check the workshop websites for more details on their particular schedule
       </div>
       </td>     
     </tr>
-    
+     <tr height="100px" style="background-color:#f40;">
+        <td  style="background-color:#fcfcfc;">
+        </td>
+        <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
+            &nbsp;
+        </td>
+    </tr>
+    <tr></tr>
+     
     
     
 
@@ -489,8 +537,15 @@ Please check the workshop websites for more details on their particular schedule
       </div>
       </td>     
     </tr>
-    
-    
+     <tr height="100px" style="background-color:#f40;">
+        <td  style="background-color:#fcfcfc;">
+        </td>
+        <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
+            &nbsp;
+        </td>
+    </tr>
+    <tr></tr>
+     
     
     
     
@@ -590,7 +645,16 @@ Please check the workshop websites for more details on their particular schedule
       </div>
       </td>     
     </tr>
-    
+ <tr height="100px" style="background-color:#f40;">
+        <td  style="background-color:#fcfcfc;">
+        </td>
+        <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
+            &nbsp;
+        </td>
+    </tr>
+    <tr></tr>
+     
+   
     
     
 
@@ -609,7 +673,16 @@ Please check the workshop websites for more details on their particular schedule
       </div>
       </td>     
     </tr>
-    
+ <tr height="100px" style="background-color:#f40;">
+        <td  style="background-color:#fcfcfc;">
+        </td>
+        <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
+            &nbsp;
+        </td>
+    </tr>
+    <tr></tr>
+     
+   
     
     
 
@@ -628,7 +701,16 @@ Please check the workshop websites for more details on their particular schedule
       </div>
       </td>     
     </tr>
-    
+ <tr height="100px" style="background-color:#f40;">
+        <td  style="background-color:#fcfcfc;">
+        </td>
+        <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
+            &nbsp;
+        </td>
+    </tr>
+    <tr></tr>
+     
+   
     
     
 
@@ -675,7 +757,16 @@ Please check the workshop websites for more details on their particular schedule
       </div>
       </td>     
     </tr>
-    
+ <tr height="100px" style="background-color:#f40;">
+        <td  style="background-color:#fcfcfc;">
+        </td>
+        <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
+            &nbsp;
+        </td>
+    </tr>
+    <tr></tr>
+     
+   
     
     
     
