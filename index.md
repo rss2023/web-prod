@@ -6,7 +6,6 @@ title: Home
 July 12&ndash;16, 2021</h1>
 
 {% comment %}
-{% endcomment %}
 
 <br>
 
@@ -21,6 +20,7 @@ July 12&ndash;16, 2021</h1>
 </center>
 
 <br>
+{% endcomment %}
 
 ## News and Updates
 * See the [program-at-a-glance](program/overview/) and **[browse the schedule]({{site.baseurl}}/program/schedule.svg)**
