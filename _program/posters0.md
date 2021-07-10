@@ -136,7 +136,7 @@ invisible: true
 <table id="myTable">
   <tr class="toprowHeader">
     <th></th>
-    <th width="15px">ID</th>
+    <th>ID</th>
     <th>Title</th>
     <th>Authors</th>
   </tr>
