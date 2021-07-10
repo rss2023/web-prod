@@ -84,6 +84,45 @@ invisible: true
 <br>
 
 
+<table width="100%"><tr><td width="15%">&nbsp;</td><td>
+ <table width="100%">
+  <thead>
+  <tr><th></th> 
+   <th style="font-size: 10px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">AEST</th>
+ <th style="font-size: 10px; color:#004e7d; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">CST</th>
+ <th style="font-size: 10px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">CEST</th>
+ <th style="font-size: 10px; color:#004e7d; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">Eastern</th>
+ <th style="font-size: 10px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">Pacific</th>
+ 
+     </tr>
+</thead>
+
+<tr><td></td>
+    <td style="font-size: 8px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px; padding-bottom: 3px;"> UTC+10</td>
+  <td style="font-size: 8px; color:#004e7d; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px; padding-bottom: 3px;"> UTC+8</td>
+  <td style="font-size: 8px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px; padding-bottom: 3px;"> UTC+2</td>
+  <td style="font-size: 8px; color:#004e7d; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px; padding-bottom: 3px;"> UTC-4</td>
+  <td style="font-size: 8px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px; padding-bottom: 3px;"> UTC-7</td>
+
+</tr>
+  <tr><td style="text-align:right; font-weight:bold; padding-right:15px;">Start: </td>
+ <td style="font-size: 13px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">12:15AM</td>
+ <td style="font-size: 13px; color:#004e7d; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">10:15PM</td>
+ <td style="font-size: 13px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">04:15PM</td>
+ <td style="font-size: 13px; color:#004e7d; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">10:15AM</td>
+ <td style="font-size: 13px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">07:15AM</td>
+</tr>
+<tr><td style="text-align:right; font-weight:bold; padding-right:15px;">Finish: </td>
+ <td style="font-size: 13px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">01:15AM</td>
+ <td style="font-size: 13px; color:#004e7d; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">11:15PM</td>
+ <td style="font-size: 13px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">05:15PM</td>
+ <td style="font-size: 13px; color:#004e7d; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">11:15AM</td>
+ <td style="font-size: 13px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">08:15AM</td>
+</tr>
+</table> 
+</td><td width="15%">&nbsp;</td> </tr></table> 
+ <br> 
+ 
 ### The 2021 cohort of RSS pioneers
 
  This poster session will highlight the work of soon to be famous roboticists. The [RSS Pioneers event](https://sites.google.com/view/rsspioneers2021) will run through the 11th.
