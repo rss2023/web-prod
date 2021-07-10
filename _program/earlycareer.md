@@ -6,6 +6,7 @@ priority: 7
 invisible: false
 ---
 
+
 RSS'21 will have two early career plenary talks.
 
 <table class="table" style="margin-top: 40px;">
@@ -38,6 +39,9 @@ RSS'21 will have two early career plenary talks.
     </table>
 </th>
 </tr>
+<tr>
+<tr><td></td></tr>
+</tr>
 </table>
 </td>
 <td>&nbsp;</td>
@@ -67,6 +71,9 @@ RSS'21 will have two early career plenary talks.
     <tr><td colspan="2" style="font-size:18px; padding-top:18px;">Thursday, July 15</td></tr>
     </table>
 </th>
+</tr>
+<tr>
+<tr><td></td></tr>
 </tr>
 </table>
 </td>

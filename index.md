@@ -18,9 +18,44 @@ July 12&ndash;16, 2021</h1>
 </td></tr>
 </table>
 </center>
-
 <br>
+
+<center>
+<div id="player"></div>
+</center>
+
+<script>
+
+// 2. This code loads the IFrame Player API code asynchronously.
+var tag = document.createElement('script');
+
+tag.src = "https://www.youtube.com/iframe_api";
+var firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+// 3. This function creates an <iframe> (and YouTube player)
+//    after the API code downloads.
+var player;
+function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player', {
+        height: '390',
+        width: '640',
+        videoId: 'OB_nVQfmwqY',
+        events: {
+            'onReady': onPlayerReady
+        }
+    });
+}
+
+// 4. The API will call this function when the video player is ready.
+function onPlayerReady(event) {
+    player.setPlaybackRate(1.2);
+    event.target.playVideo();
+}
+
+</script>
 {% endcomment %}
+
 
 ## News and Updates
 * See the [program-at-a-glance](program/overview/) and **[browse the schedule]({{site.baseurl}}/program/schedule.svg)**
