@@ -5,6 +5,22 @@ title: Home
 <h1 class="page-title">{{ site.title }}<br>
 July 12&ndash;16, 2021</h1>
 
+{% comment %}
+{% endcomment %}
+
+<br>
+
+<center>
+<table width="100%" style="border: solid #aaa 3px; background:#444;">
+<tr><td>
+<br />
+<h2><b><center><a href="https://pheedloop.com/rss2021/virtual/"><span style="color: #fff">Join the PheedLoop Conference System</span></a></center></b></h2>
+<br />
+</td></tr>
+</table>
+</center>
+
+<br>
 
 ## News and Updates
 * See the [program-at-a-glance](program/overview/) and **[browse the schedule]({{site.baseurl}}/program/schedule.svg)**
