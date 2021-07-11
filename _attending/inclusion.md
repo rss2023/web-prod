@@ -8,7 +8,7 @@ invisible: false
 The RSS community is committed to increasing the participation of groups traditionally underrepresented in robotics (including but not limited to: women, LGBTQ+, underrepresented minorities, and people with disabilities), especially people early in their studies and career. Such efforts are crucial for increasing research capacity, creativity, and broadening the impact of robotics research. To that end, Inclusion @ RSS will be an integral part of RSS that will focus on programs that increase and sustain a broader participation in the robotics research community. Component programs will range from co-located events to sponsored activities during the main conference.
 
 
-On <b>Wednesday 5:00&ndash;6:00pm ET</b>, after the workshops have wrapped up for
+On <b>Wednesday 5:00&ndash;6:00pm ET / 2:00&ndash;3:00pm PT</b>, after the workshops have wrapped up for
 the day, we will form Diversity, Equity, and Inclusion (DEI) Discussion Groups. 
 These will be over zoom (possibly multiple zoom rooms), and 
 consider the question:<br>
@@ -80,11 +80,12 @@ mostly come from conversatoin among the participants.
 Additionally, Inclusion@RSS will have several   meetups in the gather.town space.
 These are:
 * Black in Robotics "Coffee Break"  meetup on Monday 7/12 at 11:30-12:30 ET/ 8:30-9:30 PT.
-* Women in Robotics event (tentatively in the same time on Tuesday); 
+* Women in Robotics event on Tuesday 7/13 at 11:00-12:00 ET/ 8:00-9:00 PT.
 * Queer in AI "Fireside Chat" on Wednesday 7/14 at 9:00 ET/06:00 PT.
 
-For additional details, please see the event's 
-[website](https://sites.google.com/andrew.cmu.edu/inclusion-2021). 
+
+For additional details, please see the 
+[event's website](https://sites.google.com/andrew.cmu.edu/inclusion-2021). 
 
 {% comment %}
 
