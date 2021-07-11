@@ -7,7 +7,6 @@ July 12&ndash;16, 2021</h1>
 
 
 <br>
-{% comment %}
 
 <center>
 <table width="100%" style="border: solid #aaa 3px; background:#444;">
@@ -40,7 +39,7 @@ function onYouTubeIframeAPIReady() {
     player = new YT.Player('player', {
         height: '390',
         width: '640',
-        videoId: 'OB_nVQfmwqY',
+        videoId: 'NJU7y65KUi8',
         events: {
             'onReady': onPlayerReady
         }
@@ -49,11 +48,13 @@ function onYouTubeIframeAPIReady() {
 
 // 4. The API will call this function when the video player is ready.
 function onPlayerReady(event) {
-    player.setPlaybackRate(1.2);
+    player.setPlaybackRate(1.0);
     event.target.playVideo();
 }
 
 </script>
+
+{% comment %}
 {% endcomment %}
 
 
