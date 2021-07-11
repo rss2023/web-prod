@@ -7,6 +7,7 @@ July 12&ndash;16, 2021</h1>
 
 
 <br>
+{% comment %}
 
 <center>
 <table width="100%" style="border: solid #aaa 3px; background:#444;">
@@ -53,7 +54,6 @@ function onPlayerReady(event) {
 }
 
 </script>
-{% comment %}
 {% endcomment %}
 
 
