@@ -450,7 +450,8 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            &nbsp;
+           Join via <a target="_blank" href="https://temple.zoom.us/j/98700534885?pwd=TmtsaVVRblRacEEyRWhGNWdrUUJzdz09">zoom</a>.
+           The first panel discussion will feature these <a href="https://www.youtube.com/playlist?list=PLouWbAcP4zIvKaADSMjMRzpHBPjdRuApC">pre-recorded talks</a> so be sure to watch them prior to the start of the workshop.
         </td>
     </tr>
     <tr></tr>
