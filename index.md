@@ -5,7 +5,6 @@ title: Home
 <h1 class="page-title">{{ site.title }}<br>
 July 12&ndash;16, 2021</h1>
 
-{% comment %}
 
 <br>
 
@@ -54,6 +53,7 @@ function onPlayerReady(event) {
 }
 
 </script>
+{% comment %}
 {% endcomment %}
 
 
