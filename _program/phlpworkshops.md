@@ -52,7 +52,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            Join via <a target="_blank" href="https://us05web.zoom.us/j/88557097758?pwd=eEJWdVdYcS9LaytZVTdhUjdQSUIzdz09">zoom</a><br>
+            Join via <a target="_blank" href="https://us05web.zoom.us/j/88557097758?pwd=eEJWdVdYcS9LaytZVTdhUjdQSUIzdz09">zoom</a>.<br>
             This workshop also includes activities in the gather.town space.<br>
         </td>
     </tr>
@@ -107,7 +107,9 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            &nbsp;
+            Register <a target="_blank" href="https://sites.google.com/view/warp-fow/registration">here</a> and 
+            attend via <a target="_blank" href="https://mit.zoom.us/meeting/register/tJArfuugrTIqGtWD55w3I1HzpBBcLGRrjjyt">zoom</a>.
+            <br>
         </td>
     </tr>
     <tr></tr>
@@ -132,7 +134,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-08h00 (Pacific Daylight Time): Panel Discussion 1, via <a target="_blank" href="https://us05web.zoom.us/j/85709237109?pwd=eFVRK1h6bW16S3BoKzVselZJSXhHUT09">zoom</a><br>
+08h00 (Pacific Daylight Time): Panel Discussion 1, via <a target="_blank" href="https://us05web.zoom.us/j/85709237109?pwd=eFVRK1h6bW16S3BoKzVselZJSXhHUT09">zoom</a>.<br>
         </td>
     </tr>
     <tr></tr>
@@ -176,7 +178,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            Join via <a target="_blank" href="https://ohyay.co/s/rss-ws-ai-and-manipulation-for-robotics">ohyay</a>
+            Join via <a target="_blank" href="https://ohyay.co/s/rss-ws-ai-and-manipulation-for-robotics">ohyay</a>.<br>
         </td>
     </tr>
     
@@ -225,7 +227,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            &nbsp;
+            Join via <a target="_blank" href="https://cmu.zoom.us/j/95582087576?pwd=b0hNcXVlbm52eWV2emF2Y3VranVOdz09">zoom</a>.<br>
         </td>
     </tr>
     <tr></tr>
@@ -253,7 +255,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            Join via <a target="_blank" href="https://us05web.zoom.us/j/87064737814?pwd=cm1RTnJqdVZvMGc4bzEvUGdGQzFIdz09">zoom</a>
+            Join via <a target="_blank" href="https://us05web.zoom.us/j/87064737814?pwd=cm1RTnJqdVZvMGc4bzEvUGdGQzFIdz09">zoom</a>.<br>
         </td>
     </tr>
  
@@ -311,7 +313,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-15h00 (Pacific Daylight Time): Panel Discussion 2, via <a target="_blank" href="https://us05web.zoom.us/j/85022407009?pwd=SkdERUFWWll0OFVCMDN3SzM1T1N0QT09">zoom</a>
+15h00 (Pacific Daylight Time): Panel Discussion 2, via <a target="_blank" href="https://us05web.zoom.us/j/85022407009?pwd=SkdERUFWWll0OFVCMDN3SzM1T1N0QT09">zoom</a>.<br>
         </td>
     </tr>
     <tr></tr>
@@ -515,7 +517,8 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            &nbsp;
+            Register <a target="_blank" href="https://forms.gle/mCdfUoXBfa4aU3eMA">here</a>.<br>
+            This workshop intends to include activities in the gather.town space.<br>
         </td>
     </tr>
     <tr></tr>
@@ -564,7 +567,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            Join via <a target="_blank" href="https://us05web.zoom.us/j/83038056634?pwd=a3dQM2s5VjkwNUVMenc3dHFQZHQ1QT09">zoom</a>
+            Join via <a target="_blank" href="https://us05web.zoom.us/j/83038056634?pwd=a3dQM2s5VjkwNUVMenc3dHFQZHQ1QT09">zoom</a>.<br>
         </td>
 
     </tr>
