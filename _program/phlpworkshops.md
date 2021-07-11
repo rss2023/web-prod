@@ -169,6 +169,14 @@ Please check the workshop websites for more details on their particular schedule
       </div>
       </td>     
     </tr>
+      <tr height="100px" style="background-color:#f40;">
+        <td  style="background-color:#fcfcfc;">
+        </td>
+        <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
+08h00 (Pacific Daylight Time): Panel Discussion 1, via <a target="_blank" href="https://us05web.zoom.us/j/85709237109?pwd=eFVRK1h6bW16S3BoKzVselZJSXhHUT09">zoom</a><br>
+        </td>
+    </tr>
+    <tr></tr>
     
     
     
@@ -405,7 +413,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            &nbsp;
+15h00 (Pacific Daylight Time): Panel Discussion 2, via <a target="_blank" href="https://us05web.zoom.us/j/85022407009?pwd=SkdERUFWWll0OFVCMDN3SzM1T1N0QT09">zoom</a>
         </td>
     </tr>
     <tr></tr>
