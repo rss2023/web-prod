@@ -52,7 +52,8 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            Join via <a target="_blank" href="https://us05web.zoom.us/j/88557097758?pwd=eEJWdVdYcS9LaytZVTdhUjdQSUIzdz09">zoom</a>
+            Join via <a target="_blank" href="https://us05web.zoom.us/j/88557097758?pwd=eEJWdVdYcS9LaytZVTdhUjdQSUIzdz09">zoom</a><br>
+            This workshop also includes activities in the gather.town space.<br>
         </td>
     </tr>
     <tr></tr>
@@ -112,48 +113,6 @@ Please check the workshop websites for more details on their particular schedule
     <tr></tr>
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
     <tr>
       <td><span style="font-weight:bold; color: #3a3946;"> W7 </span></td>
       <td>12-13 &nbsp; <span style="font-size:smaller; line-height:0.9; display:block;">Multiple times</span> </td>
@@ -178,54 +137,7 @@ Please check the workshop websites for more details on their particular schedule
     </tr>
     <tr></tr>
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+   
   </tbody>
 </table>
 
@@ -243,15 +155,6 @@ Please check the workshop websites for more details on their particular schedule
     </tr>
   </thead>
   <tbody>
-    
-    
-    
-    
-    
-    
-    
-    
-    
 
     <tr>
       <td><span style="font-weight:bold; color: #3a3946;"> W3 </span></td>
@@ -278,9 +181,6 @@ Please check the workshop websites for more details on their particular schedule
     </tr>
     
    
-    
-    
-
     <tr>
       <td><span style="font-weight:bold; color: #3a3946;"> W4 </span></td>
       <td>13th &nbsp; <span style="font-size:smaller; line-height:0.9; display:block;">After interactive session</span> </td>
@@ -300,14 +200,12 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            &nbsp;
+            This workshop includes activities in the gather.town space.<br>
         </td>
     </tr>
     <tr></tr>
      
     
-    
-
     <tr>
       <td><span style="font-weight:bold; color: #3a3946;"> W5 </span></td>
       <td>13th &nbsp; <span style="font-size:smaller; line-height:0.9; display:block;">After interactive session</span> </td>
@@ -522,7 +420,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            &nbsp;
+            This workshop includes activities in the gather.town space.<br>
         </td>
     </tr>
     <tr></tr>
@@ -554,51 +452,10 @@ Please check the workshop websites for more details on their particular schedule
     </tr>
     <tr></tr>
      
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
   </tbody>
 </table>
+
+
 
 <p><a name="Thu"><span style="color:white; font-size:50px;"> </span></a></p>
 
@@ -614,30 +471,6 @@ Please check the workshop websites for more details on their particular schedule
     </tr>
   </thead>
   <tbody>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
     <tr>
       <td><span style="font-weight:bold; color: #3a3946;"> W10 </span></td>
       <td>15th &nbsp; <span style="font-size:smaller; line-height:0.9; display:block;">After interactive session</span> </td>
@@ -653,19 +486,16 @@ Please check the workshop websites for more details on their particular schedule
       </div>
       </td>     
     </tr>
- <tr height="100px" style="background-color:#f40;">
+    <tr height="100px" style="background-color:#f40;">
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            &nbsp;
+            This workshop includes activities in the gather.town space.<br>
         </td>
     </tr>
     <tr></tr>
      
    
-    
-    
-
     <tr>
       <td><span style="font-weight:bold; color: #3a3946;"> W11 </span></td>
       <td>15th &nbsp; <span style="font-size:smaller; line-height:0.9; display:block;">Straddles interactive session</span> </td>
@@ -681,7 +511,7 @@ Please check the workshop websites for more details on their particular schedule
       </div>
       </td>     
     </tr>
- <tr height="100px" style="background-color:#f40;">
+    <tr height="100px" style="background-color:#f40;">
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
@@ -690,10 +520,6 @@ Please check the workshop websites for more details on their particular schedule
     </tr>
     <tr></tr>
      
-   
-    
-    
-
     <tr>
       <td><span style="font-weight:bold; color: #3a3946;"> W12 </span></td>
       <td>15th &nbsp; <span style="font-size:smaller; line-height:0.9; display:block;">After interactive session</span> </td>
@@ -718,10 +544,6 @@ Please check the workshop websites for more details on their particular schedule
     </tr>
     <tr></tr>
      
-   
-    
-    
-
     <tr>
       <td><span style="font-weight:bold; color: #3a3946;"> W13 </span></td>
       <td>15th &nbsp; <span style="font-size:smaller; line-height:0.9; display:block;">Straddles interactive session</span> </td>
@@ -738,17 +560,15 @@ Please check the workshop websites for more details on their particular schedule
       </td>     
     </tr>
     <tr></tr>
-    <tr height="100px">
+ <tr height="100px" style="background-color:#f40;">
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
             Join via <a target="_blank" href="https://us05web.zoom.us/j/83038056634?pwd=a3dQM2s5VjkwNUVMenc3dHFQZHQ1QT09">zoom</a>
         </td>
+
     </tr>
  
-
-    
-    
 
     <tr>
       <td><span style="font-weight:bold; color: #3a3946;"> W14 </span></td>
@@ -769,46 +589,11 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            &nbsp;
+            This workshop includes activities in the gather.town space.<br>
         </td>
     </tr>
     <tr></tr>
      
-   
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
   </tbody>
 </table>
 
