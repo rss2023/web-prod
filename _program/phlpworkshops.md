@@ -52,7 +52,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            Join via <a target="_blank" href="https://us05web.zoom.us/j/88557097758?pwd=eEJWdVdYcS9LaytZVTdhUjdQSUIzdz09">zoom</a>.<br>
+            Join via <a target="_blank" href="https://us05web.zoom.us/j/88557097758?pwd=eEJWdVdYcS9LaytZVTdhUjdQSUIzdz09">Zoom</a>.<br>
 
 {% comment %}
             This workshop also includes activities in the gather.town space.<br>
@@ -83,7 +83,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            Join via <a target="_blank" href="https://us05web.zoom.us/j/88034505419?pwd=ZmtncGVBV3dKT01WUk92cklhOGFRQT09">zoom</a>.<br>
+            Join via <a target="_blank" href="https://us05web.zoom.us/j/88034505419?pwd=ZmtncGVBV3dKT01WUk92cklhOGFRQT09">Zoom</a>.<br>
             This workshop also includes activities in the gather.town space.<br>
         </td>
     </tr>
@@ -112,7 +112,7 @@ Please check the workshop websites for more details on their particular schedule
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
             Register <a target="_blank" href="https://sites.google.com/view/warp-fow/registration">here</a> and 
-            attend via <a target="_blank" href="https://mit.zoom.us/meeting/register/tJArfuugrTIqGtWD55w3I1HzpBBcLGRrjjyt">zoom</a>.
+            attend via <a target="_blank" href="https://mit.zoom.us/meeting/register/tJArfuugrTIqGtWD55w3I1HzpBBcLGRrjjyt">Zoom</a>.
             <br>
         </td>
     </tr>
@@ -138,7 +138,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-08h00 (Pacific Daylight Time): Panel Discussion 1, via <a target="_blank" href="https://us05web.zoom.us/j/85709237109?pwd=eFVRK1h6bW16S3BoKzVselZJSXhHUT09">zoom</a>.<br>
+08h00 (Pacific Daylight Time): Panel Discussion 1, via <a target="_blank" href="https://us05web.zoom.us/j/85709237109?pwd=eFVRK1h6bW16S3BoKzVselZJSXhHUT09">Zoom</a>.<br>
         </td>
     </tr>
     <tr></tr>
@@ -231,7 +231,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            Join via <a target="_blank" href="https://cmu.zoom.us/j/95582087576?pwd=b0hNcXVlbm52eWV2emF2Y3VranVOdz09">zoom</a>.<br>
+            Join via <a target="_blank" href="https://cmu.zoom.us/j/95582087576?pwd=b0hNcXVlbm52eWV2emF2Y3VranVOdz09">Zoom</a>.<br>
         </td>
     </tr>
     <tr></tr>
@@ -259,7 +259,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            Join via <a target="_blank" href="https://us05web.zoom.us/j/87064737814?pwd=cm1RTnJqdVZvMGc4bzEvUGdGQzFIdz09">zoom</a>.<br>
+            Join via <a target="_blank" href="https://us05web.zoom.us/j/87064737814?pwd=cm1RTnJqdVZvMGc4bzEvUGdGQzFIdz09">Zoom</a>.<br>
         </td>
     </tr>
  
@@ -317,7 +317,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-15h00 (Pacific Daylight Time): Panel Discussion 2, via <a target="_blank" href="https://us05web.zoom.us/j/85022407009?pwd=SkdERUFWWll0OFVCMDN3SzM1T1N0QT09">zoom</a>.<br>
+15h00 (Pacific Daylight Time): Panel Discussion 2, via <a target="_blank" href="https://us05web.zoom.us/j/85022407009?pwd=SkdERUFWWll0OFVCMDN3SzM1T1N0QT09">Zoom</a>.<br>
         </td>
     </tr>
     <tr></tr>
@@ -453,7 +453,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-           Join via <a target="_blank" href="https://temple.zoom.us/j/98700534885?pwd=TmtsaVVRblRacEEyRWhGNWdrUUJzdz09">zoom</a>.
+           Join via <a target="_blank" href="https://temple.zoom.us/j/98700534885?pwd=TmtsaVVRblRacEEyRWhGNWdrUUJzdz09">Zoom</a>.
            The first panel discussion will feature these <a href="https://www.youtube.com/playlist?list=PLouWbAcP4zIvKaADSMjMRzpHBPjdRuApC">pre-recorded talks</a> so be sure to watch them prior to the start of the workshop.
         </td>
     </tr>
@@ -572,7 +572,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            Join via <a target="_blank" href="https://us05web.zoom.us/j/83038056634?pwd=a3dQM2s5VjkwNUVMenc3dHFQZHQ1QT09">zoom</a>.<br>
+            Join via <a target="_blank" href="https://us05web.zoom.us/j/83038056634?pwd=a3dQM2s5VjkwNUVMenc3dHFQZHQ1QT09">Zoom</a>.<br>
         </td>
 
     </tr>
