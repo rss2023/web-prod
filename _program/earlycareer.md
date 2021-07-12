@@ -40,7 +40,52 @@ RSS'21 will have two early career plenary talks.
 </th>
 </tr>
 <tr>
-<tr><td></td></tr>
+<tr><td>
+<style>
+#phsession {
+  font-size: 16px;
+  color: #000000;
+  border: solid #ddd 1px;
+  margin: 12px;
+}
+
+#phsession td {
+  padding: 12px;
+  }
+</style>
+
+<table id="phsession"><tr><td><a href="https://pheedloop.com/rss2021/virtual/?page=sessions&section=SES6WBVTDXDQGE7VV">PheedLoop Session</a></td></tr></table>
+
+<style>
+#yt-playlist {
+  font-size: 16px;
+  color: #000000;
+  border: solid #ddd 1px;
+  margin: 12px;
+}
+
+#yt-playlist td {
+  padding: 12px;
+  }
+</style>
+
+<table id="yt-playlist"><tr><td><a href="https://youtu.be/o4fHZYJnE3A">YouTube</a></td></tr></table>
+
+<style>
+#slides {
+  font-size: 16px;
+  color: #000000;
+  border: solid #ddd 1px;
+  margin: 12px;
+}
+
+#slides td {
+  padding: 12px;
+  }
+</style>
+
+<table id="slides"><tr><td><a href="../slides/EC_haewon.pdf">Talk Slides</a></td></tr></table>
+</td></tr>
 </tr>
 </table>
 </td>
