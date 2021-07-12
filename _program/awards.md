@@ -9,6 +9,7 @@ invisible: true
 Congratulations to the following paper nominees! 
 
 ### Best Paper and Best Student Paper Nominees
+<br>
 
 * #18 [*TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments*]({{site.baseurl}}/program/papers/018/)
 Chao Cao, Hongbiao  Zhu, Howie Choset, and Ji Zhang
