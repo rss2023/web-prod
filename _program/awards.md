@@ -8,38 +8,23 @@ invisible: true
 
 Congratulations to the following paper nominees! 
 
-### Best Student Paper Nominees
+### Best Paper and Best Student Paper Nominees
 
-* #7: [*A Continuous Representation of Belief over SO(3) for Robust
- Rotation Learning with Uncertainty*]({{site.baseurl}}/program/papers/7/)
- Valentin Peretroukhin, Matthew
- Giamou, David M. Rosen, W. Nicholas Greene, Nicholas Roy, Jonathan
- Kelly
-* #11: [*Shared Autonomy With Learned Latent Actions*]({{site.baseurl}}/program/papers/11/) Hong Jun Jeon,
-   Dylan P. Losey, Dorsa Sadigh
-* #32: [*Multi-Fidelity Black-Box Optimization for Time-Optimal
- Quadrotor Maneuvers*]({{site.baseurl}}/program/papers/32/) Gilhyun Ryou, Ezra Tal, Sertac Karaman
+* #18 [*TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments*]({{site.baseurl}}/program/papers/018/)
+Chao Cao, Hongbiao  Zhu, Howie Choset, and Ji Zhang
 
-### Best Systems Paper Nominees
+* #25 [*Optimal Pose and Shape Estimation for Category-level 3D Object Perception*]({{site.baseurl}}/program/papers/025/)
+Jingnan Shi (MIT); Heng Yang (MIT); Luca Carlone (MIT)
 
-* #9: [*OverlapNet - Loop Closing for 3D LiDAR-based SLAM*]({{site.baseurl}}/program/papers/9/) Xieyuanli
- Chen, Thomas Labe, Andres Milioto, Timo Rohling, Olga Vysotska,
- Alexandre F Haag, Jens Behley, R Cyrill Stachniss
-* #75: [*Quantile QT-Opt for Risk-Aware Vision-Based Robotic Grasping*]({{site.baseurl}}/program/papers/75/)
- Cristian Bodnar, Adrian Li, Karol Hausman, Peter Pastor, Mrinal
- Kalakrishnan
-* #81: [*AlphaPilot: Autonomous Drone Racing*]({{site.baseurl}}/program/papers/81/) Philipp Foehn, Dario
- Brescianini, Elia Kaufmann, Titus Cieslewski, Mathias Gehrig, Manasi
- Muglikar, Davide Scaramuzza
+* #31 [*Moving sidewinding forward: optimizing contact patterns for limbless robots via geometric mechanics*]({{site.baseurl}}/program/papers/031/)
+Baxi Chong, Tianyu Wang, Bo Lin, Shengkai Li, Howie Choset, Grigoriy Blekherman, Daniel Goldman
 
+* #67 [*DiSECt: A Differentiable Simulation Engine for Autonomous Robotic Cutting*]({{site.baseurl}}/program/papers/067/)
+Eric Heiden, Miles Macklin, Yashraj S Narang, Dieter Fox, Animesh Garg, Fabio Ramos
 
-### Best Paper Nominees
+* #81 [*Toward Certifiable Motion Planning for Medical Steerable Needles*]({{site.baseurl}}/program/papers/081/)
+Mengyu Fu, Oren Salzman, Ron Alterovitz
 
-* #29: [*Cable Manipulation with a Tactile-Reactive Gripper*]({{site.baseurl}}/program/papers/29/) Yu She,
- Shaoxiong Wang, Siyuan Dong, Neha Sunil, Alberto Rodriguez, Edward
- Adelson
-* #40: [*Deep Drone Acrobatics*]({{site.baseurl}}/program/papers/40/) Elia Kaufmann, Antonio Loquercio, René
- Ranftl, Matthias Müller, Vladlen Koltun, Davide nan Scaramuzza
-* #64: [*Learning Agile Robotic Locomotion Skills by Imitating Animals*]({{site.baseurl}}/program/papers/64/)
-Xue Bin Peng , Erwin Coumans , Tingnan Zhang , Tsang-Wei Lee , Jie Tan
-, Sergey Levine
+* #82 [*Learning Riemannian Manifolds for Geodesic Motion Skills*]({{site.baseurl}}/program/papers/082/)
+Hadi Beik-mohammadi, Soren Hauberg; Georgios Arvanitidis, Gerhard Neumann, Leonel Rozo
+
