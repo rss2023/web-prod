@@ -83,7 +83,35 @@ invisible: true
 
 <br>
 
-<br>
+
+
+<style>
+#phsession {
+  font-size: 16px;
+  color: #000000;
+  border: solid #ddd 1px;
+  margin: 12px;
+}
+
+#phsession td {
+  padding: 12px;
+  }
+</style>
+<table id="phsession"><tr><td>PheedLoop Sessions:</td><td><a href="https://pheedloop.com/rss2021/virtual/?page=sessions&section=SESGZK7QDIXR0YQOS">Part A</a></td><td><a href="https://pheedloop.com/rss2021/virtual/?page=sessions&section=SESFO9FU5PK8FNWV9">Part B</a>  </td></tr></table>
+
+<style>
+#yt-playlist {
+  font-size: 16px;
+  color: #000000;
+  border: solid #ddd 1px;
+  margin: 12px;
+}
+
+#yt-playlist td {
+  padding: 12px;
+  }
+</style>
+<table id="yt-playlist"><tr><td>YouTube Playlists:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td><a href="https://www.youtube.com/playlist?list=PLG0LjilbrcCa4SjSltc6TXata4wawlMCz">Part A</a></td><td><a href="https://www.youtube.com/playlist?list=PLG0LjilbrcCZitp0tlVQ1WOcoOGxFEk_b">Part B</a>  </td></tr></table><br>
 <table width="100%"><tr><td width="15%">&nbsp;</td><td>
  <table width="100%">
   <thead>
