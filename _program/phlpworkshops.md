@@ -206,7 +206,8 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            This workshop includes activities in the gather.town space.<br>
+            Join via <a target="_blank" href="https://washington.zoom.us/j/98347664084">Zoom</a>.<br>
+            This workshop includes activities in the RSS'21 gather.town space.<br>
         </td>
     </tr>
     <tr></tr>
@@ -426,7 +427,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            This workshop includes activities in the gather.town space.<br>
+            This workshop is using Bluejeans and their <i>own</i> gather.town space. Please visit the website link above for details.<br>
         </td>
     </tr>
     <tr></tr>
@@ -547,7 +548,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            &nbsp;
+            Join via <a target="_blank" href="https://kit-lecture.zoom.us/j/64651401671?pwd=R3NzcnVJV2d5YnMxSWVtUmQ0WGVFdz09">Zoom</a>.<br> 
         </td>
     </tr>
     <tr></tr>
