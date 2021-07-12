@@ -94,7 +94,7 @@ invisible: true
   }
 </style>
 
-<table id="yt-playlist"><tr><td><a href="https://youtu.be/E7rEO2BtBCg">YouTube</a></td></tr></table>
+<table id="yt-playlist"><tr><td><a href="https://youtu.be/NcI6fJOzBsU">YouTube</a></td></tr></table>
 
 <table width="100%"><tr>
 <td style="width: 15%; text-align: center;"> 
