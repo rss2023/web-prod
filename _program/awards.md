@@ -3,7 +3,7 @@ layout: page
 title: Paper Awards
 description: Award details.
 priority: 9
-invisible: true
+invisible: false
 ---
 
 Congratulations to the following paper nominees! 
