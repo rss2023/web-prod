@@ -427,7 +427,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
-            This workshop is using Bluejeans and their <i>own</i> gather.town space. Please visit the website link above for details.<br>
+            This workshop is using Bluejeans and a gather.town space. 
         </td>
     </tr>
     <tr></tr>
