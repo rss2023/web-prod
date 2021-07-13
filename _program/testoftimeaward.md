@@ -104,7 +104,7 @@ Please join the Test of Time Award Panel on Friday, the 16th of July:
   <thead>
   <tr><th></th> 
    <th style="font-size: 10px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">AEST</th>
- <th style="font-size: 10px; color:#004e7d; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">CST</th>
+ <th style="font-size: 10px; color:#004e7d; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">BJT</th>
  <th style="font-size: 10px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">CEST</th>
  <th style="font-size: 10px; color:#004e7d; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">Eastern</th>
  <th style="font-size: 10px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">Pacific</th>
