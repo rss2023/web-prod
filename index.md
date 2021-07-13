@@ -58,6 +58,19 @@ function onPlayerReady(event) {
 {% endcomment %}
 
 
+<br>
+
+This schedule makes it easy to find sesssion information, technical content, and events:
+<br>
+
+<center>
+<a href="{{ site.baseurl }}/program/schedule.svg">
+<img src="{{ site.baseurl }}/program/schedule.svg"
+       alt="Virtual Event Schedule" width = "90%" /></a> 
+</center>
+
+
+
 ## News and Updates
 * See the [program-at-a-glance](program/overview/) and **[browse the schedule]({{site.baseurl}}/program/schedule.svg)**
 * **Registration for the event is [now open!]({{site.baseurl}}/attending/registration/)**
