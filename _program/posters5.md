@@ -237,7 +237,7 @@ var x1 = function() {
         var distToEnd1 = finDate1 - now1;
 
         if (distToEnd1 > 0) {
-            document.getElementById("eventcounter1").innerHTML = '<img src="{{ site.baseurl }}/images/live-icon-small.gif" alt="Event is Live" width="64" height=17"><a><span style="color: #ffaaaa;">'+ distToEnd1 +'</span></a> ';
+            document.getElementById("eventcounter1").innerHTML = '<img src="{{ site.baseurl }}/images/live-icon-small.gif" alt="Event is Live" width="64" height=17"><a><span style="color: #ffffff;">'+ distToEnd1 +'</span></a> ';
             setTimeout(x1, 30000); 
         }
         else

@@ -19,6 +19,24 @@ July 12&ndash;16, 2021</h1>
 </center>
 <br>
 
+{% comment %}
+<center>
+<table width="100%" style="border: solid #aaa 3px; background:#444;">
+<tr><td>
+<br />
+<h2><b><center><a href="https://gather.town/invite?token=XEJwMZnl"><span style="color: #fff">
+If you're having difficulty with the link above, 
+join the interactive poster sessions directly via this link</span></a></center></b></h2>
+<br />
+</td></tr>
+</table>
+</center>
+<br>
+
+{% endcomment %}
+
+
+
 <center>
 <div id="player"></div>
 </center>
@@ -54,8 +72,6 @@ function onPlayerReady(event) {
 
 </script>
 
-{% comment %}
-{% endcomment %}
 
 
 <br>

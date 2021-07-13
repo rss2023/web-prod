@@ -498,6 +498,7 @@ Please check the workshop websites for more details on their particular schedule
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
+            Join via <a target="_blank" href="https://us05web.zoom.us/j/83354154071?pwd=MjdXWmNTb0JaWGhhVi8raTU0anQrQT09">Zoom</a>.<br> 
             This workshop includes activities in the gather.town space.<br>
         </td>
     </tr>
