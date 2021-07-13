@@ -524,7 +524,15 @@ Please check the workshop websites for more details on their particular schedule
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
             Register <a target="_blank" href="https://forms.gle/mCdfUoXBfa4aU3eMA">here</a>.<br>
-            This workshop intends to include activities in the gather.town space.<br>
+
+
+            Join via <a target="_blank" href="https://boun-edu-tr.zoom.us/j/98042754150?pwd=ZDFESU5lblhlcktDdS91UnJXaXlpdz09">Zoom</a>.<br> 
+            Youtube (will be streamed from Zoom) <a target="_blank" href="https://www.youtube.com/watch?v=6IdzxYmxPIo">here</a>.<br>
+{% comment %}
+Gather town space: https://gather.town/app/1OxDFvAri67gFxUq/dnr-rob
+{% endcomment %}
+            This workshop will include activities in the gather.town space.<br>
+
         </td>
     </tr>
     <tr></tr>
