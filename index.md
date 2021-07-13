@@ -57,6 +57,9 @@ function onYouTubeIframeAPIReady() {
     player = new YT.Player('player', {
         height: '390',
         width: '640',
+        playerVars: {
+            'autoplay': 0
+        },
         videoId: 'QiHMAYQ_iz0',
         events: {
             'onReady': onPlayerReady
@@ -66,8 +69,8 @@ function onYouTubeIframeAPIReady() {
 
 // 4. The API will call this function when the video player is ready.
 function onPlayerReady(event) {
-    player.setPlaybackRate(1.0);
-    event.target.playVideo();
+    //player.setPlaybackRate(1.0);
+    //event.target.playVideo();
 }
 
 </script>

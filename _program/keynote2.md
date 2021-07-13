@@ -66,6 +66,36 @@ invisible: true
 </style>
 </head>
 
+<style>
+#phsession {
+  font-size: 16px;
+  color: #000000;
+  border: solid #ddd 1px;
+  margin: 12px;
+}
+
+#phsession td {
+  padding: 12px;
+  }
+</style>
+
+<table id="phsession"><tr><td><a href="https://pheedloop.com/rss2021/virtual/?page=sessions&section=SESXBYL9DMICJO0C0">PheedLoop Session</a></td></tr></table>
+
+<style>
+#yt-playlist {
+  font-size: 16px;
+  color: #000000;
+  border: solid #ddd 1px;
+  margin: 12px;
+}
+
+#yt-playlist td {
+  padding: 12px;
+  }
+</style>
+
+<table id="yt-playlist"><tr><td><a href="https://youtu.be/DGTlZXHKamc">YouTube</a></td></tr></table>
+
 <table width="100%"><tr>
 <td style="width: 15%; text-align: center;"><a href="{{ site.baseurl }}/program/keynote1/">
 <img src="{{ site.baseurl }}/images/previous_icon.png"
@@ -89,7 +119,7 @@ invisible: true
   <thead>
   <tr><th></th> 
    <th style="font-size: 10px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">AEST</th>
- <th style="font-size: 10px; color:#004e7d; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">CST</th>
+ <th style="font-size: 10px; color:#004e7d; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">BJT</th>
  <th style="font-size: 10px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">CEST</th>
  <th style="font-size: 10px; color:#004e7d; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">Eastern</th>
  <th style="font-size: 10px; color:#000000; text-align:right; border-right: solid #dddddd 1px; padding-right: 10px;">Pacific</th>
