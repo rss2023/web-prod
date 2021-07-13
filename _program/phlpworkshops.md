@@ -607,6 +607,7 @@ Gather town space: https://gather.town/app/1OxDFvAri67gFxUq/dnr-rob
         <td  style="background-color:#fcfcfc;">
         </td>
         <td colspan="3" style="vertical-align:top; background-color:#fcfcfc">
+            Join via <a target="_blank" href="https://us05web.zoom.us/j/83022643122?pwd=bmN4alM3WnhlbkRIcnNWRHJVSjlndz09">Zoom</a>.<br> 
             This workshop includes activities in the gather.town space.<br>
         </td>
     </tr>
