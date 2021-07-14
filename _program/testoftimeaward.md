@@ -235,7 +235,7 @@ He has chaired or co-chaired several major international robotics conferences, i
 
 	<b>Biography:</b>
 	<p style="text-align:justify; font-weight:normal;">
-Lee Wee Sun is a Professor in the Computer Science Department of School of
+Wee Sun Lee is a Professor in the Computer Science Department of School of
 Computing at National University of Singapore. He obtained his PhD from the
 Department of Systems Engineering at the Australian National University in
 1996. His research interests include machine learning and planning under
