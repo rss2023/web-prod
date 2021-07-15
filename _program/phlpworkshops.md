@@ -540,7 +540,7 @@ Gather town space: https://gather.town/app/1OxDFvAri67gFxUq/dnr-rob
      
     <tr>
       <td><span style="font-weight:bold; color: #3a3946;"> W12 </span></td>
-      <td>15th &nbsp; <span style="font-size:smaller; line-height:0.9; display:block;">After interactive session</span> </td>
+      <td>15th &nbsp; <span style="font-size:smaller; line-height:0.9; display:block;">Straddles interactive session</span> </td>
       <td>
         <a href="https://sites.google.com/view/geotopo-rss2021/home">
           Geometry and Topology in Robotics: Learning, Optimization, Planning, and Control
