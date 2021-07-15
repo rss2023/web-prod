@@ -15,7 +15,7 @@ Congratulations to the following paper nominees!
 Chao Cao, Hongbiao  Zhu, Howie Choset, and Ji Zhang
 
 * #25 [*Optimal Pose and Shape Estimation for Category-level 3D Object Perception*]({{site.baseurl}}/program/papers/025/)
-Jingnan Shi (MIT); Heng Yang (MIT); Luca Carlone (MIT)
+Jingnan Shi, Heng Yang, and Luca Carlone
 
 * #31 [*Moving sidewinding forward: optimizing contact patterns for limbless robots via geometric mechanics*]({{site.baseurl}}/program/papers/031/)
 Baxi Chong, Tianyu Wang, Bo Lin, Shengkai Li, Howie Choset, Grigoriy Blekherman, Daniel Goldman
