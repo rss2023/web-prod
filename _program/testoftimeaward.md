@@ -94,6 +94,55 @@ Award goes to the paper:
 
 RSS'21 will have a keynote talk by the awardees and a panel discussion of the work.
 
+
+<style>
+#phsession {
+  font-size: 16px;
+  color: #000000;
+  border: solid #ddd 1px;
+  margin: 12px;
+}
+
+#phsession td {
+  padding: 12px;
+  }
+</style>
+
+
+<style>
+#yt-playlist {
+  font-size: 16px;
+  color: #000000;
+  border: solid #ddd 1px;
+  margin: 12px;
+}
+
+#yt-playlist td {
+  padding: 12px;
+  }
+</style>
+
+
+<style>
+#slides {
+  font-size: 16px;
+  color: #000000;
+  border: solid #ddd 1px;
+  margin: 12px;
+}
+
+#slides td {
+  padding: 12px;
+  }
+</style>
+
+<table><tr>
+<td>Keynote Talk: </td>
+<td><table id="phsession"><tr><td><a href="https://pheedloop.com/rss2021/virtual/?page=sessions&section=SESG6UVU4KUV6DSK6">PheedLoop Session</a></td></tr></table></td>
+<td><table id="yt-playlist"><tr><td><a href="https://youtu.be/UhNyR3FTjZA">YouTube</a></td></tr></table></td>
+</tr></table>
+
+
 Please join the Test of Time Award Panel on Friday, the 16th of July:
 
 <table width="100%">
@@ -142,8 +191,15 @@ Please join the Test of Time Award Panel on Friday, the 16th of July:
 
 <br>
 
-Like other talks, the keynote talk for this award will be available for asynchronous viewing, and will be released well before the panel.
 
+<table><tr>
+<td>Panel : </td>
+<td><table id="phsession"><tr><td><a href="https://pheedloop.com/rss2021/virtual/?page=sessions&section=SESNX9VZFONIQFHO4">PheedLoop Session</a></td></tr></table></td>
+<td><table id="yt-playlist"><tr><td><a href="https://youtu.be/B8TK182gEfo">YouTube</a></td></tr></table></td>
+</tr></table>
+
+
+Like other talks, the keynote talk for this award will be available for asynchronous viewing, and will be released well before the panel.
 
 
 {% comment %}
