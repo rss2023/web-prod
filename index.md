@@ -12,6 +12,21 @@ July 12&ndash;16, 2021</h1>
 <table width="100%" style="border: solid #aaa 3px; background:#444;">
 <tr><td>
 <br />
+<h2><b><center><a href="thanks.pdf"><span style="color: #fff">RSS 2021 has now finished. Thank you to all who helped make it possible.</span></a></center></b></h2>
+<br />
+</td></tr>
+</table>
+</center>
+<br>
+
+
+
+
+{% comment %}
+<center>
+<table width="100%" style="border: solid #aaa 3px; background:#444;">
+<tr><td>
+<br />
 <h2><b><center><a href="https://pheedloop.com/rss2021/virtual/"><span style="color: #fff">Join the PheedLoop Conference System</span></a></center></b></h2>
 <br />
 </td></tr>
@@ -19,7 +34,6 @@ July 12&ndash;16, 2021</h1>
 </center>
 <br>
 
-{% comment %}
 <center>
 <table width="100%" style="border: solid #aaa 3px; background:#444;">
 <tr><td>
@@ -33,7 +47,6 @@ join the interactive poster sessions directly via this link</span></a></center><
 </center>
 <br>
 
-{% endcomment %}
 
 
 
@@ -74,6 +87,8 @@ function onPlayerReady(event) {
 }
 
 </script>
+
+{% endcomment %}
 
 
 
