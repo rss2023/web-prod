@@ -49,21 +49,6 @@ keynote talks.
 <br>
 
 <style>
-#phsession {
-  font-size: 16px;
-  color: #000000;
-  border: solid #ddd 1px;
-  margin: 12px;
-}
-
-#phsession td {
-  padding: 12px;
-  }
-</style>
-
-<table id="phsession"><tr><td><a href="https://pheedloop.com/rss2021/virtual/?page=sessions&section=SES86I9XZFIJ0RWTF">PheedLoop Session</a></td></tr></table>
-
-<style>
 #yt-playlist {
   font-size: 16px;
   color: #000000;
@@ -116,21 +101,6 @@ keynote talks.
 </table>
 
 <br>
-
-<style>
-#phsession {
-  font-size: 16px;
-  color: #000000;
-  border: solid #ddd 1px;
-  margin: 12px;
-}
-
-#phsession td {
-  padding: 12px;
-  }
-</style>
-
-<table id="phsession"><tr><td><a href="https://pheedloop.com/rss2021/virtual/?page=sessions&section=SESXBYL9DMICJO0C0">PheedLoop Session</a></td></tr></table>
 
 <style>
 #yt-playlist {

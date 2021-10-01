@@ -86,20 +86,6 @@ invisible: true
 
 
 <style>
-#phsession {
-  font-size: 16px;
-  color: #000000;
-  border: solid #ddd 1px;
-  margin: 12px;
-}
-
-#phsession td {
-  padding: 12px;
-  }
-</style>
-<table id="phsession"><tr><td>PheedLoop Sessions:</td><td><a href="https://pheedloop.com/rss2021/virtual/?page=sessions&section=SESG2QZ28C6UU9V6Y">Part A</a></td><td><a href="https://pheedloop.com/rss2021/virtual/?page=sessions&section=SESMAREY54O3QYSAK">Part B</a>  </td></tr></table>
-
-<style>
 #yt-playlist {
   font-size: 16px;
   color: #000000;
