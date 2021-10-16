@@ -3,22 +3,7 @@ layout: default
 title: Home
 ---
 <h1 class="page-title">{{ site.title }}<br>
-July 12&ndash;16, 2021</h1>
-
-
-<br>
-
-<center>
-<table width="100%" style="border: solid #aaa 3px; background:#444;">
-<tr><td>
-<br />
-<h2><b><center><a href="thanks.pdf"><span style="color: #fff">RSS 2021 has now finished. Thank you to all who helped make it possible.</span></a></center></b></h2>
-<br />
-</td></tr>
-</table>
-</center>
-<br>
-
+June 27&ndash;July 1, 2022</h1>
 
 
 
@@ -91,27 +76,17 @@ function onPlayerReady(event) {
 {% endcomment %}
 
 
-
-<br>
-
-This schedule makes it easy to find sesssion information, technical content, and events:
-<br>
-
-<center>
-<a href="{{ site.baseurl }}/program/schedule.svg">
-<img src="{{ site.baseurl }}/program/schedule.svg"
-       alt="Virtual Event Schedule" width = "90%" /></a> 
-</center>
-
-
+{% comment %}
 
 ## News and Updates
 * See the [program-at-a-glance](program/overview/) and **[browse the schedule]({{site.baseurl}}/program/schedule.svg)**
 * **Registration for the event is [now open!]({{site.baseurl}}/attending/registration/)**
 * The official [proceedings](http://www.roboticsproceedings.org/rss17/) are available.
-* The [Inclusion@RSS 2021](https://sites.google.com/andrew.cmu.edu/inclusion-2021) website is up, and is open for applications.
+* The [Inclusion@RSS 2022](https://sites.google.com/andrew.cmu.edu/inclusion-2021) website is up, and is open for applications.
 * See [Author Information]({{site.baseurl}}/information/authorinfo/) for submission instructions and paper templates.
 * Here is a list of the [accepted workshops]({{site.baseurl}}/program/workshops/).
+
+{% endcomment %}
 
 ### Call for Participation
 The Robotics: Science and Systems has a long history of bringing together
@@ -119,10 +94,7 @@ researchers in all areas of robotics from around the world for an engaging and
 focused week of single-track presentations, workshops, poster sessions,
 tutorials, and virtual fun! This year, as always, we solicit your best work.
 
-RSS 2021 will be held virtually in the week July 12-16, 2021. We're also
-considering some the potential of localized distal in-person events, but 
-that being contingent on the possibility of safe travel, CoVid-19 vaccine
-availability, etc.
+RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After two years of virtual conferences due to the Coronavirus pandemic, RSS 2022 is planned as a hybrid conference with substantial in-person activities! We are closely monitoring the developing COVID-19 situation and will make further determinations about the distribution of in-person vs virtual activities as we get closer to the conference date.
 
 <!--<span style="text:style:bold;color:red">Some authors reported upload issues via CMT within the
 last minutes yesterday. Please email the <a mailto="dshell@tamu.edu">program
@@ -139,47 +111,31 @@ chair</a> ASAP for help resolving these issues.</span>-->
     </thead>
     <tbody>
       <tr>
-        <td><s>March 1st, 2021</s></td>
+        <td>January 28th, 2022</td>
         <td><a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Paper Submission Deadline</td>
       </tr>
       <tr>
-        <td><s>March 15th, 2021</s></td>
+        <td>February 18th, 2022</td>
         <td><a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Workshop Submission Deadline</td>
       </tr>
       <tr>
-      <td colspan="2"><s>April 5th, 2021</s></td>
+      <td colspan="2">March 4th, 2022</td>
         <td>Workshop Acceptance Notification</td>
       </tr>
       <tr>
-        <td><s>April 23rd, 2021</s></td>
-        <td><a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td>Author Feedback Deadline</td>
-      </tr>
-      <tr>
-        <td colspan="2"><s>May 10th, 2021</s></td>
+        <td colspan="2">April 15th, 2022</td>
         <td>Paper Acceptance Notification</td>
       </tr>
       <tr>
-        <td><s>June 25th, 2021</s></td>
-        <td><a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td>Camera-Ready Submission Deadline</td>
-      </tr>
-      <tr>
-        <td><s>June 25th, 2021</s></td>
-        <td><a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td>Spotlight Video Submission Deadline</td>
-      </tr>
-
-      <tr>
-        <td colspan="2">July 12th &ndash; 16th, 2021</td>
-        <td>Virtual Conference</td>
+        <td colspan="2">June 27th &ndash; July 1st, 2022</td>
+        <td>New York City, USA</td>
       </tr>
     </tbody>
   </table>
 
-
+{% comment %}
 
 ### RSS Sponsors
 
@@ -242,4 +198,6 @@ chair</a> ASAP for help resolving these issues.</span>-->
 
 </table>
 
-The website of the 2020 RSS conference can be found [here](https://roboticsconference.org/2020/).
+{% endcomment %}
+
+The website of the 2021 RSS conference can be found [here](https://roboticsconference.org/2021/).

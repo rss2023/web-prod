@@ -8,15 +8,16 @@
     --cmu-blue: #224477;
     --cmu-green: #008855;
     --cmu-dark-green: #224433;
-	--osu-orange: #d83f09;
-	--osu-black: #000000;
-	--osu-white: #ffffff;
+    --osu-orange: #d83f09;
+    --osu-black: #000000;
+    --osu-white: #ffffff;
     --gen-grey: #3a3946;
     --gen-light-gray: #777789;
     --gen-dark-gray: #333333;
+    --columbia-blue: #000d74;
 }
 
-.header { background-color: var(--gen-grey);}
+.header { background-color: var(--columbia-blue);}
 .content { margin-top:-20px; }
 
 h3 {text-align: left;}
