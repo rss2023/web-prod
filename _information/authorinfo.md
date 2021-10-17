@@ -2,6 +2,7 @@
 layout: page
 title: Author Information
 description: Instructions for paper submission.
+invisible: true
 priority: 8
 ---
 

@@ -6,8 +6,8 @@ description: Reviewing team.
 
  <div id="area-chairs" class="row text-center">
     <b>Program Chair</b><br>
-        <a href="http://robotics.cs.tamu.edu/dshell">Dylan Shell</a><br>
-        <i>Texas A&amp;M University</i><br>
+        <a href="https://kkhauser.web.illinois.edu/">Kris Hauser</a><br>
+        <i>University of Illinois, Urbana-Champaign</i><br>
             <br>
 	<b>Area Chairs</b><br>
     {% for member in site.data.acs %}

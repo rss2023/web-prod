@@ -2,6 +2,7 @@
 layout: page
 title: Call for Papers
 description: Request for Participation
+invisible: true
 ---
 
 It's a pleasure to invite you to submit your best research to the 2021
