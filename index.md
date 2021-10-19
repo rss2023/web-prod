@@ -92,7 +92,7 @@ function onPlayerReady(event) {
 The Robotics: Science and Systems has a long history of bringing together
 researchers in all areas of robotics from around the world for an engaging and
 focused week of single-track presentations, workshops, poster sessions,
-tutorials, and virtual fun! This year, as always, we solicit your best work.
+tutorials! This year, as always, we solicit your best work.
 
 RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After two years of virtual conferences due to the Coronavirus pandemic, RSS 2022 is planned as a hybrid conference with substantial in-person activities! We are closely monitoring the developing COVID-19 situation and will make further determinations about the distribution of in-person vs virtual activities as we get closer to the conference date.
 

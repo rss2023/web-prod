@@ -2,60 +2,41 @@
 layout: page
 title: Call for Papers
 description: Request for Participation
-invisible: true
 ---
 
-It's a pleasure to invite you to submit your best research to the 2021
-Robotics: Science and Systems Conference, a virtual meeting connecting
-researchers working on all aspects of robotics including scientific
-foundations, mechanisms, algorithms, applications, and analysis of robotic
-systems. The paper submission deadline is *March 1st*. 
+We are pleased to announce the 18th edition of the Robotics: Science and Systems Conference to be held in New York City in summer of 2022. RSS is a single-track conference that connects researchers working on all aspects of robotics including scientific foundations, mechanisms, algorithms, applications, and analysis of robotic systems. The single-track format gives attendees an opportunity to see state-of-the-art research in all areas of robotics, and will consist of oral and poster presentations of accepted papers, invited talks, and panels.
 
-This, the 17th edition of RSS, will be the first time it has been planned to be
-virtual from the get-go. The conference will preserve the single-track format,
-and the final program will be the result of a thorough review process to give
-attendees an opportunity to see the most exciting research in all areas of
-robotics. Submissions will be evaluated in terms of their novelty, technical
-quality, significance, potential impact, and clarity. The program will include
-invited talks as well as oral and poster presentations of accepted papers. We
-will also continue the RSS tradition of vibrant, engaging, and trailblazing
-workshops across a diverse range of topics. (The workshop submission deadline
-is a fortnight after that for papers: March 15th.)
+The conference will preserve the RSS tradition of selecting excellent papers via a thorough and fair review process. Paper submissions will be evaluated in terms of their novelty, technical quality, significance, potential impact, and clarity.
 
-## Highlights of RSS 2021: 
-
-* Rather than weathering virtual meetings as a mere stopgap, the intention is to embrace the new opportunities that they afford. The virtual format has the advantage of reaching a wider audience than ever before, including many who may have heard of RSS but never participated previously, or for whom travel is prohibitive. We will have a focus on making openly available and retaining resources (like recorded presentations, self-contained unabridged text) so that the event will be of value to our community for far longer than a single week in July. 
-
-* A strong and wide-spanning set of [Area Chairs]({{site.baseurl}}/committees/pc) have agreed to serve in 2021. The process of handling papers will retain those traditional features of RSS which emphasize care and quality with a rigorous double-blind review process; we will continue the rebuttal format successfully introduced last time, with author rebuttals being directed to the ACs directly. 
-
-* RSS will have a Best Paper Award, a Best Student Paper Award, and a Best Systems Paper Award. The latter is specifically dedicated to papers that pioneer novel robotic systems (e.g. hardware or mechatronics) or demonstrate novel behaviors on a robotic systems beyond what has been seen previously. Further, RSS 2021 will continue the Test of Time Award, along with the associated panel discussion.
-
-* The technical program will include single track oral and poster presentations of all accepted papers, as well as invited talks. Opportunities for virtual mingling and networking are planned (but you'll have to supply your own real coffee).
+RSS also features a series of vibrant and engaging workshops across a diverse range of topics. RSS workshops are a highlight of the conference and offer participants an opportunity to discuss bleeding-edge topics in depth with renowned experts.
 
 
 ## Important Dates
 
-* March 1st, 2021: Paper Submission Deadline
-* March 15th, 2021: Workshop Submission Deadline
-* April 5th, 2021: Workshop Acceptance Notification
-* May 10th, 2021 Paper Acceptance Notification
-* July 12th - 16th, 2021 Virtual RSS 2021
+* January 28, 2022: Paper Submission Deadline
+* February 18th, 2022: Workshop Submission Deadline
+* March 4, 2022: Workshop Acceptance Notification
+* April 15, 2022: Paper Acceptance Notification
+* June 27 - July 1, 2022: RSS 2022, New York City, USA
 
-Submission information is available [here]({{site.baseurl}}/information/authorinfo/).
+Detailed submission instructions will be made available at [http://roboticsconference.org](http://roboticsconference.org/) in December 2021.
 
 
 ## Subject Areas 
 
-We're seeking high-quality research papers that introduce new ideas and
-stimulate future trends in robotics across a diverse range of areas.
-We invite submissions in all areas of robotics, including:
-mechanisms and design, robot learning, control and dynamics,
-planning, manipulation, field robotics, human-robot interaction,
-robot perception, formal methods, multi-robot systems,
-healthcare and medical robotics, biological robotics, mobile robotics.
-*Also, we specifically encourage creative submissions that 
-strike out in new directions and define new sub-areas.
-Excellence of ideas will be a central criterion for acceptance.*
+RSS seeks high-quality research papers that introduce new ideas and stimulate future trends in robotics. We invite submissions in all areas of robotics, including: mechanisms and design, robot learning, control and dynamics, planning, manipulation, field robotics, human-robot interaction, perception, formal methods, multi-robot systems, healthcare and medical robotics, bioinspired robots, and mobile robotics.
+
+
+## Highlights of RSS 2022
+
+* After two years of virtual conferences due to the Coronavirus pandemic, RSS 2022 is planned as a hybrid conference with substantial in-person activities! We are closely monitoring the developing COVID-19 situation and will make further determinations about the distribution of in-person vs virtual activities as we get closer to the conference date.
+
+* The 2022 program committee consists of a set of Area Chairs with broad and deep expertise across all sub-disciplines of robotics. The review process will continue RSS's strong tradition in emphasizing care, quality, fairness, and rigor. Reviews will be double-blind, and authors will be allowed to submit a rebuttal to the reviews. Author rebuttals will be directed to the ACs and considered during the program committee meeting.
+
+* To encourage a more balanced consideration of "systems" papers, additional review criteria have been introduced that ask reviewers and Area Chairs to gauge the potential impact of a paper on deployed robotic systems. See the Open Letter from the Program Chair for more information about the rationale for this change.
+
+* RSS maintains a strong on-going relationship with top robotics journals and authors have been invited in the past to submit papers to IEEE Transactions on Robotics (T-RO), and to special issues of the International Journal of Robotics Research (IJRR) and Autonomous Robots (AuRo).
+
 
 {% comment %}
 During submission, please mark 1 primary and up to 2
@@ -76,7 +57,7 @@ secondary subject areas to help us assigning the paper to reviewers.
 * **Mobile Robotics:** Mapping, Localization, Locomotion, Navigation, SLAM, Collision Avoidance, Exploration
 {% endcomment %}
 
-
+{% comment %}
 ## Special Journal Issues
 
 RSS maintains a strong on-going relationship with top robotics journals. 
@@ -86,6 +67,5 @@ As of late 2020, the most recently published special issues with RSS papers are
 [International Journal of Robotics Research (IJRR)](https://journals.sagepub.com/toc/ijra/39/2-3) and 
 [Autonomous Robots (AuRo)](https://link.springer.com/journal/10514/volumes-and-issues/44-7).
 
-{% comment %}
 For example, out of the 57 accepted papers in RSS 2014, 15 appeared in the [IJRR Special Issue](http://ijr.sagepub.com/content/35/1-3.toc), and 13 in the [AuRo Special Issue](http://link.springer.com/journal/10514/39/3/page/1).
 {% endcomment %}

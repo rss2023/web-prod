@@ -47,10 +47,10 @@ description: Organizing team.
             <a href="https://profiles.uts.edu.au/Shoudong.Huang">Shoudong Huang</a><br>
             <i>University of Technology Sydney</i><br>
             <br>
-      <!-- <b>Sponsorship Chair</b><br>
+      <b>Sponsorship Chair</b><br>
             <a href="https://mcube.mit.edu/">Alberto Rodriguez</a><br>
             <i>MIT</i><br>
-            <br> -->
+            <br>
       <!-- <b>Inclusion Chairs</b><br>
             <table style="margin-left:auto;margin-right:auto;"><tr>
             <td style="width:200px;vertical-align:top;">
