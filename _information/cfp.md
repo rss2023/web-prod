@@ -31,11 +31,11 @@ RSS seeks high-quality research papers that introduce new ideas and stimulate fu
 
 * After two years of virtual conferences due to the Coronavirus pandemic, RSS 2022 is planned as a hybrid conference with substantial in-person activities! We are closely monitoring the developing COVID-19 situation and will make further determinations about the distribution of in-person vs virtual activities as we get closer to the conference date.
 
-* The 2022 program committee consists of a set of Area Chairs with broad and deep expertise across all sub-disciplines of robotics. The review process will continue RSS's strong tradition in emphasizing care, quality, fairness, and rigor. Reviews will be double-blind, and authors will be allowed to submit a rebuttal to the reviews. Author rebuttals will be directed to the ACs and considered during the program committee meeting.
+* The 2022 program committee consists of a set of [Area Chairs](/committees/pc) with broad and deep expertise across all sub-disciplines of robotics. The review process will continue RSS's strong tradition in emphasizing care, quality, fairness, and rigor. Reviews will be double-blind, and authors will be allowed to submit a rebuttal to the reviews. Author rebuttals will be directed to the ACs and considered during the program committee meeting.
 
-* To encourage a more balanced consideration of "systems" papers, additional review criteria have been introduced that ask reviewers and Area Chairs to gauge the potential impact of a paper on deployed robotic systems. See the Open Letter from the Program Chair for more information about the rationale for this change.
+* To encourage a more balanced consideration of "systems" papers, additional review criteria have been introduced that ask reviewers and Area Chairs to gauge the potential impact of a paper on deployed robotic systems. See the [Open Letter from the Program Chair](https://hauser-kris.medium.com/an-open-letter-from-the-program-chair-of-robotics-science-and-systems-2022-419138fda27d) for more information about the rationale for this change.
 
-* RSS maintains a strong on-going relationship with top robotics journals and authors have been invited in the past to submit papers to IEEE Transactions on Robotics (T-RO), and to special issues of the International Journal of Robotics Research (IJRR) and Autonomous Robots (AuRo).
+* RSS maintains a strong on-going relationship with top robotics journals and authors have been invited in the past to submit papers to [IEEE Transactions on Robotics (T-RO)](https://www.ieee-ras.org/publications/t-ro), and to special issues of the [International Journal of Robotics Research (IJRR)](https://journals.sagepub.com/home/ijr) and [Autonomous Robots (AuRo)](https://www.springer.com/journal/10514).
 
 
 {% comment %}
