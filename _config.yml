@@ -10,14 +10,14 @@ permalink:        pretty
 title:            "Robotics: Science and Systems"
 tagline:          'A Robotics Conference'
 description:      'June 27th - July 1st, 2022.'
-url:
-baseurl:          
+url:              "https://roboticsconference.org"
+baseurl:          ""
 include:          ['_pages']
 exclude:          ['README.md', 'LICENSE.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor', 'GRTAGS', 'GPATH', 'GTAGS', 'deploy.sh']
 
 author:
-  name:           'Wennie Tabib'
-  url:            www.wtabib.com
+  name:           'Yuke Zhu'
+  url:            https://www.cs.utexas.edu/~yukez/
 
 gems:             [jekyll-paginate]
 paginate:         5
