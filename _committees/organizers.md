@@ -64,19 +64,19 @@ description: Organizing team.
             </tr>
             </table>
             <br> -->
-      <!-- <b>RSS Pioneers Chair</b><br>
+      <b>RSS Pioneers Chair</b><br>
             <table style="margin-left:auto;margin-right:auto;"><tr>
             <td style="width:200px;vertical-align:top;">
-            <a href="https://people.eecs.berkeley.edu/~abajcsy/">Andrea Bajcsy</a><br>
-            <i>UC Berkeley</i><br>
+            <a href="https://www.aharakeh.com/">Ali Harakeh</a><br>
+            <i>Mila-Quebec AI Institute</i><br>
             </td>
             <td style="width:45px;"></td>
             <td style="width:200px;vertical-align:top;">
-            <a href="https://www.ias.informatik.tu-darmstadt.de/Team/GeorgiaChalvatzaki">Georgia Chalvatzaki </a><br>
-            <i>TU Darmstadt</i><br></td>
+            <a href="https://nivedithakalavakonda.com/">Nivii Kalavakonda</a><br>
+            <i>University of Washington</i><br></td>
             </tr>
             </table>
-            <br> -->
+            <br>
 	    <b>Website Chair</b><br>
             <a href="https://www.cs.utexas.edu/~yukez/">Yuke Zhu</a><br>
             <i>University of Texas, Austin</i><br>

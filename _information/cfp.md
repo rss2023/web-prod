@@ -19,7 +19,7 @@ RSS also features a series of vibrant and engaging workshops across a diverse ra
 * April 15, 2022: Paper Acceptance Notification
 * June 27 - July 1, 2022: RSS 2022, New York City, USA
 
-Detailed submission instructions will be made available at [http://roboticsconference.org](http://roboticsconference.org/) in December 2021.
+Detailed submission instructions are available [here]({{site.baseurl}}/information/authorinfo/).
 
 
 ## Subject Areas 
