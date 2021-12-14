@@ -33,9 +33,9 @@ collections:
     committees:
         output: true
         permalink: /committees/:path/
-    # attending:
-    #    output: true
-    #    permalink: /attending/:path/
+    attending:
+       output: true
+       permalink: /attending/:path/
     # program:
     #     output: true
     #     permalink: /program/:path/

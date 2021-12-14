@@ -21,7 +21,7 @@ showcase their research.
 To facilitate attendance, the workshop will provide partial support for travel and registration for RSS Pioneers participants and the main RSS conference. This year, the RSS Pioneers will be held on July 11th 2020 in Corvallis, Oregon, USA. RSS Pioneers is inspired by the format of the prestigious HRI Pioneers workshop. The first and second RSS Pioneers were successfully held at Carnegie Mellon University, Pittsburgh, PA, USA in 2018 and in Freiburg, Germany in 2019, respectively.
 {% endcomment %}
 
-Details about the workshop are available at the [workshop website](https://sites.google.com/view/rsspioneers2021).
+Details about the workshop are available at the [workshop website](https://sites.google.com/view/rsspioneers2022/).
 
 {% comment %}
 <table class="table">
@@ -53,7 +53,7 @@ Details about the workshop are available at the [workshop website](https://sites
 
 {% endcomment %}
 
-
+{% comment %}
 We are very grateful to acknowledge the support of TRI in sponsoring RSS Pioneers 2021.
 <table width="100%" class="center">
 <tr>
@@ -64,5 +64,5 @@ We are very grateful to acknowledge the support of TRI in sponsoring RSS Pioneer
 </td>
 </tr>
 </table>
-
+{% endcomment %}
 

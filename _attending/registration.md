@@ -3,7 +3,7 @@ layout: page
 title: Registration
 description: Register for the conference.
 priority: 8
-invisible: false
+invisible: true
 ---
 
 RSS 2021 will be held using a central virtual conference platform to

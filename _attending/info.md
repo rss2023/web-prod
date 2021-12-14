@@ -3,7 +3,7 @@ layout: page
 title: Instructions for Conference Attendees
 description: 
 priority: 10
-invisible: false
+invisible: true
 ---
 
 <center><i>Thank you for joining the second virtual RSS!</i></center>

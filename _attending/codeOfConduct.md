@@ -3,7 +3,7 @@ layout: page
 title: RSS 2021 Code of Conduct
 description: 
 priority: 9
-invisible: false
+invisible: true
 ---
 
 Robotics: Science and Systems 2021 is a space for exchanging ideas,
