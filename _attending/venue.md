@@ -3,10 +3,19 @@ layout: page
 title: Venue
 description: The awesome place we're holding our conference.
 priority: 9
-invisible: true
+invisible: false
 ---
 
+RSS 2022 will take place in New York City, mainly hosted on Columbia University's [Morningside Campus](https://cufo.columbia.edu/sites/default/files/content/morningsidemap_2015aug-7.pdf). The campus is located in the [Morningside Heights neighborhood](https://morningside-alliance.org/) of Manhattan, close to Central Park. It is well connected via [subway lines](https://map.mta.info/#@40.8046036,-73.9636683,15.31z) to the entire city, with more attractions and places of interest than we could hope to list here.
 
+ <img src="{{ site.baseurl }}/images/ColumbiaCREA.MorningsideAerial.jpg"
+       alt="Columbia Morning" width = "400" /> 
+
+ <img src="{{ site.baseurl }}/images/ColumbiaCampusAndCityFromNWCB.Night.jpg"
+       alt="Columbia Night" width = "400" /> 
+
+
+{% comment %}
 # <span style="color:red">**Update Concerning COVID-19** </span>
 
 <span style="color:red">The RSS 2020 organizing committee and the RSS foundation boards hope you are safe and well. Due to the pandemic and the uncertainty regarding travel to the US, RSS 2020 will take place **VIRTUALLY** during the original dates (July 12-16). </span>
@@ -35,7 +44,6 @@ The conference will be held at Oregon State University (OSU). The conference's p
 
 
 
-{% comment %}
 The conference will be held at the [Kresge Auditorium](https://en.wikipedia.org/wiki/Kresge_Auditorium)
 ([directions](https://whereis.mit.edu/?go=W16)) at MIT.
 

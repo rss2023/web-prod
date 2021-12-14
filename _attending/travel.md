@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Virtual Attendance
-description: How to get to OSU.
+title: Travel
+description: How to get to NYC
 Priority: 3
 invisible: true
 ---
+
+{% comment %}
+
 
 # <span style="color:red">**Update Concerning COVID-19** </span>
 
@@ -14,6 +17,8 @@ invisible: true
 
  
 <span style="color:red">We expect to share details regarding RSS 2020 by the end of May. The official conference proceedings will be available online, as usual, and we are exploring ways to create an exciting and engaging online program. While we cannot meet physically in one place, let us stay connected as a community and support the open scientific discourse that is the hallmark of RSS. </span>
+
+{% endcomment %}
 
 
 {% comment %}
