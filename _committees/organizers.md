@@ -51,6 +51,10 @@ description: Organizing team.
             <a href="https://mcube.mit.edu/">Alberto Rodriguez</a><br>
             <i>MIT</i><br>
             <br>
+      <b>Registration Chair</b><br>
+            <a href="http://www.cs.toronto.edu/~florian/">Florian Shkurti</a><br>
+            <i>University of Toronto</i><br>
+            <br>
       <!-- <b>Inclusion Chairs</b><br>
             <table style="margin-left:auto;margin-right:auto;"><tr>
             <td style="width:200px;vertical-align:top;">
