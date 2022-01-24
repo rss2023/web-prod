@@ -112,12 +112,12 @@ chair</a> ASAP for help resolving these issues.</span>-->
     <tbody>
       <tr>
         <td>January 28th, 2022</td>
-        <td><a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Paper Submission Deadline</td>
       </tr>
       <tr>
         <td>February 18th, 2022</td>
-        <td><a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Workshop Submission Deadline</td>
       </tr>
       <tr>

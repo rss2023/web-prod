@@ -13,8 +13,8 @@ RSS also features a series of vibrant and engaging workshops across a diverse ra
 
 ## Important Dates
 
-* January 28, 2022: Paper Submission Deadline
-* February 18th, 2022: Workshop Submission Deadline
+* January 28 11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a>, 2022: Paper Submission Deadline
+* February 18th 11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a>, 2022: Workshop Submission Deadline
 * March 4, 2022: Workshop Acceptance Notification
 * April 15, 2022: Paper Acceptance Notification
 * June 27 - July 1, 2022: RSS 2022, New York City, USA

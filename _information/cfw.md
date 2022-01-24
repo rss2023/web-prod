@@ -48,6 +48,6 @@ Please contact the <a href="https://roboticsconference.org/committees/organizers
 
 ## Important Dates
 
-* Workshop Proposal Submission Deadline: February 18th, 2022
+* Workshop Proposal Submission Deadline: February 18th 11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a>, 2022
 * Acceptance Notification:  March 4th, 2022
 * Workshop dates: June 27  and July 1, 2022
