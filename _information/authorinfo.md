@@ -151,7 +151,7 @@ Paper submission and review will occur in the Conference Management Toolkit (CMT
 * **Conflict domains:** When you login for the first time, CMT will prompt you to enter your conflict domains. You will not be allowed to start the submission process without finishing this step.
 * **Paper submission:** Make sure your role is “Author”. Enter title, abstract, and authors. Select your primary and secondary [subject areas]({{site.baseurl}}/information/cfp/index.html#subject-areas). Your paper may now be uploaded. Papers must be in the accepted conference style format and must be submitted as a PDF. Papers may be edited, updated and replaced up to the full paper final submission deadline.
 * **Paper ID:** After clicking the Submit link, your paper will be assigned an ID. To make sure your PDF submission is reviewer-friendly, enter this ID at the end of your title as instructed in the paper template.
-* **Supplementary material:** Authors may submit supplementary material such as a video or an expanded version of a proof (20MB max, accepted formats: avi, mov, mp4, mpg, pdf, tar, tgz, zip). Please note that the link to upload supplementary material becomes active only after the paper submission is complete.
+* **Supplementary material:** Authors may submit supplementary material such as a video or an expanded version of a proof (50MB max, accepted formats: avi, mov, mp4, mpg, pdf, tar, tgz, zip). Please note that the link to upload supplementary material becomes active only after the paper submission is complete.
 
 
 
