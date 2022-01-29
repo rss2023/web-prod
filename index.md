@@ -96,9 +96,7 @@ tutorials! This year, as always, we solicit your best work.
 
 RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After two years of virtual conferences due to the Coronavirus pandemic, RSS 2022 is planned as a hybrid conference with substantial in-person activities! We are closely monitoring the developing COVID-19 situation and will make further determinations about the distribution of in-person vs virtual activities as we get closer to the conference date.
 
-<!--<span style="text:style:bold;color:red">Some authors reported upload issues via CMT within the
-last minutes yesterday. Please email the <a mailto="dshell@tamu.edu">program
-chair</a> ASAP for help resolving these issues.</span>-->
+<span style="text:style:bold;color:red">Due to a configuration problem with the submission site, many authors had problems submitting or revising their papers in the hours before the deadline. The problem is now fixed and the deadline for submitting materials has been extended to 11:59am AOE, January 29.</span>
 
 
 ### Timeline
@@ -111,8 +109,8 @@ chair</a> ASAP for help resolving these issues.</span>-->
     </thead>
     <tbody>
       <tr>
-        <td>January 28th, 2022</td>
-        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td>January 29th, 2022</td>
+        <td>11:59am <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Paper Submission Deadline</td>
       </tr>
       <tr>
