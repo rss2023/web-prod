@@ -55,19 +55,14 @@ description: Organizing team.
             <a href="http://www.cs.toronto.edu/~florian/">Florian Shkurti</a><br>
             <i>University of Toronto</i><br>
             <br>
-      <!-- <b>Inclusion Chairs</b><br>
+      <b>Inclusion Chair</b><br>
             <table style="margin-left:auto;margin-right:auto;"><tr>
             <td style="width:200px;vertical-align:top;">
-            <a href="https://www.andrew.cmu.edu/user/amj1/">Aaron Johnson</a><br>
-            <i>Carnegie Mellon University</i><br>
-            </td>
-            <td style="width:45px;"></td>
-            <td style="width:200px;vertical-align:top;">
-            <a href="https://www.csee.umbc.edu/people/faculty/cynthia-matuszek/">Cynthia Matuszek</a><br>
-            <i>University of Maryland, Baltimore County</i><br></td>
+            <a href="http://www.hennyadmoni.com/">Henny Admoni</a><br>
+            <i>Carnegie Mellon University</i><br></td>
             </tr>
             </table>
-            <br> -->
+            <br>
       <b>RSS Pioneers Chair</b><br>
             <table style="margin-left:auto;margin-right:auto;"><tr>
             <td style="width:200px;vertical-align:top;">

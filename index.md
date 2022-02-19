@@ -109,12 +109,12 @@ RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After 
     </thead>
     <tbody>
       <tr>
-        <td>January 29th, 2022</td>
+        <td><strike>January 29th, 2022</strike></td>
         <td>11:59am <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Paper Submission Deadline</td>
       </tr>
       <tr>
-        <td>February 18th, 2022</td>
+        <td><strike>February 18th, 2022</strike></td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Workshop Submission Deadline</td>
       </tr>
