@@ -55,7 +55,7 @@ description: Organizing team.
             <a href="http://www.cs.toronto.edu/~florian/">Florian Shkurti</a><br>
             <i>University of Toronto</i><br>
             <br>
-      <b>Inclusion Chair</b><br>
+      <b>Inclusions@RSS Chair</b><br>
             <table style="margin-left:auto;margin-right:auto;"><tr>
             <td style="width:200px;vertical-align:top;">
             <a href="http://www.hennyadmoni.com/">Henny Admoni</a><br>
@@ -63,7 +63,7 @@ description: Organizing team.
             </tr>
             </table>
             <br>
-      <b>RSS Pioneers Chair</b><br>
+      <b>RSS Pioneers Chairs</b><br>
             <table style="margin-left:auto;margin-right:auto;"><tr>
             <td style="width:200px;vertical-align:top;">
             <a href="https://www.aharakeh.com/">Ali Harakeh</a><br>
