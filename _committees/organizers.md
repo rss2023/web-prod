@@ -55,11 +55,15 @@ description: Organizing team.
             <a href="http://www.cs.toronto.edu/~florian/">Florian Shkurti</a><br>
             <i>University of Toronto</i><br>
             <br>
-      <b>Inclusions@RSS Chair</b><br>
+      <b>Inclusions@RSS Chairs</b><br>
             <table style="margin-left:auto;margin-right:auto;"><tr>
             <td style="width:200px;vertical-align:top;">
             <a href="http://www.hennyadmoni.com/">Henny Admoni</a><br>
             <i>Carnegie Mellon University</i><br></td>
+            <td style="width:45px;"></td>
+            <td style="width:200px;vertical-align:top;">
+            <a href="https://www.kaleshabullard.com/">Kalesha Bullard</a><br>
+            <i>DeepMind</i><br></td>
             </tr>
             </table>
             <br>
