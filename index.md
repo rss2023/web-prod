@@ -119,7 +119,7 @@ RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After 
         <td>Workshop Submission Deadline</td>
       </tr>
       <tr>
-      <td colspan="2">March 4th, 2022</td>
+      <td colspan="2"><strike>March 4th, 2022</strike></td>
         <td>Workshop Acceptance Notification</td>
       </tr>
       <tr>
