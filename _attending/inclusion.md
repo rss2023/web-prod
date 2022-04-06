@@ -2,15 +2,21 @@
 layout: page
 title: Inclusion@RSS
 priority: 8
-invisible: true
+invisible: false
 ---
 
-The RSS community is committed to increasing the participation of groups traditionally underrepresented in robotics (including but not limited to: women, LGBTQ+, underrepresented minorities, and people with disabilities), especially people early in their studies and career. Such efforts are crucial for increasing research capacity, creativity, and broadening the impact of robotics research. To that end, Inclusion @ RSS will be an integral part of RSS that will focus on programs that increase and sustain a broader participation in the robotics research community. Component programs will range from co-located events to sponsored activities during the main conference.
+The RSS community is committed to increasing the participation of groups traditionally underrepresented in robotics (including but not limited to: women, LGBTQ+, underrepresented minorities, and people with disabilities), especially people early in their studies and career. Such efforts are crucial for increasing research capacity, creativity, and broadening the impact of robotics research. To that end, Inclusion@RSS will be an integral part of RSS that will focus on programs that increase and sustain a broader participation in the robotics research community. Component programs will range from co-located events to sponsored activities during the main conference.
+
+One key component is the Inclusion@RSS Fellowship Program, which aims to help participants show up and thrive at RSS 2022. Fellowships will be awarded to selected BSc, MSc, and first and second year PhD students. Priority will be given to students who have not previously attended RSS and/or are new to the robotics research community.
+
+To learn more about Inclusion@RSS, or to apply for the Fellowship Program, see the event's website: [https://sites.google.com/andrew.cmu.edu/inclusion-rss-2022/home](https://sites.google.com/andrew.cmu.edu/inclusion-rss-2022/home)
+
+<!-- The RSS community is committed to increasing the participation of groups traditionally underrepresented in robotics (including but not limited to: women, LGBTQ+, underrepresented minorities, and people with disabilities), especially people early in their studies and career. Such efforts are crucial for increasing research capacity, creativity, and broadening the impact of robotics research. To that end, Inclusion @ RSS will be an integral part of RSS that will focus on programs that increase and sustain a broader participation in the robotics research community. Component programs will range from co-located events to sponsored activities during the main conference.
 
 
 On <b>Wednesday 5:00&ndash;6:00pm ET / 2:00&ndash;3:00pm PT</b>, after the workshops have wrapped up for
-the day, we will form Diversity, Equity, and Inclusion (DEI) Discussion Groups. 
-These will be over zoom (possibly multiple zoom rooms), and 
+the day, we will form Diversity, Equity, and Inclusion (DEI) Discussion Groups.
+These will be over zoom (possibly multiple zoom rooms), and
 consider the question:<br>
 <h3><i>How can the robotics community become more diverse and inclusive?</i></h3><br>
 
@@ -24,29 +30,29 @@ that have worked for you. Topics include (but are not limited to):
 * Improving the experience of diverse grad students
 
     * Research group dynamics
-  
+
     * Inclusive teaching
-  
+
     * Applications, requirements, and program structure
-  
+
 * Recruiting, supporting, and retaining a diverse faculty
-  
+
     * Recruitment and interviewing practices
-    
+
     * Department culture
-    
+
     * RPT structure and evaluation
-  
+
 * Making conferences more inclusive
-  
+
     * Inclusive reviewing practices
-    
+
     * Program structure
-    
+
 * Strategies for impactful outreach
-  
-    * Scalability and survivability 
-    
+
+    * Scalability and survivability
+
     * Measurable outcomes
 
 In advance of the discussion group, we encourage you to spend some time reading
@@ -71,7 +77,7 @@ and reflecting on these issues. To get you started, consider these resources:
 Rather than having a panel, the aim is to get more active engagement and
 greater detail in the discussion with small breakout groups. Though some people
 are being recruited to facilitate group discussion, the hope is that it will
-mostly come from conversatoin among the participants. 
+mostly come from conversatoin among the participants.
 {% endcomment %}
 
 
@@ -84,8 +90,8 @@ These are:
 * Queer in AI "Fireside Chat" on Wednesday 7/14 at 9:00 ET/06:00 PT.
 
 
-For additional details, please see the 
-[event's website](https://sites.google.com/andrew.cmu.edu/inclusion-2021). 
+For additional details, please see the
+[event's website](https://sites.google.com/andrew.cmu.edu/inclusion-2021).
 
 {% comment %}
 
@@ -158,6 +164,6 @@ We are very grateful to acknowledge the support of TRI in sponsoring Inclusion@R
        alt="Toyota Research Institute"/> </a>
 </td>
 </tr>
-</table>
+</table> -->
 
 
