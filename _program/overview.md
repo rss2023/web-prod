@@ -3,7 +3,7 @@ layout: page
 title: Overview
 description: Overview of the program.
 priority: 10
-invisible: false
+invisible: true
 ---
 
 We will use pheedloop as our virtual conference platform to 

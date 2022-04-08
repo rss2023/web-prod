@@ -3,7 +3,7 @@ layout: page
 title: Test of Time Award
 description: The award for impact over at least a decade, including author bios
 priority: 5
-invisible: false
+invisible: true
 ---
 
 <head>

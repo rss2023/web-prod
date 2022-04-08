@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Workshops &amp; Tutorials
+title: Workshops
 description: Workshop times, venues, and details.
-days: ['Mon', 'Tue', 'Wed', 'Thu']
+days: ['Mon', 'Fri']
 invisible: false
 ---
 
 
 
-Workshops will take place across four days of the conference July 12 through 15, 2021. 
+Workshops will take place across two days of the conference on June 27 and July 1, 2022. 
 {% comment %}
 They are generally scheduled to take place between 7:00AM PST and 11:15PM PST (14:00-18:15 UCT), 
 and are recommended to have coffee breaks from 9:15-9:30AM and 11:15-11:30AM PST. 
@@ -26,17 +26,11 @@ Please check the workshop websites for more details on their particular schedule
 
 <a name="{{ day }}"><span style="color:white; font-size:50px;">&nbsp;</span></a>
 {% if day == 'Mon' %}
-### Monday, July 12
-{% assign innerdays = "12th, 12-13, tbd" | split: ", " %}
-{% elsif day == 'Tue' %}
-### Tuesday, July 13  
-{% assign innerdays = "13th, 12-13, tbd" | split: ", " %}
-{% elsif day == 'Wed' %}
-### Wednesday, July 14  
-{% assign innerdays = "14th, tbd" | split: ", " %}
-{% elsif day == 'Thu' %}
-### Thursday, July 15  
-{% assign innerdays = "15th, tbd" | split: ", " %}
+### Monday, June 27
+{% assign innerdays = "27th, 12-13, tbd" | split: ", " %}
+{% elsif day == 'Fri' %}
+### Friday, July 1
+{% assign innerdays = "1st, tbd" | split: ", " %}
 {% endif %}
 
 <table class="table table-striped table-workshop" id="{{ day }}ID">
