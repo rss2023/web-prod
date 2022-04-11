@@ -78,7 +78,7 @@ The registration costs are as follows:
 
 The registration costs shown above are in US dollars ($). Contact Florian Shkurti (florian@cs.toronto.edu) if you encounter problems. 
 
-We have reserved a number of beds in dorm-style rooms in the Columbia University dorm system. These must be reserved for the entire duration of the conference (6 nights, 6/26-7/2). The total cost for this duration will be $490. Please note that a majority of these beds will be in double-occupancy rooms (single-gender). These rooms will be within a short walking distance of Columbia's Morningside campus, where the conference will take place.
+We have reserved a number of beds in dorm-style rooms in the Columbia University dorm system. These must be reserved for the entire duration of the conference (6 nights, 6/26-7/2). The total cost for this duration will be $490. Please note that a majority of these beds will be in double-occupancy rooms (single-gender). These rooms will be within a short walking distance of Columbia's Morningside campus, where the conference will take place. All participants staying in dorm accommodations will have to comply with Columbia University's COVID-19 [vaccine mandate](https://covid19.columbia.edu/) and provide proof of vaccination to conference organizers before being permitted to enter the buildings.
 
 
 ### Attendee Registration Form
