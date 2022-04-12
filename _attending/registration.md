@@ -57,9 +57,9 @@ The registration costs are as follows:
       <tr>
         <td>Student + dorm</td>
         <td></td>
-        <td style="padding:5px;"> 735 </td>
-        <td style="padding:5px;"> 835 </td>
-        <td style="padding:5px;"> 935 </td>
+        <td style="padding:5px;"> 775 </td>
+        <td style="padding:5px;"> 875 </td>
+        <td style="padding:5px;"> 975 </td>
       </tr>
       <tr>
         <td>Virtual</td>
