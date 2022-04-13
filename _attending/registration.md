@@ -29,7 +29,7 @@ The registration costs are as follows:
         <th> Registration type </th>
         <th> &nbsp; &nbsp; &nbsp; </th>
         <th style="padding:5px;"> Early<br>April 11-28</th>
-        <th style="padding:5px;"> Stanfard<br>April 29-May 26</th>
+        <th style="padding:5px;"> Standard<br>April 29-May 26</th>
         <th style="padding:5px;"> Late<br>After May 27, 2022</th></tr>
     </thead>
     <tbody>
