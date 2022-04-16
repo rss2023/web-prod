@@ -3,9 +3,17 @@ layout: page
 title: Overview
 description: Overview of the program.
 priority: 10
-invisible: true
+invisible: false
 ---
 
+<p>This schedule makes it easy to find sesssion information, technical content, and events:<br></p>
+<center>
+<a href="../../program/schedule.htm">
+<img src="../../program/schedule.png" alt="Event Schedule" width="100%"></a> 
+</center>
+
+
+{% comment %}
 We will use pheedloop as our virtual conference platform to 
 release videos, and to facilitate hosting of the live
 events. All accepted papers and pre-recorded spotlight and plenary talks
@@ -21,3 +29,4 @@ Below is a preliminary event schedule, showing live events at a glance.
        alt="Virtual Event Schedule" width = "110%" /></a> 
 
 
+{% endcomment %}

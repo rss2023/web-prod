@@ -75,11 +75,6 @@ function onPlayerReady(event) {
 
 {% endcomment %}
 
-<p>This schedule makes it easy to find sesssion information, technical content, and events:<br></p>
-<center>
-<a href="program/schedule.htm">
-<img src="program/schedule.png" alt="Event Schedule" width="100%"></a> 
-</center>
 
 
 {% comment %}
