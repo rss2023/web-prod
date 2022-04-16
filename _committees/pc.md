@@ -23,6 +23,12 @@ description: Reviewing team.
     {% endfor %}
  </div>
 
+<div id="area-chairs" class="row text-center">
+<b>Area Chair Meetings</b><br>
+<center>
+<iframe src="https://mediaspace.illinois.edu/embedplaylist/secure/embed/v2/1/playlistId/1_sn47boml/uiConfId/41193391" width="800" height="720" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerpolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
+</center>
+</div>
 
 
 {% comment %}
