@@ -28,9 +28,9 @@ The registration costs are as follows:
     <tr style="border-bottom: 1px solid #444444;; padding: 5px;">
         <th> Registration type </th>
         <th> &nbsp; &nbsp; &nbsp; </th>
-        <th style="padding:5px;"> Early </th>
-        <th style="padding:5px;"> Stanfard </th>
-        <th style="padding:5px;"> Late </th></tr>
+        <th style="padding:5px;"> Early<br>April 11-28</th>
+        <th style="padding:5px;"> Standard<br>April 29-May 26</th>
+        <th style="padding:5px;"> Late<br>After May 27, 2022</th></tr>
     </thead>
     <tbody>
       <tr>
@@ -57,9 +57,9 @@ The registration costs are as follows:
       <tr>
         <td>Student + dorm</td>
         <td></td>
-        <td style="padding:5px;"> 735 </td>
-        <td style="padding:5px;"> 835 </td>
-        <td style="padding:5px;"> 935 </td>
+        <td style="padding:5px;"> 775 </td>
+        <td style="padding:5px;"> 875 </td>
+        <td style="padding:5px;"> 975 </td>
       </tr>
       <tr>
         <td>Virtual</td>
@@ -67,7 +67,7 @@ The registration costs are as follows:
         <td style="padding:5px;"> 40 </td>
       </tr>
       <tr>
-        <td>Workshop</td>
+        <td>Workshop Only</td>
         <td></td>
         <td style="padding:5px;"> 150 </td>
         <td style="padding:5px;"> 200 </td>
@@ -76,7 +76,10 @@ The registration costs are as follows:
     </tbody>
 </table>
 
-The registration costs shown above are in US dollars ($). Contact Florian Shkurti (florian@cs.toronto.edu) if you encounter problems. 
+The registration costs shown above are in US dollars ($). Conference registration, both in-person and virtual, includes workshops. Contact Florian Shkurti (florian@cs.toronto.edu) if you encounter problems.
+
+RSS attendees who are required to apply for a U.S. visa will need to fill <a href="https://docs.google.com/forms/d/1QolBmK9EBYU-qJ5LbPgaC_CpIFt8uBVkW4f3ndqd5hM/edit?ts=623b232c">this form</a> after they register at RSS. Organizers will reach out to you with a signed invitation letter, which you can use to support your U.S. visa 
+application.
 
 We have reserved a number of beds in dorm-style rooms in the Columbia University dorm system. These must be reserved for the entire duration of the conference (6 nights, 6/26-7/2). The total cost for this duration will be $490. Please note that a majority of these beds will be in double-occupancy rooms (single-gender). These rooms will be within a short walking distance of Columbia's Morningside campus, where the conference will take place. All participants staying in dorm accommodations will have to comply with Columbia University's COVID-19 [vaccine mandate](https://covid19.columbia.edu/) and provide proof of vaccination to conference organizers before being permitted to enter the buildings.
 
