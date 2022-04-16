@@ -77,17 +77,12 @@ function onPlayerReady(event) {
 
 
 
-{% comment %}
 
-## News and Updates
-* See the [program-at-a-glance](program/overview/) and **[browse the schedule]({{site.baseurl}}/program/schedule.svg)**
-* **Registration for the event is [now open!]({{site.baseurl}}/attending/registration/)**
-* The official [proceedings](http://www.roboticsproceedings.org/rss17/) are available.
-* The [Inclusion@RSS 2022](https://sites.google.com/andrew.cmu.edu/inclusion-2021) website is up, and is open for applications.
-* See [Author Information]({{site.baseurl}}/information/authorinfo/) for submission instructions and paper templates.
-* Here is a list of the [accepted workshops]({{site.baseurl}}/program/workshops/).
 
-{% endcomment %}
+### News and Updates
+* [The preliminary program](program/overview/) and [list of workshops](program/workshops/) are now available.
+* [Early registration](attending/registration/) is also available at a discount until April 28.
+
 
 ### Call for Participation
 The Robotics: Science and Systems has a long history of bringing together
@@ -96,8 +91,6 @@ focused week of single-track presentations, workshops, poster sessions,
 tutorials! This year, as always, we solicit your best work.
 
 RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After two years of virtual conferences due to the Coronavirus pandemic, RSS 2022 is planned as a hybrid conference with substantial in-person activities! We are closely monitoring the developing COVID-19 situation and will make further determinations about the distribution of in-person vs virtual activities as we get closer to the conference date.
-
-<span style="text:style:bold;color:red">Due to a configuration problem with the submission site, many authors had problems submitting or revising their papers in the hours before the deadline. The problem is now fixed and the deadline for submitting materials has been extended to 11:59am AOE, January 29.</span>
 
 
 ### Timeline
@@ -120,11 +113,11 @@ RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After 
         <td>Workshop Submission Deadline</td>
       </tr>
       <tr>
-      <td colspan="2">March 4th, 2022</td>
+      <td colspan="2"><strike>March 4th, 2022</strike></td>
         <td>Workshop Acceptance Notification</td>
       </tr>
       <tr>
-        <td colspan="2">April 15th, 2022</td>
+        <td colspan="2"><strike>April 15th, 2022</strike></td>
         <td>Paper Acceptance Notification</td>
       </tr>
       <tr>
