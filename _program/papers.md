@@ -2,7 +2,7 @@
 layout: page
 title: Accepted Papers
 description: Accepted papers.
-invisible: true
+invisible: false
 ---
 
 
@@ -55,13 +55,18 @@ invisible: true
     <th>Title</th>
     <th>Authors</th>
   </tr>
- {% for paper in site.data.rss2021CameraReadyIntegration %}
+ {% for paper in site.data.rss2022CameraReady %}
  <tr>
     <td width="5%" height="100px">{{paper.PaperID }}</td>
 {% comment %}
     <td width="45%" height="100px" ><a href="http://www.roboticsproceedings.org/rss17/p{{paper.PaperID3}}.pdf"><b>{{paper.PaperTitle}}</b></a></td>
 {% endcomment %}
+
+{% comment %}
+<!-- use this block once you have the paper details -->
     <td width="45%" height="100px" ><a href="{{ site.baseurl }}/program/papers/{{ paper.PaperID3}}/"><b>{{paper.PaperTitle}}</b></a></td>
+{% endcomment %}
+    <td width="45%" height="100px" ><b>{{paper.PaperTitle}}</b></td>
     <td width="40%" height="100px">{{paper.AuthorNames | replace: ';', ','}}</td>
   </tr>
 {% endfor %}
