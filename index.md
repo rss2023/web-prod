@@ -80,6 +80,7 @@ function onPlayerReady(event) {
 
 
 ### News and Updates
+* With great pleasure we announce the two [keynote speakers](program/keynote/) for RSS this year.
 * The list of [accepted papers](program/papers/) is available now.
 * [The preliminary program](program/overview/) and [list of workshops](program/workshops/) are now available.
 * [Early registration](attending/registration/) is also available at a discount until April 28.

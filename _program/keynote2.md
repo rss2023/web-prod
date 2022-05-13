@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Keynote: Ayanna Howard"
+title: "Keynote: John Rogers"
 description: Keynote talk title, abstract and speaker bio.
 priority: 8
 invisible: true
@@ -79,6 +79,8 @@ invisible: true
   }
 </style>
 
+{% comment %}
+
 <table id="yt-playlist"><tr><td><a href="https://youtu.be/DGTlZXHKamc">YouTube</a></td></tr></table>
 
 <table width="100%"><tr>
@@ -155,45 +157,35 @@ invisible: true
 </table> 
 
 <br>
+{% endcomment %}
 
 <table class="table">
 
 <tr>
 <th style="text-align:center;">
-    <img src="{{ site.baseurl }}/images/Ayanna.jpg" width="250"/>
+    <img src="{{ site.baseurl }}/images/john-rogers-headshot.jpg" width="250"/>
 	<br/>
-	<a href="https://engineering.osu.edu/about/office-dean/about-dean-ayanna-howard">
-		Ayanna Howard
+	<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-john.html">
+		John Rogers
 	</a>
 	<br/>
 
-    <table style="margin-top:5px;">
-    <tr>
-    <td><img style="padding-bottom:15px; padding-right:7px;" src="{{ site.baseurl }}/images/OSU_logo.png" height="75"/></td>
-    <td valign="top" style="text-align:left; font-weight:normal;"><i>Ohio State University,<br> College of Engineering, Dean</i></td>
-    </tr>
-    </table>
+  <p style="text-align:center; font-weight:normal;"><i>Northwestern University</i></p>
 
 </th>
 <th>
 	<p style="text-align:justify; font-weight:bold; font-size:20px;">
-How Could a Robot be Sexist? Evaluating Bias in Artificial Intelligence
+Wireless Skin-Conformal Devices for Health Monitoring and Haptic Interactions
 	</p>
 	
 	<b>Abstract:</b>
 	<p style="text-align:justify; font-weight:normal;">
-Artificial Intelligence is rare. Artificial stupidity is more common. In the movies, robots can be
-terrifying. In reality, thinking machines are disrupting the world in ways that are even more
-disturbing than in Hollywood fantasies – but they also have the potential to change our lives for
-the better. In this talk, we will explore how biases are infecting the next generation of robotic
-systems, with profoundly negative effects for humans of all genders and races. We will also
-explore tools and techniques we can focus on as researchers to enhance the positive impacts
-while mitigating any negative outcomes.
+Advances in materials science, mechanical engineering and manufacturing methods establish the foundations for high performance classes of electronics technologies that have soft, flexible physical properties.  The resulting devices can mount gently on the skin, at nearly any location across the body, to provide continuous, clinical-quality information on physiological status, with options in complex, large-area multi-haptic forms of engagement and feedback.  This talk summarizes the key ideas and presents examples in wireless devices for (1) maternal, fetal, neonatal and pediatric care in clinical facilities and home settings, and (2) full-body haptic experiences in virtual/augmented reality environments.
 	</p>
 	
 	<b>Biography:</b>
 	<p style="text-align:justify; font-weight:normal;">
-Ayanna is an accomplished roboticist, entrepreneur. Her accomplishments have been highlighted through a number of awards and articles, including highlights in TIME Magazine, Black Enterprise, and USA Today, as well as being recognized as one of the 23 most powerful women engineers in the world by Business Insider and one of the Top 50 U.S. Women in Tech by Forbes.	
+ Professor John A. Rogers obtained BA and BS degrees in chemistry and in physics from the University of Texas, Austin, in 1989.  From MIT, he received SM degrees in physics and in chemistry in 1992 and the PhD degree in physical chemistry in 1995.  From 1995 to 1997, Rogers was a Junior Fellow in the Harvard University Society of Fellows.  He joined Bell Laboratories as a Member of Technical Staff in the Condensed Matter Physics Research Department in 1997, and served as Director of this department from the end of 2000 to 2002.  He then spent thirteen years on the faculty at University of Illinois, most recently as the Swanlund Chair Professor and Director of the Seitz Materials Research Laboratory.  In the Fall of 2016, he joined Northwestern University as the Louis Simpson and Kimberly Querrey Professor of Materials Science and Engineering, Biomedical Engineering and Medicine, with affiliate appointments in Mechanical Engineering, Electrical and Computer Engineering and Chemistry, where he is also Director of the Querrey-Simpson Institute for Bioelectronics.  He has published more than 850 papers and his research has been recognized by many awards, including a MacArthur Fellowship (2009), the Lemelson-MIT Prize (2011), the Smithsonian Award (2013), the Benjamin Franklin Medal (2019) and a Guggenheim Fellowship (2021).  He is a member of the National Academy of Engineering, the National Academy of Sciences, the National Academy of Medicine, the National Academy of Inventors and the American Academy of Arts and Sciences. 
 	</p>
 </th>
 </tr>

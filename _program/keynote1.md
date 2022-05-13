@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Keynote: Larry Matthies"
+title: "Keynote: Raquel Urtasun"
 description: Keynote talk title, abstract and speaker bio.
 priority: 8
 invisible: true
@@ -79,6 +79,8 @@ invisible: true
   }
 </style>
 
+{% comment %}
+
 <table id="yt-playlist"><tr><td><a href="https://youtu.be/NcI6fJOzBsU">YouTube</a></td></tr></table>
 
 <table width="100%"><tr>
@@ -155,53 +157,33 @@ invisible: true
 </table> 
 
 <br>
+{% endcomment %}
 
 <table class="table">
 
 <tr>
 <th style="text-align:center;">
-    <img src="{{ site.baseurl }}/images/Larry.jpg" width="250"/>
+    <img src="{{ site.baseurl }}/images/raquel-urtasun.jpg" width="250"/>
 	<br/>
-    <a href="https://www-robotics.jpl.nasa.gov/people/Larry_Matthies/">
-        Larry Matthies
+    <a href="https://www.cs.toronto.edu/~urtasun/">
+        Raquel Urtasun
 	</a>
 	<br/>
 
-    <table style="margin-top:5px;">
-    <tr>
-    <td><img style="padding-bottom:15px; padding-right:7px;" src="{{ site.baseurl }}/images/NASA_logo.png" height="75"/></td>
-    <td valign="top" style="text-align:left; font-weight:normal;"><i>Technology Coordinator,<br> Mars Exploration Program,<br> NASA/JPL</i></td>
-    </tr>
-    </table>
+  <p style="text-align:center; font-weight:normal;"><i>University of Toronto and Waabi.ai</i></p>
 
 </th>
 <th>
 	<p style="text-align:justify; font-weight:bold; font-size:20px;">
-Robotic Mars Exploration: Recent Results and Future Prospects
+TBD
 	</p>
 	
 	<b>Abstract:</b>
 	<p style="text-align:justify; font-weight:normal;">
-The Perseverance Mars rover landed in Jezero Crater, where we can see
-from orbit that a river flowed into the crater, which held a lake, and a delta
-formed at the mouth of the river. The mission of Perseverance is to explore
-around the delta to improve our understanding of the ancient climate and to
-examine the possibility that life or precursor molecules evolved there. The
-rover will also acquire a set of samples and leave them for a mission that the
-U.S. and Europe plan to send later this decade to bring the samples back to
-Earth. This sequence of missions is called the Mars Sample Return campaign.
-Perseverance also carried a small helicopter called Ingenuity, which is a
-technology demonstration of the first heavier-than-air aircraft ever to fly on
-another planet. This talk will summarize new technologies in this mission for
-precision landing, the helicopter, and rover traverse at much greater speeds
-than prior missions. I will also summarize prospects for future robotic Mars
-exploration, for example as suggested by the Mars Architecture Strategy
-Working Group.
 	</p>
 	
 	<b>Biography:</b>
 	<p style="text-align:justify; font-weight:normal;">
-    Larry is Senior Research Scientist at NASA/Jet Propulsion Laboratory and was the Supervisor of the Computer Vision Group for 21 years in the Mobility and Robotic Systems Section. Winner of the NASA Exceptional Achievement Medal (2007) among other awards. He obtained his PhD in computer science from Carnegie Mellon University in 1989 and is a Fellow of the IEEE.
 	</p>
 </th>
 </tr>
