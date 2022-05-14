@@ -159,20 +159,20 @@ invisible: true
 <br>
 {% endcomment %}
 
-<table class="table">
-
-<tr>
-<th style="text-align:center;">
-    <img src="{{ site.baseurl }}/images/john-rogers-headshot.jpg" width="250"/>
+<p style="text-align:center; font-weight:normal;">
+  <img src="{{ site.baseurl }}/images/john-rogers-headshot.jpg" width="250"/>
 	<br/>
 	<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-john.html">
 		John Rogers
 	</a>
 	<br/>
+  <i>Northwestern University</i>
+</p>
 
-  <p style="text-align:center; font-weight:normal;"><i>Northwestern University</i></p>
 
-</th>
+<table class="table">
+
+<tr>
 <th>
 	<p style="text-align:justify; font-weight:bold; font-size:20px;">
 Wireless Skin-Conformal Devices for Health Monitoring and Haptic Interactions

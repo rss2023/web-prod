@@ -159,20 +159,22 @@ invisible: true
 <br>
 {% endcomment %}
 
+
+<p style="text-align:center; font-weight:normal;">
+  <img src="{{ site.baseurl }}/images/raquel-urtasun.jpg" width="250"/>
+	<br/>
+	<a href="https://www.cs.toronto.edu/~urtasun/">
+		Raquel Urtasun
+	</a>
+	<br/>
+  <i>University of Toronto and Waabi.ai</i>
+</p>
+
+
+
 <table class="table">
 
 <tr>
-<th style="text-align:center;">
-    <img src="{{ site.baseurl }}/images/raquel-urtasun.jpg" width="250"/>
-	<br/>
-    <a href="https://www.cs.toronto.edu/~urtasun/">
-        Raquel Urtasun
-	</a>
-	<br/>
-
-  <p style="text-align:center; font-weight:normal;"><i>University of Toronto and Waabi.ai</i></p>
-
-</th>
 <th>
 	<p style="text-align:justify; font-weight:bold; font-size:20px;">
 TBD
