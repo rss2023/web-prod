@@ -55,6 +55,10 @@ description: Organizing team.
             <a href="http://www.cs.toronto.edu/~florian/">Florian Shkurti</a><br>
             <i>University of Toronto</i><br>
             <br>
+      <b>Publicity Chair</b><br>
+            <a href="https://lucacarlone.mit.edu/">Luca Carlone</a><br>
+            <i>Massachusetts Institute of Technology</i><br>
+            <br>
       <b>Inclusions@RSS Chairs</b><br>
             <table style="margin-left:auto;margin-right:auto;"><tr>
             <td style="width:200px;vertical-align:top;">
