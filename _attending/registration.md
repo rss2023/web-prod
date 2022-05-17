@@ -83,8 +83,7 @@ The registration costs shown above are in US dollars ($). Conference registratio
 RSS attendees who are required to apply for a U.S. visa will need to fill <a href="https://docs.google.com/forms/d/1QolBmK9EBYU-qJ5LbPgaC_CpIFt8uBVkW4f3ndqd5hM/edit?ts=623b232c">this form</a> after they register at RSS. Organizers will reach out to you with a signed invitation letter, which you can use to support your U.S. visa 
 application.
 
-We have reserved a number of beds in dorm-style rooms in the Columbia University dorm system. These must be reserved for the entire duration of the conference (6 nights, 6/26-7/2). The total cost for this duration will be $490. Please note that a majority of these beds will be in double-occupancy rooms (single-gender). These rooms will be within a short walking distance of Columbia's Morningside campus, where the conference will take place. All participants staying in dorm accommodations will have to comply with Columbia University's COVID-19 [vaccine mandate](https://covid19.columbia.edu/) and provide proof of vaccination to conference organizers before being permitted to enter the buildings.
-
+We have reserved a number of beds in dorm-style rooms in the Columbia University dorm system. These must be reserved for the entire duration of the conference (6 nights, 6/26-7/2). The total cost for this duration will be $490. Please note that a majority of these beds will be in double-occupancy rooms (single-gender). These rooms will be within a short walking distance of Columbia's Morningside campus, where the conference will take place.
 
 ### Attendee Registration Form
 
