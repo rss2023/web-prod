@@ -19,6 +19,8 @@ non-students, and give full access to the virtual conference platform,
 including the workshop and main conference events.
 {% endcomment %}
 
+Please make sure to review our [Covid-19 policies]({{ site.baseurl }}/attending/covid/) before registering for in-person attendance
+
 Please use the form embedded below to register. <b>If the below form does not work for your browser, register [here](https://pheedloop.com/EVELREUEKEDLK/site/register/) instead</b>. 
 
 The registration costs are as follows: 
@@ -76,7 +78,7 @@ The registration costs are as follows:
     </tbody>
 </table>
 
-The registration costs shown above are in US dollars ($). Conference registration, both in-person and virtual, includes workshops. Contact Florian Shkurti (florian@cs.toronto.edu) if you encounter problems.
+The registration costs shown above are in US dollars ($). Conference registration, both in-person and virtual, includes workshops. Contact Florian Shkurti (florian@cs.toronto.edu) if you encounter problems. 
 
 RSS attendees who are required to apply for a U.S. visa will need to fill <a href="https://docs.google.com/forms/d/1QolBmK9EBYU-qJ5LbPgaC_CpIFt8uBVkW4f3ndqd5hM/edit?ts=623b232c">this form</a> after they register at RSS. Organizers will reach out to you with a signed invitation letter, which you can use to support your U.S. visa 
 application.
