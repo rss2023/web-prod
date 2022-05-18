@@ -8,7 +8,7 @@ null,external_id,date,block,duration,timing_note,title,organizers,url,email
 0,W7,1st,,,,Differentiable Simulation For Robotics,"Andrew Spielberg, Kelsey Allen, Kevin A. Smith, Michael Posa",https://sites.google.com/view/rssdiffsim/home,
 0,W8,1st,,,,Workshop on Social Intelligence in Humans and Robots,"Tianmin Shu, Xavier Puig, Shari Liu, Shuang Li, Andreea Bobu, Mengxi Li, Sanja Fidler, Antonio Torralba",https://social-intelligence-human-ai.github.io,
 0,W9,27th,,,,"Workshop on Learning from Diverse, Offline Data","Siddharth Karamcheti, Suraj Nair, Dhruv Shah, Victoria Dean, Chelsea Finn, Percy Liang, Dorsa Sadigh",https://sites.google.com/view/l-dod-rss2022/,
-0,W10,1st,,,,Robot Learning in the Cloud: Remote Operations and Benchmarking,"Victoria Dean, Sudeep Dasari, Chelsea Finn, Aleksandra Faust",,
+0,W10,1st,,,,Robot Learning in the Cloud: Remote Operations and Benchmarking,"Victoria Dean, Sudeep Dasari, Chelsea Finn, Aleksandra Faust",https://sites.google.com/andrew.cmu.edu/cloud-robotics-benchmarking/,
 0,W11,27th,,,,Workshop on Variable Impedance Robotic Skills: From the Foundations to the Current Challenges and Perspectives,"Thiago Boaventura, Fares Abu-Dakka, Matteo Saveriano, Meghan Huber",https://sites.google.com/view/variableimpedance-rss22/,
 0,W12,27th,,,,3rd Workshop on Closing the Reality Gap in Sim2Real Transfer for Robotics,"Florian Golemo, Melissa Mozifian, Kostas Bekris, Ankur Handa",http://sim2real.github.io,
 0,W13,1st,,,,Envisioning an Infrastructure for Multi-Robot and Collaborative Autonomy Testing and Evaluation,"Pratap Tokekar, Jeffrey Herrmann, Craig Lawrence, Dinesh Manocha, Derek Paley, Adam Porter",http://raaslab.org/rss2022/,
