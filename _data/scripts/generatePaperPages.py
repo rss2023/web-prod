@@ -120,6 +120,10 @@ invisible: true
           author_table_tail = '''</td>\n\n'''
           g.write(author_table_tail)
 
+          paperIconString = '''<td style="text-align: right;"><a href="http://www.roboticsproceedings.org/rss18/p{}.pdf"><img src="{{{{ site.baseurl }}}}/images/paper_link.png" alt="Paper Website" width = "33"  height = "40"/></a><br></td>
+</tr>\n'''.format(row['PaperID3'])
+          g.write(paperIconString)
+
           paperIDString = '''<tr>
 <td style="color:#777789; text-align:right; font-size: 75%; margin-right:10px;">Paper&nbsp;#{}</td>
 </tr>
@@ -150,8 +154,8 @@ invisible: true
        alt="Spacer" width = "142"  height = "90"/> 
             </td>\n''')
           else:
-            g.write('''    <td style="width: 30%; text-align: center;"><a href="{{ site.baseurl }}/program/papers/{:03d}/">
-<img src="{{ site.baseurl }}/images/previous_paper_icon.png"
+            g.write('''    <td style="width: 30%; text-align: center;"><a href="{{{{ site.baseurl }}}}/program/papers/{:03d}/">
+<img src="{{{{ site.baseurl }}}}/images/previous_paper_icon.png"
        alt="Previous Paper" width = "142"  height = "90"/> 
 </a> </td>\n'''.format(paperID-1))
 
@@ -163,8 +167,8 @@ invisible: true
 
           # next button
           if paperID < 74:
-            g.write('''    <td style="width: 30%; text-align: center;"><a href="{{ site.baseurl }}/program/papers/{:03d}/">
-    <img src="{{ site.baseurl }}/images/next_paper_icon.png"
+            g.write('''    <td style="width: 30%; text-align: center;"><a href="{{{{ site.baseurl }}}}/program/papers/{:03d}/">
+    <img src="{{{{ site.baseurl }}}}/images/next_paper_icon.png"
         alt="Next Paper" width = "142"  height = "90"/>
     </a></td>\n'''.format(paperID+1))
           else:
