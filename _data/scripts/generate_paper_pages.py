@@ -1,5 +1,6 @@
 """
-Script for generating individual paper pages.
+Script for generating individual paper pages (RSS 2022 format)
+Contact: Yuke Zhu (yukez@cs.utexas.edu)
 """
 
 import argparse
@@ -25,6 +26,8 @@ def main():
           filename = os.path.join(args.outdir, paperID + ".md")
 
           g = open(filename, 'w')
+
+          # Generate HTML header
           header = '''---
 layout: paper
 title: "{}"
@@ -33,7 +36,7 @@ invisible: true
 
           g.write(header)
 
-          html_head = '''<head>
+          htmlHead = '''<head>
 <style>
 * {
   box-sizing: border-box;
@@ -93,11 +96,12 @@ invisible: true
 </style>
 </head>\n\n'''
 
-          g.write(html_head)
+          g.write(htmlHead)
 
-          author_table_head = '''<table width = "95%" style="padding-left: 15px; margin-left: auto; margin-right: 10px;">
+          # Write author table
+          authorTableHead = '''<table width = "95%" style="padding-left: 15px; margin-left: auto; margin-right: 10px;">
 <tr><td style = "vertical-align: top; padding-right: 25px;" rowspan="2">\n'''
-          g.write(author_table_head)
+          g.write(authorTableHead)
 
           authors = row["AuthorNames"].replace('*', '').split(';')
           g.write('''<span style="color:black; font-size: 110%;"><i>\n''')
@@ -117,9 +121,10 @@ invisible: true
             g.write('\n')
 
           g.write('''</i></span>\n''')
-          author_table_tail = '''</td>\n\n'''
-          g.write(author_table_tail)
+          authorTableTail = '''</td>\n\n'''
+          g.write(authorTableTail)
 
+          # Write link to paper PDF
           paperIconString = '''<td style="text-align: right;"><a href="http://www.roboticsproceedings.org/rss18/p{}.pdf"><img src="{{{{ site.baseurl }}}}/images/paper_link.png" alt="Paper Website" width = "33"  height = "40"/></a><br></td>
 </tr>\n'''.format(row['PaperID3'])
           g.write(paperIconString)
@@ -130,6 +135,7 @@ invisible: true
 </table>\n\n'''.format(row['PaperID3'])
           g.write(paperIDString)
 
+          # Write paper session
           sessionString = '''<table width="80%" style="margin-top: 20px; margin-left: auto; margin-right: auto;">
   <tr>
     <td style="text-align:center;">{}</td>
@@ -142,11 +148,11 @@ invisible: true
           g.write(row['Abstract']+'\n')
           g.write('''{: style="color:gray; font-size: 120%; text-align: justified;"}\n\n\n''')
 
-          # navigation bars
+          # Write navigation bars
           g.write('''<table width="100%" style="margin-top:40px;">
 <tr>\n''')
 
-          # previous button
+          # Write previous button
           paperID = int(row['PaperID'])
           if paperID == 1:
             g.write('''    <td style="width: 30%; text-align: center;"> 
@@ -159,13 +165,13 @@ invisible: true
        alt="Previous Paper" width = "142"  height = "90"/> 
 </a> </td>\n'''.format(paperID-1))
 
-          # paper overview
+          # Write paper overview
           g.write('''<td style="text-align: center;"><a href="{{ site.baseurl }}/program/papers">
 <img src="{{ site.baseurl }}/images/overview_icon.png"
        alt="Paper Website" width = "142"  height = "90"/> 
 </a> </td>\n''')
 
-          # next button
+          # Write next button (TODO: remove magic number 74!)
           if paperID < 74:
             g.write('''    <td style="width: 30%; text-align: center;"><a href="{{{{ site.baseurl }}}}/program/papers/{:03d}/">
     <img src="{{{{ site.baseurl }}}}/images/next_paper_icon.png"
@@ -177,7 +183,7 @@ invisible: true
        alt="Spacer" width = "142"  height = "90"/> 
             </td>\n''')
 
-          g.write(''''</tr>
+          g.write('''</tr>
 </table>\n''')
           g.close()
 
