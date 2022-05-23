@@ -1,5 +1,7 @@
 """
 Script for generating individual paper pages (RSS 2022 format)
+python generate_paper_pages.py ../rss2022CameraReady.csv ../../_program/papers
+
 Contact: Yuke Zhu (yukez@cs.utexas.edu)
 """
 
@@ -138,7 +140,7 @@ invisible: true
           # Write paper session
           sessionString = '''<table width="80%" style="margin-top: 20px; margin-left: auto; margin-right: auto;">
   <tr>
-    <td style="text-align:center;">{}</td>
+    <td style="text-align:center;">Session {}</td>
   </tr>
 </table>
 <br>\n\n\n'''.format(row['Session'])
