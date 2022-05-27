@@ -6,7 +6,7 @@ priority: 10
 invisible: false
 ---
 
-<p>This schedule makes it easy to find sesssion information, technical content, and events. <b>Disclaimer:</b> We are still finalizing the schedules of the welcome reception and the banquet. More details will be updated soon.<br></p>
+<p>This schedule makes it easy to find sesssion information, technical content, and events.<br></p>
 <center>
 <a href="{{site.baseurl}}/program/schedule.htm">
 <img src="{{site.baseurl}}/program/schedule.png" alt="Event Schedule" width="100%"></a> 
