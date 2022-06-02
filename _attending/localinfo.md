@@ -8,8 +8,11 @@ invisible: false
 
 New York City is mainly served by three airports: JFK, EWR and LGA. JFK and EWR are at similar distances from Manhattan and Columbia's campus (approximately 60 minutes by car, with various public transportation options also available). LGA is closer to Columbia (approximately 30 minutes by car) but is mainly a domestic airport with fewer flights available.
 
-New York City offers a huge range of hotels, at many price options. Due to easy connection with the [1, 2 and 3 subway lines](https://map.mta.info/#@40.8046036,-73.9636683,15.31z), hotels in a huge part of Manhattan (including Midtown and down to the Financial District) are within a 20-30 minute travel distance to the Columbia campus. A smaller number of hotels are also available on the Upper West Side, within a 10-minute subway or taxi ride of the campus. Please note that we are also exploring the possibility of using Columbia dorm rooms for lower cost accommodations, but this option has not been confirmed yet.
+New York City offers a huge range of hotels, at many price options. Due to easy connection with the [1, 2 and 3 subway lines](https://map.mta.info/#@40.8046036,-73.9636683,15.31z), hotels in a huge part of Manhattan (including Midtown and down to the Financial District) are within a 20-30 minute travel distance to the Columbia campus. A smaller number of hotels are also available on the Upper West Side, within a 10-minute subway or taxi ride of the campus. 
 
+{% comment %}
+Please note that we are also exploring the possibility of using Columbia dorm rooms for lower cost accommodations, but this option has not been confirmed yet.
+{% endcomment %}
 
 {% comment %}
 
