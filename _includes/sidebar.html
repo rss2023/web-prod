@@ -9,7 +9,9 @@
 
 <br>
 
-{% for coll in site.collections %}
+{% assign sorted = site.collections | sort: 'priority' %}
+
+{% for coll in sorted %}
 {% if coll.label != "posts" %}
 <b>{{ coll.label }}</b>
 <br>

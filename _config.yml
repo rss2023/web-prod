@@ -30,18 +30,22 @@ github:
   repo:
 
 collections:
-    committees:
-        output: true
-        permalink: /committees/:path/
     attending:
        output: true
        permalink: /attending/:path/
+       priority: 1
     program:
-        output: true
-        permalink: /program/:path/
+       output: true
+       permalink: /program/:path/
+       priority: 2
+    committees:
+       output: true
+       permalink: /committees/:path/
+       priority: 3
     information:
-        output: true
-        permalink: /information/:path/
+       output: true
+       permalink: /information/:path/
+       priority: 4
 
 defaults:
   -
