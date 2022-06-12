@@ -105,18 +105,22 @@ invisible: true
 <tr><td style = "vertical-align: top; padding-right: 25px;" rowspan="2">\n'''
           g.write(authorTableHead)
 
-          authors = row["AuthorNames"].replace('*', '').split(';')
+          authors = row["AuthorNames"].replace('*', '').split(',')
           g.write('''<span style="color:black; font-size: 110%;"><i>\n''')
           for k, author in enumerate(authors):
             idx = author.find('(')
-            authorName = author[:idx].strip()
-            authorInstitute = author[idx:]
+            if idx != -1:
+                authorName = author[:idx].strip()
+                authorNameString = '''{} '''.format(authorName)
+                g.write(authorNameString)
 
-            authorNameString = '''{} '''.format(authorName)
-            g.write(authorNameString)
-
-            authorInstituteString = '''<span style="color:gray; font-size: 85%">{}</span>'''.format(authorInstitute)
-            g.write(authorInstituteString)
+                authorInstitute = author[idx:]
+                authorInstituteString = '''<span style="color:gray; font-size: 85%">{}</span>'''.format(authorInstitute)
+                g.write(authorInstituteString)
+            else:
+                authorName = author.strip()
+                authorNameString = '''{}'''.format(authorName)
+                g.write(authorNameString)
 
             if k < len(authors) - 1:
               g.write('''<span style="color:gray; font-size: 100%">,</span><br>''')
