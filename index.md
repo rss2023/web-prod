@@ -133,7 +133,7 @@ RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After 
 ### RSS Sponsors
 
 
-<table width="75%" style="margin-left: 10%; margin-right: auto;">
+<table width="75%" style="margin-right: auto;">
 <tr>
 <td style="width: 20%; text-align: center;">
 <a href="https://www.amazon.science/">
