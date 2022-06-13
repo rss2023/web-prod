@@ -143,8 +143,6 @@ RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After 
 </tr>
 </table>
 
-{% comment %}
-
 ### RSS Sponsors
 
 
@@ -152,51 +150,42 @@ RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After 
 <tr>
 <td style="width: 20%; text-align: center;">
 <a href="https://www.amazon.science/">
-  <img height="40px" src="{{ site.baseurl }}/images/sponsors/amazon_logo_RGB.png"
+  <img height="80px" src="{{ site.baseurl }}/images/sponsors/Amazon-Robotics-logo.png"
        alt="Amazon Robotics"/></a>
 </td>
 <td style="width: 20%; text-align: center; padding-bottom: 18px;">
 <a href="http://www.tri.global/">
-  <img height="60px" src="{{ site.baseurl }}/images/sponsors/tri.png"
+  <img height="80px" src="{{ site.baseurl }}/images/sponsors/tri.png"
        alt="Toyota Research Institute"/> </a>
 </td>
 </tr>
 <tr>
 
 <td style="text-align: center;">
-<a href="https://global.abb/">
-  <img height="48px;" src="{{ site.baseurl }}/images/sponsors/abblogo.png"
-       alt="ABB"/> </a>
+<a href="https://www.dexterity.ai/">
+  <img height="90px;" src="{{ site.baseurl }}/images/sponsors/Dexterity-logo.png"
+       alt="Dexterity"/> </a>
 </td>
 
 <td style="text-align: center; padding-bottom: 18px;">
-<a href="https://clearpathrobotics.com/">
-  <img height="50px;" src="{{ site.baseurl }}/images/sponsors/Clearpath-Logo-Q309---Short-Run_Colour_Trans.png"
-       alt="Clearpath Robotics"/> </a>
+<a href="https://www.rtx.com/our-company/what-we-do/transformative-technologies/rtrc">
+  <img height="80px;" src="{{ site.baseurl }}/images/sponsors/RTX_RTRC_logo.png"
+       alt="Raytheon"/> </a>
 </td>
 </tr>
 
 <tr>
 <td style="text-align: center;">
 <a href="https://www.merl.com/">
-  <img height="75px" src="{{ site.baseurl }}/images/sponsors/merl.png"
+  <img height="60px" src="{{ site.baseurl }}/images/sponsors/merl.png"
        alt="MERL"/> </a>
 </td>
 <td style="text-align: center; padding-bottom: 15px;">
-<a href="https://www.nvidia.com/en-us/research/">
-  <img height="80px" src="{{ site.baseurl }}/images/sponsors/nvidia.png"
-       alt="NVDIA"/> </a>
+<a href="https://intrinsic.ai/">
+  <img height="30px" src="{{ site.baseurl }}/images/sponsors/Intrinsic-logo.png"
+       alt="Intrinsic"/> </a>
 </td>
 </tr>
-
-<tr>
-<td style="text-align: center;" colspan=2>
-<a href="https://waymo.com/">
-  <img width="120px" src="{{ site.baseurl }}/images/sponsors/Waymo.png"
-       alt="Waymo"/> </a>
-</td>
-</tr>
-
 
 <tr>
 <td style="padding-bottom:60px;">
@@ -205,8 +194,6 @@ RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After 
 </tr>
 
 </table>
-
-{% endcomment %}
 
 The website of the 2021 RSS conference can be found [here](https://roboticsconference.org/2021/).
 
