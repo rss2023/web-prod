@@ -130,19 +130,6 @@ RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After 
     </tbody>
   </table>
 
-<table width="75%" style="margin-left: 0%; margin-right: auto;">
-<tr>
-<td style="width: 30%; text-align: left; padding-bottom: 18px; padding-right: 10px;">
-  <img height="200px" src="{{ site.baseurl }}/images/ColumbiaCREA.MorningsideAerial.jpg"
-       alt="Columbia Daytime"/>
-</td>
-<td style="width: 30%; text-align: left; padding-bottom: 18px;">
-  <img height="200px" src="{{ site.baseurl }}/images/ColumbiaCampusAndCityFromNWCB.Night.jpg"
-       alt="Columbia Night"/>
-</td>
-</tr>
-</table>
-
 ### RSS Sponsors
 
 
@@ -193,6 +180,19 @@ RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After 
 </td>
 </tr>
 
+</table>
+
+<table width="75%" style="margin-left: 0%; margin-right: auto;">
+<tr>
+<td style="width: 30%; text-align: left; padding-bottom: 18px; padding-right: 10px;">
+  <img height="200px" src="{{ site.baseurl }}/images/ColumbiaCREA.MorningsideAerial.jpg"
+       alt="Columbia Daytime"/>
+</td>
+<td style="width: 30%; text-align: left; padding-bottom: 18px;">
+  <img height="200px" src="{{ site.baseurl }}/images/ColumbiaCampusAndCityFromNWCB.Night.jpg"
+       alt="Columbia Night"/>
+</td>
+</tr>
 </table>
 
 The website of the 2021 RSS conference can be found [here](https://roboticsconference.org/2021/).
