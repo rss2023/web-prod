@@ -164,12 +164,12 @@ RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After 
 <tr>
 <td style="text-align: center;">
 <a href="https://www.merl.com/">
-  <img height="60px" src="{{ site.baseurl }}/images/sponsors/merl.png"
+  <img height="85px" src="{{ site.baseurl }}/images/sponsors/merl.png"
        alt="MERL"/> </a>
 </td>
 <td style="text-align: center; padding-bottom: 15px;">
 <a href="https://intrinsic.ai/">
-  <img height="30px" src="{{ site.baseurl }}/images/sponsors/Intrinsic-logo.png"
+  <img height="50px" src="{{ site.baseurl }}/images/sponsors/Intrinsic-logo.png"
        alt="Intrinsic"/> </a>
 </td>
 </tr>
