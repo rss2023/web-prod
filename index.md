@@ -137,12 +137,12 @@ RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After 
 <tr>
 <td style="width: 20%; text-align: center;">
 <a href="https://www.amazon.science/">
-  <img height="80px" src="{{ site.baseurl }}/images/sponsors/Amazon-Robotics-logo.png"
+  <img height="75px" src="{{ site.baseurl }}/images/sponsors/Amazon-Robotics-logo.png"
        alt="Amazon Robotics"/></a>
 </td>
 <td style="width: 20%; text-align: center; padding-bottom: 18px;">
 <a href="http://www.tri.global/">
-  <img height="80px" src="{{ site.baseurl }}/images/sponsors/tri.png"
+  <img height="75px" src="{{ site.baseurl }}/images/sponsors/tri.png"
        alt="Toyota Research Institute"/> </a>
 </td>
 </tr>
