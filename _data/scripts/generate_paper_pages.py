@@ -154,6 +154,11 @@ invisible: true
           g.write(row['Abstract']+'\n')
           g.write('''{: style="color:gray; font-size: 120%; text-align: justified;"}\n\n\n''')
 
+          # Write link to supplementary materials (optional)
+          if len(row['Supplementary']) > 0:
+              g.write('### Links\n')
+              g.write('- [Supplementary materials](%s)\n\n' % row['Supplementary'])
+
           # Write navigation bars
           g.write('''<table width="100%" style="margin-top:40px;">
 <tr>\n''')
