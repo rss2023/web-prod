@@ -19,7 +19,9 @@ non-students, and give full access to the virtual conference platform,
 including the workshop and main conference events.
 {% endcomment %}
 
-Please make sure to review our [Covid-19 policies]({{ site.baseurl }}/attending/covid/) before registering for in-person attendance
+**Note:** The Conference Banquet is sold out. Any new registrations are not guaranteed a banquet ticket.
+
+Please make sure to review our [Covid-19 policies]({{ site.baseurl }}/attending/covid/) before registering for in-person attendance.
 
 Please use the form embedded below to register. <b>If the below form does not work for your browser, register [here](https://pheedloop.com/EVELREUEKEDLK/site/register/) instead</b>. 
 
