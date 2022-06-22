@@ -170,7 +170,7 @@ RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After 
 <td style="text-align: center; padding-bottom: 15px;">
 <a href="https://zoox.com/">
   <img height="100px" src="{{ site.baseurl }}/images/sponsors/Zoox-logo.png"
-       alt="Intrinsic"/> </a>
+       alt="Zoox"/> </a>
 </td>
 </tr>
 

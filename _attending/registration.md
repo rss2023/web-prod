@@ -23,7 +23,7 @@ including the workshop and main conference events.
 
 Please make sure to review our [Covid-19 policies]({{ site.baseurl }}/attending/covid/) before registering for in-person attendance.
 
-Please use the form embedded below to register. <b>If the below form does not work for your browser, register [here](https://pheedloop.com/EVELREUEKEDLK/site/register/) instead</b>. 
+Please register on PheedLoop using **[this link](https://pheedloop.com/EVELREUEKEDLK/site/register/)**.
 
 The registration costs are as follows: 
 
@@ -87,14 +87,13 @@ application.
 
 We have reserved a number of beds in dorm-style rooms in the Columbia University dorm system. These must be reserved for the entire duration of the conference (6 nights, 6/26-7/2). The total cost for this duration will be $490. Please note that a majority of these beds will be in double-occupancy rooms (single-gender). These rooms will be within a short walking distance of Columbia's Morningside campus, where the conference will take place.
 
+{% comment %}
+
 ### Attendee Registration Form
 
-{% comment %}
 Registration is closed.
 
 https://pheedloop.com/register/rss2021/attendee/
-
-{% endcomment %}
 
 <script src="https://static.pheedloop.com/static/embed/embed.js"></script>
 <link rel="stylesheet" type="text/css" href="https://static.pheedloop.com/static/embed/embed.css" />
@@ -111,6 +110,8 @@ https://pheedloop.com/register/rss2021/attendee/
         popup: false,
     });
 </script>
+
+{% endcomment %}
 
 {% comment %}
 
