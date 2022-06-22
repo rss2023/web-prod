@@ -169,8 +169,18 @@ RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After 
 </td>
 <td style="text-align: center; padding-bottom: 15px;">
 <a href="https://intrinsic.ai/">
-  <img height="50px" src="{{ site.baseurl }}/images/sponsors/Intrinsic-logo.png"
+  <img height="100px" src="{{ site.baseurl }}/images/sponsors/Zoox-logo.png"
        alt="Intrinsic"/> </a>
+</td>
+</tr>
+
+<tr>
+<td style="text-align: center; padding-bottom: 15px; padding-top: 5px">
+<a href="https://intrinsic.ai/">
+  <img height="45px" src="{{ site.baseurl }}/images/sponsors/Intrinsic-logo.png"
+       alt="Intrinsic"/> </a>
+</td>
+<td style="text-align: center;">
 </td>
 </tr>
 
