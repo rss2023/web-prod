@@ -80,6 +80,7 @@ function onPlayerReady(event) {
 
 
 ### News and Updates
+* Please follow us on our [LinkedIn](https://www.linkedin.com/in/rss-conference-99b28823b/) and [Twitter](https://twitter.com/RoboticsSciSys) pages.
 * Review our [Covid-19 policies](attending/covid/).
 * With great pleasure we announce the two [keynote speakers](program/keynote/) for RSS this year.
 * The list of [accepted papers](program/papers/) is available now.
@@ -175,12 +176,15 @@ RSS 2022 will be held in New York City in the week June 27-July 1, 2022.  After 
 </tr>
 
 <tr>
+  <td style="text-align: center; padding-bottom: 15px; padding-top: 5px">
+  <a href="https://www.lockheedmartin.com/en-us/index.html">
+    <img height="85px" src="{{ site.baseurl }}/images/sponsors/LM-logo.png"
+         alt="Lockheed Martin"/> </a>
+  </td>
 <td style="text-align: center; padding-bottom: 15px; padding-top: 5px">
 <a href="https://intrinsic.ai/">
   <img height="45px" src="{{ site.baseurl }}/images/sponsors/Intrinsic-logo.png"
        alt="Intrinsic"/> </a>
-</td>
-<td style="text-align: center;">
 </td>
 </tr>
 
