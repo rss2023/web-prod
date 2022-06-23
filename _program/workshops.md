@@ -37,7 +37,7 @@ Please check the workshop websites for more details on their particular schedule
   <thead>
     <tr>
       <th width="7%" align="center">ID</th>
-      <th width="15%" align="center">Day</th>
+      <th width="15%" align="center">Location</th>
       <th width="50%">Title</th>
       <th width="28%">Organizers</th>
     </tr>
@@ -49,7 +49,7 @@ Please check the workshop websites for more details on their particular schedule
 
     <tr>
       <td><span style="font-weight:bold; color: #3a3946;"> {{ workshop.external_id }} </span></td>
-      <td>{{ workshop.date}} &nbsp; <span style="font-size:smaller; line-height:0.9; display:block;">{{workshop.timing_note}}</span> </td>
+      <td>{{ workshop.location }} &nbsp; <span style="font-size:smaller; line-height:0.9; display:block;">{{ workshop.note }}</span> </td>
       <td>
         <a href="{{ workshop.url }}">
           {{ workshop.title }}
