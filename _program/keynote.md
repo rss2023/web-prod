@@ -23,7 +23,7 @@ keynote talks.
 <th style="padding-top: 5px; padding-left: 10px; padding-bottom: 17px; height:140px;">
 	<p style="text-align:left; font-weight:normal; font-size: 16pt;">
     <a href="{{ site.baseurl }}/program/keynote1/">
-    <b>TBD</b>
+    <b>An AI-First Approach to Building the Next Generation of Self-Driving Technology</b>
     </a>
 	</p>
 </th>

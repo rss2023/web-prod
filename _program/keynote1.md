@@ -176,16 +176,16 @@ invisible: true
 
 <tr>
 <th>
-	<p style="text-align:justify; font-weight:bold; font-size:20px;">
-TBD
-	</p>
+	<p style="text-align:justify; font-weight:bold; font-size:20px;">An AI-First Approach to Building the Next Generation of Self-Driving Technology</p>
 	
 	<b>Abstract:</b>
-	<p style="text-align:justify; font-weight:normal;">
+	<p style="text-align:justify; font-weight:normal;">We are on the verge of a new era of robotics, artificial intelligence, and the role they will play in our daily lives. Self-driving vehicles have the potential to redefine our relationship with transportation — roads will become safer and less congested, while parking spots will be repurposed as leisure zones and parks. However, there are many technological challenges on the way towards this future. In this talk, I will unpack the revolutionary AI-first approach needed to overcome these hurdles and bring a scalable, cost-efficient solution to the market.
 	</p>
 	
 	<b>Biography:</b>
 	<p style="text-align:justify; font-weight:normal;">
+    Raquel Urtasun is Founder and CEO of Waabi, an AI company building the next generation of self-driving technology. Waabi is the culmination of Raquel's 20 year career in AI and 10 years of experience building self driving solutions. Raquel is also a Full Professor in the Department of Computer Science at the <a href="https://web.cs.toronto.edu/home">University of Toronto</a>, a co-founder of the <a href="https://vectorinstitute.ai/">Vector Institute</a> for AI, and the recipient of several high profile awards including a Longuet-Higgins Prize, an  Everingham Prize, an NSERC EWR Steacie Award, two NVIDIA Pioneers of AI Awards, three Google Faculty Research Awards, an Amazon Faculty Research Award, two Best Paper Runner up Prize awards at CVPR in 2013 and 2017 and more.<br>
+    Prior to forming Waabi, Raquel was the Chief Scientist and Head of R&D at Uber ATG and a Canada Research Chair in Machine Learning and Computer Vision. Raquel received her Ph.D. degree from the Computer Science department at Ecole Polytechnique Fédérale de Lausanne (EPFL) in 2006 and did her postdoc at MIT and UC Berkeley. In 2021, Raquel was named as 100 Women of Impact by Entrepreneur Magazine, 100 People Transforming Business by Business Insider, and Toronto’s Most Influential Torontonians according to Toronto Life Magazine. She was also named Chatelaine 2018 Woman of the year and 2018 Toronto's top influencers by Adweek magazine.
 	</p>
 </th>
 </tr>
