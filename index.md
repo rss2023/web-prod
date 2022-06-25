@@ -80,6 +80,7 @@ function onPlayerReady(event) {
 
 
 ### News and Updates
+* Please see the [Attending RSS](https://roboticsconference.org/attending/) page for information for conference attendees.
 * Please follow us on our [LinkedIn](https://www.linkedin.com/in/rss-conference-99b28823b/) and [Twitter](https://twitter.com/RoboticsSciSys) pages.
 * Review our [Covid-19 policies](attending/covid/).
 * With great pleasure we announce the two [keynote speakers](program/keynote/) for RSS this year.

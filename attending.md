@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Attending RSS
-description: Information for COnference Attendees
+description: Information for Conference Attendees
 priority: 10
 invisible: false
 ---
