@@ -10,6 +10,12 @@ Virtual event site: [https://pheedloop.com/RSS2022/virtual/](https://pheedloop.c
 
 Attending RSS information site: [https://roboticsconference.org/attending](https://roboticsconference.org/attending)
 
+YouTube Live stream
+
+-	Day 1: [https://youtu.be/qI0zvRp-UnE](https://youtu.be/qI0zvRp-UnE)
+-	Day 2: [https://youtu.be/A6rRCVtB2sM](https://youtu.be/A6rRCVtB2sM)
+-	Day 3: [https://youtu.be/kA2BeKyqkGs](https://youtu.be/kA2BeKyqkGs)
+
 ## Registration Desk
 Hours:
 - 8:00am-5:00pm, June 27, Carleton Lounge, Mudd Engineering Building
