@@ -47,7 +47,7 @@ invisible: false
 </head>
 <body>
 
-<p>Please check out the detailed paper schedules <a href="{{ site.baseurl }}/program/RSS2022PaperSchedule.pdf"><strong>[here]</strong></a>.<br></p>
+<p>The detailed paper presentation schedule is available <a href="{{ site.baseurl }}/program/RSS2022PaperSchedule.pdf"><strong>[here]</strong></a>.<br></p>
 
 <input type="text" id="search" placeholder="Type to search">
 

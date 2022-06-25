@@ -6,7 +6,7 @@ priority: 10
 invisible: false
 ---
 
-<p>This schedule makes it easy to find sesssion information, technical content, and events. More detailed main conference schedules can be found <a href="{{ site.baseurl }}/program/RSS2022PaperSchedule.pdf"><strong>[here]</strong></a>.<br></p>
+<p>This schedule makes it easy to find sesssion information, technical content, and events. The detailed main conference schedule is available <a href="{{ site.baseurl }}/program/RSS2022PaperSchedule.pdf"><strong>[here]</strong></a>.<br></p>
 <center>
 <a href="{{site.baseurl}}/program/schedule.htm">
 <img src="{{site.baseurl}}/program/schedule.png" alt="Event Schedule" width="100%"></a> 
