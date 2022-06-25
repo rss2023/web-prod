@@ -116,6 +116,32 @@ You may connect directly to the session stream through the Pheedloop site with t
 </tr>
 </table>
 
+## Sunday (RSS Pioneers)
+If you are attending Pioneers, you will have to enter through the Welcome Lobby of the Alfred Lerner Hall. **You can enter campus through the main entrance at 116th St. & Broadway.** If you are coming by subway, take the 1 train to 116th Street. If you are coming by car, ask to be dropped off at "116th & Broadway". Then find your way to the North-East corner entrance of Lerner Hall as shown here:
+
+<table width="75%" style="margin-left: 0%; margin-right: auto;">
+<tr>
+<td style="width: 50%; text-align: left; padding-bottom: 18px;">
+  <img height="400px" src="{{ site.baseurl }}/images/rss_pioneers22_map.png"
+       alt="RSS Pioneers 2022 Map"/>
+</td>
+</tr>
+</table>
+
+This is the entrance you are looking for:
+
+<table width="75%" style="margin-left: 0%; margin-right: auto;">
+<tr>
+<td style="width: 50%; text-align: left; padding-bottom: 18px;">
+  <img height="300px" src="{{ site.baseurl }}/images/rss_pioneers22_building.png"
+       alt="RSS Pioneers 2022 Building"/>
+</td>
+</tr>
+</table>
+
+## Banquet (Wed Evening)
+The Boat Cruise banquet will board at [Pier 40](https://goo.gl/maps/qwcGKiMgto8f2udx7). **Boarding will start at 6:30pm, and the boat will leave at 7pm.** If taking public transportation from the Columbia area, we recommend taking the 1 train to the nearby Houston St. station. Note that transportation time from the Columbia area will be 30-45 minutes, so make sure to allow enough time. **You will also need the QR code on the back of your badge to board the boat.**
+
 ## Getting Help
 For local help: flag an RSS volunteer or email Matei Ciocarlie at [matei.ciocarlie@columbia.edu](mailto:matei.ciocarlie@columbia.edu).
 
