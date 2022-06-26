@@ -37,7 +37,30 @@ The main RSS conference will be held in Lerner Hall.
 </td>
 </tr>
 </table>
- 
+
+## Sunday (RSS Pioneers)
+If you are attending Pioneers, you will have to enter through the Welcome Lobby of the Alfred Lerner Hall. **You can enter campus through the main entrance at 116th St. & Broadway.** If you are coming by subway, take the 1 train to 116th Street. If you are coming by car, ask to be dropped off at "116th & Broadway". Then find your way to the North-East corner entrance of Lerner Hall as shown here:
+
+<table width="75%" style="margin-left: 0%; margin-right: auto;">
+<tr>
+<td style="width: 50%; text-align: left; padding-bottom: 18px;">
+  <img height="400px" src="{{ site.baseurl }}/images/rss_pioneers22_map.png"
+       alt="RSS Pioneers 2022 Map"/>
+</td>
+</tr>
+</table>
+
+This is the entrance you are looking for:
+
+<table width="75%" style="margin-left: 0%; margin-right: auto;">
+<tr>
+<td style="width: 50%; text-align: left; padding-bottom: 18px;">
+  <img height="300px" src="{{ site.baseurl }}/images/rss_pioneers22_building.png"
+       alt="RSS Pioneers 2022 Building"/>
+</td>
+</tr>
+</table>
+
 ## Directions to Registration Desk – Workshop Days
 The Registration Desk will be in the lobby of the Seeley W. Mudd Engineering Building. **You must use the campus entrance to the building.** (There are street entrances as well on 120th Street, but they require Columbia ID cards for access.) **You can enter campus through the main entrance at 116th St. & Broadway.** If you are coming by subway, take the 1 train to 116th Street. If you are coming by car, ask to be dropped off at "116th & Broadway"”". Then find your way to the Mudd building as explained below.
 
@@ -112,29 +135,6 @@ You may connect directly to the session stream through the Pheedloop site with t
 <td style="width: 50%; text-align: left; padding-bottom: 18px;">
   <img height="150px" src="{{ site.baseurl }}/images/zoom_example.png"
        alt="Pheedloop with Zoom"/>
-</td>
-</tr>
-</table>
-
-## Sunday (RSS Pioneers)
-If you are attending Pioneers, you will have to enter through the Welcome Lobby of the Alfred Lerner Hall. **You can enter campus through the main entrance at 116th St. & Broadway.** If you are coming by subway, take the 1 train to 116th Street. If you are coming by car, ask to be dropped off at "116th & Broadway". Then find your way to the North-East corner entrance of Lerner Hall as shown here:
-
-<table width="75%" style="margin-left: 0%; margin-right: auto;">
-<tr>
-<td style="width: 50%; text-align: left; padding-bottom: 18px;">
-  <img height="400px" src="{{ site.baseurl }}/images/rss_pioneers22_map.png"
-       alt="RSS Pioneers 2022 Map"/>
-</td>
-</tr>
-</table>
-
-This is the entrance you are looking for:
-
-<table width="75%" style="margin-left: 0%; margin-right: auto;">
-<tr>
-<td style="width: 50%; text-align: left; padding-bottom: 18px;">
-  <img height="300px" src="{{ site.baseurl }}/images/rss_pioneers22_building.png"
-       alt="RSS Pioneers 2022 Building"/>
 </td>
 </tr>
 </table>
