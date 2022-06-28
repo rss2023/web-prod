@@ -14,7 +14,7 @@ YouTube Live stream
 
 -	Day 1: [https://youtu.be/qI0zvRp-UnE](https://youtu.be/qI0zvRp-UnE)
 -	Day 2: [https://youtu.be/A6rRCVtB2sM](https://youtu.be/A6rRCVtB2sM)
--	Day 3: [https://youtu.be/kA2BeKyqkGs](https://youtu.be/kA2BeKyqkGs)
+-	Day 3: [https://youtu.be/kA2BeKyqkGs](https://youtu.be/V17vQSZP5Zs)
 
 ## Registration Desk
 Hours:
