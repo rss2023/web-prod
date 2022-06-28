@@ -38,45 +38,9 @@ The main RSS conference will be held in Lerner Hall.
 </tr>
 </table>
 
-## Sunday (RSS Pioneers)
-If you are attending Pioneers, you will have to enter through the Welcome Lobby of the Alfred Lerner Hall. **You can enter campus through the main entrance at 116th St. & Broadway.** If you are coming by subway, take the 1 train to 116th Street. If you are coming by car, ask to be dropped off at "116th & Broadway". Then find your way to the North-East corner entrance of Lerner Hall as shown here:
-
-<table width="75%" style="margin-left: 0%; margin-right: auto;">
-<tr>
-<td style="width: 50%; text-align: left; padding-bottom: 18px;">
-  <img height="400px" src="{{ site.baseurl }}/images/rss_pioneers22_map.png"
-       alt="RSS Pioneers 2022 Map"/>
-</td>
-</tr>
-</table>
-
-This is the entrance you are looking for:
-
-<table width="75%" style="margin-left: 0%; margin-right: auto;">
-<tr>
-<td style="width: 50%; text-align: left; padding-bottom: 18px;">
-  <img height="300px" src="{{ site.baseurl }}/images/rss_pioneers22_building.png"
-       alt="RSS Pioneers 2022 Building"/>
-</td>
-</tr>
-</table>
-
-## Directions to Registration Desk – Workshop Days
-The Registration Desk will be in the lobby of the Seeley W. Mudd Engineering Building. **You must use the campus entrance to the building.** (There are street entrances as well on 120th Street, but they require Columbia ID cards for access.) **You can enter campus through the main entrance at 116th St. & Broadway.** If you are coming by subway, take the 1 train to 116th Street. If you are coming by car, ask to be dropped off at "116th & Broadway"”". Then find your way to the Mudd building as explained below.
-
-The exact location of the entrance is next to [the "Le Marteleur" ("The Hammerer") statue](https://blogs.cul.columbia.edu/outdoorsculpture/2018/08/30/constantin-meunier-and-le-marteleur/). Here is the [link to the exact location](https://goo.gl/maps/WCgS2nB6BAUKiDHb7) on Google Maps. Once you see it, you’re in the right spot - the Mudd building is right behind the statue. Below are walking directions from the campus entrance to the Mudd building.
-
-<table width="75%" style="margin-left: 0%; margin-right: auto;">
-<tr>
-<td style="width: 50%; text-align: left; padding-bottom: 18px;">
-  <img height="400px" src="{{ site.baseurl }}/images/le_marteleur.png"
-       alt="Le Marteleur statue"/>
-</td>
-</tr>
-</table>
-
 ## Directions to Registration Desk – Main Conference Days
 The Registration Desk will be in the Broadway lobby of the Roone Arledge Auditorium of [Alfred Lerner Hall](https://goo.gl/maps/8My7JoPFzVjsesmX6), located at 2920 Broadway. If you are coming by subway, take the 1 train to 116th Street, and walk two blocks south. The [entrance](https://goo.gl/maps/n5YUR7KAj16bB25y5) is on the East side of Broadway, which shows a wide set of doors saying "Roone Arledge Auditorium and Cinema".
+
 
 ## Accessibility
 Live captioning will be provided on the Zoom webinar only, not the YouTube live stream. The transcript will be provided on YouTube recordings.
@@ -141,6 +105,44 @@ You may connect directly to the session stream through the Pheedloop site with t
 
 ## Banquet (Wed Evening)
 The Boat Cruise banquet will board at [Pier 40](https://goo.gl/maps/qwcGKiMgto8f2udx7). **Boarding will start at 6:30pm, and the boat will leave at 7pm.** If taking public transportation from the Columbia area, we recommend taking the 1 train to the nearby Houston St. station. Note that transportation time from the Columbia area will be 30-45 minutes, so make sure to allow enough time. **You will also need the QR code on the back of your badge to board the boat.**
+
+## Sunday (RSS Pioneers)
+If you are attending Pioneers, you will have to enter through the Welcome Lobby of the Alfred Lerner Hall. **You can enter campus through the main entrance at 116th St. & Broadway.** If you are coming by subway, take the 1 train to 116th Street. If you are coming by car, ask to be dropped off at "116th & Broadway". Then find your way to the North-East corner entrance of Lerner Hall as shown here:
+
+<table width="75%" style="margin-left: 0%; margin-right: auto;">
+<tr>
+<td style="width: 50%; text-align: left; padding-bottom: 18px;">
+  <img height="400px" src="{{ site.baseurl }}/images/rss_pioneers22_map.png"
+       alt="RSS Pioneers 2022 Map"/>
+</td>
+</tr>
+</table>
+
+This is the entrance you are looking for:
+
+<table width="75%" style="margin-left: 0%; margin-right: auto;">
+<tr>
+<td style="width: 50%; text-align: left; padding-bottom: 18px;">
+  <img height="300px" src="{{ site.baseurl }}/images/rss_pioneers22_building.png"
+       alt="RSS Pioneers 2022 Building"/>
+</td>
+</tr>
+</table>
+
+## Directions to Registration Desk – Workshop Days
+The Registration Desk will be in the lobby of the Seeley W. Mudd Engineering Building. **You must use the campus entrance to the building.** (There are street entrances as well on 120th Street, but they require Columbia ID cards for access.) **You can enter campus through the main entrance at 116th St. & Broadway.** If you are coming by subway, take the 1 train to 116th Street. If you are coming by car, ask to be dropped off at "116th & Broadway"”". Then find your way to the Mudd building as explained below.
+
+The exact location of the entrance is next to [the "Le Marteleur" ("The Hammerer") statue](https://blogs.cul.columbia.edu/outdoorsculpture/2018/08/30/constantin-meunier-and-le-marteleur/). Here is the [link to the exact location](https://goo.gl/maps/WCgS2nB6BAUKiDHb7) on Google Maps. Once you see it, you’re in the right spot - the Mudd building is right behind the statue. Below are walking directions from the campus entrance to the Mudd building.
+
+<table width="75%" style="margin-left: 0%; margin-right: auto;">
+<tr>
+<td style="width: 50%; text-align: left; padding-bottom: 18px;">
+  <img height="400px" src="{{ site.baseurl }}/images/le_marteleur.png"
+       alt="Le Marteleur statue"/>
+</td>
+</tr>
+</table>
+
 
 ## Getting Help
 For local help: flag an RSS volunteer or email Matei Ciocarlie at [matei.ciocarlie@columbia.edu](mailto:matei.ciocarlie@columbia.edu).
