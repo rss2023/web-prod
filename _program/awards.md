@@ -3,11 +3,65 @@ layout: page
 title: Awards
 description: Award details.
 priority: 9
-invisible: true
+invisible: false
 ---
 
 
-Congratulations to the following people!<br>
+<!-- Congratulations to the following people!<br> -->
+
+
+### Best Student Paper Finalists
+
+* [*Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects*]({{ site.url }}/program/papers/016/)
+Cheng Chi, Benjamin CM Burchfiel, Eric Cousineau, Siyuan Feng, and Shuran Song
+
+* [*ACID: Action-Conditional Implicit Visual Dynamics for Deformable Object Manipulation*]({{ site.url }}/program/papers/001/)
+Bokui Shen, Zhenyu Jiang, Christopher Choy, Leonidas Guibas, Silvio Savarese, Anima Anandkumar, and Yuke Zhu
+
+* [*Parameterized Differential Dynamic Programming*]({{ site.url }}/program/papers/046/)
+Alex Oshin, Matthew D Houghton, Michael Acheson, Irene Gregory, and Evangelos Theodorou
+
+* [*AK: Attentive Kernel for Information Gathering*]({{ site.url }}/program/papers/047/)
+Weizhe Chen, Roni Khardon, and Lantao Liu
+
+<br>
+
+### Best Systems Paper Finalists
+
+* [*DextAIRity: Deformable Manipulation Can be a Breeze*]({{ site.url }}/program/papers/017/)
+Zhenjia Xu, Cheng Chi, Benjamin CM Burchfiel, Eric Cousineau, Siyuan Feng, and Shuran Song
+
+* [*ViKiNG: Vision-Based Kilometer-Scale Navigation with Geographic Hints*]({{ site.url }}/program/papers/019/)
+Dhruv Shah and Sergey Levine
+
+* [*Resilient Multi-Sensor Exploration of Multifarious Environments with a Team of Aerial Robots*]({{ site.url }}/program/papers/004/)
+Graeme Best, Rohit Garg, John Keller, Geoff Hollinger, and Sebastian Scherer
+
+* [*Autonomously Untangling Long Cables*]({{ site.url }}/program/papers/034/)
+Kaushik Shivakumar, Vainavi Viswanath, Justin Kerr, Brijen Thananjeyan, Ellen Novoseller, Jeffrey Ichnowski, Ken Goldberg, Joseph Gonzalez, Michael Laskey, and Alejandro Escontrela
+
+<br>
+
+### Best Paper Award Nominees
+
+* [*Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects*]({{ site.url }}/program/papers/016/)
+Cheng Chi, Benjamin CM Burchfiel, Eric Cousineau, Siyuan Feng, and Shuran Song
+
+* [*FlowBot3D: Learning 3D Articulation Flow to Manipulate Articulated Objects*]({{ site.url }}/program/papers/018/)
+Benjamin Eisner, Harry Zhang, and David Held
+
+* [*You Only Demonstrate Once: Category-Level Manipulation from Single Visual Demonstration*]({{ site.url }}/program/papers/044/)
+Bowen Wen, Wenzhao Lian, Kostas Bekris, and Stefan Schaal
+
+* [*DiPCAN: Distilling Privileged Information for Crowd-Aware Navigation*]({{ site.url }}/program/papers/045/)
+Gianluca Monaci, Michel Aractingi, and Tomi Silander
+
+* [*Multi-Robot Adversarial Resilience using Control Barrier Functions*]({{ site.url }}/program/papers/053/)
+Matthew Cavorsi, Beatrice Capelli, Lorenzo Sabattini, and Stephanie Gil
+
+
+
+{% comment %}
 
 ### Best Paper Award / Best Systems Paper Award in Memory of Seth Teller
 
@@ -47,3 +101,4 @@ Mengyu Fu, Oren Salzman, Ron Alterovitz
 
 <br>
 
+{% endcomment %}
