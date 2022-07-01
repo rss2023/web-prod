@@ -7,8 +7,25 @@ invisible: false
 ---
 
 
-<!-- Congratulations to the following people!<br> -->
+Congratulations to the following people!<br>
 
+### Best Paper Award
+[*Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects*]({{ site.url }}/program/papers/016/)
+Cheng Chi, Benjamin CM Burchfiel, Eric Cousineau, Siyuan Feng, and Shuran Song
+
+<br>
+
+### Best Student Paper Award
+[*AK: Attentive Kernel for Information Gathering*]({{ site.url }}/program/papers/047/)
+Weizhe Chen, Roni Khardon, and Lantao Liu
+
+<br>
+
+### Best Systems Paper Award
+[*Autonomously Untangling Long Cables*]({{ site.url }}/program/papers/034/)
+Kaushik Shivakumar, Vainavi Viswanath, Justin Kerr, Brijen Thananjeyan, Ellen Novoseller, Jeffrey Ichnowski, Ken Goldberg, Joseph Gonzalez, Michael Laskey, and Alejandro Escontrela
+
+<br>
 
 ### Best Student Paper Finalists
 

@@ -59,6 +59,10 @@ description: Organizing team.
             <a href="https://lucacarlone.mit.edu/">Luca Carlone</a><br>
             <i>Massachusetts Institute of Technology</i><br>
             <br>
+      <b>Award Chair</b><br>
+            <a href="https://www2.ccs.neu.edu/research/helpinghands/group.html">Robert Platt</a><br>
+            <i>Northeastern University</i><br>
+            <br>
       <b>Inclusions@RSS Chairs</b><br>
             <table style="margin-left:auto;margin-right:auto;"><tr>
             <td style="width:200px;vertical-align:top;">
