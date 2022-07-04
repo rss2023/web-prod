@@ -3,7 +3,7 @@ layout: page
 title: Test of Time Award
 description: The award for impact over at least a decade, including author bios
 priority: 5
-invisible: true
+invisible: false
 ---
 
 <head>
@@ -69,7 +69,7 @@ invisible: true
 [*<center>The keynote slides are available here</center>*]({{site:baseurl}}/docs/keynote-TestOfTime-DellaertKaess.pdf)
 {% endcomment %}
 
-Last year RSS introduced the **RSS Test of Time Award** given to highest
+The **RSS Test of Time Award** is given to highest
 impact papers published at RSS (and potentially journal versions
 thereof) from at least ten years ago. Impact may mean that it changed
 how we think about problems or about robotic design, that it brought
@@ -82,13 +82,17 @@ reflect on and discuss the past, which is essential to make progress in
 the future. The awardee's keynote is therefore complemented with a
 Test of Time Panel session devoted to this important discussion.
 
-It is our great pleasure to announce that the 2021 Test of Time
+It is our great pleasure to announce that the 2022 Test of Time
 Award goes to the paper:
 
-* *Hanna Kurniawati*, *David Hsu*, and *Wee Sun Lee* <br> [SARSOP: Efficient Point-Based POMDP Planning by Approximating Optimally Reachable Belief Spaces](http://www.roboticsproceedings.org/rss04/p9.html)<br>  Robotics: Science and Systems IV, 2008.
+* *Sertac Karaman* and *Emilio Frazzoli* <br> [Incremental Sampling-based Algorithms for Optimal Motion Planning](http://www.roboticsproceedings.org/rss06/p34.html)<br>  Robotics: Science and Systems VI, 2010.
 
-*For contributions to efficient point-based POMDP planning via the SARSOP algorithm.*
+* *Sertac Karaman* and *Emilio Frazzoli* <br> [Sampling-based algorithms for optimal motion planning](https://journals.sagepub.com/doi/abs/10.1177/0278364911406761)<br> International Journal of Robotics Research, Vol 30 Issue 7: Special Issue on Robotics: Science and Systems 2010.
 
+*For the first formal asymptotic analysis of the quality of stochastic sampling-based path planning algorithms and the introduction of new, provably asymptotically optimal algorithms PRM* and RRT*, in wide use today.*
+
+
+{% comment %}
 
 ### Award Keynote and Panel Discussion
 
@@ -291,7 +295,7 @@ International Probabilistic Planning Competition (IPPC) in 2011 and again in
 </table>
 
 
-
+{% endcomment %}
 
 
 <script>
