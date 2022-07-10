@@ -5,6 +5,17 @@ title: Home
 <h1 class="page-title">{{ site.title }}<br>
 June 27&ndash;July 1, 2022</h1>
 
+<p><br /></p>
+<center>
+<table width="100%" style="border: solid #aaa 3px; background:#444;">
+<tr><td>
+<br />
+<h2><b><center><span style="color: #fff">RSS 2022 is now over! If you missed it, you can watch all of the paper presentations and keynote talks on <a href="https://youtube.com/playlist?list=PLG0LjilbrcCbEmRZuP5yxvUCSTieqmJnn">our YouTube playlist</a>.</span></center></b></h2>
+<br />
+</td></tr>
+</table>
+</center>
+<p><br /></p>
 
 
 {% comment %}
