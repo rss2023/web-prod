@@ -90,7 +90,7 @@ description: Organizing team.
             <br>
 	    <b>Website Chair</b><br>
             <a href="https://rahulsho.me">Rahul Shome</a><br>
-            <i>University of Texas, Austin</i><br>
+            <i>The Australian National University</i><br>
             <br>
     </div>
 
