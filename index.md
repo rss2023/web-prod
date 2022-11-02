@@ -17,7 +17,7 @@ researchers in all areas of robotics from around the world for an engaging and
 focused week of single-track presentations, workshops, poster sessions,
 tutorials! This year, as always, we solicit your best work.
 
-RSS 2023 will be held in Daeugu, South Korea in the week Jun 23 - Jun 28, 2023.
+RSS 2023 will be held in Daegu, South Korea in the week Jun 23 - Jun 28, 2023.
 
 
 ### Timeline

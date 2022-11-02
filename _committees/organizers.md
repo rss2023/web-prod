@@ -9,8 +9,8 @@ description: Organizing team.
 
     <div class="row text-center">
       <b>Program Chair</b><br>
-            <a href="https://kkhauser.web.illinois.edu/">Kris Hauser</a><br>
-            <i>University of Illinois, Urbana-Champaign</i><br>
+            <a href="https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/">Kostas E. Bekris</a><br>
+            <i>Rutgers University, New Brunswick</i><br>
             <br>
       <b>General Chair</b><br>
             <a href="http://robotics.cs.tamu.edu/dshell">Dylan Shell</a><br>
@@ -89,7 +89,7 @@ description: Organizing team.
             </table>
             <br>
 	    <b>Website Chair</b><br>
-            <a href="https://www.cs.utexas.edu/~yukez/">Yuke Zhu</a><br>
+            <a href="https://rahulsho.me">Rahul Shome</a><br>
             <i>University of Texas, Austin</i><br>
             <br>
     </div>
