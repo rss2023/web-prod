@@ -66,7 +66,7 @@ invisible: false
 </style>
 </head>
 {% comment %}
-[*<center>The keynote slides are available here</center>*]({{site:baseurl}}/docs/keynote-TestOfTime-DellaertKaess.pdf)
+[*<center>The keynote slides are available here</center>*]({{site.baseurl}}/docs/keynote-TestOfTime-DellaertKaess.pdf)
 {% endcomment %}
 
 The **RSS Test of Time Award** is given to highest
