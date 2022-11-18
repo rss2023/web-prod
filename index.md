@@ -3,24 +3,25 @@ layout: default
 title: Home
 ---
 <h1 class="page-title">{{ site.title }}<br>
-Jun 23&ndash;Jun 28, 2023</h1>
+Jul 10 &ndash; Jul 14, 2023<br>Daegu, Korea</h1>
 
 
 
 ### News and Updates
-* Information about submission deadlines and additional information to be posted soon. Please check the website for updates.
+* Call for papers is out [here]({{ site.baseurl }}/information/cfp/).
 
 
 ### Call for Participation
+
+We are pleased to announce the 19th edition of the Robotics: Science and Systems (RSS) conference to be held in Daegu, Korea in July 10-14, 2023. This will be the first time that RSS is taking place in Asia. 
+
 The Robotics: Science and Systems has a long history of bringing together
 researchers in all areas of robotics from around the world for an engaging and
 focused week of single-track presentations, workshops, poster sessions,
 tutorials! This year, as always, we solicit your best work.
 
-RSS 2023 will be held in Daegu, South Korea in the week Jun 23 - Jun 28, 2023.
 
-
-### Timeline
+### Important Dates
 
 <table class="table">
     <thead>
@@ -32,24 +33,24 @@ RSS 2023 will be held in Daegu, South Korea in the week Jun 23 - Jun 28, 2023.
       <tr>
         <td>February 3rd, 2023</td>
         <td>11:59am <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td>Paper Submission Deadline</td>
+        <td>Paper and Demo Submission Deadline</td>
       </tr>
       <tr>
-        <td>February 23th, 2023</td>
+        <td>February 17th, 2023</td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Workshop Submission Deadline</td>
       </tr>
       <tr>
-      <td colspan="2">March 9th, 2023</td>
+      <td colspan="2">March 17th, 2023</td>
         <td>Workshop Acceptance Notification</td>
       </tr>
       <tr>
-        <td colspan="2">April 20th, 2023</td>
-        <td>Paper Acceptance Notification</td>
+        <td colspan="2">April 22th, 2023</td>
+        <td>Paper and Demo Acceptance Notification</td>
       </tr>
       <tr>
-        <td colspan="2">June 23rd &ndash; Jun 28th, 2023</td>
-        <td>Daegu, South Korea</td>
+        <td colspan="2">July 10th &ndash; July 14th, 2023</td>
+        <td>RSS 2023, Daegu, Korea</td>
       </tr>
     </tbody>
   </table>

@@ -10,88 +10,137 @@ description: Organizing team.
     <div class="row text-center">
       <b>Program Chair</b><br>
             <a href="https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/">Kostas E. Bekris</a><br>
-            <i>Rutgers University, New Brunswick</i><br>
-            <br>
+            <i>Rutgers University, USA</i><br>
+      <br>
       <b>General Chair</b><br>
-            <a href="http://robotics.cs.tamu.edu/dshell">Dylan Shell</a><br>
-            <i>Texas A&amp;M University</i><br>
-            <br>
+            <a href="http://kkhauser.web.illinois.edu/">Kris Hauser</a><br>
+            <i>University of Illinois Urbana-Champaign, USA</i><br>
+      <br>
       <b>Workshop Chairs</b><br>
-            <table style="margin-left:auto;margin-right:auto;"><tr>
-            <td style="width:200px;vertical-align:top;">
-            <a href="https://www.cs.columbia.edu/~shurans/">Shuran Song</a><br>
-            <i>Columbia University</i><br>
-            </td>
-            <td style="width:45px;"></td>
-            <td style="width:200px;vertical-align:top;">
-            <a href="https://uwaterloo.ca/robohub/profile/kmombaur">Katja Mombaur</a><br>
-            <i>University of Waterloo</i><br>
-            </td>
+            <table style="margin-left:auto;margin-right:auto;">
+            <tr>
+                  <td style="width:200px;vertical-align:top;">
+                        <a href="https://sites.google.com/site/aslunist/people/professor">Hyondong Oh </a><br>
+                        <i>Ulsan National Institute of Science and Technology, Korea</i><br>
+                  </td>
+                  <!-- <td style="width:45px;"></td>
+                  <td style="width:200px;vertical-align:top;">
+                        <a href=""></a><br>
+                        <i></i><br>
+                  </td> -->
             </tr>
             </table>
-            <br>
+      <br>
       <b>Local Arrangements Chairs</b><br>
-            <table style="margin-left:auto;margin-right:auto;"><tr>
-            <td style="width:200px;vertical-align:top;">
-            <a href="https://www.me.columbia.edu/faculty/matei-ciocarlie">Matei Ciocarlie</a><br>
-            <i>Columbia University</i><br>
-            </td>
-            <td style="width:45px;"></td>
-            <td style="width:200px;vertical-align:top;">
-            <a href="https://www.me.columbia.edu/faculty/yevgeniy-yesilevskiy">Yev Yesilevskiy</a><br>
-            <i>Columbia University</i><br></td>
+            <table style="margin-left:auto;margin-right:auto;">
+            <tr>
+                  <td style="width:200px;vertical-align:top;">
+                        <a href="https://lics.kaist.ac.kr/members/professor/">Han-Lim Choi</a><br>
+                        <i>Korea Advanced Institute of Science and Technology, Korea</i><br>
+                  </td>
+                  <td style="width:45px;"></td>
+                  <td style="width:200px;vertical-align:top;">
+                        <a href="https://knurobot.wixsite.com/arrf">Kyuman Lee </a><br>
+                        <i>Kyungpook National University, Korea</i><br>
+                  </td>
             </tr>
             </table>
-            <br>
-      <b>Publication Chair</b><br>
-            <a href="https://profiles.uts.edu.au/Shoudong.Huang">Shoudong Huang</a><br>
-            <i>University of Technology Sydney</i><br>
-            <br>
-      <b>Sponsorship Chair</b><br>
-            <a href="https://mcube.mit.edu/">Alberto Rodriguez</a><br>
-            <i>MIT</i><br>
-            <br>
+      <br>
+      <!-- <b>Publication Chair</b><br>
+            <a href=""></a><br>
+            <i></i><br>
+      <br> -->
+      <b>Sponsorship Chairs</b><br>
+            <table style="margin-left:auto;margin-right:auto;">
+            <tr>
+                  <td style="width:200px;vertical-align:top;">
+                        <a href="https://www.dynamicrobot.kaist.ac.kr/">Hae-Won Park</a><br>
+                        <i>Korea Advanced Institute of Science and Technology, Korea</i><br>
+                  </td>
+                  <td style="width:45px;"></td>
+                  <td style="width:200px;vertical-align:top;">
+                        <a href="https://web.stanford.edu/~pavone/index.html">Marco Pavone</a><br>
+                        <i>Stanford University, USA</i><br>
+                  </td>
+            </tr>
+            </table>
+      <br>
       <b>Registration Chair</b><br>
-            <a href="http://www.cs.toronto.edu/~florian/">Florian Shkurti</a><br>
-            <i>University of Toronto</i><br>
-            <br>
+            <a href="https://profiles.uts.edu.au/Shoudong.Huang">Shoudong Huang</a><br>
+            <i>University of Technology Sydney, Australia</i><br>
+      <br>
       <b>Publicity Chair</b><br>
-            <a href="https://lucacarlone.mit.edu/">Luca Carlone</a><br>
-            <i>Massachusetts Institute of Technology</i><br>
-            <br>
-      <b>Award Chair</b><br>
-            <a href="https://www2.ccs.neu.edu/research/helpinghands/group.html">Robert Platt</a><br>
-            <i>Northeastern University</i><br>
-            <br>
-      <b>Inclusions@RSS Chairs</b><br>
-            <table style="margin-left:auto;margin-right:auto;"><tr>
-            <td style="width:200px;vertical-align:top;">
-            <a href="http://www.hennyadmoni.com/">Henny Admoni</a><br>
-            <i>Carnegie Mellon University</i><br></td>
-            <td style="width:45px;"></td>
-            <td style="width:200px;vertical-align:top;">
-            <a href="https://www.kaleshabullard.com/">Kalesha Bullard</a><br>
-            <i>DeepMind</i><br></td>
+            <a href="https://english.tau.ac.il/profile/sintov1">Avishai Sintov</a><br>
+            <i>Tel-Aviv University, Israel</i><br>
+      <br>
+      <!-- <b>Award Chair</b><br>
+            <a href=""></a><br>
+            <i></i><br>
+      <br> -->
+      <!-- <b>Inclusions@RSS Chairs</b><br>
+            <table style="margin-left:auto;margin-right:auto;">
+            <tr>
+                  <td style="width:200px;vertical-align:top;">
+                        <a href=""></a><br>
+                        <i></i><br>
+                  </td>
+                  <td style="width:45px;"></td>
+                  <td style="width:200px;vertical-align:top;">
+                        <a href=""></a><br>
+                        <i></i><br>
+                  </td>
             </tr>
             </table>
-            <br>
+      <br> -->
       <b>RSS Pioneers Chairs</b><br>
-            <table style="margin-left:auto;margin-right:auto;"><tr>
-            <td style="width:200px;vertical-align:top;">
-            <a href="https://www.aharakeh.com/">Ali Harakeh</a><br>
-            <i>Mila-Quebec AI Institute</i><br>
-            </td>
-            <td style="width:45px;"></td>
-            <td style="width:200px;vertical-align:top;">
-            <a href="https://nivedithakalavakonda.com/">Nivii Kalavakonda</a><br>
-            <i>University of Washington</i><br></td>
+            <table style="margin-left:auto;margin-right:auto;">
+            <tr>
+                  <td style="width:200px;vertical-align:top;">
+                        <a href="https://siqizhou.com/">SiQi Zhou</a><br>
+                        <i>University of Toronto, Canada</i><br>
+                  </td>
+                  <td style="width:45px;"></td>
+                  <td style="width:200px;vertical-align:top;">
+                        <a href="http://www.georgekontoudis.com/">George Kontoudis</a><br>
+                        <i>University of Maryland, USA</i><br>
+                  </td>
             </tr>
             </table>
-            <br>
-	    <b>Website Chair</b><br>
+      <br>
+	<b>Website Chair</b><br>
             <a href="https://rahulsho.me">Rahul Shome</a><br>
-            <i>The Australian National University</i><br>
-            <br>
+            <i>The Australian National University, Australia</i><br>
+      <br>
+      <b>Accessibility Chairs</b><br>
+            <table style="margin-left:auto;margin-right:auto;">
+            <tr>
+                  <td style="width:200px;vertical-align:top;">
+                        <a href="https://eshort.github.io/">Elaine Schaertl Short</a><br>
+                        <i>Tufts University, USA</i><br>
+                  </td>
+                  <td style="width:45px;"></td>
+                  <td style="width:200px;vertical-align:top;">
+                        <a href="https://hyeminahn.oopy.io/">Hyemin Ahn</a><br>
+                        <i>Ulsan National Institute of Science and Technology, Korea</i><br>
+                  </td>
+            </tr>
+            </table>
+      <br>
+      <b>Presentation Chairs</b><br>
+            <table style="margin-left:auto;margin-right:auto;">
+            <tr>
+                  <td style="width:200px;vertical-align:top;">
+                        <a href="">Dongjun Shin</a><br>
+                        <!-- <i>Korea</i><br> -->
+                  </td>
+                  <!-- <td style="width:45px;"></td>
+                  <td style="width:200px;vertical-align:top;">
+                        <a href=""></a><br>
+                        <i></i><br>
+                  </td> -->
+            </tr>
+            </table>
+      <br>
     </div>
 
 </div>
