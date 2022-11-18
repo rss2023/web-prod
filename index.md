@@ -3,17 +3,18 @@ layout: default
 title: Home
 ---
 <h1 class="page-title">{{ site.title }}<br>
-Jul 10 &ndash; Jul 14, 2023<br>Daegu, Korea</h1>
+Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 
 
 
 ### News and Updates
-* Call for papers is out [here]({{ site.baseurl }}/information/cfp/).
+
+Call for papers, workshops, and demos is out [here]({{ site.baseurl }}/information/cfp/).
 
 
 ### Call for Participation
 
-We are pleased to announce the 19th edition of the Robotics: Science and Systems (RSS) conference to be held in Daegu, Korea in July 10-14, 2023. This will be the first time that RSS is taking place in Asia. 
+We are pleased to announce the 19th edition of the Robotics: Science and Systems (RSS) conference to be held in Daegu, Republic of Korea in July 10-14, 2023. This will be the first time that RSS is taking place in Asia. 
 
 The Robotics: Science and Systems has a long history of bringing together
 researchers in all areas of robotics from around the world for an engaging and
@@ -32,12 +33,12 @@ tutorials! This year, as always, we solicit your best work.
     <tbody>
       <tr>
         <td>February 3rd, 2023</td>
-        <td>11:59am <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td>11:59pm <a target="_blank" href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Paper and Demo Submission Deadline</td>
       </tr>
       <tr>
         <td>February 17th, 2023</td>
-        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td>11:59pm <a target="_blank" href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Workshop Submission Deadline</td>
       </tr>
       <tr>
@@ -50,7 +51,7 @@ tutorials! This year, as always, we solicit your best work.
       </tr>
       <tr>
         <td colspan="2">July 10th &ndash; July 14th, 2023</td>
-        <td>RSS 2023, Daegu, Korea</td>
+        <td>RSS 2023, Daegu, Republic of Korea</td>
       </tr>
     </tbody>
   </table>
