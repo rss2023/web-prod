@@ -120,8 +120,8 @@ description: Organizing team.
             <table style="margin-left:auto;margin-right:auto;">
             <tr>
                   <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href="">Dongjun Shin</a><br>
-                        <!-- <i>Korea</i><br> -->
+                        <a target="_blank" href="http://hcr.yonsei.ac.kr/people.html">Dongjun Shin</a><br>
+                        <i>Yonsei University, Republic&nbsp;of&nbsp;Korea</i><br>
                   </td>
                   <!-- <td style="width:45px;"></td>
                   <td style="width:200px;vertical-align:top;">
