@@ -18,8 +18,8 @@ We are pleased to announce the 19th edition of the Robotics: Science and Systems
 
 The Robotics: Science and Systems has a long history of bringing together
 researchers in all areas of robotics from around the world for an engaging and
-focused week of single-track presentations, workshops, poster sessions,
-tutorials! This year, as always, we solicit your best work.
+focused week of single-track presentations, workshops, poster sessions, and
+tutorials. This year, as always, we solicit your best work.
 
 
 ### Important Dates
