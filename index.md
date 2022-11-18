@@ -60,8 +60,8 @@ tutorials. This year, as always, we solicit your best work.
 
 The website of the 2022 RSS conference can be found [here]({{ site.baseurl }}/2022/).
 
-<tr>
-<td style="padding-bottom:60px;">
-&nbsp;
-</td>
-</tr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
