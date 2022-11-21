@@ -188,3 +188,10 @@ a.social-media:active {color:#333333}
   max-height: 120px;
   margin: 5px;
 }
+
+
+@media (max-width: 767px) {
+    .page-title {
+        font-size: smaller;
+    }
+}
