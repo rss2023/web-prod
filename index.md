@@ -32,13 +32,17 @@ tutorials. This year, as always, we solicit your best work.
     </thead>
     <tbody>
       <tr>
+        <td colspan="2">January 4th, 2023</td>
+        <td>Submission Website Opens</td>
+      </tr>
+      <tr>
         <td>February 3rd, 2023</td>
-        <td>11:59pm <a target="_blank" href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Paper and Demo Submission Deadline</td>
       </tr>
       <tr>
         <td>February 17th, 2023</td>
-        <td>11:59pm <a target="_blank" href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Workshop Submission Deadline</td>
       </tr>
       <tr>
@@ -54,7 +58,7 @@ tutorials. This year, as always, we solicit your best work.
         <td>RSS 2023, Daegu, Republic of Korea</td>
       </tr>
     </tbody>
-  </table>
+</table>
 
 
 
