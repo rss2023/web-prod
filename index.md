@@ -2,8 +2,8 @@
 layout: default
 title: Home
 ---
-<h1><div class="page-title">{{ site.title }}<br>
-Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</div></h1>
+<h1 class="page-title">{{ site.title }}<br>
+Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 
 
 
