@@ -10,9 +10,10 @@ permalink:        pretty
 title:            "Robotics: Science and Systems"
 tagline:          'A Robotics Conference'
 description:      'Jun 23, 2023 - Jun 28, 2023.'
-# url:              "https://roboticsconference.org"
-url:              "https://rss2023.github.io/web-prod"
-baseurl:          "/web-prod"
+url:              "https://roboticsconference.org"
+# url:              "https://rss2023.github.io/web-prod"
+# baseurl:          "/web-prod"
+baseurl:          ""
 include:          ['_pages']
 exclude:          ['README.md', 'LICENSE.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor', 'GRTAGS', 'GPATH', 'GTAGS', 'deploy.sh']
 
