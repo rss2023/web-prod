@@ -72,21 +72,21 @@ description: Organizing team.
             <a target="_blank" href=""></a><br>
             <i></i><br>
       <br> -->
-      <!-- <b>Inclusions@RSS Chairs</b><br>
+      <b>Inclusions@RSS Chair</b><br>
             <table style="margin-left:auto;margin-right:auto;">
             <tr>
                   <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href=""></a><br>
-                        <i></i><br>
+                        <a target="_blank" href="http://users.cis.fiu.edu/~jabobadi/">Leonardo Bobadilla</a><br>
+                        <i>Florida International University</i><br>
                   </td>
-                  <td style="width:45px;"></td>
+                  <!-- <td style="width:45px;"></td>
                   <td style="width:200px;vertical-align:top;">
                         <a target="_blank" href=""></a><br>
                         <i></i><br>
-                  </td>
+                  </td> -->
             </tr>
             </table>
-      <br> -->
+      <br>
       <b>RSS Pioneers Chairs</b><br>
             <table style="margin-left:auto;margin-right:auto;">
             <tr>
@@ -123,11 +123,11 @@ description: Organizing team.
                         <a target="_blank" href="http://hcr.yonsei.ac.kr/people.html">Dongjun Shin</a><br>
                         <i>Yonsei University, Republic&nbsp;of&nbsp;Korea</i><br>
                   </td>
-                  <!-- <td style="width:45px;"></td>
+                  <td style="width:45px;"></td>
                   <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href=""></a><br>
-                        <i></i><br>
-                  </td> -->
+                        <a target="_blank" href="http://people.eecs.berkeley.edu/~abajcsy/">Andrea Bajcsy</a><br>
+                        <i>University of California, Berkeley</i><br>
+                  </td>
             </tr>
             </table>
       <br>
