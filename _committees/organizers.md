@@ -111,15 +111,24 @@ description: Organizing team.
             <a target="_blank" href="https://rahulsho.me">Rahul Shome</a><br>
             <i>The Australian National University, Australia</i><br>
       <br>
-      <b>Accessibility Chair</b><br>
-            <!-- <table style="margin-left:auto;margin-right:auto;">
+      <b>Accessibility Chairs</b><br>
+            <table style="margin-left:auto;margin-right:auto;">
             <tr>
-                  <td style="width:200px;vertical-align:top;"> -->
+                  <td style="width:200px;vertical-align:top;">
                         <a target="_blank" href="https://hyeminahn.oopy.io/">Hyemin Ahn</a><br>
                         <i>Ulsan National Institute of Science and Technology, Republic of Korea</i><br>
-            <!--       </td>
+                  </td>
+                  <td style="width:45px;"></td>
+                  <td style="width:200px;vertical-align:top;">
+                        <a target="_blank" href="https://eshort.github.io/">Elaine Short</a><br>
+                        <i>Tufts University, USA</i><br>
+                  </td>
             </tr>
-            </table> -->
+            </table>
+      <!-- <br>  -->
+      <b>Deputy Accessibility Chair</b><br>
+            <a target="_blank" href="https://sites.google.com/site/tapomayukh">Tapomayukh Bhattacharjee</a><br>
+            <i>Cornell University, USA</i><br>
       <br>
       <b>Presentation Chairs</b><br>
             <table style="margin-left:auto;margin-right:auto;">
