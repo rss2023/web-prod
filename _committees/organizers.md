@@ -23,11 +23,11 @@ description: Organizing team.
                         <a target="_blank" href="https://sites.google.com/site/aslunist/people/professor">Hyondong Oh </a><br>
                         <i>Ulsan National Institute of Science and Technology, Republic of Korea</i><br>
                   </td>
-                  <!-- <td style="width:45px;"></td>
+                  <td style="width:45px;"></td>
                   <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href=""></a><br>
-                        <i></i><br>
-                  </td> -->
+                        <a target="_blank" href="https://www.ict.tuwien.ac.at/en/business-card/?tiss_id=24192753">Dongheui Lee</a><br>
+                        <i>Technische Universität Wien, Austria</i><br>
+                  </td>
             </tr>
             </table>
       <br>
@@ -77,7 +77,7 @@ description: Organizing team.
             <tr>
                   <td style="width:200px;vertical-align:top;">
                         <a target="_blank" href="http://users.cis.fiu.edu/~jabobadi/">Leonardo Bobadilla</a><br>
-                        <i>Florida International University</i><br>
+                        <i>Florida International University, USA</i><br>
                   </td>
                   <!-- <td style="width:45px;"></td>
                   <td style="width:200px;vertical-align:top;">
@@ -126,7 +126,7 @@ description: Organizing team.
                   <td style="width:45px;"></td>
                   <td style="width:200px;vertical-align:top;">
                         <a target="_blank" href="http://people.eecs.berkeley.edu/~abajcsy/">Andrea Bajcsy</a><br>
-                        <i>University of California, Berkeley</i><br>
+                        <i>University of California, Berkeley, USA</i><br>
                   </td>
             </tr>
             </table>
