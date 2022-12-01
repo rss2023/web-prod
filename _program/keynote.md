@@ -3,7 +3,7 @@ layout: page
 title: Keynote Talks
 description: Keynote talks, with title, abstract and speaker bios.
 priority: 8
-invisible: false
+invisible: true
 ---
 
 With great pleasure, we announce that RSS'22 we will have the following two
