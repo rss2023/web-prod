@@ -20,13 +20,13 @@ description: Organizing team.
             <table style="margin-left:auto;margin-right:auto;">
             <tr>
                   <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href="https://sites.google.com/site/aslunist/people/professor">Hyondong Oh </a><br>
-                        <i>Ulsan National Institute of Science and Technology, Republic of Korea</i><br>
+                        <a target="_blank" href="https://www.ict.tuwien.ac.at/en/business-card/?tiss_id=24192753">Dongheui Lee</a><br>
+                        <i>Technische Universität Wien, Austria</i><br>
                   </td>
                   <td style="width:45px;"></td>
                   <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href="https://www.ict.tuwien.ac.at/en/business-card/?tiss_id=24192753">Dongheui Lee</a><br>
-                        <i>Technische Universität Wien, Austria</i><br>
+                        <a target="_blank" href="https://sites.google.com/site/aslunist/people/professor">Hyondong Oh </a><br>
+                        <i>Ulsan National Institute of Science and Technology, Republic of Korea</i><br>
                   </td>
             </tr>
             </table>
@@ -54,13 +54,13 @@ description: Organizing team.
             <table style="margin-left:auto;margin-right:auto;">
             <tr>
                   <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href="https://www.dynamicrobot.kaist.ac.kr/">Hae-Won Park</a><br>
-                        <i>Korea Advanced Institute of Science and Technology, Republic of Korea</i><br>
+                        <a target="_blank" href="https://animesh.garg.tech/">Animesh Garg</a><br>
+                        <i>University of Toronto, Canada</i><br>
                   </td>
                   <td style="width:45px;"></td>
                   <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href="https://animesh.garg.tech/">Animesh Garg</a><br>
-                        <i>University of Toronto, Canada</i><br>
+                        <a target="_blank" href="https://www.dynamicrobot.kaist.ac.kr/">Hae-Won Park</a><br>
+                        <i>Korea Advanced Institute of Science and Technology, Republic of Korea</i><br>
                   </td>
             </tr>
             </table>
@@ -96,13 +96,13 @@ description: Organizing team.
             <table style="margin-left:auto;margin-right:auto;">
             <tr>
                   <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href="https://siqizhou.com/">SiQi Zhou</a><br>
-                        <i>University of Toronto, Canada</i><br>
+                        <a target="_blank" href="http://www.georgekontoudis.com/">George Kontoudis</a><br>
+                        <i>University of Maryland, USA</i><br>
                   </td>
                   <td style="width:45px;"></td>
                   <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href="http://www.georgekontoudis.com/">George Kontoudis</a><br>
-                        <i>University of Maryland, USA</i><br>
+                        <a target="_blank" href="https://siqizhou.com/">SiQi Zhou</a><br>
+                        <i>University of Toronto, Canada</i><br>
                   </td>
             </tr>
             </table>
@@ -111,7 +111,23 @@ description: Organizing team.
             <a target="_blank" href="https://rahulsho.me">Rahul Shome</a><br>
             <i>The Australian National University, Australia</i><br>
       <br>
-      <b>Accessibility Chairs</b><br>
+      <b>Presentation Chairs</b><br>
+            <table style="margin-left:auto;margin-right:auto;">
+            <tr>
+                  <td style="width:200px;vertical-align:top;">
+                        <a target="_blank" href="http://people.eecs.berkeley.edu/~abajcsy/">Andrea Bajcsy</a><br>
+                        <i>University of California, Berkeley, USA</i><br>
+                  </td>
+                  <td style="width:45px;"></td>
+                  <td style="width:200px;vertical-align:top;">
+                        <a target="_blank" href="http://hcr.yonsei.ac.kr/people.html">Dongjun Shin</a><br>
+                        <i>Yonsei University, Republic&nbsp;of&nbsp;Korea</i><br>
+                  </td>
+            </tr>
+            </table>
+      <br>
+      <b>Accessibility Committee</b><br>
+      <span>Accessibility Chairs</span><br>
             <table style="margin-left:auto;margin-right:auto;">
             <tr>
                   <td style="width:200px;vertical-align:top;">
@@ -126,24 +142,9 @@ description: Organizing team.
             </tr>
             </table>
       <!-- <br>  -->
-      <b>Deputy Accessibility Chair</b><br>
+      <span>Deputy Accessibility Chair</span><br>
             <a target="_blank" href="https://sites.google.com/site/tapomayukh">Tapomayukh Bhattacharjee</a><br>
             <i>Cornell University, USA</i><br>
-      <br>
-      <b>Presentation Chairs</b><br>
-            <table style="margin-left:auto;margin-right:auto;">
-            <tr>
-                  <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href="http://hcr.yonsei.ac.kr/people.html">Dongjun Shin</a><br>
-                        <i>Yonsei University, Republic&nbsp;of&nbsp;Korea</i><br>
-                  </td>
-                  <td style="width:45px;"></td>
-                  <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href="http://people.eecs.berkeley.edu/~abajcsy/">Andrea Bajcsy</a><br>
-                        <i>University of California, Berkeley, USA</i><br>
-                  </td>
-            </tr>
-            </table>
       <br>
     </div>
 
