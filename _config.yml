@@ -35,10 +35,10 @@ collections:
     #    output: false
     #    permalink: /attending/:path/
     #    priority: 1
-    program:
-       output: true
-       permalink: /program/:path/
-       priority: 5
+    # program:
+    #    output: true
+    #    permalink: /program/:path/
+    #    priority: 5
     committees:
        output: true
        permalink: /committees/:path/
