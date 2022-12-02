@@ -31,6 +31,8 @@ version:          2.1.0
 github:
   repo:
 
+google_analytics: G-RCJTV6PJZC
+
 collections:
     # attending:
     #    output: false
