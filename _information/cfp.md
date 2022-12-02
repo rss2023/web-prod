@@ -53,7 +53,9 @@ This year the conference will include a new category of contributions in the for
     </tbody>
 </table>
 
-Detailed submission instructions will be made available under the conference website by January 4, 2023. 
+RSS 2023 has no page length requirements on submissions. Paper lengths have been typically 8 pages given the paper template, which is available either in [LaTeX]({{ site.baseurl }}/docs/paper-template-latex.tar.gz) or [Word]({{ site.baseurl }}/docs/paper-template-word.zip) format. We expect that most submitted papers will have a similar length. We trust that authors will recognize that respecting reviewers’ time is helpful to the evaluation of their work. 
+
+<strong>Detailed submission instructions will be made available under the conference website by January 4, 2023.</strong>
 
 
 ## Highlights of RSS 2023
