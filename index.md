@@ -14,7 +14,7 @@ Call for papers, workshops, and demos is out [here]({{ site.baseurl }}/informati
 
 ### Call for Participation
 
-We are pleased to announce the 19th edition of the “Robotics: Science and Systems” (RSS) conference to be held in Daegu, Republic of Korea in July 10-14, 2023. This will be the first time that RSS is taking place in Asia and we are excited to be opening up the conference to a broader community of robotics researchers.
+We are pleased to announce the 19th edition of the “Robotics: Science and Systems” (RSS) conference to be held at the [Daegu Exhibition and Convention Center (EXCO)](https://exco.co.kr/eng/){:target="_blank"}, Daegu, Republic of Korea in July 10-14, 2023. This will be the first time that RSS is taking place in Asia and we are excited to be opening up the conference to a broader community of robotics researchers.
 
 The Robotics: Science and Systems has a long history of bringing together
 researchers in all areas of robotics from around the world for an engaging and
