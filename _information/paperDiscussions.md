@@ -4,6 +4,7 @@ title: Instructions for Paper Discussion Sessions
 description: Author Instructions for the live paper discussion sessions
 priority: 9
 invisible: true
+published: false
 ---
 
 *Thank you all for signing into zoom with us. All sessions are now setup!*

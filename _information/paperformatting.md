@@ -3,6 +3,7 @@ layout: page
 title: Submission Formatting and Presentation
 description: Submission Formatting and Presentation Guidelines
 invisible: true
+published: false
 ---
 
 ## Requirements

@@ -3,6 +3,7 @@ layout: page
 title: Call for Participation
 description: RSS Call for Participation
 invisible: true
+published: false
 ---
 
 RSS 2020 will be held virtually this year, on July 12-16, 2020. We
