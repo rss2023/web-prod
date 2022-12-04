@@ -3,6 +3,7 @@ layout: page
 title: Call for Workshops &amp; Tutorials
 description: Workshop submission guidelines.
 invisible: true
+published: false
 ---
 {% comment %}
 <p class="message">

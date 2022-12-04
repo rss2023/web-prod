@@ -3,6 +3,7 @@ layout: page
 title: Sponsors
 description: Sponsorship information
 invisible: true
+published: false
 ---
 
 ### RSS Gold Sponsors

@@ -3,6 +3,7 @@ layout: page
 title: Video Submission
 permalink: /submit/
 invisible: true
+published: false
 ---
 
 {% comment %}
