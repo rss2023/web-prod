@@ -4,6 +4,7 @@ title: Information for Student Helpers
 description: 
 priority: 0
 invisible: true
+published: false
 ---
 
 We decided to let authors themselves be the host of their zoom
