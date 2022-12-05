@@ -40,7 +40,7 @@ description: Organizing team.
                   </td>
                   <td style="width:45px;"></td>
                   <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href="https://knurobot.wixsite.com/arrf">Kyuman Lee </a><br>
+                        <a target="_blank" href="https://knurobot.wixsite.com/arrf/professor">Kyuman Lee </a><br>
                         <i>Kyungpook National University, Republic of Korea</i><br>
                   </td>
             </tr>
