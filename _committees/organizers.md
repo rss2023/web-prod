@@ -77,20 +77,20 @@ description: Organizing team.
             <a target="_blank" href=""></a><br>
             <i></i><br>
       <br> -->
-      <b>Inclusions@RSS Chair</b><br>
-            <!-- <table style="margin-left:auto;margin-right:auto;">
+      <b>Inclusions@RSS Chairs</b><br>
+            <table style="margin-left:auto;margin-right:auto;">
             <tr>
-                  <td style="width:200px;vertical-align:top;"> -->
+                  <td style="width:200px;vertical-align:top;">
                         <a target="_blank" href="http://users.cis.fiu.edu/~jabobadi/">Leonardo Bobadilla</a><br>
                         <i>Florida International University, USA</i><br>
-                  <!-- </td> -->
-                  <!-- <td style="width:45px;"></td>
+                  </td>
+                  <td style="width:45px;"></td>
                   <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href=""></a><br>
-                        <i></i><br>
-                  </td> -->
-            <!-- </tr>
-            </table> -->
+                        <a target="_blank" href="https://nbfigueroa.github.io/">Nadia Figueroa</a><br>
+                        <i>University of Pennsylvania, USA</i><br>
+                  </td>
+            </tr>
+            </table>
       <br>
       <b>RSS Pioneers Chairs</b><br>
             <table style="margin-left:auto;margin-right:auto;">
