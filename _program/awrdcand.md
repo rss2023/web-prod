@@ -3,6 +3,7 @@ layout: page
 title: Award nominees 
 description: Short list of papers considered for an award
 invisible: true
+published: false
 ---
 
 The following papers are the RSS'21 award nominees:

@@ -3,6 +3,7 @@ layout: page
 title: Area Chair Symposium
 description: Area chair symposium time and details.
 invisible: true
+published: false
 ---
 
 {% comment %}

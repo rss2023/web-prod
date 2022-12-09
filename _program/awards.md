@@ -4,6 +4,7 @@ title: Awards
 description: Award details.
 priority: 9
 invisible: true
+published: false
 ---
 
 
