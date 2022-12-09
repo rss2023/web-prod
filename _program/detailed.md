@@ -4,6 +4,7 @@ title: Detailed Program
 description: Detailed schedule of the program.
 priority: 10
 invisible: true
+published: false
 ---
 
 * Our [**virtual conference site**](https://pheedloop.com/rss2020/virtual/)

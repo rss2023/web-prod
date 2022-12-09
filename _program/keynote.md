@@ -4,6 +4,7 @@ title: Keynote Talks
 description: Keynote talks, with title, abstract and speaker bios.
 priority: 8
 invisible: true
+published: false
 ---
 
 With great pleasure, we announce that RSS'22 we will have the following two

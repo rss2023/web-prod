@@ -4,6 +4,7 @@ title: Workshops
 description: Workshop times, venues, and details.
 days: ['Mon', 'Fri']
 invisible: true
+published: false
 ---
 
 

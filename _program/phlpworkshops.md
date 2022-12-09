@@ -3,6 +3,7 @@ layout: page
 title: Workshops &amp; Tutorials
 description: Workshop times, venues, and details.
 invisible: true
+published: false
 ---
 
 Workshops will take place across four days of the conference July 12 through 15, 2021. 

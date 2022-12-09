@@ -18,6 +18,6 @@ There will be a poster session where Pioneers will get a chance to externally
 showcase their research.
 
 
-Details about the workshop are available at the [workshop website](https://sites.google.com/view/rsspioneers2022/).
+Details about the workshop are available at the [workshop website](https://sites.google.com/view/rsspioneers2023).
 
 

@@ -4,6 +4,7 @@ title: Industry Reception
 description: Amazon Robotics and MassRobotics Industry Reception
 priority: 5
 invisible: true
+published: false
 ---
 
 {% comment %}
