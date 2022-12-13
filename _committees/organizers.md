@@ -56,7 +56,7 @@ description: Organizing team.
                   <td style="width:45px;"></td>
                   <td style="width:200px;vertical-align:top;">
                         <a target="_blank" href="http://sylviaherbert.com/">Sylvia Herbert</a><br>
-                        <i>University of California San Diego, USA</i><br>
+                        <i>University of California<br>San Diego, USA</i><br>
                   </td>
             </tr>
             </table>
