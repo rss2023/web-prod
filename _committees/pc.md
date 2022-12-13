@@ -7,12 +7,12 @@ description: Reviewing team.
  <div id="area-chairs" class="row text-center">
     <b>Program Chair</b><br>
         <a target="_blank" href="https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/">Kostas E. Bekris</a><br>
-        <i>Rutgers University, USA</i><br>
+        <i>Rutgers, USA</i><br>
             <br>
             <br>
     <b>Area Chair Meeting Coordinator</b><br>
         <a target="_blank" href="http://rl.cs.rutgers.edu/">Abdeslam Boularias</a><br>
-        <i>Rutgers University, USA</i><br>
+        <i>Rutgers, USA</i><br>
             <br>
     <b>Area Chairs</b><br/>
     <!-- <div class="row text-center">TBA</div> -->
@@ -86,12 +86,12 @@ description: Reviewing team.
 <tr>
 <td style="width:200px;vertical-align:top;">
         <a style="display: block;" target="_blank" href="https://www.malikameghjani.com/">Malika Meghjani</a>
-        <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">Singapore UTD, Singapore</i>
+        <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">SUTD, Singapore</i>
 </td>
 <td style="width:45px;"></td>
 <td style="width:200px;vertical-align:top;">
         <a style="display: block;" target="_blank" href="https://sites.google.com/site/panjia/">Jia Pan</a>
-        <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">U. of Hong Kong</i>
+        <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">U. of Hong Kong, Hong Kong, China</i>
 </td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ description: Reviewing team.
 <tr>
 <td style="width:200px;vertical-align:top;">
         <a style="display: block;" target="_blank" href="http://www.arscontrol.unimore.it/site/home/people/lorenzo-sabattini.html">Lorenzo Sabattini</a>
-        <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">U. of Modena &#38; R-E, Italy</i>
+        <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">U. of Modena &#38; Reggio Emilia, Italy</i>
 </td>
 <td style="width:45px;"></td>
 <td style="width:200px;vertical-align:top;">
