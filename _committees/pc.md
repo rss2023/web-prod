@@ -91,7 +91,7 @@ description: Reviewing team.
 <td style="width:45px;"></td>
 <td style="width:200px;vertical-align:top;">
         <a style="display: block;" target="_blank" href="https://sites.google.com/site/panjia/">Jia Pan</a>
-        <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">U. of Hong Kong, China</i>
+        <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">U. of Hong Kong</i>
 </td>
 </tr>
 <tr>
