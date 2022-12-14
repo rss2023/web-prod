@@ -10,6 +10,7 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 ### News and Updates
 
 
+* The list of Area Chairs has been announced [here]({{ site.baseurl }}/committees/pc/).
 * Information about RSS Pioneers is available [here]({{ site.baseurl }}/program/pioneers/).
 * The call for papers, workshops, and demos is available [here]({{ site.baseurl }}/information/cfp/).
 
