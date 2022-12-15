@@ -4,6 +4,7 @@ title: Attending RSS
 description: Information for Conference Attendees
 priority: 10
 invisible: false
+published: false
 ---
 
 Virtual event site: [https://pheedloop.com/RSS2022/virtual/](https://pheedloop.com/RSS2022/virtual/)
