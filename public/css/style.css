@@ -190,8 +190,17 @@ a.social-media:active {color:#333333}
 }
 
 
+.venue {
+    width: 49%;
+    display: inline-block;
+}
+
 @media (max-width: 48em) {
 ul {
 padding-inline-start: 1.2em;
+}
+
+.venue {
+    width: 100%;
 }
 }

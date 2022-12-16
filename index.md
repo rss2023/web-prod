@@ -64,8 +64,17 @@ tutorials. This year, as always, we solicit your best work.
 </table>
 
 
+The organizers welcome you to the vibrant venue of RSS 2023 - the [Daegu Exhibition and Convention Center (EXCO)](https://exco.co.kr/eng/){:target="_blank"}.
 
-The website of the 2022 RSS conference can be found [here]({{ site.baseurl }}/2022/).
+{:refdef: style="text-align: center;"}
+![Daegu Exhibition and Convention Center (EXCO)](/images/daegu_exco_1.jpg){:class="img-responsive venue"}
+![Daegu Exhibition and Convention Center (EXCO)](/images/daegu_exco_2.jpg){:class="img-responsive venue"}
+{: refdef}
+
+
+<br/>
+<br/>
+The website of the RSS 2022 conference can be found [here]({{ site.baseurl }}/2022/).
 
 <br/>
 <br/>
