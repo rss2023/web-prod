@@ -50,13 +50,13 @@ description: Organizing team.
             <table style="margin-left:auto;margin-right:auto;">
             <tr>
                   <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href="https://arc-l.github.io/">Jingjin Yu</a><br>
-                        <i>Rutgers University, USA</i><br>
+                        <a target="_blank" href="http://sylviaherbert.com/">Sylvia Herbert</a><br>
+                        <i>University of California<br>San Diego, USA</i><br>
                   </td>
                   <td style="width:45px;"></td>
                   <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href="http://sylviaherbert.com/">Sylvia Herbert</a><br>
-                        <i>University of California<br>San Diego, USA</i><br>
+                        <a target="_blank" href="https://arc-l.github.io/">Jingjin Yu</a><br>
+                        <i>Rutgers University, USA</i><br>
                   </td>
             </tr>
             </table>
