@@ -107,7 +107,7 @@ description: Reviewing team.
 </tr>
 <tr>
 <td style="width:200px;vertical-align:top;">
-        <a style="display: block;" target="_blank" href="https://www.iri.upc.edu/people/porta/">Josep Porta</a>
+        <a style="display: block;" target="_blank" href="https://www.iri.upc.edu/people/porta/">Josep M. Porta</a>
         <i style="display: block; margin-top: -0.5ex; margin-bottom: 1ex;">CSIC-UPC, Spain</i>
 </td>
 <td style="width:45px;"></td>
