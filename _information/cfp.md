@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Call for Papers, Workshops, and Demos
-description: Request for Participation
+title: Call for Papers and Demos
+description: Request for Participation for Papers and Demos
 ---
 
 
@@ -10,8 +10,6 @@ We are pleased to announce the 19th edition of the “Robotics: Science and Syst
 RSS is a single-track conference that connects researchers working on all aspects of robotics including scientific foundations, mechanisms, algorithms, applications, and analysis of robotic systems. The single-track format gives attendees an opportunity to learn about state-of-the-art research in all areas of robotics. The conference will consist of oral and poster presentations of accepted papers, demonstrations, invited talks, and panels. 
 
 The conference will preserve the RSS tradition of selecting excellent papers via a thorough and fair review process. Paper submissions will be evaluated in terms of their novelty, technical quality, significance, potential impact, and clarity.
-
-RSS also features a series of vibrant and engaging workshops across a diverse range of topics. The workshops are a highlight of the conference and offer participants an opportunity to discuss bleeding-edge topics in depth with renowned experts.
 
 This year the conference will include a new category of contributions in the form of Demos, similar to conferences in related research areas, resulting in a Demo Track during the main conference. 
 
@@ -32,15 +30,6 @@ This year the conference will include a new category of contributions in the for
         <td>February 3rd, 2023</td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Paper and Demo Submission Deadline</td>
-      </tr>
-      <tr>
-        <td>February 17th, 2023</td>
-        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
-        <td>Workshop Submission Deadline</td>
-      </tr>
-      <tr>
-      <td colspan="2">March 17th, 2023</td>
-        <td>Workshop Acceptance Notification</td>
       </tr>
       <tr>
         <td colspan="2">April 22th, 2023</td>

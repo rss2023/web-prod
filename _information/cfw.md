@@ -1,54 +1,83 @@
 ---
 layout: page
-title: Call for Workshops &amp; Tutorials
-description: Workshop submission guidelines.
-invisible: true
-published: false
+title: Call for Workshops
+description: Request for Participation in Workshops
 ---
-{% comment %}
-<p class="message">
-The submissions site is open <a href="https://easychair.org/conferences/?conf=rssw17">here</a>.
-Please contact the <a href="{{site.baseurl}}/committees/organizers/">workshop chairs</a> for any clarifications.
-</p>
-{% endcomment %}
 
-The Organizing Committee for the 2021 Robotics: Science and Systems Conference (RSS 2022) requests proposals for full and half-day workshops and tutorials. Workshop proposals should be submitted by February 18th, 2022 via EasyChair <a href="https://easychair.org/my/conference?conf=2022rssworkshop">here</a>.
+We invite proposals for full and half-day workshops and tutorials to take place in conjunction with the “Robotics: Science and Systems” (RSS) 2023 conference. Proposals should be submitted by **February 17th, 2023** via Google Forms [here](https://docs.google.com/forms/d/e/1FAIpQLSec-uUS7LNlIWVGyaGucJ5qkT6oACbKLkRP2O75dXqpzKFhCQ/viewform). The conference, including its workshops and tutorials, is planned as an in-person event.
 
-The RSS workshops and tutorials provide high-quality, topically-focused forums for researchers at the forefront of robotics. This year these events will take place on June 27  and July 1. Workshops and tutorials are intended to supplement the primary conference; as such we seek workshops that will provide a complement to the research in the proceedings being presented in the primary single-track event and tutorials that could support researchers new to the field in quickly gaining the necessary skills and knowledge.
+The RSS workshops and tutorials provide high-quality, topically-focused forums for researchers at the forefront of robotics. They will take place at the [Daegu Exhibition and Convention Center (EXCO)](https://exco.co.kr/eng/){:target="_blank"}, Daegu, Republic of Korea, on **Monday, July 10 and Friday, July 14**. 
 
-The RSS conference is planned as a hybrid event and at this time we expect that workshops / tutorials will follow suit with a combination of in-person and virtual activities. However, the COVID-19 situation is fluid, and the conference organizers will make more details available at a later date.
+Workshops are intended to supplement the research presented in the main proceedings. Tutorials should support researchers new to the field in quickly gaining the necessary skills and knowledge. We are encouraging events that will promote discussion and interaction among the participants. We will prioritize proposals with high educational value, interest and relevance. 
 
-We are looking for workshops and tutorials that promote discussion and interaction among the participants. We will select workshops and tutorials based on their educational value, interest and relevance. Specifically, we welcome and will give priority to:
 
-  * Fully elaborated proposals with confirmed, high-quality, diverse invited speakers as well as solicited posters or presentations. Specifically we encourage organizers to consider, among others, diversity of presenters in terms of:
-    - Seniority and academic rank (consider inviting senior PhD students and postdocs whose work you appreciate instead of just professors and senior researchers)
-    - Gender
-    - Race and ethnicity
-    - Geographic location
-    - Industry, government, and academia
+Specifically, we welcome:
 
-  * Innovative event structures that will encourage discussion and interaction among the participants. Previous examples include structured debates or groupings of senior and junior researchers for brainstorming of new topics for research.
+* Proposals with a diverse set of confirmed speakers as well as with a plan for active participation of the audience (e.g., submissions for posters/presentations, discussion sessions, interactive hands-on tutorials, etc.). 
 
-  * Proposals from communities that have not traditionally participated at RSS but are relevant to robotics science, robotics systems, the practice and philosophy of the discipline.
+* We encourage organizers to consider, among others, diversity of presenters in terms of: i) Seniority and academic rank (beyond senior researchers, you could invite senior PhD students and postdocs whose work you appreciate), ii) Gender, iii) Race and ethnicity, iv) Geographic location, v) Professional backgrounds (e.g., industry, government, and academia).
 
-  * Tutorials focusing on tools commonly used in work presented at RSS or showcasing new libraries which the community can leverage.
+* Innovative event structures that will encourage discussion and interaction among the participants. Previous examples include structured debates or groupings of senior and junior researchers for brainstorming new research directions.
 
-  * Workshops that will encourage analysis and reflection on topics and issues that formulate challenge problems and that promote discussion, debates, and long-term vision.
+* Proposals that will encourage the participation of communities that have not traditionally participated at RSS but are relevant to robotics science and systems, or the practice and philosophy of the discipline.
 
-In order to ensure participation in the workshops we highly recommend speakers agree to participate in no more than 2 accepted workshops and tutorials. We ask workshop organizers to explicitly remind and verify this recommendation with the invited speakers.
+* Tutorials focusing on tools commonly used in work presented at RSS or showcasing new libraries, which the community can leverage.
 
-In addition to traditional workshops, there will be a special “outlier” track that pushes the boundaries of academic workshops by examining ideas that are (i) important for the field, and (ii) poorly treated by the formal peer-review process. The track will explore unconventional formats and topics that eschew current orthodoxy.
+* Workshops that will encourage analysis and reflection on topics and issues, which formulate challenge problems and that promote discussion, debates, and long-term vision. This includes workshops on ideas that may be important for the field but may be poorly treated by the formal peer-review process. 
 
-## Submissions
+Workshop proposers should indicate to invited speakers that they should not accept to participate in more than 2 workshops or tutorials. Organizers should explicitly remind and verify this recommendation with the invited speakers. 
 
-We expect proposals to be approximately 2–3 pages in length, and no more than 5 pages. The proposal template can be found at this <a href="https://docs.google.com/document/d/1XXnRBdTjt46K45I1NUdPjWEp01luKlTLEtfHlgc_n3c/edit?usp=sharing">link</a>.
+## Submissions 
 
-Workshop proposals should be submitted via <a href="https://easychair.org/my/conference?conf=2022rssworkshop">EasyChair</a>.
+We expect proposals to be approximately 2-3 pages in length, and no more than 5 pages. The proposal template can be found at this [link](https://docs.google.com/document/d/1sB6bz24J8EMSQdpIRsUIWjjfVAJ4mJNsikNmg3f5Oug/).
 
-Please contact the <a href="https://roboticsconference.org/committees/organizers/">workshop chairs</a> for any clarifications.
+Workshop and tutorial proposals should be submitted [here](https://docs.google.com/forms/d/e/1FAIpQLSec-uUS7LNlIWVGyaGucJ5qkT6oACbKLkRP2O75dXqpzKFhCQ/viewform).
+
+Please contact the [workshop chairs]({{ site.baseurl }}/committees/organizers/) for any clarifications.
+
+
+
 
 ## Important Dates
+<!-- 
+<table class="table">
+    <tbody>
+      <tr>
+        <td >Workshop Proposal Template <a href="https://docs.google.com/document/d/1sB6bz24J8EMSQdpIRsUIWjjfVAJ4mJNsikNmg3f5Oug/">Link</a></td>
+      </tr>
+      <tr>
+      <td >Workshop Proposal Submission <a href="https://docs.google.com/forms/d/e/1FAIpQLSec-uUS7LNlIWVGyaGucJ5qkT6oACbKLkRP2O75dXqpzKFhCQ/viewform">Link</a></td>
+      </tr>
+    </tbody>
+</table>
 
-* Workshop Proposal Submission Deadline: February 18th 11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a>, 2022
-* Acceptance Notification:  March 4th, 2022
-* Workshop dates: June 27  and July 1, 2022
+
+ -->
+<table class="table">
+    <thead>
+      <tr>
+        <th colspan="3">Timeline</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>February 17th, 2023</td>
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td>Workshop Proposal Submission Deadline</td>
+      </tr>
+      <tr>
+      <td colspan="2">March 17th, 2023</td>
+        <td>Workshop Proposal Acceptance Notification</td>
+      </tr>
+      <tr>
+        <td colspan="2">July 10th and July 14th, 2023</td>
+        <td>Workshops Dates</td>
+      </tr>
+    </tbody>
+</table>
+
+
+Please check the conference website as well as the conference’s social media accounts for more information.
+
+
+
