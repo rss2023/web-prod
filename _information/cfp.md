@@ -23,7 +23,7 @@ This year the conference will include a new category of contributions in the for
     </thead>
     <tbody>
       <tr>
-        <td colspan="2">January 4th, 2023</td>
+        <td colspan="2">January 8th, 2023</td>
         <td>Submission Website Opens</td>
       </tr>
       <tr>
@@ -44,14 +44,14 @@ This year the conference will include a new category of contributions in the for
 
 RSS 2023 has no page length requirements on submissions. Paper lengths have been typically 8 pages given the paper template, which is available either in [LaTeX]({{ site.baseurl }}/docs/paper-template-latex.tar.gz) or [Word]({{ site.baseurl }}/docs/paper-template-word.zip) format. We expect that most submitted papers will have a similar length. We trust that authors will recognize that respecting reviewers’ time is helpful to the evaluation of their work. 
 
-<strong>Detailed submission instructions will be made available under the conference website by January 4, 2023.</strong>
+<strong>Detailed submission instructions will be made available under the conference website by January 8, 2023.</strong>
 
 
 ## Highlights of RSS 2023
 
   *   RSS 2023 is planned as an in-person conference, excluding any unexpected developments with the COVID-19 pandemic or similar unfortunate global events.
 
-  *  A new type of submission, Demos, will be available to RSS 2023 contributors. These single-blind submissions can range from early research demos (e.g., innovative, proof-of-concept given the state-of-the-art) to mature production-ready systems (e.g., accessible, large-scale industrial systems). Open-source and open-access systems or interactive systems that are accessible by the community are especially encouraged. Demos can relate to hardware or software contributions or their integration. They can also relate to critical system components and useful tools for the community. The deadline and the review process for demos will take place in parallel with the review of regular RSS paper submissions.  Detailed submission instructions will be made available under the conference website by January 4, 2023.
+  *  A new type of submission, Demos, will be available to RSS 2023 contributors. These single-blind submissions can range from early research demos (e.g., innovative, proof-of-concept given the state-of-the-art) to mature production-ready systems (e.g., accessible, large-scale industrial systems). Open-source and open-access systems or interactive systems that are accessible by the community are especially encouraged. Demos can relate to hardware or software contributions or their integration. They can also relate to critical system components and useful tools for the community. The deadline and the review process for demos will take place in parallel with the review of regular RSS paper submissions.  Detailed submission instructions will be made available under the conference website by January 8, 2023.
 
   *   The review process will continue RSS' strong tradition in emphasizing quality, fairness, and rigor. Reviews for RSS papers, including both for “science” and “systems” papers, will remain double-blind. A subset of authors will be invited by Area Chairs to submit a rebuttal. Author rebuttals will be directed to the ACs and considered during the program committee meeting. As in previous iterations of the conference, authors are encouraged to submit “systems” papers and the program committee will be encouraged to evaluate them by gauging their potential impact and usefulness to the community. 
 

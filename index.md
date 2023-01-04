@@ -36,7 +36,7 @@ tutorials. This year, as always, we solicit your best work.
     </thead>
     <tbody>
       <tr>
-        <td colspan="2">January 4th, 2023</td>
+        <td colspan="2">January 8th, 2023</td>
         <td>Submission Website Opens</td>
       </tr>
       <tr>
