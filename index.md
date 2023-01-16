@@ -10,6 +10,7 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 ### News and Updates
 
 
+* Submission information will be made available soon.
 * The Call for Workshops is available [here]({{ site.baseurl }}/information/cfw/).
 * The list of Area Chairs has been announced [here]({{ site.baseurl }}/committees/pc/).
 * Information about RSS Pioneers is available [here]({{ site.baseurl }}/program/pioneers/).
@@ -36,7 +37,7 @@ tutorials. This year, as always, we solicit your best work.
     </thead>
     <tbody>
       <tr>
-        <td colspan="2">January 8th, 2023</td>
+        <td colspan="2">January, 2023</td>
         <td>Submission Website Opens</td>
       </tr>
       <tr>
