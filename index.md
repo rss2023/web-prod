@@ -46,6 +46,11 @@ tutorials. This year, as always, we solicit your best work.
         <td>Paper and Demo Submission Deadline</td>
       </tr>
       <tr>
+        <td>February 10th, 2023</td>
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td><a href="https://sites.google.com/view/rsspioneers2023/" target="_blank">RSS Pioneers</a> Submission Deadline</td>
+      </tr>
+      <tr>
         <td>February 17th, 2023</td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Workshop Submission Deadline</td>
