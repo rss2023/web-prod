@@ -21,3 +21,24 @@ showcase their research.
 Details about the workshop are available at the [workshop website](https://sites.google.com/view/rsspioneers2023).
 
 
+## Important Dates
+<table class="table">
+    <thead>
+      <tr>
+        <th colspan="3">Timeline</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>February 10th, 2023</td>
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td><a href="https://sites.google.com/view/rsspioneers2023/" target="_blank">RSS Pioneers</a> Submission Deadline</td>
+      </tr>
+      <tr>
+        <td colspan="2">July 9th, 2023</td>
+        <td>RSS Pioneers, Daegu, Republic of Korea</td>
+      </tr>
+    </tbody>
+</table>
+
+
