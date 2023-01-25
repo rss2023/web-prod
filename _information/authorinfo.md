@@ -14,7 +14,7 @@ A new type of submission, Demos, is available to RSS 2023 contributors similar t
 
 **Type of Submission:** These submissions should demonstrate systems that are innovative given the state-of-the-art of robotics research across any of the [subject areas]({{ site.baseurl }}/information/cfp/#subject-areas) of RSS 2023. Open-source and open-access systems or interactive systems that are accessible by the community are especially encouraged. Demos can relate to hardware or software contributions or their integration. They can also relate to critical system components and useful tools for the community. Examples of such submissions can correspond to demonstrations of:
 
-- useful new hardware components or software packages for the robotics community,
+- useful new mechanisms or software packages for the robotics community,
 - large-scale deployments of robotics technology that have not been achieved before,
 - mature, production-ready industrial systems of note and lessons from their operation,
 - new datasets and benchmarks that will advance robotics research,
@@ -24,9 +24,9 @@ A new type of submission, Demos, is available to RSS 2023 contributors similar t
 
 **Single-blind:** Demo submissions are allowed (but not required) to be single-blind in contrast to science and systems papers, which must be double-blind. Demo submissions are understood to be demonstrating unique systems that will obviously reveal the authors or their affiliations. Demos are not opportunities to bypass the double-blind requirement of regular submissions. The reviewers will be asked to evaluate whether a submission was appropriately submitted under the Demo category.
 
-**Demo Title:** The authors of Demo submissions are encouraged to start the title of the submission with the characters "DEMO:" to communicate to the reviewers that these are submissions that are allowed to be single-blind.
+**Demo Title:** The authors of Demo submissions are encouraged to start the title of the submission with the characters "DEMO:" to communicate to the reviewers that these are submissions are allowed to be single-blind.
 
-**Key Questions:** A demo paper submitted to accompany a demonstration should outline the design of the system and provide sufficient details to allow the evaluation of its validity, quality, and relevance to RSS. A demo paper can do this by addressing the following questions:
+**Key Questions:** A demo paper submitted to accompany a demonstration should outline the design of the system and provide sufficient details to allow the evaluation of its validity, quality, and relevance to RSS. A demo paper can do this by addressing the following subset of questions:
 
 - What problem does the proposed system address?
 - Why is the system important and what is its impact?
@@ -70,17 +70,19 @@ Authors should anticipate that their papers may be rejected if the key technical
 
 ## Double-Blind Submission for Papers
 
-RSS 2023 continues the tradition of double-blind reviews for regular science and systems papers. Note that demo submissions are allowed (but not required) to be single-blind in contrast to science and systems papers, which must be double-blind. Authors should not list their names on the title page, and reasonable anonymity should be maintained in the paper. Authors are asked to take particular care when referencing their own work — careless use of self-citations can easily violate the requirements for double blind reviewing and this will result in papers being rejected.
+RSS 2023 continues the tradition of double-blind reviews for regular science and systems papers. Authors should not list their names on the title page, and reasonable anonymity should be maintained in the paper. Authors are asked to take particular care when referencing their own work — careless use of self-citations can easily violate the requirements for double blind reviewing and this will result in papers being rejected.
 
 The following general principles should be applied in science and systems submissions:
 
-- Authors names and affiliations should not be cited in the title or text of the submission.
+- Authors' names and affiliations should not be cited in the title or text of the submission.
 - Acknowledgments to people or funding agencies should not appear in the submission.
 - Citing of web links to the authors or author's institute should be avoided.
 
 In self-citing authors previous work, avoid expressions such as "In the authors earlier work…", rather use alternative expressions such as "In previous work…" or "In related work…", in a manner that does not distinguish their own work from the work of others. Authors should otherwise cite work, including their own, as required for the completeness of the submission.
 
 In presentation of experimental work, avoid logos in pictures, or overt references to an individual laboratory. Use expressions such as "The experimental equipment…" rather than "The University of XYZ's Robby the Robot…". Otherwise, authors should include photographs, graphics and other presentation material as in the normal manner for a paper submission.
+
+**Note:** _Demo submissions are allowed (but not required) to be single-blind in contrast to science and systems papers, which must be double-blind._ 
 
 ## Supplementary Materials for Papers and Demos
 
