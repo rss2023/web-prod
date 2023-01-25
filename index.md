@@ -10,7 +10,7 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 ### News and Updates
 
 
-* **[RSS Paper and Demo submission website open.](https://cmt3.research.microsoft.com/RSS2023){:target="_blank"}**
+* **[Paper and Demo submission website is open.](https://cmt3.research.microsoft.com/RSS2023){:target="_blank"}**
 * Information for Authors available [here]({{ site.baseurl }}/information/authorinfo/).
 * [RSS Pioneers](https://sites.google.com/view/rsspioneers2023/){:target="_blank"} submission deadline is Feb 10th, 2023.
 * Submission information will be made available soon.
