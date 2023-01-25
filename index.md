@@ -10,6 +10,7 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 ### News and Updates
 
 
+* **[RSS Paper and Demo submission website open.](https://cmt3.research.microsoft.com/RSS2023){:target="_blank"}**
 * [RSS Pioneers](https://sites.google.com/view/rsspioneers2023/){:target="_blank"} submission deadline is Feb 10th, 2023.
 * Submission information will be made available soon.
 * The Call for Workshops is available [here]({{ site.baseurl }}/information/cfw/).
@@ -38,13 +39,18 @@ tutorials. This year, as always, we solicit your best work.
     </thead>
     <tbody>
       <tr>
-        <td colspan="2">January, 2023</td>
-        <td>Submission Website Opens</td>
+        <td colspan="2"><strike>January, 2023</strike></td>
+        <td><a href="https://cmt3.research.microsoft.com/RSS2023" target="_blank">Submission Website</a> Opens</td>
       </tr>
       <tr>
         <td>February 3rd, 2023</td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Paper and Demo Submission Deadline</td>
+      </tr>
+      <tr>
+        <td>February 8th, 2023</td>
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td>Supplementary Material Deadline</td>
       </tr>
       <tr>
         <td>February 10th, 2023</td>

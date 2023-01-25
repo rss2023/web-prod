@@ -23,13 +23,18 @@ This year the conference will include a new category of contributions in the for
     </thead>
     <tbody>
       <tr>
-        <td colspan="2">January, 2023</td>
-        <td>Submission Website Opens</td>
+        <td colspan="2"><strike>January, 2023</strike></td>
+        <td><a href="https://cmt3.research.microsoft.com/RSS2023" target="_blank">Submission Website</a> Opens</td>
       </tr>
       <tr>
         <td>February 3rd, 2023</td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Paper and Demo Submission Deadline</td>
+      </tr>
+      <tr>
+        <td>February 8th, 2023</td>
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td>Supplementary Material Deadline</td>
       </tr>
       <tr>
         <td colspan="2">April 22th, 2023</td>
@@ -44,7 +49,7 @@ This year the conference will include a new category of contributions in the for
 
 RSS 2023 has no page length requirements on submissions. Paper lengths have been typically 8 pages given the paper template, which is available either in [LaTeX]({{ site.baseurl }}/docs/paper-template-latex.tar.gz) or [Word]({{ site.baseurl }}/docs/paper-template-word.zip) format. We expect that most submitted papers will have a similar length. We trust that authors will recognize that respecting reviewers’ time is helpful to the evaluation of their work. 
 
-<strong>Detailed submission instructions will be made available under the conference website by January, 2023.</strong>
+<strong>Detailed submission instructions will be made available under the conference website by January, 2023. Papers and demos can be submitted to the <a href="https://cmt3.research.microsoft.com/RSS2023" target="_blank">RSS 2023 Microsoft CMT portal</a>.</strong>
 
 
 ## Highlights of RSS 2023
