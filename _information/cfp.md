@@ -49,7 +49,9 @@ This year the conference will include a new category of contributions in the for
 
 RSS 2023 has no page length requirements on submissions. Paper lengths have been typically 8 pages given the paper template, which is available either in [LaTeX]({{ site.baseurl }}/docs/paper-template-latex.tar.gz) or [Word]({{ site.baseurl }}/docs/paper-template-word.zip) format. We expect that most submitted papers will have a similar length. We trust that authors will recognize that respecting reviewers’ time is helpful to the evaluation of their work. 
 
-<strong>Detailed submission instructions will be made available under the conference website by January, 2023. Papers and demos can be submitted to the <a href="https://cmt3.research.microsoft.com/RSS2023" target="_blank">RSS 2023 Microsoft CMT portal</a>.</strong>
+**Detailed submission instructions are available [here]({{ site.baseurl }}/information/authorinfo/).**
+
+**Papers and demos can be submitted [here](https://cmt3.research.microsoft.com/RSS2023){:target="_blank"}**
 
 
 ## Highlights of RSS 2023
