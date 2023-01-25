@@ -2,244 +2,127 @@
 layout: page
 title: Author Information
 description: Instructions for paper submission.
-invisible: true
-published: false
+invisible: false
+published: true
 priority: 8
 ---
 
-{% comment %}
-<center>
-<table class="table" style="width:480px; border-left: solid 4px gray; border-right: solid 4px gray; border-bottom: solid thin gray;">
-      <tr style="background: #ffffd0;">
-        <th><span style="font-weight:bold">Update!</span></th>
-      </tr>
-      <tr style="background: #fffff0;">
-        <td>To minimize pain and accomodate other robotics deadlines, we have pushed both PDF and video submission dates to the last possible time: June 25th, 2021. <i>This is a firm deadline.</i></td>
-      </tr>
-  </table>
-</center>
 
+## Guidance for Demo Preparation
 
-### Uploading files:
+A new type of submission, Demos, is available to RSS 2023 contributors similar to the practice in related communities (e.g., CVPR).
 
-* Login to CMT at [https://cmt3.research.microsoft.com/RSS2021/](https://cmt3.research.microsoft.com/RSS2021/)
-* Make sure your role is "Author"
-* Click on "Create Camera Ready Submission" in the "Actions" column for each of your accepted papers.
-* You will be taken to a new screen where you can modify:
-    1. The title and abstract
-    2. Names and ordering of authors
-    3. Upload files: 
-        * A camera-ready (PDF)
-        * Your 5 min spotlight video (MP4)
-    4. Submission requires acknowledgement of assent to the author agreement. 
+**Type of Submission:** These submissions should demonstrate systems that are innovative given the state-of-the-art of robotics research across any of the [subject areas]({{ site.baseurl }}/information/cfp/#subject-areas) of RSS 2023. Open-source and open-access systems or interactive systems that are accessible by the community are especially encouraged. Demos can relate to hardware or software contributions or their integration. They can also relate to critical system components and useful tools for the community. Examples of such submissions can correspond to demonstrations of:
 
-You can upload newer versions of these files until the deadline.  If there additional complexities, for example in getting your surname alphabetized correctly, please email the [Program Chair](mailto:dshell@tamu.edu).
+- useful new hardware components or software packages for the robotics community,
+- large-scale deployments of robotics technology that have not been achieved before,
+- mature, production-ready industrial systems of note and lessons from their operation,
+- new datasets and benchmarks that will advance robotics research,
+- novel applications of robotics technology with important societal impact.
 
+**What to Submit?** Each submitted demo will include a paper describing the system (see format and length recommendations below) and demonstrations of the system itself, which can be accessed by reviewers via the supplementary material (e.g., executable software, multimedia showing the operation of robotic hardware, demonstrations of the achieved scalability, etc.), or via a website that is accessible at the time of the review period.
 
+**Single-blind:** Demo submissions are allowed (but not required) to be single-blind in contrast to science and systems papers, which must be double-blind. Demo submissions are understood to be demonstrating unique systems that will obviously reveal the authors or their affiliations. Demos are not opportunities to bypass the double-blind requirement of regular submissions. The reviewers will be asked to evaluate whether a submission was appropriately submitted under the Demo category.
 
-## Instructions for Camera-ready Submissions
-The conference proceedings for Robotics: Science and Systems 2021 will be
-published online with open access, and in a book.  A revised version of your
-paper is due to be uploaded to CMT by AOE ~~June 10, 2021~~ <span style="color:red;">June 25,</span> 2021.
-Please be aware that
-there will be no additional opportunity to revise your paper. 
+**Demo Title:** The authors of Demo submissions are encouraged to start the title of the submission with the characters "DEMO:" to communicate to the reviewers that these are submissions that are allowed to be single-blind.
 
-In preparing for the proceedings, please follow the author guidelines posted
-below under "Paper Format" and these [requirements and
-recommendations]({{site.baseurl}}/information/paperformatting).  Your
-proceedings submission should, of course, include your names, affiliations, and
-acknowledgements as we are past the double-blind review phase. 
-There is no provision for supplementary materials in the proceedings, so please
-embed links in your pdf to stable URLs for any additional content.  
+**Key Questions:** A demo paper submitted to accompany a demonstration should outline the design of the system and provide sufficient details to allow the evaluation of its validity, quality, and relevance to RSS. A demo paper can do this by addressing the following questions:
 
+- What problem does the proposed system address?
+- Why is the system important and what is its impact?
+- What is the novelty in the approach/technology on which this system is based?
+- Who is the target audience?
+- How does the system work?
+- How does it compare with existing systems?
+- How is the system licensed?
+- Are there any additional concerns about the proposed system (e.g., ethical or environmental concerns)? 
 
-<u>Note</u>: Like the original submission, no arbitrary page limits are placed on your camera ready paper.  As a rule: *it should contain material that has undergone peer review, or be in response to the requests that arose during the review process.*  This may mean your paper may be a bit longer than your submitted manuscript in most cases, this to be an additional page or so. Use this additional freedom responsibly.
-{% endcomment %}
+**Review and Camera-ready:** The review process for demos will take place in parallel with the review of regular RSS paper submissions and will be handled by the same Program Committee.  The proposed system needs to be ready at Camera-Ready time.  Additional improvements are allowed but should not diverge significantly from the description in the submitted paper.
 
+**Conference Demonstration:** Papers describing accepted demonstrations will be published as part of the RSS conference proceedings (under the designation of "Demo Track"). Authors of accepted demos will be encouraged to demonstrate to the attendees of the RSS event their system (if possible), (e.g., an interactive demonstration of a software at the conference, live demonstration of robotic hardware brought at the conference, or via videoconferencing demonstrating a remote robot's abilities). The authors are encouraged to describe at the time of the submission how the RSS live audience will experience the demonstrated system.
 
-{% comment %}
-## Submission Instructions
+**Note:** _Commercial sales and marketing activities are not appropriate for submissions in the RSS Demo Track and should be arranged instead via the RSS Sponsorship program._
 
-The submissions site at <a href="https://cmt3.research.microsoft.com/RSS2021/"> https://cmt3.research.microsoft.com/RSS2021/</a> will open for submission Feb 1st.
+## Paper and Demo Format
 
-Browse to [https://cmt3.research.microsoft.com/RSS2021/](https://cmt3.research.microsoft.com/RSS2021/) for submissions.
+A template for paper and demo submissions is available in [LaTeX]({{ site.baseurl }}/docs/paper-template-latex.tar.gz) and [Word]({{ site.baseurl }}/docs/paper-template-word.zip). Do not modify the formatting provided in the templates. Any change to font sizes, page dimensions, line spacing, etc. may delay publication. Please do not include any additional markings such as _Draft or To appear in…_ on the pages. Make sure your paper does not contain page numbers.
 
-* **Logging into the system**: If you already have a CMT account, use those credentials to login. If you do not, sign up as a new user.
-* **Conflict domains**: When you login for the first time, CMT will prompt you to enter your conflict domains. You will not be allowed to start the submission process without finishing this step.
-* **Paper submission**: Enter title, abstract, and authors. Select your primary and secondary [subject areas]({{site.baseurl}}/information/cfp/#subject-areas). Your paper may now be uploaded. Papers must be in the conference style format and must be submitted as a PDF. Papers may be edited, updated and replaced up to the full paper final submission deadline.  Answer if your first author is a student (eligible then for the Best Student Paper Award). Finally, if you want your accepted paper to be considered for invitation to special issues (potentially with expedited review), please give your consent to us forwarding the reviews to the journal editors who decide on such invitations.
-* **Paper ID**: After clicking the Submit link, your paper will be assigned an ID.
-* **Supplementary material**: Authors may submit supplementary material such as a video or an expanded version of a proof (20MB max, accepted formats: avi, mov, mp4, mpg, pdf, tar, tgz, zip). Please note that the link to upload supplementary material becomes active only after the paper submission is complete.
+We only accept a PDF format for the main submission file. Delays in the production of proceedings are usually caused by PDF file submissions that do not embed all fonts.
 
-{% endcomment %}
+Before submitting your PDF file, please open it in Acrobat Reader. In the File menu under Document Properties, you will find information on the fonts used by your document. The PDF file must only contain Type-1 fonts (and Embedded True Type fonts if prepared under Word). On Linux, you may also use [pdffonts](https://www.xpdfreader.com/pdffonts-man.html). Below are instructions to embed PDF fonts for various typesetting systems:
 
-## Paper Format
+- [Overleaf](https://www.overleaf.com/learn/latex/Questions/My_submission_was_rejected_by_the_journal_because_%22Font_XYZ_is_not_embedded%22._What_can_I_do%3F)
+- [Acrobat](https://www.printivity.com/insights/2020/09/13/how-to-embed-fonts-in-pdfs/)
+- [dvips](https://www.karlrupp.net/2016/01/embed-all-fonts-in-pdfs-latex-pdflatex/)
+- [Miktex](http://www.boekenenproefschriften.nl/proefschriften/sites/default/files/EmbedLaTeXfonts.pdf)
 
-A paper template is available in <a href="{{site.baseurl}}/docs/paper-template-latex.tar.gz">LaTeX</a> and <a href="{{site.baseurl}}/docs/paper-template-word.zip">Word</a>. Do not modify the formatting provided in the templates. Any change to font sizes, page dimensions, line spacing, etc. may delay the publication of your paper. Please do not include any additional markings such as *Draft or To appear in...* on the pages. Make sure your paper does not contain page numbers.
+## Paper and Demo Length
 
-We only accept submissions in PDF format. Delays in the production of proceedings are usually caused by PDF file submissions that do not embed all fonts. 
+RSS 2023 has no page length requirements on paper or demo submissions. Paper lengths have been typically around 8 pages in the past, and we expect that most submitted papers will have a similar length. The expectation for demo papers submissions is that they can be even shorter than that if the focus is on the supplementary material or an online website that allows the reviewers to experience the demonstrated system.
 
-Before submitting your PDF file, please open it in Acrobat Reader. In the File menu under Document Properties, you will find information on the fonts used by your document. The PDF file must only contain Type-1 fonts (and Embedded True Type fonts if prepared under Word). On Linux, you may also use [pdffonts](https://www.xpdfreader.com/pdffonts-man.html).
-Below are instructions to embed PDF fonts for various typesetting systems:
-* [Overleaf](https://www.overleaf.com/learn/latex/Questions/My_submission_was_rejected_by_the_journal_because_%22Font_XYZ_is_not_embedded%22._What_can_I_do%3F)
-* [Acrobat](https://www.printivity.com/insights/2020/09/13/how-to-embed-fonts-in-pdfs/)
-* [dvips](https://www.karlrupp.net/2016/01/embed-all-fonts-in-pdfs-latex-pdflatex/)
-* [Miktex](http://www.boekenenproefschriften.nl/proefschriften/sites/default/files/EmbedLaTeXfonts.pdf)
+The main PDF should contain a concise and lucid presentation of the merits of the paper, including a discussion of its contributions, prior work, and a description of key technical ideas and methods used. The paper should be self-contained and include all the material necessary for an expert to verify the central claims in the paper.
 
-
-{% comment %}
-We only accept submissions in PDF. 
-Submissions may be up to 8 pages in length, including figures but possibly excluding references. Additional pages can be used for references. However, the 9th page, and any subsequent pages, can contain ONLY references. This will be strictly enforced. Submissions can use a font no smaller than 10 point. Submissions violating these guidelines will not be considered. A paper template is available in <a href="{{site.baseurl}}/docs/paper-template-latex.tar.gz">LaTeX</a> and <a href="{{site.baseurl}}/docs/paper-template-word.zip">Word</a>. Please read the [detailed instructions]({{site.baseurl}}{% post_url 2019-12-04-paper-format%}).
-
-
-We only accept submissions in PDF. 
-A paper template is available in <a href="{{site.baseurl}}/docs/paper-template-latex.tar.gz">LaTeX</a> and <a href="{{site.baseurl}}/docs/paper-template-word.zip">Word</a>.
-Do not modify the formatting provided in the templates. Any change to font sizes, page dimensions, line spacing, etc. may delay the publication of your paper. Make sure your paper does not contain page numbers. 
-
-For additional detail on formating and presentation please see [these requirements and recommendations]({{site.baseurl}}/information/paperformatting).
-{% endcomment %}
-
-
-## Paper Length
-RSS 2022 has no page length requirements on papers. Paper lengths have been typically around 8 pages in the past, and we expect that most submitted papers will have a similar length.
-
-The main PDF should contain a concise and lucid presentation of the merits of the paper, including a discussion of its contributions, prior work, and a description of key technical ideas and methods used. The paper should be self-contained and include all the material necessary for an expert to verify the central claims in the paper. Additional supplemental text, such as appendices, data listings, or expanded proofs, should be included as supplementary material (see below). Reviewers will review supplemental material at their discretion.
+Additional supplemental text, such as appendices, data listings, or expanded proofs, should be included as supplementary material (see below). Reviewers will review supplemental material at their discretion for regular papers. For demos, the reviewers will be guided to prioritize the supplemental material if the system is primarily available through the corresponding file.
 
 Authors should anticipate that their papers may be rejected if the key technical result is not concisely presented. Reviewers may perceive a paper as too long if it is verbose, repetitive, or belabors obvious points. A paper that is 15 pages long is not necessarily going to be rejected, but the authors must make a compelling case to that the length is essential to the key ideas in the paper. Moreover, the aesthetics of a paper also make the case for conciseness, since too much whitespace and poorly cropped figures are detrimental to the "feel" of a high-quality paper. Conversely, reviewers may perceive a paper as too short if it omits important details.
 
-*Note: We were inspired to make this decision following other conferences, such as SIGGRAPH and FOCS. Researchers have wasted untold hours massaging formatting rules, figure sizes, and trimming paragraphs to fit page limits. Although the nominal reason for page limits in the electronic era is an upper bound on reviewers' effort since they are expected to review "all the material" in the submission, it is inevitable that reviewers do not review material uniformly and will skim over text that is uninteresting or too dense; hence, page length is a poor proxy for reviewer effort. We will trust that authors will recognize that respecting reviewers’ time is a necessary condition to get published.*
+**Note:** _RSS was inspired to make this decision following other conferences, such as SIGGRAPH and FOCS. Researchers have wasted untold hours massaging formatting rules, figure sizes, and trimming paragraphs to fit page limits. Although the nominal reason for page limits in the electronic era is an upper bound on reviewers' effort since they are expected to review "all the material" in the submission, it is inevitable that reviewers do not review material uniformly and will skim over text that is uninteresting or too dense; hence, page length is a poor proxy for reviewer effort. We will trust that authors will recognize that respecting reviewers' time is a necessary condition to get published._
 
+## Double-Blind Submission for Papers
 
+RSS 2023 continues the tradition of double-blind reviews for regular science and systems papers. Note that demo submissions are allowed (but not required) to be single-blind in contrast to science and systems papers, which must be double-blind. Authors should not list their names on the title page, and reasonable anonymity should be maintained in the paper. Authors are asked to take particular care when referencing their own work — careless use of self-citations can easily violate the requirements for double blind reviewing and this will result in papers being rejected.
 
+The following general principles should be applied in science and systems submissions:
 
-## Double Blind Submission
+- Authors names and affiliations should not be cited in the title or text of the submission.
+- Acknowledgments to people or funding agencies should not appear in the submission.
+- Citing of web links to the authors or author's institute should be avoided.
 
-RSS 2022 continues the tradition of double-blind reviews. Authors should not list their names on the title page, and reasonable anonymity should be maintained in the paper. Authors are asked to take particular care when referencing their own work &mdash; careless use of self citations can easily violate the requirements for double blind reviewing and this will result in papers being rejected. 
+In self-citing authors previous work, avoid expressions such as "In the authors earlier work…", rather use alternative expressions such as "In previous work…" or "In related work…", in a manner that does not distinguish their own work from the work of others. Authors should otherwise cite work, including their own, as required for the completeness of the submission.
 
-The following general principles should be applied in submissions:
+In presentation of experimental work, avoid logos in pictures, or overt references to an individual laboratory. Use expressions such as "The experimental equipment…" rather than "The University of XYZ's Robby the Robot…". Otherwise, authors should include photographs, graphics and other presentation material as in the normal manner for a paper submission.
 
-* Authors names and affiliations should not be cited in the title or text of the submission.
-* Acknowledgments to people or funding agencies should not appear in the submission.
-* Citing of web links to the authors or author’s institute should be avoided.
+## Supplementary Materials for Papers and Demos
 
-In self citing authors previous work, avoid expressions such as "In the authors earlier work...", rather use alternative expressions such as "In previous work..." or "In related work...", in a manner that does not distinguish their own work from the work of others. Authors should otherwise cite work, including their own, as required for the completeness of the submission.
+Authors may submit supplementary material such as a video or an expanded version of a proof. Especially in the context of demos, they are encouraged to provide supplementary material that allow the reviewers to experience and evaluate the demo. The deadline for supplementary material is a few days after the paper and demo description submission deadline (Feb. 8 vs. Feb. 3, 2023).
 
-In presentation of experimental work, avoid logos in pictures, or overt references to an individual laboratory. Use expressions such as "The experimental equipment..." rather than "The University of XYZ’s Robby the Robot...". Otherwise, authors should include photographs, graphics and other presentation material as in the normal manner for a paper submission.
+Note that reviewers of regular papers are not required to view this material and include it in their assessment of the paper. Lastly, if authors feel they must link to additional supplementary material, they are cautioned to ensure that their identities are not revealed for regular papers.
 
+## Multiple Submissions of Papers and Demos
 
-## Supplementary Materials
-Authors may submit supplementary material such as a video or an expanded version of a proof. The deadline for supplementary material is the same as for paper submission. Note that reviewers are not required to view this material and include it in their assessment of the paper. Lastly, if authors feel they must link to additional supplementary material, they are cautioned to ensure that their identities are not revealed.
-
-## Multiple Submissions
 Submissions that are identical (or substantially similar) to versions that have been previously published, or accepted for publication, or that have been submitted in parallel to other conferences are not appropriate for RSS and violate our dual submission policy.
 
 Exceptions to this rule are the following:
 
-1. Submission is permitted of a short version of a paper that has been submitted to a journal, but has not yet been published in that journal. Authors must declare such dual-submissions via email to the program chair. It is the authors’ responsibility to make sure that the journal in question allows dual concurrent submissions to conferences.
+1. Submission is permitted of a short version of a paper that has been submitted to a journal, but has not yet been published in that journal. Authors must declare such dual-submissions via email to the program chair. It is the authors' responsibility to make sure that the journal in question allows dual concurrent submissions to conferences.
 2. Submission is permitted for papers presented or to be presented at conferences or workshops that do not have published proceedings, or with only abstracts published.
 3. It is acceptable to submit to RSS work that has been made available as a technical report (or similar, e.g. in arXiv) without citing it.
 
 None of the above should be construed as overriding the requirements of other publishing venues. In addition, keep in mind that author anonymity to RSS reviewers might be compromised for authors availing themselves of exceptions 2 and 3.
 
+## Plagiarism in Papers and Demos
 
-## Plagiarism
-RSS is intolerant of plagiarism. Submitted papers are expected to contain original work executed by the authors with adequate, proper, and scholarly citations to the work of others. It is the job of the authors to clearly identify both their own contribution(s) and published results / techniques on which they depend or build. RSS reviewers are charged to ensure these standards are met. In cases of alleged plagiarism, the program chair will be guided by Section 8.2.4 Allegations of Misconduct as laid out by the IEEE in this [document]({{site.baseurl}}/docs/opsmanual.pdf).
+RSS is intolerant of plagiarism. Submitted papers are expected to contain original work executed by the authors with adequate, proper, and scholarly citations to the work of others. It is the job of the authors to clearly identify both their own contribution(s) and published results / techniques on which they depend or build. RSS reviewers are charged to ensure these standards are met. In cases of alleged plagiarism, the program chair will be guided by Section 8.2.4 Allegations of Misconduct as laid out by the IEEE in this [document]({{ site.baseurl }}/docs/opsmanual.pdf).
 
+## Policy on the Use of Large Language Models
 
-## Uploading files
-Paper submission and review will occur in the Conference Management Toolkit (CMT) system at the following link: [https://cmt3.research.microsoft.com/RSS2022/](https://cmt3.research.microsoft.com/RSS2022/)
+We are following the example of [ICML](https://icml.cc/Conferences/2023/llm-policy) and adopt the following policy:
 
-* **Logging into the system:** If you already have a CMT account, use those credentials to login. If you do not, sign up as a new user.
-* **Conflict domains:** When you login for the first time, CMT will prompt you to enter your conflict domains. You will not be allowed to start the submission process without finishing this step.
-* **Paper submission:** Make sure your role is “Author”. Enter title, abstract, and authors. Select your primary and secondary [subject areas]({{site.baseurl}}/information/cfp/index.html#subject-areas). Your paper may now be uploaded. Papers must be in the accepted conference style format and must be submitted as a PDF. Papers may be edited, updated and replaced up to the full paper final submission deadline.
-* **Paper ID:** After clicking the Submit link, your paper will be assigned an ID. To make sure your PDF submission is reviewer-friendly, enter this ID at the end of your title as instructed in the paper template.
-* **Supplementary material:** Authors may submit supplementary material such as a video or an expanded version of a proof (50MB max, accepted formats: avi, mov, mp4, mpg, pdf, tar, tgz, zip). Please note that the link to upload supplementary material becomes active only after the paper submission is complete.
+Papers that include text generated from a large-scale language model (LLM), such as ChatGPT, are prohibited unless the produced text is presented as a part of the paper's experimental analysis. Note the following clarification on the above statement:
 
+- The policy prohibits text produced entirely by LLMs (i.e., "generated").  This does not prohibit authors from using LLMs for editing or polishing author-written text.
+- The policy is largely predicated on the principle of being conservative with respect to guarding against potential issues of using LLMs, including plagiarism.
+- This policy may evolve in future conferences as society understands LLMs and their impacts on scientific publishing better.
 
+We plan to investigate any potential violation of the LLM policy when a submission is brought to our attention with a significant concern about a potential violation. Any submission flagged for the potential violation of this LLM policy will go through the same process as any other submission flagged for plagiarism.
 
-{% comment %}
-## Review Process
-Authors, Program Committee members, and Area Chairs will all be anonymous. Each paper will receive 3 reviews.
-Consistent with last year, we will not have conditional acceptances, nor will we have a full author-to-reviewer rebuttal process,
-instead we will keep the opportunity to write a post-review response to the Area Chairs.
+## Uploading Files for Paper and Demo Submissions
 
+Paper submission and review will occur in the Conference Management Toolkit (CMT) system at the following link: [https://cmt3.research.microsoft.com/RSS2023/](https://cmt3.research.microsoft.com/RSS2023/)
 
-
-Please examine the [Review form]({{site.baseurl}}/information/reviewform) 
-
-## Review Process
-Please read the [review form]({{site.baseurl}}{% post_url 2019-12-04-review-form%}) to understand our emphasis this year.
-Authors, Program Committee members, and Area Chairs will all be anonymous. Each paper will receive 3 reviews.
-This year, we will have no rebuttals nor conditional acceptances.
-
-{% endcomment %}
-
-
-{% comment %}
-## Instructions for uploading the pre-recorded paper spotlight presentations {#videos}
-{: .text-left}
-
-At RSS 2021 all paper presentations will be pre-recorded. They will be
-hosted on YouTube and will be made available before the conference and
-stay accessible indefinitely (similar to the recordings of the talks
-from years 2020 and 2019).
-
-The pre-recorded presentations need to be submitted by 
-uploaded by AOE ~~June 17, 2021~~ <span style="color:red;">June 25,</span> 2021.
-<i>The upload is as a file directly in CMT, as a second file (see above).</i>
-You are free to use any tools you like to create the video. 
-Below we have a list of potential tools for your help. 
-The requirements for the videos are:
-
-* Duration max. 5 min
-* MP4 format
-* File size max. 350 MB
-* 16:9 aspect ratio (strongly preferred)
-* 1920x1080 resolution (strongly preferred, at least 720 height)
-* Should ideally have an inset with a video of the speaker
-
-Please email the program chair for questions related to the video submission.
-
-#### Tools for recording the presentations:
-
-* [Debut (Windows, Mac): Free, allows including webcam](https://www.nchsoftware.com/capture/index.html)
-* [OBS Studio (Windows, Linux, Mac): OpenSource, allows including webcam](https://obsproject.com/)
-* [PowerPoint (Windows, Mac): Narrations and timing can be directly recorded in PowerPoint and exported as videos. Recordings are on a per slide basis (i.e., you cannot talk during slide transitions). Recent versions (Office 365) enable recording a webcam inset as well (Windows only)](https://support.microsoft.com/en-us/office/record-a-slide-show-with-narration-and-slide-timings-0b9502c6-5f6c-40ae-b1e7-e47d8741161c?ui=en-us&rs=en-us&ad=us)
-* [Loom (Windows, Mac): Pro version is free for educational institutions, allows including webcam](https://www.loom.com/education)
-* [Zoom (Windows, Linux, Mac): Using "local recording". Free version is sufficient. Tends not to record videos embedded in the presentation very well, allows including webcam](https://zoom.us/)
-* [CamStudio (Windows): OpenSource, allows including webcam](https://camstudio.org/)
-* [Ezvid (Windows): Free, allows including webcam](https://www.ezvid.com/download)
-* [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/)  / [kazam (Linux): OpenSource, screen capture only](https://launchpad.net/kazam)
-
-#### General tips:
-
-* Prepare a script on what to say. This will also help to cut the video later.
-* Record in one long session, repeating parts that you didn't like on the fly.
-* Then cut together the parts you like (might be easier if you prepared a script earlier).
-
-#### Free cross platform (Windows, Linux, Mac) video editing tools:
-
-* [DaVinci Resolve: advanced (excellent, but might need nvidia GPU, esp on Linux)](https://www.blackmagicdesign.com/sa/products/davinciresolve/)
-* [kdenlive: advanced](https://kdenlive.org/en/)
-* [ShotCut: advanced ](https://shotcut.org/)
-* [avidemux: simple](http://avidemux.sourceforge.net/)
-* [lightworks: advanced](https://www.lwks.com/)
-* [OpenShot: advanced](https://www.openshot.org/)
-
-
-## Preparing a poster suitable for the interactive poster sessions in gather.town {#posters}
-{: .text-left}
-
-RSS 2021 will try to emulate some of the feeling of an in-person poster session via a <a href="https://gather.town/">gather.town</a> space.
-We have sent the corresponding authors a link to a form through which they can upload a file for their poster. (If you have not received this email, please email the [program chair](mailto:dshell@tamu.edu).)
-Half an hour before each poster session, the submitted files will be pulled from the form, automatically uploaded, and affixed to the poster stand allotted to you within the space. 
-The poster will be seen by navigating toward the virtual poster stand, and hitting the 'x' key. Because this differs from the more traditional printed poster, here are some guidelines that are provided in the
-hope that they may be useful:
-
-* The only file formats that are permitted by gather.town are PNG and JPG. The maximum file size supported is 3&nbsp;MB.
-* Most people will view the poster full screen, so it is wise to pick a poster proportions (and sub-boxes or content divisions) that approximates those aspect ratios. <a href="{{site.baseurl}}/information/sample-poster.pdf">This example works well</a>, while <a href="{{site.baseurl}}/information/sample-poster2.pdf">this is much less effective</a>.
-* There is some ability to move the poster around on screen, which helps as not all screens are identical. Also, one may interactively magnify the view to help see some detail. This means that some smaller text can be legible, even if not at an "arm's length".
-* To facilitate clarity and allow reasonable magnification, a resolution of 2000&times;1100 pixels<sup>2</sup> is recommended. We have had good success with more than double that size, so long as respect the requirements on the maximum file size.
-
-{% endcomment %}
-
-<br>
+- **Logging into the system:** If you already have a CMT account, use those credentials to login. If you do not, sign up as a new user.
+- **Conflict domains:** When you login for the first time, CMT will prompt you to enter your conflict domains. Please finish this step before you start the submission process.
+- **Paper/Demo submission:** Make sure your role is "Author". Enter title, abstract, and authors. Select your primary and secondary [subject areas]({{ site.baseurl }}/information/cfp/#subject-areas). Your main submission file may now be uploaded. Papers and demo descriptions must be in the accepted conference style format and must be submitted as a PDF. Papers and demos may be edited, updated and replaced up to the full paper and demo description submission deadline.
+- **Demo title:** The authors of Demo submissions are encouraged to start the title of the submission with the characters "DEMO:" to communicate to the reviewers that these are submissions that are allowed to be single-blind.
+- **Paper ID:** After clicking the Submit link, your paper or demo submission will be assigned an ID. To make sure your PDF submission is reviewer-friendly, enter this ID at the end of your title as instructed in the paper template.
+- **Supplementary material:** Authors may submit supplementary material, such as a video or an expanded version of a proof (100MB max, accepted formats: zip). Please note that the link to upload supplementary material becomes active only after the paper submission is complete. The deadline for the submission of supplementary material is a few days after the paper/demo description deadline.
