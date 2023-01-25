@@ -13,7 +13,6 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 * **[Paper and Demo submission website is open.](https://cmt3.research.microsoft.com/RSS2023){:target="_blank"}**
 * Information for Authors is available [here]({{ site.baseurl }}/information/authorinfo/).
 * [RSS Pioneers](https://sites.google.com/view/rsspioneers2023/){:target="_blank"} submission deadline is Feb 10th, 2023.
-* Submission information will be made available soon.
 * The Call for Workshops is available [here]({{ site.baseurl }}/information/cfw/).
 * The list of Area Chairs has been announced [here]({{ site.baseurl }}/committees/pc/).
 * Information about RSS Pioneers is available [here](https://sites.google.com/view/rsspioneers2023/){:target="_blank"}.
