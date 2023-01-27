@@ -24,7 +24,7 @@ A new type of submission, Demos, is available to RSS 2023 contributors similar t
 
 **Single-blind:** Demo submissions are allowed (but not required) to be single-blind in contrast to science and systems papers, which must be double-blind. Demo submissions are understood to be demonstrating unique systems that will obviously reveal the authors or their affiliations. Demos are not opportunities to bypass the double-blind requirement of regular submissions. The reviewers will be asked to evaluate whether a submission was appropriately submitted under the Demo category.
 
-**Demo Title:** The authors of Demo submissions are encouraged to start the title of the submission with the characters "DEMO:" to communicate to the reviewers that these are submissions are allowed to be single-blind.
+**Demo Title:** The authors of Demo submissions are encouraged to start the title of the submission with the characters "DEMO:" to communicate to the reviewers that these submissions are allowed to be single-blind.
 
 **Key Questions:** A demo paper submitted to accompany a demonstration should outline the design of the system and provide sufficient details to allow the evaluation of its validity, quality, and relevance to RSS. A demo paper can do this by addressing the following subset of questions:
 
