@@ -10,6 +10,16 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 ### News and Updates
 
 
+<div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
+Due to the disruption in parts of the USA from a major winter storm, 
+<b style="background:#555; text-shadow: 1px 1px 2px black;">papers submitted to <a href="https://cmt3.research.microsoft.com/RSS2023" target="_blank">CMT</a> by the deadline of Feb 3rd (<a href="https://time.is/Anywhere_on_Earth">AoE</a>) can be edited by the end of Feb 5th (<a href="https://time.is/Anywhere_on_Earth">AoE</a>).</b>
+</div>
+<div width="100%" style="color: #777; padding: 5px; margin-bottom: 3ex; text-align: center;  border-bottom: 1px solid black;">
+Please submit a version of your manuscript that is as complete as possible by the original deadline so that the review assignment process can be initiated.  New submissions after the original deadline will not be allowed. Incomplete submissions by the original deadline may receive a desk-reject.
+</div>
+
+
+
 * **[Paper and Demo submission website is open.](https://cmt3.research.microsoft.com/RSS2023){:target="_blank"}**
 * Information for Authors is available [here]({{ site.baseurl }}/information/authorinfo/).
 * [RSS Pioneers](https://sites.google.com/view/rsspioneers2023/){:target="_blank"} submission deadline is Feb 10th, 2023.
@@ -46,6 +56,9 @@ tutorials. This year, as always, we solicit your best work.
         <td>February 3rd, 2023</td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Paper and Demo Submission Deadline</td>
+      </tr>
+      <tr>
+        <td colspan="3" style="font-size: small; padding-bottom: 2px; padding-top: 0px; border-top: 0px; color: #777;">Papers submitted to <a href="https://cmt3.research.microsoft.com/RSS2023" target="_blank">CMT</a> by the deadline of Feb 3rd (<a href="https://time.is/Anywhere_on_Earth">AoE</a>) can be edited by the end of Feb 5th (<a href="https://time.is/Anywhere_on_Earth">AoE</a>).</td>
       </tr>
       <tr>
         <td>February 8th, 2023</td>
