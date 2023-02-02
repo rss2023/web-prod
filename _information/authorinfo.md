@@ -9,7 +9,7 @@ priority: 8
 
 <div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
 Due to the disruption in parts of the USA from a major winter storm, 
-<b style="background:#555; text-shadow: 1px 1px 2px black;">papers submitted to <a href="https://cmt3.research.microsoft.com/RSS2023" target="_blank">CMT</a> by the deadline of Feb 3rd (<a href="https://time.is/Anywhere_on_Earth">AoE</a>) can be edited by the end of Feb 5th (<a href="https://time.is/Anywhere_on_Earth">AoE</a>).</b>
+<b style="background:#555; text-shadow: 1px 1px 2px black;">papers submitted to <a href="https://cmt3.research.microsoft.com/RSS2023" target="_blank">CMT</a> by the deadline of Feb 3rd (<a href="https://time.is/Anywhere_on_Earth">AoE</a>) can be edited till the end of Feb 5th (<a href="https://time.is/Anywhere_on_Earth">AoE</a>).</b>
 </div>
 <div width="100%" style="color: #777; padding: 5px; margin-bottom: 3ex; text-align: center;  border-bottom: 1px solid black;">
 Please submit a version of your manuscript that is as complete as possible by the original deadline so that the review assignment process can be initiated.  New submissions after the original deadline will not be allowed. Submissions that are incomplete by the original deadline may receive a desk-reject.
