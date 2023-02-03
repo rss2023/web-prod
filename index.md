@@ -52,7 +52,7 @@ tutorials. This year, as always, we solicit your best work.
         <td><a href="https://cmt3.research.microsoft.com/RSS2023" target="_blank">Submission Website</a> Opens</td>
       </tr>
       <tr>
-        <td>February 3rd, 2023</td>
+        <td><strike>February 3rd, 2023</strike></td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Paper and Demo Submission Deadline</td>
       </tr>
