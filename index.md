@@ -11,13 +11,11 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 
 
 <div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
-<b style="background:#555; text-shadow: 1px 1px 2px black;"><a href="https://sites.google.com/view/rsspioneers2023/" target="_blank">RSS Pioneers</a> submission deadline extended to Feb 16th (<a href="https://time.is/Anywhere_on_Earth">AoE</a>).</b>
+<b style="text-shadow: 1px 1px 2px black;"><a href="{{ site.baseurl }}/information/cfw/" target="_blank">RSS Workshop</a> submission deadline extended to Mar 3rd (<a href="https://time.is/Anywhere_on_Earth">AoE</a>).</b>
 </div>
 <div width="100%" style="color: #777; padding: 5px; margin-bottom: 3ex; text-align: center;  border-bottom: 1px solid black;">
 </div>
 
-* Paper and Demo submission is closed.
-* [Paper and Demo submission website is open.](https://cmt3.research.microsoft.com/RSS2023){:target="_blank"}
 * Information for Authors is available [here]({{ site.baseurl }}/information/authorinfo/).
 * [RSS Pioneers](https://sites.google.com/view/rsspioneers2023/){:target="_blank"} submission deadline is <strike>Feb 10th</strike> Feb 16th, 2023.
 * The Call for Workshops is available [here]({{ site.baseurl }}/information/cfw/).
@@ -65,7 +63,7 @@ tutorials. This year, as always, we solicit your best work.
         <td><a href="https://sites.google.com/view/rsspioneers2023/" target="_blank">RSS Pioneers</a> Submission Deadline</td>
       </tr>
       <tr>
-        <td>February 17th, 2023</td>
+        <td>March 3rd, 2023</td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Workshop Submission Deadline</td>
       </tr>
