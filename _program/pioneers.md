@@ -6,15 +6,6 @@ priority: 7
 invisible: false
 ---
 
-
-<div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
-<b style="background:#555; text-shadow: 1px 1px 2px black;"><a href="https://sites.google.com/view/rsspioneers2023/" target="_blank">RSS Pioneers</a> submission deadline extended to Feb 16th (<a href="https://time.is/Anywhere_on_Earth">AoE</a>).</b>
-</div>
-<div width="100%" style="color: #777; padding: 5px; margin-bottom: 3ex; text-align: center;  border-bottom: 1px solid black;">
-</div>
-
-
-
 RSS Pioneers is a workshop for senior Ph.D. students and postdocs, held in
 conjunction with the main Robotics: Science and Systems (RSS) Conference. The
 goal of RSS Pioneers is to bring together a cohort of the world’s top early
@@ -40,7 +31,7 @@ Follow the RSS Pioneers [social media accounts](https://twitter.com/RSSPioneers)
     </thead>
     <tbody>
       <tr>
-        <td>February 16th, 2023</td>
+        <td><strike>February 16th, 2023</strike></td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td><a href="https://sites.google.com/view/rsspioneers2023/" target="_blank">RSS Pioneers</a> Submission Deadline</td>
       </tr>
