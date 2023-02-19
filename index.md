@@ -17,7 +17,6 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 </div>
 
 * Information for Authors is available [here]({{ site.baseurl }}/information/authorinfo/).
-* [RSS Pioneers](https://sites.google.com/view/rsspioneers2023/){:target="_blank"} submission deadline is <strike>Feb 10th</strike> Feb 16th, 2023.
 * The Call for Workshops is available [here]({{ site.baseurl }}/information/cfw/).
 * The list of Area Chairs has been announced [here]({{ site.baseurl }}/committees/pc/).
 * Information about RSS Pioneers is available [here](https://sites.google.com/view/rsspioneers2023/){:target="_blank"}.
@@ -58,7 +57,7 @@ tutorials. This year, as always, we solicit your best work.
         <td>Supplementary Material Deadline</td>
       </tr>
       <tr>
-        <td>February 16th, 2023</td>
+        <td><strike>February 16th, 2023</strike></td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td><a href="https://sites.google.com/view/rsspioneers2023/" target="_blank">RSS Pioneers</a> Submission Deadline</td>
       </tr>
