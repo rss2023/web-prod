@@ -4,11 +4,6 @@ title: Call for Workshops
 description: Request for Participation in Workshops
 ---
 
-<div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
-<b style="text-shadow: 1px 1px 2px black;"><a href="{{ site.baseurl }}/information/cfw/" target="_blank">RSS Workshop</a> submission deadline extended to Mar 3rd (<a href="https://time.is/Anywhere_on_Earth">AoE</a>).</b>
-</div>
-<div width="100%" style="color: #777; padding: 5px; margin-bottom: 3ex; text-align: center;  border-bottom: 1px solid black;">
-</div>
 
 
 We invite proposals for full and half-day workshops and tutorials to take place in conjunction with the “Robotics: Science and Systems” (RSS) 2023 conference. Proposals should be submitted by **March 3rd, 2023** via Google Forms [here](https://docs.google.com/forms/d/e/1FAIpQLSec-uUS7LNlIWVGyaGucJ5qkT6oACbKLkRP2O75dXqpzKFhCQ/viewform). The conference, including its workshops and tutorials, is planned as an in-person event.
@@ -68,7 +63,7 @@ Please contact the [workshop chairs]({{ site.baseurl }}/committees/organizers/) 
     </thead>
     <tbody>
       <tr>
-        <td>March 3rd, 2023</td>
+        <td><strike>March 3rd, 2023</strike></td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Workshop Proposal Submission Deadline</td>
       </tr>
