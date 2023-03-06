@@ -31,7 +31,7 @@ This year the conference will include a new category of contributions in the for
         <td>Paper and Demo Submission Deadline</td>
       </tr>
       <tr>
-        <td>February 8th, 2023</td>
+        <td><strike>February 8th, 2023</strike></td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Supplementary Material Deadline</td>
       </tr>

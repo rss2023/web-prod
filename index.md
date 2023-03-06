@@ -10,17 +10,10 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 ### News and Updates
 
 
-<div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
-<b style="text-shadow: 1px 1px 2px black;"><a href="{{ site.baseurl }}/information/cfw/" target="_blank">RSS Workshop</a> submission deadline extended to Mar 3rd (<a href="https://time.is/Anywhere_on_Earth">AoE</a>).</b>
-</div>
-<div width="100%" style="color: #777; padding: 5px; margin-bottom: 3ex; text-align: center;  border-bottom: 1px solid black;">
-</div>
 
 * Information for Authors is available [here]({{ site.baseurl }}/information/authorinfo/).
-* The Call for Workshops is available [here]({{ site.baseurl }}/information/cfw/).
 * The list of Area Chairs has been announced [here]({{ site.baseurl }}/committees/pc/).
 * Information about RSS Pioneers is available [here](https://sites.google.com/view/rsspioneers2023/){:target="_blank"}.
-* The Call for Papers and Demos is available [here]({{ site.baseurl }}/information/cfp/).
 
 
 ### Call for Participation
@@ -62,7 +55,7 @@ tutorials. This year, as always, we solicit your best work.
         <td><a href="https://sites.google.com/view/rsspioneers2023/" target="_blank">RSS Pioneers</a> Submission Deadline</td>
       </tr>
       <tr>
-        <td>March 3rd, 2023</td>
+        <td><strike>March 3rd, 2023</strike></td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Workshop Submission Deadline</td>
       </tr>
