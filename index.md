@@ -9,8 +9,7 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 
 ### News and Updates
 
-
-
+* [Workshop]({{ site.baseurl }}/information/cfw/) acceptance notification available on March 21st.
 * Information for Authors is available [here]({{ site.baseurl }}/information/authorinfo/).
 * The list of Area Chairs has been announced [here]({{ site.baseurl }}/committees/pc/).
 * Information about RSS Pioneers is available [here](https://sites.google.com/view/rsspioneers2023/){:target="_blank"}.
@@ -60,7 +59,7 @@ tutorials. This year, as always, we solicit your best work.
         <td>Workshop Submission Deadline</td>
       </tr>
       <tr>
-      <td colspan="2">March 17th, 2023</td>
+      <td colspan="2">March 21st, 2023</td>
         <td>Workshop Acceptance Notification</td>
       </tr>
       <tr>

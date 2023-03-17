@@ -68,7 +68,7 @@ Please contact the [workshop chairs]({{ site.baseurl }}/committees/organizers/) 
         <td>Workshop Proposal Submission Deadline</td>
       </tr>
       <tr>
-      <td colspan="2">March 17th, 2023</td>
+      <td colspan="2">March 21st, 2023</td>
         <td>Workshop Proposal Acceptance Notification</td>
       </tr>
       <tr>
