@@ -59,7 +59,7 @@ tutorials. This year, as always, we solicit your best work.
         <td>Workshop Submission Deadline</td>
       </tr>
       <tr>
-      <td colspan="2">March 21st, 2023</td>
+      <td colspan="2"><strike>March 21st, 2023</strike></td>
         <td>Workshop Acceptance Notification</td>
       </tr>
       <tr>

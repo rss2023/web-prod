@@ -4,6 +4,7 @@ title: Instructions for Conference Attendees
 description: 
 priority: 10
 invisible: true
+published: false
 ---
 
 <center><i>Thank you for joining the second virtual RSS!</i></center>

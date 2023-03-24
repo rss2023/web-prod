@@ -3,7 +3,8 @@ layout: page
 title: Accessibility
 description: Accessibility information.
 priority: 4
-invisible: false
+invisible: true
+published: false
 ---
 
 ## Mobility accessibility
