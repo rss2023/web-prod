@@ -4,6 +4,7 @@ title: Non-Conference Activities
 description: Fun Activities
 Priority: 3
 invisible: true
+published: false
 ---
 
 
