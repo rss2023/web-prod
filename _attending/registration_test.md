@@ -3,7 +3,8 @@ layout: page
 title: Registration
 description: Register for the conference.
 priority: 8
-invisible: True
+invisible: true
+published: false
 ---
 
 RSS 2020 will be held using a central virtual conference platform to

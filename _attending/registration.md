@@ -3,7 +3,8 @@ layout: page
 title: Registration
 description: Register for the conference.
 priority: 8
-invisible: false
+invisible: true
+published: false
 ---
 
 {% comment %}
