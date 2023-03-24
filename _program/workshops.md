@@ -3,35 +3,22 @@ layout: page
 title: Workshops
 description: Workshop times, venues, and details.
 days: ['Mon', 'Fri']
-invisible: true
-published: false
+# invisible: true
+# published: false
 ---
 
 
-
-Workshops will take place across two days of the conference on June 27 and July 1, 2022. 
-{% comment %}
-They are generally scheduled to take place between 7:00AM PST and 11:15PM PST (14:00-18:15 UCT), 
-and are recommended to have coffee breaks from 9:15-9:30AM and 11:15-11:30AM PST. 
-{% endcomment %}
-Each workshop is organized as a semi-independent event, and has a unique schedule reflecting the
-planned activities, constraints and preferences of the organizers.
-Please check the workshop websites for more details on their particular schedules.
-
-{% comment %}
-[Here]({{ site.baseurl }}/docs/campusmap.pdf) is a labeled map of the workshop buildings.
-{% endcomment %}
-
-
+Workshops will take place across two days of the conference on July 10 and July 14, 2023. Each workshop is organized as a semi-independent event, and has a unique schedule reflecting the planned activities, constraints and preferences of the organizers. Please check the workshop websites for more details on their particular schedules.
 {% for day in page.days %}
-
 <a name="{{ day }}"><span style="color:white; font-size:50px;">&nbsp;</span></a>
 {% if day == 'Mon' %}
-### Monday, June 27
-{% assign innerdays = "27th, 12-13, tbd" | split: ", " %}
+### Monday, July 10 
+#### (Full or half day)
+{% assign innerdays = "10th, 12-13, tbd" | split: ", " %}
 {% elsif day == 'Fri' %}
-### Friday, July 1
-{% assign innerdays = "1st, tbd" | split: ", " %}
+### Friday, July 14 
+#### (Half day)
+{% assign innerdays = "14th, tbd" | split: ", " %}
 {% endif %}
 
 <table class="table table-striped table-workshop" id="{{ day }}ID">
