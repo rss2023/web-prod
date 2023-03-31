@@ -9,4 +9,7 @@ All in-person attendees will have to adhere to the policies of the venue. Detail
 
 These guidelines are subject to change, based on the situation, local and federal guidelines, and venue policies.
 
+Official website for (COVID) restrictions to enter South Korea are updated 
+[here](https://cov19ent.kdca.go.kr/cpassportal/biz/beffatstmnt/main.do?lang=en).
+
 With the support of all of our community members, we can work to reduce the risk of exposure and infection, but we cannot eliminate it. All conference participants assume the risks associated with participation in the conference.
