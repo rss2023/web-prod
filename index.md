@@ -62,6 +62,9 @@ tutorials. This year, as always, we solicit your best work.
       <td colspan="2"><strike>March 21st, 2023</strike></td>
         <td>Workshop Acceptance Notification</td>
       </tr>
+      <td colspan="2">April 3rd &ndash; April 7th, 2023</td>
+        <td>Reviews Released and Rebuttal Invitations</td>
+      </tr>
       <tr>
         <td colspan="2">April 22th, 2023</td>
         <td>Paper and Demo Acceptance Notification</td>
