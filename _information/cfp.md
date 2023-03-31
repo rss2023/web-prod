@@ -35,6 +35,9 @@ This year the conference will include a new category of contributions in the for
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Supplementary Material Deadline</td>
       </tr>
+      <td colspan="2">April 3rd &ndash; April 7th, 2023</td>
+        <td>Reviews Released and Rebuttal Invitations</td>
+      </tr>
       <tr>
         <td colspan="2">April 22th, 2023</td>
         <td>Paper and Demo Acceptance Notification</td>
