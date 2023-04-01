@@ -61,7 +61,7 @@ Shuttle bus services between EXCO and Daegu Marriott Hotel will be arranged dail
       </tr>
       <tr>
         <td colspan="3">
-          Fill out the <a target="_blank" href="https://forms.gle/PNtzYzr34XYgmNRS6">reservation form</a> for RSS participants
+          Fill out the <a target="_blank" href="https://forms.gle/PNtzYzr34XYgmNRS6">reservation form</a> for RSS participants.
           <br>
           Contact: <a target="_blank" href="mailto:excofront@inter-burgo.com">excofront@inter-burgo.com</a>
         </td>
@@ -77,7 +77,7 @@ Shuttle bus services between EXCO and Daegu Marriott Hotel will be arranged dail
     <tbody>
       <tr>
         <td colspan="3"><h4><a target="_blank" href="https://www.marriott.com/hotels/travel/taemc-daegu-marriott-hotel/">Daegu Marriott Hotel</a></h4>
-        5-star Hotel that is 20mins by car or by shuttle bus service to the venue.</td>
+        5-star hotel that is 20mins by car or by shuttle bus service to the venue.</td>
       </tr>
       <tr>
         <td colspan="3">
