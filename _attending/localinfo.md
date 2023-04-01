@@ -36,7 +36,7 @@ RSS 2022 will take place in New York City, mainly hosted on Columbia Universityâ
 
 ## Accommodation
 
-RSS 2023 has appointed [Hotel Inter-Burgo EXCO](http://www.ibhotel.com/en/){:target="_blank"} and [Daegu Marriot Hotel](https://www.marriott.com/hotels/travel/taemc-daegu-marriott-hotel/){:target="_blank"} as our official hotels. Please click on the respective links below to submit your bookings.
+RSS 2023 has appointed [Hotel Inter-Burgo EXCO](http://www.ibhotel.com/en/){:target="_blank"} and [Daegu Marriot Hotel](https://www.marriott.com/hotels/travel/taemc-daegu-marriott-hotel/){:target="_blank"} as our official hotels. Please click on the respective links below to submit your bookings **by June 15**.
 
 Shuttle bus services between EXCO and Daegu Marriott Hotel will be arranged daily for all RSS 2023 attendees. The shuttle bus schedule will be announced later. 
 
@@ -61,7 +61,7 @@ Shuttle bus services between EXCO and Daegu Marriott Hotel will be arranged dail
       </tr>
       <tr>
         <td colspan="3">
-          <a target="_blank" href="https://forms.gle/PNtzYzr34XYgmNRS6">Reservation Form</a> for RSS Participants
+          Fill out the <a target="_blank" href="https://forms.gle/PNtzYzr34XYgmNRS6">reservation form</a> for RSS participants
           <br>
           Contact: <a target="_blank" href="mailto:excofront@inter-burgo.com">excofront@inter-burgo.com</a>
         </td>
@@ -91,7 +91,9 @@ Shuttle bus services between EXCO and Daegu Marriott Hotel will be arranged dail
       </tr>
       <tr>
         <td colspan="3">
-          Contact: Andy Lee, +82-10-7576-8871, <a target="_blank" href="mailto:andy.lee2@marriott.com">andy.lee2@marriott.com</a>
+          Download the <a target="_blank" href="{{ site.baseurl }}/docs/2023RSS-RoomReservationRequestForm.xlsx">reservation form</a> for RSS participants and mail to <a target="_blank" href="mailto:andy.lee2@marriott.com">andy.lee2@marriott.com</a>.
+          <br>
+          Contact: <a target="_blank" href="mailto:andy.lee2@marriott.com">Andy Lee</a>, +82-10-7576-8871 
         </td>
       </tr>
       <tr>
