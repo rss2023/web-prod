@@ -36,7 +36,7 @@ RSS 2022 will take place in New York City, mainly hosted on Columbia Universityâ
 
 ## Accommodation
 
-RSS 2023 has appointed [Hotel Inter-Burgo EXCO](http://www.ibhotel.com/en/){:target="_blank"} and [Daegu Marriot Hotel](https://www.marriott.com/hotels/travel/taemc-daegu-marriott-hotel/){:target="_blank"} as our official hotels. Please click on the respective links below to submit your bookings **by June 15**.
+RSS 2023 has appointed [Hotel Inter-Burgo EXCO](http://www.ibhotel.com/en/){:target="_blank"} and [Daegu Marriott Hotel](https://www.marriott.com/hotels/travel/taemc-daegu-marriott-hotel/){:target="_blank"} as our official hotels. Please click on the respective links below to submit your bookings **by June 15**.
 
 Shuttle bus services between EXCO and Daegu Marriott Hotel will be arranged daily for all RSS 2023 attendees. The shuttle bus schedule will be announced later. 
 
@@ -76,7 +76,7 @@ Shuttle bus services between EXCO and Daegu Marriott Hotel will be arranged dail
     </thead>
     <tbody>
       <tr>
-        <td colspan="3"><h4><a target="_blank" href="https://www.marriott.com/hotels/travel/taemc-daegu-marriott-hotel/">Daegu Marriot Hotel</a></h4>
+        <td colspan="3"><h4><a target="_blank" href="https://www.marriott.com/hotels/travel/taemc-daegu-marriott-hotel/">Daegu Marriott Hotel</a></h4>
         5-star Hotel that is 20mins by car or by shuttle bus service to the venue.</td>
       </tr>
       <tr>
