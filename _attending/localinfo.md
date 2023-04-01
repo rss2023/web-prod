@@ -19,8 +19,8 @@ RSS 2022 will take place in New York City, mainly hosted on Columbia Universityâ
 
 
 {:refdef: style="text-align: center;"}
-![Daegu Exhibition and Convention Center (EXCO)](/images/daegu_exco_1.jpg){:class="img-responsive venue"}
-![Daegu Exhibition and Convention Center (EXCO)](/images/daegu_exco_2.jpg){:class="img-responsive venue"}
+![Daegu Exhibition and Convention Center (EXCO)]({{ site.baseurl }}/images/daegu_exco_1.jpg){:class="img-responsive venue"}
+![Daegu Exhibition and Convention Center (EXCO)]({{ site.baseurl }}/images/daegu_exco_2.jpg){:class="img-responsive venue"}
 {: refdef}
 
 ## Visa Information 
