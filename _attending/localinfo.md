@@ -85,7 +85,7 @@ Shuttle bus services between EXCO and Daegu Marriott Hotel will be arranged dail
           <br>
           <ul>
           <li>Deluxe (King or Double) Sun-Fri: <b>231,000 KRW</b></li>
-          <li>Deluxe (King or Double) Sat: <b>308,000RW</b></li>
+          <li>Deluxe (King or Double) Sat: <b>308,000 KRW</b></li>
           </ul>
         </td>
       </tr>
