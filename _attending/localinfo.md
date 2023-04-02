@@ -3,8 +3,8 @@ layout: page
 title: Travel Information
 description: Travel information for our conference venue.
 priority: 10
-invisible: true
-published: false
+invisible: false
+published: true
 ---
 {% comment %}
 New York City is mainly served by three airports: JFK, EWR and LGA. JFK and EWR are at similar distances from Manhattan and Columbia’s campus (approximately 60 minutes by car, with various public transportation options also available). LGA is closer to Columbia (approximately 30 minutes by car) but is mainly a domestic airport with fewer flights available.
