@@ -140,7 +140,7 @@ We will update this space soon with steps to help you reserve accommodation in t
       </tr>
       <tr>
         <td colspan="3">
-          We will update this space soon with steps to reserve this.
+          Fill out the <a target="_blank" href="https://forms.gle/PNtzYzr34XYgmNRS6">reservation form</a> for RSS participants and you should receive reservation instructions from the hotel.
           <br>
           Contact: <a target="_blank" href="mailto:excofront@inter-burgo.com">excofront@inter-burgo.com</a>
         </td>
@@ -170,7 +170,7 @@ We will update this space soon with steps to help you reserve accommodation in t
       </tr>
       <tr>
         <td colspan="3">
-          We will update this space soon with steps to reserve this.
+          Download the <a target="_blank" href="{{ site.baseurl }}/docs/2023RSS-RoomReservationRequestForm.xlsx">reservation form</a> for RSS participants, mail to <a target="_blank" href="mailto:andy.lee2@marriott.com">andy.lee2@marriott.com</a>, and you should receive reservation instructions from the hotel.
           <br>
           Contact: <a target="_blank" href="mailto:andy.lee2@marriott.com">Andy Lee</a>, +82-10-7576-8871 
         </td>
