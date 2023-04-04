@@ -113,11 +113,9 @@ Here is an initial set of resources that will help you decide on your travel req
 
 ## Accommodation
 
-RSS 2023 has appointed [Hotel Inter-Burgo EXCO](http://www.ibhotel.com/en/){:target="_blank"} and [Daegu Marriott Hotel](https://www.marriott.com/hotels/travel/taemc-daegu-marriott-hotel/){:target="_blank"} as our official hotels.
+RSS 2023 has appointed [Hotel Inter-Burgo EXCO](http://www.ibhotel.com/en/){:target="_blank"} and [Daegu Marriott Hotel](https://www.marriott.com/hotels/travel/taemc-daegu-marriott-hotel/){:target="_blank"} as our official hotels. Please follow the corresponding reservation instructions for RSS participants **by June 15**.
 
 Shuttle bus services between EXCO and Daegu Marriott Hotel will be arranged daily for all RSS 2023 attendees. The shuttle bus schedule will be announced later. 
-
-We will update this space soon with steps to help you reserve accommodation in these hotels.
 
 
 <table class="table">
