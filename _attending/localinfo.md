@@ -124,14 +124,14 @@ Shuttle bus services between EXCO and Daegu Marriott Hotel will be arranged dail
     <tbody>
       <tr>
         <td colspan="3"><h4><a target="_blank" href="http://www.ibhotel.com/en/">Hotel Inter-Burgo EXCO</a></h4>
-          4-star hotel that is connected to the venue within walking distance or by shuttle bus service to the venue.</td>
+          4-star hotel that is connected to the venue within walking distance.</td>
       </tr>
       <tr>
         <td colspan="3">
           Room rates per night (10% VAT included. Breakfast not included.)
           <br>
           <ul>
-          <li>Standard (Double or Twin): <b>110,00 KRW</b></li>
+          <li>Standard (Double or Twin): <b>110,000 KRW</b></li>
           <li>Deluxe (Double or Twin): <b>150,000 KRW</b></li>
           </ul>
         </td>
