@@ -9,6 +9,10 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 
 ### News and Updates
 
+<div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
+ Reviews released and rebuttal invitations between April 3rd &ndash; April 8th, 2023 (<a href="https://time.is/Anywhere_on_Earth">AoE</a>).
+</div>
+
 * [Workshop]({{ site.baseurl }}/information/cfw/) acceptance notification available on March 21st.
 * Information for Authors is available [here]({{ site.baseurl }}/information/authorinfo/).
 * The list of Area Chairs has been announced [here]({{ site.baseurl }}/committees/pc/).
@@ -63,7 +67,7 @@ tutorials. This year, as always, we solicit your best work.
         <td>Workshop Acceptance Notification</td>
       </tr>
       <tr>
-        <td colspan="1">April 3rd &ndash; April 7th, 2023</td>
+        <td colspan="1">April 3rd &ndash; April 8th, 2023</td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Reviews Released and Rebuttal Invitations</td>
       </tr>
