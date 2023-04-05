@@ -76,6 +76,11 @@ tutorials. This year, as always, we solicit your best work.
         <td>Paper and Demo Acceptance Notification</td>
       </tr>
       <tr>
+        <td colspan="1">May 21st, 2023</td>
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td>Camera-ready Submission</td>
+      </tr>
+      <tr>
         <td colspan="2">July 10th &ndash; July 14th, 2023</td>
         <td>RSS 2023, Daegu, Republic of Korea</td>
       </tr>
