@@ -100,7 +100,7 @@ Shuttle bus services between EXCO and Daegu Marriott Hotel will be arranged dail
 
 ## Visa Information 
 
-Here is an initial set of resources that will help you decide on your travel requirements. We will update this space with further instructions regarding any possible need for visa invitation letters.
+Here is an initial set of resources that will help you decide on your travel requirements. If you need a visa invitation letter, you will have an option to request one during conference registration. Registration details will be updated on the website.
 
 * Check [here](https://english.visitkorea.or.kr/enu/TRV/TV_ENG_2_1.jsp){:target="_blank"} if your country of departure requires you to apply for a Visa or Korea Electronic Travel Authorization (K-ETA) to enter South Korea. 
 
