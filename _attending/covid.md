@@ -2,7 +2,7 @@
 layout: page
 title: Covid-19 Policies and Information
 description: Covid-19 Policies and Information
-Priority: 3
+priority: 9
 ---
 
 All in-person attendees will have to adhere to the policies of the venue. Details will be shared with attendees and on this page.
