@@ -9,11 +9,15 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 
 ### News and Updates
 
+
+{% comment %}
 <div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
  Reviews released and rebuttal invitations between April 3rd &ndash; April 8th, 2023 (<a href="https://time.is/Anywhere_on_Earth">AoE</a>).
 </div>
+{% endcomment %}
 
-* [Workshop]({{ site.baseurl }}/information/cfw/) acceptance notification available on March 21st.
+* [Inclusion@RSS]({{ site.baseurl }}/attending/inclusion/) Fellowship Applications open.
+* Travel Information is available [here]({{ site.baseurl }}/attending/localinfo/).
 * Information for Authors is available [here]({{ site.baseurl }}/information/authorinfo/).
 * The list of Area Chairs has been announced [here]({{ site.baseurl }}/committees/pc/).
 * Information about RSS Pioneers is available [here](https://sites.google.com/view/rsspioneers2023/){:target="_blank"}.
@@ -67,13 +71,18 @@ tutorials. This year, as always, we solicit your best work.
         <td>Workshop Acceptance Notification</td>
       </tr>
       <tr>
-        <td colspan="1">April 3rd &ndash; April 8th, 2023</td>
+        <td colspan="1"><strike>April 3rd &ndash; April 8th, 2023</strike></td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Reviews Released and Rebuttal Invitations</td>
       </tr>
       <tr>
         <td colspan="2">April 22th, 2023</td>
         <td>Paper and Demo Acceptance Notification</td>
+      </tr>
+      <tr>
+        <td>May 15th, 2023</td>
+        <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
+        <td><a href="https://sites.google.com/seas.upenn.edu/inclusion-rss-2023/apply" target="_blank">Inclusion@RSS Application</a> Deadline</td>
       </tr>
       <tr>
         <td colspan="1">May 21st, 2023</td>
