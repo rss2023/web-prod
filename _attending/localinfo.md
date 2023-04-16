@@ -17,7 +17,8 @@ published: true
 
 ## Visa Information 
 
-Here is an initial set of resources that will help you decide on your travel requirements. If you need a visa invitation letter, you will have an option to request one during conference registration. Registration details will be updated on the website.
+Here is an initial set of resources that will help you decide on your travel requirements.
+
 
 * Check [here](https://english.visitkorea.or.kr/enu/TRV/TV_ENG_2_1.jsp){:target="_blank"} if your country of departure requires you to apply for a Visa or Korea Electronic Travel Authorization (K-ETA) to enter South Korea. 
 
@@ -25,6 +26,11 @@ Here is an initial set of resources that will help you decide on your travel req
 
 * Official website for (COVID) restrictions to enter South Korea are updated 
 [here](https://cov19ent.kdca.go.kr/cpassportal/biz/beffatstmnt/main.do?lang=en){:target="_blank"}. 
+
+#### [Visa Invitation Letter](https://docs.google.com/forms/d/e/1FAIpQLSck0Dynlvs5gF1MDfrTbiSRqrHLRfmouP5w3pRx56TGbMSvIA/viewform)
+
+RSS attendees who are required to apply for a visa will first need to [register]({{ site.baseurl }}/attending/registration/). After registration, [this form](https://docs.google.com/forms/d/e/1FAIpQLSck0Dynlvs5gF1MDfrTbiSRqrHLRfmouP5w3pRx56TGbMSvIA/viewform) can be filled out using an RSS registration number.
+Please contact Shuodong Huang ([shoudong.huang@uts.edu.au](mailto:shoudong.huang@uts.edu.au)) if you encounter problems. 
 
 
 
