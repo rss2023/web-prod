@@ -18,9 +18,9 @@ The registration portal is hosted on PheedLoop at this link: **[site.pheedloop.c
       <tr>
         <!-- <th colspan="3">Registration costs in USD.</th> -->
         <th></th>
-        <th>Till May 7<br/>(in USD)</th>
-        <th>Till June 4<br/>(in USD)</th>
-        <th>Past June 5<br/>(in USD)</th>
+        <th>Early Rate<hr style="margin-top: 5px; margin-bottom: 5px;"/>Till May 7</th>
+        <th>Standard Rate<hr style="margin-top: 5px; margin-bottom: 5px;"/>May 8 - June 4</th>
+        <th>Late Rate<hr style="margin-top: 5px; margin-bottom: 5px;"/>Past June 5</th>
       </tr>
     </thead>
     <tbody>
@@ -58,19 +58,22 @@ The registration portal is hosted on PheedLoop at this link: **[site.pheedloop.c
       <td colspan="3"><b>Virtual</b></td>
     </tr> -->
     <tr>
-        <td>Virtual<br/>(main conference, workshop)</td>
+        <td>Virtual</td>
         <td>$30</td>
         <td>$45</td>
         <td>$50</td>
+    </tr>
+    <tr>
+      <td colspan="4"><small>*All registration rates are in USD.</small></td>
     </tr>
     </tbody>
 </table>
 
 
 
-Please contact Shuodong Huang ([shoudong.huang@uts.edu.au](mailto:shoudong.huang@uts.edu.au)) if you encounter problems. 
+Please contact the RSS 2023 Registration Chair, Prof. Shuodong Huang ([shoudong.huang@uts.edu.au](mailto:shoudong.huang@uts.edu.au)) if you encounter problems with the registration process. 
 
-RSS attendees who are required to apply for a visa will need to fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSck0Dynlvs5gF1MDfrTbiSRqrHLRfmouP5w3pRx56TGbMSvIA/viewform) after they register at RSS and have received an RSS registration number. Organizers will reach out to you with a signed invitation letter. Check the [travel information page]({{ site.baseurl }}/attending/localinfo/) for additional details. 
+RSS attendees who are required to apply for a visa will need to fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSck0Dynlvs5gF1MDfrTbiSRqrHLRfmouP5w3pRx56TGbMSvIA/viewform) after they register at RSS and have received an RSS registration number. Organizers will reach out to you with a signed invitation letter, which you can use to support your Korean visa application. Check the [travel information page]({{ site.baseurl }}/attending/localinfo/) for additional details. 
 
 
 
