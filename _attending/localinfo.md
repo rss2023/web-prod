@@ -30,7 +30,7 @@ Here is an initial set of resources that will help you decide on your travel req
 #### [Visa Invitation Letter](https://docs.google.com/forms/d/e/1FAIpQLSck0Dynlvs5gF1MDfrTbiSRqrHLRfmouP5w3pRx56TGbMSvIA/viewform)
 
 RSS attendees who are required to apply for a visa will first need to [register]({{ site.baseurl }}/attending/registration/). After registration, [this form](https://docs.google.com/forms/d/e/1FAIpQLSck0Dynlvs5gF1MDfrTbiSRqrHLRfmouP5w3pRx56TGbMSvIA/viewform) can be filled out using an RSS registration number.
-Please contact the RSS 2023 Registration Chair, Prof. Shuodong Huang at ([shoudong.huang@uts.edu.au](mailto:shoudong.huang@uts.edu.au)) if you encounter problems with the registration process. Organizers will reach out to you with a signed invitation letter, which you can use to support your Korean visa application.
+Please contact the RSS 2023 Registration Chair, Prof. Shoudong Huang at ([shoudong.huang@uts.edu.au](mailto:shoudong.huang@uts.edu.au)) if you encounter problems with the registration process. Organizers will reach out to you with a signed invitation letter, which you can use to support your Korean visa application.
 
 
 

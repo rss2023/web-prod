@@ -71,7 +71,7 @@ The registration portal is hosted on PheedLoop at this link: **[site.pheedloop.c
 
 
 
-Please contact the RSS 2023 Registration Chair, Prof. Shuodong Huang ([shoudong.huang@uts.edu.au](mailto:shoudong.huang@uts.edu.au)) if you encounter problems with the registration process. 
+Please contact the RSS 2023 Registration Chair, Prof. Shoudong Huang ([shoudong.huang@uts.edu.au](mailto:shoudong.huang@uts.edu.au)) if you encounter problems with the registration process. 
 
 RSS attendees who are required to apply for a visa will need to fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSck0Dynlvs5gF1MDfrTbiSRqrHLRfmouP5w3pRx56TGbMSvIA/viewform) after they register at RSS and have received an RSS registration number. Organizers will reach out to you with a signed invitation letter, which you can use to support your Korean visa application. Check the [travel information page]({{ site.baseurl }}/attending/localinfo/) for additional details. 
 
