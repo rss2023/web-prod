@@ -16,6 +16,10 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 </div>
 {% endcomment %}
 
+<div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
+ The registration portal is now open. <b><a href="https://site.pheedloop.com/event/RSS2023/home/" target="_blank">Register here.</a></b>
+</div>
+
 * [Inclusion@RSS]({{ site.baseurl }}/attending/inclusion/) Fellowship Applications open.
 * Travel Information is available [here]({{ site.baseurl }}/attending/localinfo/).
 * Information for Authors is available [here]({{ site.baseurl }}/information/authorinfo/).
