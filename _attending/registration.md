@@ -8,7 +8,7 @@ published: true
 ---
 
 <div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
- The registration portal is now open. <b><a href="https://site.pheedloop.com/event/RSS2023/home/" target="_blank">Register here.</a></b>
+ Click <b><a href="https://site.pheedloop.com/event/RSS2023/home/" target="_blank">here</a> to register.</b>
 </div>
 
 The registration portal is hosted on PheedLoop at this link: **[site.pheedloop.com/event/RSS2023](https://site.pheedloop.com/event/RSS2023/home/)**.
