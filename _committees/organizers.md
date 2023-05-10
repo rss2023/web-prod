@@ -65,8 +65,8 @@ description: Organizing team.
             <table style="margin-left:auto;margin-right:auto;">
             <tr>
                   <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href="https://animesh.garg.tech/">Animesh Garg</a><br>
-                        <i>University of Toronto, Canada</i><br>
+                        <a target="_blank" href="https://www.colorado.edu/cs/bradley-hayes">Bradley Hayes</a><br>
+                        <i>University of Colorado Boulder, USA</i><br>
                   </td>
                   <td style="width:45px;"></td>
                   <td style="width:200px;vertical-align:top;">
