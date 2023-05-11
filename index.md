@@ -80,7 +80,7 @@ tutorials. This year, as always, we solicit your best work.
         <td>Reviews Released and Rebuttal Invitations</td>
       </tr>
       <tr>
-        <td colspan="2">April 22th, 2023</td>
+        <td colspan="2"><strike>April 22th, 2023</strike></td>
         <td>Paper and Demo Acceptance Notification</td>
       </tr>
       <tr>
