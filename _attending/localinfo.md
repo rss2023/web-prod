@@ -154,3 +154,31 @@ It is recommended that you take a taxi to EXCO. You will find a taxi stop in fro
 
 </tbody>
 </table>
+
+
+
+<div class="venue-carousel"> 
+     <div class="carousel">
+          <img src="{{ site.baseurl }}/images/daegu_1.jpg" alt="Daegu Lantern Festival">
+          <div class="caption">Daegu Lantern Festival</div>
+     </div>
+     <div class="carousel">
+          <img src="{{ site.baseurl }}/images/daegu_2.jpg" alt="Donghwasa Temple">
+          <div class="caption">Donghwasa Temple</div>
+     </div>
+     <div class="carousel">
+          <img src="{{ site.baseurl }}/images/daegu_3.jpg" alt="Hajungdo Island">
+          <div class="caption">Hajungdo Island</div>
+     </div>
+     <div class="carousel">
+          <img src="{{ site.baseurl }}/images/daegu_4.jpg" alt="Nampyeong Moon Clan Residence">
+          <div class="caption">Nampyeong Moon Clan Residence</div>
+     </div>
+     <div class="carousel">
+          <img src="{{ site.baseurl }}/images/daegu_5.jpg" alt="Yeongnam Jeilgwan Gate">
+          <div class="caption">Yeongnam Jeilgwan Gate</div>
+     </div>    
+     <div>
+          <img style="width: 100%;" src="{{ site.baseurl }}/images/carousel-back.png">
+     </div> 
+</div>
