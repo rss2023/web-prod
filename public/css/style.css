@@ -221,7 +221,7 @@ padding-inline-start: 1.2em;
   position: relative;
   width: 100%;
   display: block;
-  margin-top: 40px;
+/*  margin-top: 40px;*/
 }
 
 .venue-carousel > .carousel {
