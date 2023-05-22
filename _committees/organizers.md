@@ -138,21 +138,8 @@ description: Organizing team.
             </table>
       <br>
       <b>Accessibility Committee</b><br>
-            <table style="margin-left:auto;margin-right:auto;">
-            <tr>
-                  <td style="width:200px;vertical-align:top;">
-                        <a target="_blank" href="https://hyeminahn.oopy.io/">Hyemin Ahn</a><br>
-                        <i>Ulsan National Institute of Science and Technology, Republic of Korea</i><br>
-                  </td>
-                  <td style="width:45px;"></td>
-                  <td style="width:200px;vertical-align:top;">   
-                        <a target="_blank" href="https://sites.google.com/site/tapomayukh">Tapomayukh Bhattacharjee</a><br>
-                        <i>Cornell University, USA</i><br>
-                  </td>
-            </tr>
-            </table>
-            <a target="_blank" href="https://eshort.github.io/">Elaine Short</a><br>
-            <i>Tufts University, USA</i><br>
+            <a target="_blank" href="https://hyeminahn.oopy.io/">Hyemin Ahn</a><br>
+            <i>Ulsan National Institute of Science and Technology, Republic of Korea</i><br>
       <br>
     </div>
 
