@@ -21,7 +21,7 @@ To learn more about [Inclusion@RSS](https://sites.google.com/seas.upenn.edu/incl
     </thead>
     <tbody>
       <tr>
-        <td>May 15th, 2023</td>
+        <td><strike>May 15th, 2023</strike></td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td><a href="https://sites.google.com/seas.upenn.edu/inclusion-rss-2023/apply" target="_blank">Inclusion@RSS Application</a> Deadline</td>
       </tr>
