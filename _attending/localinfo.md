@@ -153,13 +153,19 @@ For those who arrive at Incheon International Airport (ICN) which is a major int
 <b>Domestic Flight From Incheon:</b> When booking an international flight, please make sure that you can also book a domestic flight from Incheon to Daegu.
 For more information, please visit the <a target="_blank" href="https://www.koreanair.com/kr/en/booking/transfer/domestic-transit">Korean Air website</a>.
 
+
+<br/>
+<b>Intercity (Nonstop) Bus from Incheon:</b>
+We recommend taking the premium intercity (nonstop) bus to Dongdaegu, as it runs 30 times a day. For more information, please visit the following <a href="https://www.airport.kr/ap/en/tpt/busRouteList.do">website</a> (Click Gyeongsang to East Daegu).
+
+You can purchase your bus ticket directly at the airport or book your tickets in advance via the following <a href="https://www.bustago.or.kr/newweb/en/ticket/ticket.do">website</a>.
+
 <br/>
 <b>Train From Incheon:</b>
-It is recommended to take an Airport Railroad Express (AREX, not a normal train) from Incheon airport (INC) to Seoul Station and then transfer to KTX (Korea Express Train) for your second trip to Dongdaegu Station.
+You can take an Airport Railroad Express (AREX, not a normal train) from Incheon airport (INC) to Seoul Station and then transfer to KTX (Korea Express Train) for your second trip to Dongdaegu Station.
 If you would like to book your tickets, visit the <a target="_blank" href="https://www.arex.or.kr/main.do">AREX</a> or <a target="_blank" href="https://www.letskorail.com/ebizbf/EbizbfForeign_pr16100.do?gubun=1">KTX</a> website.
+
 </td></tr>
-
-
 
 
 <tr><td>
