@@ -17,10 +17,11 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 {% endcomment %}
 
 <div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
- Registration portal is open. More information <b><a href="{{ site.baseurl }}/attending/registration/">here.</a></b>
+ Presenter instructions updated <b><a href="{{ site.baseurl }}/information/presenters/">here.</a></b>
 </div>
 
-* [Inclusion@RSS]({{ site.baseurl }}/attending/inclusion/) Fellowship Applications open.
+
+* Registration portal is open [here]({{ site.baseurl }}/attending/registration/).
 * Travel Information is available [here]({{ site.baseurl }}/attending/localinfo/).
 * Information for Authors is available [here]({{ site.baseurl }}/information/authorinfo/).
 * The list of Area Chairs has been announced [here]({{ site.baseurl }}/committees/pc/).
