@@ -16,11 +16,7 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 </div>
 {% endcomment %}
 
-<div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
- Presenter instructions updated <b><a href="{{ site.baseurl }}/information/presenters/">here.</a></b>
-</div>
-
-
+* Presenter instructions updated [here]({{ site.baseurl }}/information/presenters/).
 * Registration portal is open [here]({{ site.baseurl }}/attending/registration/).
 * Travel Information is available [here]({{ site.baseurl }}/attending/localinfo/).
 * Information for Authors is available [here]({{ site.baseurl }}/information/authorinfo/).
