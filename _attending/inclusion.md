@@ -26,7 +26,7 @@ To learn more about [Inclusion@RSS](https://sites.google.com/seas.upenn.edu/incl
         <td><a href="https://sites.google.com/seas.upenn.edu/inclusion-rss-2023/apply" target="_blank">Inclusion@RSS Application</a> Deadline</td>
       </tr>
       <tr>
-        <td colspan="2">June 1st, 2023</td>
+        <td colspan="2">June 5th, 2023</td>
         <td>Notification of Acceptance</td>
       </tr>
     </tbody>
