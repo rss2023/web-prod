@@ -256,3 +256,27 @@ padding-inline-start: 1.2em;
 .venue-carousel > .carousel:nth-child(5) {
   animation-delay: 16s;
 }
+
+.flex-container {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
+.flex-container > img {
+    padding: 5px;
+    vertical-align: bottom;
+}
+
+.sponsor-row1 > img {
+    max-width: 32%;
+    min-width: 150px;
+}
+.sponsor-row2 > img {
+    max-width: 19%;
+    min-width: 120px;
+}
+.sponsor-row3 > img {
+    max-width: 29%;
+    min-width: 140px;
+}
