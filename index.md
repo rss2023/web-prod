@@ -111,22 +111,21 @@ The organizers welcome you to the vibrant venue of RSS 2023 - the [Daegu Exhibit
 ### Sponsors
 
 <div class="sponsor-row1 flex-container">
-  <img alt="Amazon Robotics" src="/images/sponsors/amazon-robotics.png">
-  <img alt="Toyota Research Institute" src="/images/sponsors/tri.png">
-  <img alt="XYZ Robotics" src="/images/sponsors/xyz-robotics.png">
+  <img alt="Amazon Robotics" src="{{ site.baseurl }}/images/sponsors/amazon-robotics.png">
+  <img alt="Toyota Research Institute" src="{{ site.baseurl }}/images/sponsors/tri.png">
+  <img alt="XYZ Robotics" src="{{ site.baseurl }}/images/sponsors/xyz-robotics.png">
 </div>
 <div class="sponsor-row2 flex-container">
-  <img alt="Angel Robotics" src="/images/sponsors/angel-robotics.png">
-  <img alt="Nearthlab" src="/images/sponsors/nearthlab.png">
-  <img alt="Pablo Air" src="/images/sponsors/pablo-air.png">
-  <img alt="Rainbow Robotics" src="/images/sponsors/rainbow-robotics.png">
-  <img alt="T-Robotics" src="/images/sponsors/t-robotics.png">
+  <img alt="Angel Robotics" src="{{ site.baseurl }}/images/sponsors/angel-robotics.png">
+  <img alt="Nearthlab" src="{{ site.baseurl }}/images/sponsors/nearthlab.png">
+  <img alt="Pablo Air" src="{{ site.baseurl }}/images/sponsors/pablo-air.png">
+  <img alt="Rainbow Robotics" src="{{ site.baseurl }}/images/sponsors/rainbow-robotics.png">
+  <img alt="T-Robotics" src="{{ site.baseurl }}/images/sponsors/t-robotics.png">
 </div>
 <div class="sponsor-row3 flex-container">
-  <img alt="Daegu Convention and Visitor Center" src="/images/sponsors/daegu-cvb.png">
-  <img alt="Korea Tourism Organization" style="width: 20%; min-width: 100px;" src="/images/sponsors/kto.png">
+  <img alt="Daegu Convention and Visitor Center" src="{{ site.baseurl }}/images/sponsors/daegu-cvb.png">
+  <img alt="Korea Tourism Organization" style="width: 20%; min-width: 100px;" src="{{ site.baseurl }}/images/sponsors/kto.png">
 </div>
-
 
 <br/>
 The website of the RSS 2022 conference can be found [here]({{ site.baseurl }}/2022/).
