@@ -86,7 +86,7 @@ tutorials. This year, as always, we solicit your best work.
         <td><a href="https://sites.google.com/seas.upenn.edu/inclusion-rss-2023/apply" target="_blank">Inclusion@RSS Application</a> Deadline</td>
       </tr>
       <tr>
-        <td colspan="1">May 28th, 2023</td>
+        <td colspan="1"><strike>May 28th, 2023</strike></td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Camera-ready Submission</td>
       </tr>

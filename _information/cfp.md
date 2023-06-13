@@ -45,7 +45,7 @@ This year the conference will include a new category of contributions in the for
         <td>Paper and Demo Acceptance Notification</td>
       </tr>
       <tr>
-        <td colspan="1">May 28th, 2023</td>
+        <td colspan="1"><strike>May 28th, 2023</strike></td>
         <td>11:59pm <a href="https://time.is/Anywhere_on_Earth">AoE</a></td>
         <td>Camera-ready Submission</td>
       </tr>

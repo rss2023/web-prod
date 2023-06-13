@@ -280,3 +280,122 @@ padding-inline-start: 1.2em;
     max-width: 29%;
     min-width: 140px;
 }
+
+.paper-menu{
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.paper-menu img{
+    width: 30%;
+    max-width: 75px;
+    diplay: flex;
+}
+
+.paper-menu a{
+    text-align: center;
+}
+
+.paper-menu a:hover{
+    opacity: .6;
+}
+
+.paper-session{
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.paper-pdf{
+    justify-content: center;
+    text-align: center;
+    font-size: x-small;
+    margin-top: 20px;
+}
+
+.paper-pdf:hover{
+    opacity: .6;
+}
+
+.paper-authors{
+    justify-content: center;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.paper-author-box{
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+}
+
+.paper-author-name{
+    font-size: large;
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+
+.paper-author-uni{
+    font-size: smaller;
+    color: grey;
+    font-weight: lighter;
+    justify-content: center;
+    text-align: center;
+    font-style: italic;
+    margin-top: -3px;
+}
+
+
+.talk{
+    display: block;
+    width: 100%;
+    float: left;
+    margin-top: -20px;
+    margin-bottom: 10px;
+}
+
+.talk-title{
+    color: #428bca;
+    text-align: left;
+}
+
+.talk-profile{
+    display: inline-block;
+    float: left;
+    width: 25%;
+    min-width: 150px;
+    padding-right: 10px;
+    padding-top: 20px;
+    margin-left: 1px;
+}
+
+.talk-profile img{
+    width: 100%;
+    border-radius: 5px;
+}
+
+.talk-speaker{
+    display: inline-block;
+    float: left;
+    min-width: min(100%,350px);
+}
+
+.talk-speaker h4
+{
+    margin-top: -5px;
+    color: var(--gen-light-gray);
+}
+
+.talk-speaker h3
+{
+    margin-bottom: 10px;
+}
