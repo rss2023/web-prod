@@ -3,8 +3,9 @@ layout: page
 title: Workshops
 description: Workshop times, venues, and details.
 days: ['Mon', 'Fri']
-# invisible: true
-# published: false
+priority: 9
+invisible: false
+published: true
 ---
 
 
