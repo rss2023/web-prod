@@ -2,6 +2,7 @@
 layout: page
 title: Accepted Papers
 description: Accepted papers.
+priority: 10
 invisible: true
 published: false
 ---

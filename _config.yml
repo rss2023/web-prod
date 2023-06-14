@@ -41,7 +41,7 @@ collections:
     program:
        output: true
        permalink: /program/:path/
-       priority: 5
+       priority: 2
     committees:
        output: true
        permalink: /committees/:path/

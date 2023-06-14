@@ -1,143 +1,51 @@
 ---
 layout: page
-title: Early Career Talks
+title: Early Career Spotlight
 description: Early Career Talks, with title, abstract and speaker bios.
 priority: 7
-invisible: true
-published: false
+invisible: false
+published: true
 ---
 
 
-RSS'21 will have two early career plenary talks.
+<div class="talk">
+  <div class="talk-profile">
+    <img src="{{site.baseurl}}/images/ec_spotlight_2.jpg"/>
+  </div>
+  <div class="talk-speaker">
+    <h3>Harold Soh</h3>
+    <h4>Assistant Professor</h4>
+    <h4>Department of Computer Science</h4>
+    <h4>National University of Singapore (NUS)</h4>
+  </div>
+</div>
 
-<table class="table" style="margin-top: 40px;">
+## Towards Seamless Physical and Social Human-Robot Interaction
+{: class="talk-title"}
 
-<tr>
-<td width = "50%" style="valign:top;">
-<table>
-<tr>
-<th>
-    <span style="color:#aaaaaa;">Early Career Talk One:</span>
-</th>
-</tr>
-<tr>
-<th style="padding-top: 5px; padding-left: 10px; padding-bottom: 17px; height:40px;">
-</th>
-</tr>
-<tr>
-<th style="text-align:center;">
-    <img style="padding-bottom:15px;" src="{{ site.baseurl }}/images/haewon.jpg"  width="189"/>
-	<br/>
-    <span style="font-size: 18px;"><a href="https://www.dynamicrobot.kaist.ac.kr/">Hae-Won Park</a></span>
-	<br/>
+**Abstract:** We live in an exciting time; we now have agile quadrupeds, low-cost drones, and chatty bots. Even five years ago, it was unclear that these technologies would be so widespread. Nevertheless, gaps remain in bringing autonomous robots fully into human-populated environments. In particular, interacting fluently and safely with people is crucial, but remains difficult. My group works on physical and social skills for effective human-robot interaction. In this talk, I will highlight our recent research on tactile perception for robust physical interactions with objects and people in real-world environments. I will also discuss advances on the social side, where we have developed human models for communication and interaction. Here, I will emphasize the need to capitalize on prior knowledge and the robot's existing models. Finally, I will discuss sampling and optimization techniques that merge both physical and social considerations. Over the course of this talk, I hope to convince you that both physical and social skills need to be cohesively integrated for effective human-robot interaction.
 
-    <table style="margin-top:5px;" width="100%">
-    <tr>
-    <td><img style="padding-top:10px; padding-right:1px;" src="{{ site.baseurl }}/images/kaist_logo.png" height="75"/></td>
-    <td valign="top" style="text-align:left; font-weight:normal;"><i>Assistant Professor,<br><a href="https://me.kaist.ac.kr/eng/main/main.html">Mechanical Engineering</a>,<br><a href="https://www.kaist.ac.kr/en/">Korea Advanced Institute of Science and Technology</a></i></td>
-    </tr>
-    <tr><td colspan="2" style="font-size:18px; padding-top:18px;">Tuesday, July 13</td></tr>
-    </table>
-</th>
-</tr>
-<tr>
-<tr><td>
-<style>
-#yt-playlist {
-  font-size: 16px;
-  color: #000000;
-  border: solid #ddd 1px;
-  margin: 12px;
-}
+**Bio:** Harold Soh is an Assistant Professor in the Department of Computer Science at the National University of Singapore (NUS), where he leads the Collaborative Learning and Adaptive Robots (CLeAR) lab. Harold received a Ph.D. from Imperial College London for his work on online learning for assistive robots. His current research aims to develop trustworthy robots that interact with people. He is primarily interested in collaborative tasks that require both physical and social human-robot interaction (HRI). With his research group, he has developed award-winning tactile perception systems and human models that can enable fluent HRI. He is an active member of the HRI community and has served on the IEEE/ACM HRI conference organizing and program committees, as well as on the PCs of the main AI/ML and Robotics conferences. He will serve as co-Program Chair of HRI'24. When not at the lab, Harold can usually be found reading science fiction or with his wife and two small children in one of Singapore's many parks. 
 
-#yt-playlist td {
-  padding: 12px;
-  }
-</style>
+<br/>
+<hr>
+<br/>
 
-<table id="yt-playlist"><tr><td><a href="https://youtu.be/o4fHZYJnE3A">YouTube</a></td></tr></table>
+<div class="talk">
+  <div class="talk-profile">
+    <img src="{{site.baseurl}}/images/ec_spotlight_1.jpg"/>
+  </div>
+  <div class="talk-speaker">
+    <h3>Michael Posa</h3>
+    <h4>Assistant Professor</h4>
+    <h4>Mechanical Engineering and Applied Mechanics</h4>
+    <h4>University of Pennsylvania</h4>
+  </div>
+</div>
 
-<style>
-#slides {
-  font-size: 16px;
-  color: #000000;
-  border: solid #ddd 1px;
-  margin: 12px;
-}
+## The Structure of Touch: Low-Data Learning and Control
+{: class="talk-title"}
 
-#slides td {
-  padding: 12px;
-  }
-</style>
+**Abstract:** Machine learning has shown incredible promise in robotics, with some notable recent demonstrations in manipulation and sim-to-real transfer. These results, however, require either simulating an accurate model or a large amount of data. For robots to deploy to our homes and workplaces, they will inevitably encounter new objects, tasks, and environments. How will they adapt to this novelty, given only few minutes to gather information and accomplish some complex task? I will first argue that the hybrid or contact-driven aspects of manipulation clashes with the inductive biases inherent in standard learning methods, driving the current need for large data. I will then show how contact-inspired implicit learning, embedding convex optimization, can reshape the loss landscape and enable more accurate training, better generalization, and ultimately data efficiency. Finally, I will present our latest results on how these learned models can be deployed via real-time multi-contact MPC for robotic manipulation.
 
-<table id="slides"><tr><td><a href="../slides/EC_haewon.pdf">Talk Slides</a></td></tr></table>
-</td></tr>
-</tr>
-</table>
-</td>
-<td>&nbsp;</td>
-<td width = "45%" style="valign:top;">
-<table>
-<tr>
-<th>
-    <span style="color:#aaaaaa;">Early Career Talk Two:</span>
-</th>
-</tr>
-<tr>
-<th style="padding-top: 5px; padding-left: 10px; padding-bottom: 17px; height:40px;">
-</th>
-</tr>
-<tr>
-<th style="text-align:center;">
-    <img style="padding-bottom:15px;" src="{{ site.baseurl }}/images/jana.jpg" width="190"/>
-	<br/>
-    <span style="font-size: 18px;"><a href="https://people.kth.se/~tumova/home.html">Jana Tumova</a></span>
-	<br/>
-
-    <table style="margin-top:5px;" width="100%">
-    <tr>
-    <td><img style="padding-top:10px; padding-right:1px;" src="{{ site.baseurl }}/images/kth_logo.png" height="75"/></td>
-    <td valign="top" style="text-align:left; font-weight:normal;"><i>Associate Professor,<br><a href="https://www.kth.se/en/csc">School of Computer Science and Communication</a>,<br><a href="https://www.kth.se/">KTH Royal Institute of Technology</a></i></td>
-    </tr>
-    <tr><td colspan="2" style="font-size:18px; padding-top:18px;">Thursday, July 15</td></tr>
-    </table>
-</th>
-</tr>
-<tr>
-<tr><td>
-<style>
-#yt-playlist {
-  font-size: 16px;
-  color: #000000;
-  border: solid #ddd 1px;
-  margin: 12px;
-}
-
-#yt-playlist td {
-  padding: 12px;
-  }
-</style>
-
-<table id="yt-playlist"><tr><td><a href="https://youtu.be/xPwWmE6R93A">YouTube</a></td></tr></table>
-
-<style>
-#slides {
-  font-size: 16px;
-  color: #000000;
-  border: solid #ddd 1px;
-  margin: 12px;
-}
-
-#slides td {
-  padding: 12px;
-  }
-</style>
-
-<table id="slides"><tr><td><a href="../slides/EC_tumova.pdf">Talk Slides</a></td></tr></table>
-</td></tr>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
+**Bio:** Michael Posa is an Assistant Professor in Mechanical Engineering and Applied Mechanics at the University of Pennsylvania. He leads the Dynamic Autonomy and Intelligent Robotics (DAIR) lab, a group within the Penn GRASP laboratory.  His group focuses on developing computationally tractable algorithms to enable robots to operate both dynamically and safely as they interact with their environments. Michael received his Ph.D. in Electrical Engineering and Computer Science from MIT in 2017, where, among his other research, he spent time on the MIT DARPA Robotics Challenge team. He received his B.S. in Mechanical Engineering from Stanford University in 2007. Before his doctoral studies, he worked as an engineer at Vecna Robotics. He has received the Best Paper award at HSCC and been finalist awards at TRO, ICRA, and IEEE Humanoids. He received the NSF CAREER Award in 2023, a Google Faculty Research Award in 2019, and the Young Faculty Researcher Award from the Toyota Research Institute in 2021.
