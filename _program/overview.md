@@ -9,7 +9,7 @@ published: true
 
 
 
-<p>This schedule makes it easy to find sesssion information, technical content, and events. The detailed main conference schedule is available <a href="{{ site.baseurl }}/images/RSS_Schedule.pdf"><strong>[here]</strong></a>.<br></p>
+<p>This schedule makes it easy to find sesssion information, technical content, and events. A pdf copy of the program overview is available <a href="{{ site.baseurl }}/images/RSS_Schedule.pdf"><strong>[here]</strong></a>.<br></p>
 
 <div id="zoom-small-content" style="display: block; width: 100%;">
        <img src="{{site.baseurl}}/images/rss-program-overview.png" alt="Program Overview" width="100%">
