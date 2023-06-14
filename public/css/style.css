@@ -319,7 +319,7 @@ padding-inline-start: 1.2em;
     margin-top: 20px;
 }
 
-.paper-pdf:hover{
+.paper-pdf a:hover{
     opacity: .6;
 }
 
@@ -393,9 +393,11 @@ padding-inline-start: 1.2em;
 {
     margin-top: -5px;
     color: var(--gen-light-gray);
+    text-align: left;
 }
 
 .talk-speaker h3
 {
     margin-bottom: 10px;
+    text-align: left;
 }

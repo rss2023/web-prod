@@ -12,6 +12,19 @@ import os
 import shutil
 
 def main():
+    # paperIDName = "CMT ID"
+    # paperTitleName = "Paper Title"
+    # authorNamesName = "Author Names"
+    # abstractName = "Abstract"
+    # supplementaryName = "Supplementary"
+    # notesName = "Notes"
+    paperIDName = "CMTID"
+    paperTitleName = "PaperTitle"
+    authorNamesName = "AuthorNames"
+    abstractName = "Abstract"
+    supplementaryName = "Supplementary"
+    notesName = "Notes"
+
     parser = argparse.ArgumentParser()
     parser.add_argument('csv_program', help='Path to program with group assigments')
     parser.add_argument('outdir', help='Directory for output paper pages')
@@ -31,7 +44,7 @@ def main():
 
         for row in reader:
 
-          paperID = row['PaperID3']
+          paperID = row[paperIDName]
           filename = os.path.join(args.outdir, paperID + ".md")
 
           g = open(filename, 'w')
@@ -41,12 +54,13 @@ def main():
 layout: paper
 title: "{}"
 invisible: true
----\n'''.format(row["PaperTitle"])
+---\n'''.format(row[paperTitleName])
 
           g.write(header)
 
 
-          authors = row["AuthorNames"].replace('*', '').split(',')
+          # authors = row[authorNamesName].replace('*', '').split(',')
+          authors = row[authorNamesName].replace('*', '').split(';')
 
           g.write('''<div class="paper-authors">\n''')
           for author in authors:
@@ -71,27 +85,34 @@ invisible: true
           paperIconString = '''<div class="paper-pdf">
 <div> <a href="http://www.roboticsproceedings.org/rss18/p{}.pdf"><img src="{{{{ site.baseurl }}}}/images/paper_link.png" alt="Paper Website" width = "33"  height = "40"/></a> </div>
 <div> <a href="http://www.roboticsproceedings.org/rss18/p{}.pdf">Paper&nbsp;#{}</a> </div>
-</div>\n\n'''.format(row['PaperID3'],row['PaperID3'],row['PaperID3'])
+</div>\n\n'''.format(row[paperIDName],row[paperIDName],row[paperIDName])
           g.write(paperIconString)
 
           # Write paper session
-          sessionString = '''<div class="paper-session">Session {}</div>\n\n\n'''.format(row['Session'])
-          g.write(sessionString)
-          g.write("\n\n\n")
+          session = row[notesName].split(";")[0]
+          sessionString = '''<div class="paper-session">Session: {}</div>\n\n\n'''.format(session)
+          g.write("### Session: "+session+"\n{: style=\"text-align: center;\"}\n\n")
+          if row[notesName].split(";")[1] != "":
+            g.write("### "+row[notesName].split(";")[1]+"\n{: style=\"margin-top: 10px; color: #428bca; text-align: center;\"}\n\n")
+          if row[notesName].split(";")[2] != "":
+            g.write("### Nominated for "+row[notesName].split(";")[2]+" Paper\n{: style=\"margin-top: 10px; color: #428bca; text-align: center;\"}\n\n")
           g.write('<b style="color: black;">Abstract: </b>')
-          g.write(row['Abstract']+'\n')
+          g.write(row[abstractName]+'\n')
           g.write('''{: style="color:gray; font-size: 120%; text-align: justified;"}\n\n\n''')
 
           # Write link to supplementary materials (optional)
-          if len(row['Supplementary']) > 0:
-              g.write('### Links\n')
-              g.write('- [Supplementary materials](%s)\n\n' % row['Supplementary'])
+          try:
+              if len(row[supplementaryName]) > 0:
+                  g.write('### Links\n')
+                  g.write('- [Supplementary materials](%s)\n\n' % row[supplementaryName])
+          except:
+            pass
 
           # Write navigation bars
           g.write('''<div class="paper-menu">\n''')
 
           # Write previous button
-          paperID = int(row['PaperID'])
+          paperID = int(row[paperIDName])
           if paperID == 1:
             g.write('''<img src="{{ site.baseurl }}/images/blank_icon.png" alt="End of Program" title="End of Program"/>\n''')
           else:

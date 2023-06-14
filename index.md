@@ -16,10 +16,12 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 </div>
 {% endcomment %}
 
-* Presenter instructions updated [here]({{ site.baseurl }}/information/presenters/).
+* Keynote Talks announced [here]({{ site.baseurl }}/program/keynote/).
+* Early Career Spotlights announced [here]({{ site.baseurl }}/program/earlycareer/).
+* Program Overview is available [here]({{ site.baseurl }}/program/overview/).
+* Presenter Instructions updated [here]({{ site.baseurl }}/information/presenters/).
 * Registration portal is open [here]({{ site.baseurl }}/attending/registration/).
 * Travel Information is available [here]({{ site.baseurl }}/attending/localinfo/).
-* Information for Authors is available [here]({{ site.baseurl }}/information/authorinfo/).
 * The list of Area Chairs has been announced [here]({{ site.baseurl }}/committees/pc/).
 * Information about RSS Pioneers is available [here](https://sites.google.com/view/rsspioneers2023/){:target="_blank"}.
 
@@ -108,6 +110,8 @@ The organizers welcome you to the vibrant venue of RSS 2023 - the [Daegu Exhibit
 
 <br/>
 
+{% comment %}
+
 ### Sponsors
 
 <div class="sponsor-row1 flex-container">
@@ -126,6 +130,8 @@ The organizers welcome you to the vibrant venue of RSS 2023 - the [Daegu Exhibit
   <img alt="Daegu Convention and Visitor Center" src="{{ site.baseurl }}/images/sponsors/daegu-cvb.png">
   <img alt="Korea Tourism Organization" style="width: 20%; min-width: 100px;" src="{{ site.baseurl }}/images/sponsors/kto.png">
 </div>
+{% endcomment %}
+
 
 <br/>
 <br/>
