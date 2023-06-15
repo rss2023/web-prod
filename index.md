@@ -110,7 +110,6 @@ The organizers welcome you to the vibrant venue of RSS 2023 - the [Daegu Exhibit
 
 <br/>
 
-{% comment %}
 
 ### Sponsors
 
@@ -130,6 +129,9 @@ The organizers welcome you to the vibrant venue of RSS 2023 - the [Daegu Exhibit
   <img alt="Daegu Convention and Visitor Center" src="{{ site.baseurl }}/images/sponsors/daegu-cvb.png">
   <img alt="Korea Tourism Organization" style="width: 20%; min-width: 100px;" src="{{ site.baseurl }}/images/sponsors/kto.png">
 </div>
+
+
+{% comment %}
 {% endcomment %}
 
 
