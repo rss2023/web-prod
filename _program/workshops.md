@@ -11,7 +11,7 @@ published: true
 
 Workshops will take place across two days of the conference on July 10 and July 14, 2023. Each workshop is organized as a semi-independent event, and has a unique schedule reflecting the planned activities, constraints and preferences of the organizers. Please check the workshop websites for more details on their particular schedules.
 {% for day in page.days %}
-<a name="{{ day }}"><span style="color:white; font-size:50px;">&nbsp;</span></a>
+<div style="display: block; width: 100%; height: 20px;"></div>
 {% if day == 'Mon' %}
 ### Monday, July 10 
 #### (Full or half day)
