@@ -26,4 +26,4 @@ All videos must conform to the following guidelines:
 * Format: MPEG-4. Please consider encoding in [Handbrake](https://handbrake.fr/){:target="_blank"} with Universal encoding
 * Naming: PaperX.m4v where X is the number of your paper in the proceedings  
 *Note that this is not the same as your CMT paper number*
-* Due date: **Friday, June 16th, 2023** 
+* Due date: **Monday, June 26th, 2023** 
