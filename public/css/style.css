@@ -477,3 +477,16 @@ padding-inline-start: 1.2em;
     border-top: 4px solid #F2F2F2;
 }
 
+
+#zoom-small-content{
+    display: none;
+    width: 100%;
+}
+@media (max-width: 680px) {
+.schedule{
+    display: none;
+}
+#zoom-small-content{
+    display: block;
+}
+}

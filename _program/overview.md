@@ -11,12 +11,9 @@ published: true
 
 <p>This schedule makes it easy to find sesssion information, technical content, and events. A pdf copy of the program overview is available <a href="{{ site.baseurl }}/images/RSS_Schedule.pdf"><strong>[here]</strong></a>.</p>
 
-{% comment %}
-<div id="zoom-small-content" xstyle="display: block; width: 100%;">
+<div id="zoom-small-content">
        <img src="{{site.baseurl}}/images/rss-program-overview.png" alt="Program Overview" width="100%">
 </div>
-{% endcomment %}
-
 
 <table style="width: 100%; max-width: 1000px;" class="schedule" cellspacing="0" border="0">
        <tr>

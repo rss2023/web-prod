@@ -18,10 +18,13 @@ def main():
     # abstractName = "Abstract"
     # supplementaryName = "Supplementary"
     # notesName = "Notes"
-    paperIDName = "CMTID"
+    paperIDName = "PaperID"
     paperTitleName = "PaperTitle"
     authorNamesName = "AuthorNames"
     abstractName = "Abstract"
+    sessionName = "SessionName"
+    posterName = "PosterID"
+    demoName = "Demo"
     supplementaryName = "Supplementary"
     notesName = "Notes"
 
@@ -34,7 +37,7 @@ def main():
 
     f = open(args.csv_program, 'r')
     fileObject = csv.reader(f)
-    total_row_count = sum(1 if row[0]!="" else None for row in fileObject)
+    total_row_count = sum(1 if row[1]!="" else None for row in fileObject)
     f.close()
     print("Number of rows: ",total_row_count)
 
@@ -43,8 +46,8 @@ def main():
         reader = csv.DictReader(f)
 
         for row in reader:
-
-          paperID = row[paperIDName]
+          paperIDValue = "{0:03}".format(int(row[paperIDName]))
+          paperID = paperIDValue
           filename = os.path.join(args.outdir, paperID + ".md")
 
           g = open(filename, 'w')
@@ -83,36 +86,46 @@ invisible: true
           g.write('''\n</div>''')
           # Write link to paper PDF
           paperIconString = '''<div class="paper-pdf">
-<div> <a href="http://www.roboticsproceedings.org/rss18/p{}.pdf"><img src="{{{{ site.baseurl }}}}/images/paper_link.png" alt="Paper Website" width = "33"  height = "40"/></a> </div>
-<div> <a href="http://www.roboticsproceedings.org/rss18/p{}.pdf">Paper&nbsp;#{}</a> </div>
-</div>\n\n'''.format(row[paperIDName],row[paperIDName],row[paperIDName])
+<div> <a href="http://www.roboticsproceedings.org/rss19/p{}.pdf"><img src="{{{{ site.baseurl }}}}/images/paper_link.png" alt="Paper Website" width = "33"  height = "40"/></a> </div>
+<div> <a href="http://www.roboticsproceedings.org/rss19/p{}.pdf">Paper&nbsp;#{}</a> </div>
+</div>\n\n'''.format(paperIDValue,paperIDValue,paperIDValue)
           g.write(paperIconString)
 
           # Write paper session
-          session = row[notesName].split(";")[0]
-          sessionString = '''<div class="paper-session">Session: {}</div>\n\n\n'''.format(session)
-          g.write("### Session: "+session+"\n{: style=\"text-align: center;\"}\n\n")
-          if row[notesName].split(";")[1] != "":
-            g.write("### "+row[notesName].split(";")[1]+"\n{: style=\"margin-top: 10px; color: #428bca; text-align: center;\"}\n\n")
-          if row[notesName].split(";")[2] != "":
-            g.write("### Nominated for "+row[notesName].split(";")[2]+" Paper\n{: style=\"margin-top: 10px; color: #428bca; text-align: center;\"}\n\n")
+          # session = row[notesName].split(";")[0]
+          # sessionString = '''<div class="paper-session">Session: {}</div>\n\n\n'''.format(session)
+          # g.write("### Session: "+session+"\n{: style=\"text-align: center;\"}\n\n")
+          # if row[notesName].split(";")[1] != "":
+          #   g.write("### "+row[notesName].split(";")[1]+"\n{: style=\"margin-top: 10px; color: #428bca; text-align: center;\"}\n\n")
+          # if row[notesName].split(";")[2] != "":
+          #   g.write("### Nominated for "+row[notesName].split(";")[2]+" Paper\n{: style=\"margin-top: 10px; color: #428bca; text-align: center;\"}\n\n")
+          
+          g.write("### Session: "+row[sessionName]+"\n{: style=\"text-align: center;\"}\n\n")
+          if row[demoName] != "":
+            g.write("### "+row[demoName].title() +"\n{: style=\"margin-top: 10px; color: #555555; text-align: center;\"}\n\n")
+          if row[posterName] != "":
+            g.write("### Poster "+row[posterName]+"\n{: style=\"margin-top: 10px; color: #428bca; text-align: center;\"}\n\n")
+
+
+
           g.write('<b style="color: black;">Abstract: </b>')
           g.write(row[abstractName]+'\n')
           g.write('''{: style="color:gray; font-size: 120%; text-align: justified;"}\n\n\n''')
 
           # Write link to supplementary materials (optional)
-          try:
-              if len(row[supplementaryName]) > 0:
-                  g.write('### Links\n')
-                  g.write('- [Supplementary materials](%s)\n\n' % row[supplementaryName])
-          except:
-            pass
+          # Temporarily comment this till we fix where it is uploaded
+          # try:
+          #     if len(row[supplementaryName]) > 0:
+          #         g.write('### Links\n')
+          #         g.write('- [Supplementary materials](%s)\n\n' % row[supplementaryName])
+          # except:
+          #   pass
 
           # Write navigation bars
           g.write('''<div class="paper-menu">\n''')
 
           # Write previous button
-          paperID = int(row[paperIDName])
+          paperID = int(paperIDValue)
           if paperID == 1:
             g.write('''<img src="{{ site.baseurl }}/images/blank_icon.png" alt="End of Program" title="End of Program"/>\n''')
           else:
