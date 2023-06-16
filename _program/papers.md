@@ -74,7 +74,8 @@ published: true
  {% for paper in site.data.rss2023CameraReadyInfo %}
  <tr>
     <td width="5%" height="100px">{{paper.PaperID }}</td>
-    <td width="45%" height="100px" ><a href="{{ site.baseurl }}/program/papers/{{ paper.PaperID}}/"><b>{{paper.PaperTitle}}</b></a></td>
+    <td width="45%" height="100px" ><a href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
+}}/"><b>{{paper.PaperTitle}}</b></a></td>
     <!-- <td width="40%" height="100px">{{paper.AuthorNames | replace: ';', ','}}</td> -->
     <td width="40%" height="100px">{{ paper.AuthorNames | replace: ';', ',' | truncatewords: 40, "&nbsp;<button type='button' class='collapsible' style='border:none;background:none;font-size:smaller;color:#222299;'>...more&gt;</button>"}}
       <div class="content" style="display:none; padding-top:20px;">
