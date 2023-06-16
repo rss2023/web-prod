@@ -86,9 +86,7 @@ Shuttle bus services between EXCO and Daegu Marriott Hotel will be arranged dail
       </tr>
       <tr>
         <td colspan="3">
-          Fill out the <a target="_blank" href="https://forms.gle/PNtzYzr34XYgmNRS6">reservation form</a> for RSS participants and you should receive reservation instructions from the hotel.
-          <br>
-          Contact: <a target="_blank" href="mailto:excofront@inter-burgo.com">excofront@inter-burgo.com</a>
+          This reservation option is fully booked.
         </td>
       </tr>
       <tr>
