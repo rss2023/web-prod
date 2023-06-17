@@ -85,9 +85,9 @@ invisible: true
           
           g.write('''\n</div>''')
           # Write link to paper PDF
+          # <div> <a href="http://www.roboticsproceedings.org/rss19/p{}.pdf">Paper&nbsp;#{}</a> </div>
           paperIconString = '''<div class="paper-pdf">
 <div> <a href="http://www.roboticsproceedings.org/rss19/p{}.pdf"><img src="{{{{ site.baseurl }}}}/images/paper_link.png" alt="Paper Website" width = "33"  height = "40"/></a> </div>
-<div> <a href="http://www.roboticsproceedings.org/rss19/p{}.pdf">Paper&nbsp;#{}</a> </div>
 </div>\n\n'''.format(paperIDValue,paperIDValue,paperIDValue)
           g.write(paperIconString)
 
@@ -100,9 +100,10 @@ invisible: true
           # if row[notesName].split(";")[2] != "":
           #   g.write("### Nominated for "+row[notesName].split(";")[2]+" Paper\n{: style=\"margin-top: 10px; color: #428bca; text-align: center;\"}\n\n")
           
-          g.write("### Session: "+row[sessionName]+"\n{: style=\"text-align: center;\"}\n\n")
+          g.write("### Session "+row[sessionName]+"\n{: style=\"text-align: center;\"}\n\n")
           if row[demoName] != "":
             g.write("### "+row[demoName].title() +"\n{: style=\"margin-top: 10px; color: #555555; text-align: center;\"}\n\n")
+          g.write("### Paper ID "+row[paperIDName] +"\n{: style=\"margin-top: 10px; color: #428bca; text-align: center;\"}\n\n")
           if row[posterName] != "":
             g.write("### Poster "+row[posterName]+"\n{: style=\"margin-top: 10px; color: #428bca; text-align: center;\"}\n\n")
 
