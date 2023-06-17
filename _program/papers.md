@@ -3,8 +3,8 @@ layout: page
 title: Accepted Papers
 description: Accepted papers.
 priority: 10
-invisible: true
-published: false
+invisible: false
+published: true
 ---
 
 
@@ -45,13 +45,25 @@ published: false
 #myTable tr.header, #myTable tr:hover {
   background-color: #f1f1f1;
 }
+
+#search{
+  border-radius: 5px;
+  margin-bottom: 10px;
+  width: 50%;
+  min-width: 200px;
+  max-width: 400px;
+  height: 2em;
+  border: 1px solid gray;
+}
 </style>
 </head>
 <body>
 
-<p>The detailed paper presentation schedule is available <a href="{{ site.baseurl }}/program/RSS2022PaperSchedule.pdf"><strong>[here]</strong></a>.<br></p>
+<p>The overview of the schedule is available <a href="{{ site.baseurl }}/program/overview/"><strong>[here]</strong></a>.<br></p>
 
-<input type="text" id="search" placeholder="Type to search">
+<div style="align-content: right; text-align: right; justify-content: right;">
+  <input type="text" id="search" placeholder="Type to search">
+</div>
 
 <table id="myTable">
   <tr class="toprowHeader">
@@ -59,11 +71,17 @@ published: false
     <th>Title</th>
     <th>Authors</th>
   </tr>
- {% for paper in site.data.rss2022CameraReady %}
+ {% for paper in site.data.rss2023CameraReadyInfo %}
  <tr>
     <td width="5%" height="100px">{{paper.PaperID }}</td>
-    <td width="45%" height="100px" ><a href="{{ site.baseurl }}/program/papers/{{ paper.PaperID3}}/"><b>{{paper.PaperTitle}}</b></a></td>
-    <td width="40%" height="100px">{{paper.AuthorNames | replace: ';', ','}}</td>
+    <td width="45%" height="100px" ><a href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
+}}/"><b>{{paper.PaperTitle}}</b></a></td>
+    <!-- <td width="40%" height="100px">{{paper.AuthorNames | replace: ';', ','}}</td> -->
+    <td width="40%" height="100px">{{ paper.AuthorNames | replace: ';', ',' | truncatewords: 40, "&nbsp;<button type='button' class='collapsible' style='border:none;background:none;font-size:smaller;color:#222299;'>...more&gt;</button>"}}
+      <div class="content" style="display:none; padding-top:20px;">
+        {{ paper.AuthorNames | replace: ';', ','}}
+      </div>
+    </td>
   </tr>
 {% endfor %}
 </table>
@@ -83,6 +101,22 @@ $('#search').keyup(function() {
         return !reg.test(text);
     }).not('.toprowHeader').hide();
 });
+</script>
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    this.style.display = "none";
+    var content = this.nextElementSibling;
+    var c = this.parentElement;
+    c.innerHTML = content.innerHTML;
+    });
+}
 </script>
 
 </body>
