@@ -16,9 +16,9 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 </div>
 {% endcomment %}
 
+* Program Overview is available [here]({{ site.baseurl }}/program/overview/).
 * Keynote Talks announced [here]({{ site.baseurl }}/program/keynote/).
 * Early Career Spotlights announced [here]({{ site.baseurl }}/program/earlycareer/).
-* Program Overview is available [here]({{ site.baseurl }}/program/overview/).
 * Presenter Instructions updated [here]({{ site.baseurl }}/information/presenters/).
 * Registration portal is open [here]({{ site.baseurl }}/attending/registration/).
 * Travel Information is available [here]({{ site.baseurl }}/attending/localinfo/).
