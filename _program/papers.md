@@ -59,7 +59,7 @@ published: true
 </head>
 <body>
 
-<p>The overview of the schedule is available <a href="{{ site.baseurl }}/program/overview/"><strong>[here]</strong></a>.<br></p>
+<p>The overview of the conference program is available <a href="{{ site.baseurl }}/program/overview/"><strong>[here]</strong></a>.<br></p>
 
 <div style="align-content: right; text-align: right; justify-content: right;">
   <input type="text" id="search" placeholder="Type to search">
