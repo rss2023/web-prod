@@ -7,10 +7,6 @@ invisible: false
 published: true
 ---
 
-
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
   box-sizing: border-box;
@@ -56,10 +52,8 @@ published: true
   border: 1px solid gray;
 }
 </style>
-</head>
-<body>
 
-<p>The overview of the conference program is available <a href="{{ site.baseurl }}/program/overview/"><strong>[here]. Please refer to the conference program for additional information. </strong></a>.<br></p>
+The overview of the conference program is available <a href="{{ site.baseurl }}/program/overview/"><strong>[here]</strong></a>. Please refer to the conference program for additional information.
 <hr>
 
 <div style="align-content: right; text-align: right; justify-content: right;">
@@ -73,7 +67,7 @@ published: true
     <th>Authors</th>
   </tr>
  {% for paper in site.data.rss2023CameraReadyInfo %}
- <tr>
+ <tr session="{{ paper.SessionName }}">
     <td width="5%" height="100px">{{paper.PaperID }}</td>
     <td width="45%" height="100px" ><a href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
 }}/"><b>{{paper.PaperTitle}}</b></a></td>
@@ -119,9 +113,6 @@ for (i = 0; i < coll.length; i++) {
     });
 }
 </script>
-
-</body>
-</html>
 
 
 {% comment %}
