@@ -15,13 +15,13 @@ This schedule makes it easy to find sesssion information, technical content, and
 
 <table style="width: 100%; max-width: 1000px;" class="schedule" cellspacing="0" border="0">
        <tr>
-              <td style="border: none;" style="background-color: #E2F0D950;"></td>
-              <td style="width: 16%;" style="background-color: #E2F0D950;">July 9<br>Sun</td>
-              <td style="width: 16%;" style="background-color: #E2F0D950;">July 10<br>Mon</td>
-              <td style="width: 16%;" style="background-color: #E2F0D950;">July 11<br>Tue</td>
-              <td style="width: 16%;" style="background-color: #E2F0D950;">July 12<br>Wed</td>
-              <td style="width: 16%;" style="background-color: #E2F0D950;">July 13<br>Thu</td>
-              <td style="width: 16%;" style="background-color: #E2F0D950;">July 14<br>Fri</td>
+              <td style="width: 5em; border: none; background-color: #E2F0D9;"></td>
+              <td style="width: 16%;" style="background-color: #E2F0D9;">July 9<br>Sun</td>
+              <td style="width: 16%;" style="background-color: #E2F0D9;">July 10<br>Mon</td>
+              <td style="width: 16%;" style="background-color: #E2F0D9;">July 11<br>Tue</td>
+              <td style="width: 16%;" style="background-color: #E2F0D9;">July 12<br>Wed</td>
+              <td style="width: 16%;" style="background-color: #E2F0D9;">July 13<br>Thu</td>
+              <td style="width: 16%;" style="background-color: #E2F0D9;">July 14<br>Fri</td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">8:15AM</td>
@@ -53,8 +53,8 @@ This schedule makes it easy to find sesssion information, technical content, and
               </tr>
        <tr>
               <td style="background-color: #E2F0D950;">10:00AM</td>
-              <td style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/earlycareer/">Early Career Spotlight: Harold Soh</a></td>
-              <td style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/earlycareer/">Early Career Spotlight: Michael Posa</a></td>
+              <td style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/earlycareer#ec1">Early Career Spotlight: Harold Soh</a></td>
+              <td style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/earlycareer#ec2">Early Career Spotlight: Michael Posa</a></td>
               <td style="background-color: #FFD96650;">Test of Time Award</td>
               <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=14.%20Multi-Robot%20and%20Aerial%20Systems">14. Multi-Robot and Aerial Systems</a></td>
               </tr>
@@ -132,9 +132,9 @@ This schedule makes it easy to find sesssion information, technical content, and
               </tr>
        <tr>
               <td style="background-color: #E2F0D950;">5:00PM</td>
-              <td rowspan=2 style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/keynote/">Keynote Talk:                     Alice Oh</a></td>
+              <td rowspan=2 style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/keynote#k1">Keynote Talk:                     Alice Oh</a></td>
               <td rowspan=2 style="background-color: #FFD96650;">Industry Panel</td>
-              <td rowspan=2 style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/keynote/">Keynote Talk:                     Jamie Paik</a></td>
+              <td rowspan=2 style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/keynote#k2">Keynote Talk:                     Jamie Paik</a></td>
               </tr>
        <tr>
               <td style="background-color: #E2F0D950;">5:30PM</td>

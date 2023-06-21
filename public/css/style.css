@@ -15,6 +15,8 @@
     --gen-light-gray: #777789;
     --gen-dark-gray: #333333;
     --columbia-blue: #000d74;
+/*    --schedule-border-gray: #F2F2F2;*/
+    --schedule-border-gray: #DDD;
 }
 
 .header { background-color: white;}
@@ -414,7 +416,6 @@ padding-inline-start: 1.2em;
     padding: 4px;
     border: 3px solid white;
     height: 4em;
-/*    width: calc(16.67% - 3.33px);*/
 }
 
 .schedule tr{
@@ -422,59 +423,45 @@ padding-inline-start: 1.2em;
 }
 
 .schedule td:hover{
-    border: 4px solid black;
+    box-shadow: inset 0px 0px 1px 2px #000;
 }
 
 .schedule tr:nth-child(2) td{
     height: 2em;
+    border-top: 4px solid var(--schedule-border-gray);
 }
 
 .schedule td:first-child {  
-/*  width: 20px;*/
   background-color: white!important;
   text-align: right;
   vertical-align: top;
-  border-top: 4px solid #F2F2F2;
+  border-top: 4px solid var(--schedule-border-gray);
+  border-right: 4px solid var(--schedule-border-gray);
 }
 
 .schedule tr:first-child {  
   font-weight: bold;
   text-align: center;
-  border-top: none!important;
 }
 
 .schedule tr:last-child{
-    border-top: 4px solid #F2F2F2;
+    border-top: 4px solid var(--schedule-border-gray);
 }
 
 .schedule td:first-child:hover{
     font-weight: normal!important;
     text-decoration: none!important;
-    border: none!important;
-    border-top: 4px solid #F2F2F2!important;
+    box-shadow: none;
 }
 
 .schedule tr:hover td:first-child{
     font-weight: bold;
-/*    text-decoration: underline;*/
     border-top: 4px solid black;
 }
 
-.schedule tr:first-child td:first-child{
-    border-top: 3px solid white;
-}
-/*
-.schedule tr:first-child td:first-child:hover{
-    font-weight: normal!important;
-    text-decoration: none!important;
-    border-top: none!important;
-    border: none!important;
-}
-*/
 .schedule tr:first-child td:hover, .schedule tr:last-child td:hover{
     text-decoration: none!important;
-    border-top: none!important;
-    border: none!important;
+    box-shadow: none;
 }
 
 
@@ -491,5 +478,14 @@ padding-inline-start: 1.2em;
 }
 #zoom-small-content{
     display: block;
+    margin-left: -8%;
+    width: 120%;
 }
+}
+
+@media (max-width: 990px) {
+    .schedule{
+        margin-left: -8%;
+        width: 120%!important;
+    }
 }

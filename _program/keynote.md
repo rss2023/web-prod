@@ -8,7 +8,7 @@ published: true
 ---
 
 
-<div class="talk">
+<div id="k1" class="talk">
   <div class="talk-profile">
     <img src="{{site.baseurl}}/images/keynote_2.jpg"/>
   </div>
@@ -31,7 +31,7 @@ published: true
 <hr>
 <br/>
 
-<div class="talk">
+<div id="k2" class="talk">
   <div class="talk-profile">
     <img src="{{site.baseurl}}/images/keynote_1.jpg"/>
   </div>
