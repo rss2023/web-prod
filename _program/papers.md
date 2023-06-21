@@ -2,7 +2,7 @@
 layout: page
 title: Accepted Papers
 description: Accepted papers.
-priority: 10
+priority: 11
 invisible: false
 published: true
 ---
@@ -53,7 +53,8 @@ published: true
 }
 </style>
 
-The overview of the conference program is available <a href="{{ site.baseurl }}/program/overview/"><strong>[here]</strong></a>. Please refer to the conference program for additional information.
+The overview of the conference program is available <a href="{{ site.baseurl }}/program/overview/"><strong>[here]</strong></a>. Please refer to the conference program for additional information. Check the list of paper sessions <a href="{{ site.baseurl }}/program/allsessions/"><strong>[here]</strong></a>.
+
 <hr>
 
 <div style="align-content: right; text-align: right; justify-content: right;">
