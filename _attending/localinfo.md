@@ -39,6 +39,13 @@ published: true
 </div>
 
 
+## The Venue
+
+The organizers welcome you to the vibrant venue of RSS 2023 - the [Daegu Exhibition and Convention Center (EXCO)](https://exco.co.kr/eng/){:target="_blank"}.
+* Check [here](https://valley-teal-a78.notion.site/How-to-Get-to-EXCO-5ce59f1517e34e5d90673f2ed80ba699){:target="_blank"} for information about the getting to EXCO. 
+* For information about things to do around EXCO, check this [page](https://valley-teal-a78.notion.site/Around-EXCO-d19e1a10f18746458d12ebba32b702e2){:target="_blank"}.
+
+
 
 ## Visa Information 
 
@@ -183,4 +190,5 @@ It is recommended that you take a taxi to EXCO. You will find a taxi stop in fro
 
 </tbody>
 </table>
+
 
