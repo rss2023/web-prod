@@ -100,7 +100,7 @@ tutorials. This year, as always, we solicit your best work.
 </table>
 
 
-The organizers welcome you to the vibrant venue of RSS 2023 - the [Daegu Exhibition and Convention Center (EXCO)](https://exco.co.kr/eng/){:target="_blank"}.
+The organizers welcome you to the vibrant venue of RSS 2023 - the [Daegu Exhibition and Convention Center (EXCO)]({{ site.baseurl }}/attending/localinfo#the-venue).
 
 {:refdef: style="text-align: center;"}
 ![Daegu Exhibition and Convention Center (EXCO)](/images/daegu_exco_1.jpg){:class="img-responsive venue"}

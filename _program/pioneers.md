@@ -18,9 +18,11 @@ industry, research presentations from attendees and networking activities.
 There will be a poster session where Pioneers will get a chance to externally
 showcase their research.
 
-Details about the workshop are available at the [workshop website](https://sites.google.com/view/rsspioneers2023).
+Details about the workshop are available at the [workshop website](https://sites.google.com/view/rsspioneers2023){:target="_blank"}.
 
-Follow the RSS Pioneers [social media accounts](https://twitter.com/RSSPioneers) for more updates.
+**The RSS Pioneers workshop will be organized at Kyungpook National University. Check [here](https://valley-teal-a78.notion.site/Vistor-s-Guide-76034636a40042a1a3bab656a8f131c8){:target="_blank"} for directions to get to the workshop location.**
+
+Follow the RSS Pioneers [social media accounts](https://twitter.com/RSSPioneers){:target="_blank"} for more updates.
 
 
 ## Important Dates
