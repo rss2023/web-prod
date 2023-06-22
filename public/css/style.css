@@ -348,8 +348,8 @@ padding-inline-start: 1.2em;
 
 .paper-author-uni{
     font-size: smaller;
-    color: grey;
-    font-weight: lighter;
+/*    color: grey;*/
+/*    font-weight: lighter;*/
     justify-content: center;
     text-align: center;
     font-style: italic;
