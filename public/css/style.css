@@ -485,6 +485,9 @@ padding-inline-start: 1.2em;
 .schedule.zoom td:nth-child(2){
     width: calc(100% - 5em); 
 }
+.schedule.zoom tr:first-child{
+    font-size: large;
+}
 
 @media (max-width: 680px) {
 .schedule{
