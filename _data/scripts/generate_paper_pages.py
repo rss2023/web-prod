@@ -25,6 +25,9 @@ def main():
     #list of embargo paper ids
     embargo = ["070"]
 
+    #DEBUG
+    clean_affiliations = set()
+
     parser = argparse.ArgumentParser()
     parser.add_argument('csv_program', help='Path to program with group assigments')
     parser.add_argument('outdir', help='Directory for output paper pages')
@@ -60,7 +63,14 @@ invisible: true
 
 
           # authors = row[authorNamesName].replace('*', '').split(',')
-          authors = row[authorNamesName].replace('*', '').split(';')
+          #This logic of 1,-1 needs as input a """ string that works nicely with excel
+          authortext = row[authorNamesName]
+          print(row[authorNamesName][0]=="\"", row[authorNamesName][-1]=="\"", " :  ",row[authorNamesName])
+          while authortext[0]=="\"" and authortext[-1]=="\"" :
+            authortext = authortext[1:-1]
+          print(authortext)
+          authors = authortext.replace('*', '').split(';')
+          print(authors)
 
           g.write('''<div class="paper-authors">\n''')
           for author in authors:
@@ -79,6 +89,7 @@ invisible: true
 </div>
 '''.format(aName,aUni)
             g.write(authorString)
+            clean_affiliations.add(aUni)
           
           g.write('''\n</div>''')
           # Write link to paper PDF
@@ -152,6 +163,10 @@ invisible: true
     # # Generate paper CSV and pages
     # with open(args.csv_outfile, 'w') as f:
     #     writer = csv.DictWrite
+    #DEBUG
+    print("Affiliation Cleanup")
+    for uni in clean_affiliations:
+        print(uni)
 
 if __name__ == '__main__':
     main()    
