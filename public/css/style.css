@@ -492,7 +492,7 @@ padding-inline-start: 1.2em;
 }
 
 .schedule.zoom{
-    display: table;
+    display: table!important;
 }
 
 #zoom-small-content{
