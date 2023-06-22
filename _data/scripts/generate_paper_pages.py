@@ -12,12 +12,6 @@ import os
 import shutil
 
 def main():
-    # paperIDName = "CMT ID"
-    # paperTitleName = "Paper Title"
-    # authorNamesName = "Author Names"
-    # abstractName = "Abstract"
-    # supplementaryName = "Supplementary"
-    # notesName = "Notes"
     paperIDName = "PaperID"
     paperTitleName = "PaperTitle"
     authorNamesName = "AuthorNames"
@@ -28,6 +22,8 @@ def main():
     supplementaryName = "Supplementary"
     posterSessionName = "PosterSession"
     notesName = "Notes"
+    #list of embargo paper ids
+    embargo = ["070"]
 
     parser = argparse.ArgumentParser()
     parser.add_argument('csv_program', help='Path to program with group assigments')
@@ -90,7 +86,8 @@ invisible: true
           paperIconString = '''<div class="paper-pdf">
 <div> <a href="http://www.roboticsproceedings.org/rss19/p{}.pdf"><img src="{{{{ site.baseurl }}}}/images/paper_link.png" alt="Paper Website" width = "33"  height = "40"/></a> </div>
 </div>\n\n'''.format(paperIDValue,paperIDValue,paperIDValue)
-          g.write(paperIconString)
+          if paperIDValue not in embargo:
+            g.write(paperIconString)
 
           # Write paper session
           # session = row[notesName].split(";")[0]
@@ -121,13 +118,12 @@ invisible: true
           g.write('''{: style="color:gray; font-size: 120%; text-align: justified;"}\n\n\n''')
 
           # Write link to supplementary materials (optional)
-          # Temporarily comment this till we fix where it is uploaded
-          # try:
-          #     if len(row[supplementaryName]) > 0:
-          #         g.write('### Links\n')
-          #         g.write('- [Supplementary materials](%s)\n\n' % row[supplementaryName])
-          # except:
-          #   pass
+          try:
+              if len(row[supplementaryName]) > 0:
+                  g.write('### Links\n')
+                  g.write('- [Supplementary materials](http://www.roboticsproceedings.org/rss19/%s)\n\n' % row[supplementaryName])
+          except:
+            pass
 
           # Write navigation bars
           g.write('''<div class="paper-menu">\n''')
