@@ -138,7 +138,7 @@ This schedule makes it easy to find sesssion information, technical content, and
        <tr>
               <td style="background-color: #E2F0D950;">6:30PM</td>
               <td rowspan=3 style="background-color: #FFD96650;">Funding Agency    Panel</td>
-              <td rowspan=4 style="background-color: #A6A6A650;">Banquet<br>@Hotel Inter-Burgo</td>
+              <td rowspan=4 style="background-color: #A6A6A650;">Banquet<br><a href="https://goo.gl/maps/pD1rBJzGaZrohyfd7">@Hotel Inter-Burgo EXCO</a></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">7:00PM</td>
@@ -442,7 +442,7 @@ This schedule makes it easy to find sesssion information, technical content, and
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">6:30PM</td>
-              <td rowspan=4 style="background-color: #A6A6A650;">Banquet<br>@Hotel Inter-Burgo</td>
+              <td rowspan=4 style="background-color: #A6A6A650;">Banquet<br><a href="https://goo.gl/maps/pD1rBJzGaZrohyfd7">@Hotel Inter-Burgo EXCO</a></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">7:00PM</td>
