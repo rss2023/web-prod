@@ -7,7 +7,7 @@ invisible: false
 published: true
 ---
 
-This schedule makes it easy to find sesssion information, technical content, and events. A pdf copy of the program overview is available <a href="{{ site.baseurl }}/images/RSS_Schedule.pdf"><strong>[here].</strong></a>
+This schedule makes it easy to find sesssion information, technical content, and events. A pdf copy of the program overview is available <a href="{{ site.baseurl }}/images/RSS_Schedule.pdf"><strong>[here]</strong></a>.
 
 <table class="schedule" cellspacing="0" border="0">
        <tr>
