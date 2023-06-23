@@ -22,19 +22,11 @@ This schedule makes it easy to find sesssion information, technical content, and
        <tr>
               <td style="background-color: #E2F0D950;">8:15AM</td>
               <td rowspan=25 style="background-color: #F2F2F250;"><a href="{{ site.baseurl }}/program/pioneers/">RSS Pioneers Event at Kyungpook National University</a></td>
-              <td style="background-color: #FFFFFF50;"></td>
-              <td style="background-color: #FFFFFF50;"></td>
-              <td style="background-color: #FFFFFF50;"></td>
-              <td style="background-color: #FFFFFF50;"></td>
-              <td style="background-color: #FFFFFF50;"></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">8:30AM</td>
-              <td style="background-color: #FFFFFF50;"></td>
+              <td style="box-shadow: none;"></td>
               <td style="background-color: #FFD96650;">Welcome Remarks</td>
-              <td style="background-color: #FFFFFF50;"></td>
-              <td style="background-color: #FFFFFF50;"></td>
-              <td style="background-color: #FFFFFF50;"></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">9:00AM</td>
@@ -142,40 +134,23 @@ This schedule makes it easy to find sesssion information, technical content, and
               <td style="background-color: #D9D9D950;">Break</td>
               <td style="background-color: #D9D9D950;">Break</td>
               <td rowspan=4 style="background-color: #A6A6A650;">Farewell Reception<br>@EXCO</td>
-              <td style="background-color: #FFFFFF50;"></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">6:30PM</td>
               <td rowspan=3 style="background-color: #FFD96650;">Funding Agency    Panel</td>
               <td rowspan=4 style="background-color: #A6A6A650;">Banquet<br>@Hotel Inter-Burgo</td>
-              <td style="background-color: #FFFFFF50;"></td>
-              <td style="background-color: #FFFFFF50;"></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">7:00PM</td>
-              <td style="background-color: #FFFFFF50;"></td>
-              <td style="background-color: #FFFFFF50;"></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">7:30PM</td>
-              <td style="background-color: #FFFFFF50;"></td>
-              <td style="background-color: #FFFFFF50;"></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">8:00PM</td>
-              <td style="background-color: #FFFFFF50;"></td>
-              <td style="background-color: #FFFFFF50;"></td>
-              <td style="background-color: #FFFFFF50;"></td>
-              <td style="background-color: #FFFFFF50;"></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">8:30PM</td>
-              <td style="background-color: #FFFFFF50;"></td>
-              <td style="background-color: #FFFFFF50;"></td>
-              <td style="background-color: #FFFFFF50;"></td>
-              <td style="background-color: #FFFFFF50;"></td>
-              <td style="background-color: #FFFFFF50;"></td>
-              <td style="background-color: #FFFFFF50;"></td>
        </tr>
 </table>
 
@@ -196,7 +171,6 @@ This schedule makes it easy to find sesssion information, technical content, and
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">8:30PM</td>
-              <td style="background-color: #FFFFFF50;"></td>
        </tr>
 </table>
 
