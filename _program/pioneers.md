@@ -24,6 +24,7 @@ Details about the workshop are available at the [workshop website](https://sites
 
 Follow the RSS Pioneers [social media accounts](https://twitter.com/RSSPioneers){:target="_blank"} for more updates.
 
+For instructions and directions for poster setup at EXCO during the main conference, please check out the [venue page]({{ site.baseurl }}/attending/atvenue/).
 
 ## Important Dates
 <table class="table">
