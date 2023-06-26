@@ -513,3 +513,7 @@ padding-inline-start: 1.2em;
         width: 120%!important;*/
     }
 }
+
+.venue-map img{
+    width: 100%;
+}

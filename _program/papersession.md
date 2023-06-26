@@ -15,17 +15,6 @@ published: true
 * {
   box-sizing: border-box;
 }
-
-#myInput {
-  background-position: 10px 10px;
-  background-repeat: no-repeat;
-  width: 100%;
-  font-size: 100%;
-  padding: 12px 20px 12px 40px;
-  border: 1px solid #ddd;
-  margin-bottom: 12px;
-}
-
 #myTable {
   border-collapse: collapse;
   width: 100%;
@@ -44,16 +33,6 @@ published: true
 
 #myTable tr.header, #myTable tr:hover {
   background-color: #f1f1f1;
-}
-
-#search{
-  border-radius: 5px;
-  margin-bottom: 10px;
-  width: 50%;
-  min-width: 200px;
-  max-width: 400px;
-  height: 2em;
-  border: 1px solid gray;
 }
 </style>
 
