@@ -92,7 +92,7 @@ Posters for RSS Pioneers can be mounted inside **Grand Ballroom A**. The posters
 </table>
 
 #### Accepted Paper Posters
-Posters for accepted can be mounted inside **Grand Ballroom A**. The posters should be mounted and dismounted within the following times:
+Posters for accepted papers can be mounted inside **Grand Ballroom A**. The posters should be mounted and dismounted within the following times:
 
 
 <table id="myTable">
