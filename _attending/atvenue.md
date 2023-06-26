@@ -1,6 +1,6 @@
 ---
 layout: page
-title: At The Venue
+title: At the Venue
 description: Information about the venue.
 priority: 14
 invisible: false
@@ -38,7 +38,9 @@ published: true
   </a>
 </div>
 
-For the overall program please check out the [overview]({{ site.baseurl }}/program/overview/)
+For the overall program please check out the [overview]({{ site.baseurl }}/program/overview/).
+
+For information about getting to EXCO please check out the [travel information]({{ site.baseurl }}/attending/localinfo#the-venue)
 
 <hr>
 
@@ -48,7 +50,6 @@ The registration desk will be set up near Room 325. The desk will be operational
 
 
 <table id="myTable">
-<tr class="toprowHeader"><th>Date</th><th>Time</th></tr>
 <tr><td>Jul 9</td>  <td> 3:00pm - 6:00pm</td></tr>
 <tr><td>Jul 10</td>  <td> 7:30am - 6:00pm</td></tr>
 <tr><td>Jul 11</td>  <td> 7:30am - 6:00pm</td></tr>
@@ -62,7 +63,7 @@ The registration desk will be set up near Room 325. The desk will be operational
 
 ## Paper Sessions
 
-[Paper sessions]({{ site.baseurl }}/program/papersessions/) will be conducted in **Room 325** as per the [schedule]({{ site.baseurl }}/program/overview/).
+[Paper sessions]({{ site.baseurl }}/program/allsessions/) will be conducted in **Room 325** as per the [schedule]({{ site.baseurl }}/program/overview/).
 
 <hr>
 
