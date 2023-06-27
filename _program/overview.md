@@ -94,9 +94,9 @@ For information about the venue and location of the events in the program please
               </tr>
        <tr>
               <td style="background-color: #E2F0D950;">2:30PM</td>
-              <td style="background-color: #D9D9D950;">Coffee Break</td>
-              <td style="background-color: #D9D9D950;">Coffee Break</td>
-              <td style="background-color: #D9D9D950;">Coffee Break</td>
+              <td style="background-color: #D9D9D950;">Coffee Break & Demos</td>
+              <td style="background-color: #D9D9D950;">Coffee Break & Demos</td>
+              <td style="background-color: #D9D9D950;">Coffee Break & Demos</td>
               </tr>
        <tr>
               <td style="background-color: #E2F0D950;">3:00PM</td>
@@ -321,7 +321,7 @@ For information about the venue and location of the events in the program please
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">2:30PM</td>
-              <td style="background-color: #D9D9D950;">Coffee Break</td>
+              <td style="background-color: #D9D9D950;">Coffee Break & Demos</td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">3:00PM</td>
@@ -415,7 +415,7 @@ For information about the venue and location of the events in the program please
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">2:30PM</td>
-              <td style="background-color: #D9D9D950;">Coffee Break</td>
+              <td style="background-color: #D9D9D950;">Coffee Break & Demos</td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">3:00PM</td>
@@ -511,7 +511,7 @@ For information about the venue and location of the events in the program please
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">2:30PM</td>
-              <td style="background-color: #D9D9D950;">Coffee Break</td>
+              <td style="background-color: #D9D9D950;">Coffee Break & Demos</td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">3:00PM</td>
