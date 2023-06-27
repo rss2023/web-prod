@@ -86,10 +86,10 @@ Posters for RSS Pioneers can be mounted inside **Grand Ballroom A**. The posters
 
 
 <table id="myTable">
-<tr><td>Jul 11</td>  <td> 8:00am - 12:00pm</td> </tr>
-<tr><td>Jul 12</td>  <td> 8:00am - 12:00pm</td> </tr>
-<tr><td>Jul 13</td>  <td> 8:00am - 12:00pm</td> </tr>
-<tr><td>Jul 14</td>  <td> 8:00am - 12:00pm</td> </tr>
+<tr><td>Jul 11</td>  <td> 8:00am - 11:00am</td> </tr>
+<tr><td>Jul 12</td>  <td> 8:00am - 11:00am</td> </tr>
+<tr><td>Jul 13</td>  <td> 8:00am - 11:00am</td> </tr>
+<tr><td>Jul 14</td>  <td> 8:00am - 11:00am</td> </tr>
 </table>
 
 #### Accepted Paper Posters
