@@ -45,7 +45,7 @@ For information about the venue and location of the events in the program please
               <td style="background-color: #E2F0D950;">10:00AM</td>
               <td style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/earlycareer#ec1">Early Career Spotlight: Harold Soh</a></td>
               <td style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/earlycareer#ec2">Early Career Spotlight: Michael Posa</a></td>
-              <td style="background-color: #FFD96650;">Test of Time Award</td>
+              <td style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/testoftimeaward/">Test of Time Award</a></td>
               <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=14.%20Multi-Robot%20and%20Aerial%20Systems">14. Multi-Robot and Aerial Systems</a></td>
               </tr>
        <tr>
@@ -479,7 +479,7 @@ For information about the venue and location of the events in the program please
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">10:00AM</td>
-              <td style="background-color: #FFD96650;">Test of Time Award</td>
+              <td style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/testoftimeaward/">Test of Time Award</a></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">10:30AM</td>
