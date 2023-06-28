@@ -2,7 +2,7 @@
 layout: page
 title: Test of Time Award
 description: The award for impact over at least a decade, including author bios
-priority: 5
+priority: 6
 invisible: false
 published: true
 ---
