@@ -43,11 +43,17 @@ published: true
 
 The organizers welcome you to the vibrant venue of RSS 2023 - the [Daegu Exhibition and Convention Center (EXCO)](https://exco.co.kr/eng/){:target="_blank"}.
 
-#### Getting to EXCO
-Check [here](https://valley-teal-a78.notion.site/How-to-Get-to-EXCO-5ce59f1517e34e5d90673f2ed80ba699){:target="_blank"} for information for getting to EXCO. 
+### Getting to EXCO
+Check [here](https://valley-teal-a78.notion.site/How-to-Get-to-EXCO-5ce59f1517e34e5d90673f2ed80ba699){:target="_blank"} for information about getting to EXCO. 
 
-#### Things to do
+### Things to do
 For information about things to do around EXCO, check this [page](https://valley-teal-a78.notion.site/Around-EXCO-d19e1a10f18746458d12ebba32b702e2){:target="_blank"}.
+
+### Local Tours 
+The RSS 2023 Organizing Committee is fully committed to ensuring that each participant has the incredible opportunity to witness the captivating beauty of Korea. In addition to the things to do around the venue, there are several [local tours](https://valley-teal-a78.notion.site/RSS-2023-TOUR-PROGRAM-df37bb526e714b42817a725096767f7d){:target="_blank"} available where you can experience the country's rich and distinctive culture, mouthwatering cuisine, and picturesque tourist spots. For detailed information about the RSS 2023 Tour Program, please check this page. If you would like to sign up for a tour, please contact via email on each program's page. The registration deadline is July 7th, 2023. Please note that walk-in registration is available only if seats are still available.
+
+Check [this site](https://valley-teal-a78.notion.site/RSS-2023-TOUR-PROGRAM-df37bb526e714b42817a725096767f7d){:target="_blank"} for the full list of tours and additional information.
+
 
 
 
