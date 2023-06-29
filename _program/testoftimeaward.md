@@ -28,8 +28,19 @@ Award goes to:
 <br>
 [Deep Learning for Detecting Robotic Grasps]( https://www.roboticsproceedings.org/rss09/p12.html)
 <br>
-**Robotics: Science and Systems IX, 2013.**
+Robotics: Science and Systems IX, 2013.
 
 <hr>
+
+*Ian Lenz, Honglak Lee, Ashutosh Saxena*
+<br>
+[Deep Learning for Detecting Robotic Grasps](https://doi.org/10.1177/0278364914549607)
+<br>
+International Journal of Robotics Research 34(4-5), p. 705-724, 2015
+
+<hr>
+ 
+
+*This award has been conferred to this work for contributions to the application of deep learning in robotic manipulation. As one of the earliest applications of deep learning in the domain of robotics, the paper showed that the applications of deep learning extend well beyond the computer vision tasks that were considered at the time. The deep-learning-based methodology applied to multi-modal data typical in robotics, and showcased successful grasps of a wide range of objects for the first time. Various other applications of deep learning in all aspects of robotics, including in robot manipulation, followed in the years after the publication of this paper.*
 
 
