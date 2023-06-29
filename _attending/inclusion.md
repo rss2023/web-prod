@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Inclusion@RSS
-priority: 8
+priority: 7
 invisible: false
 published: true
 ---
@@ -10,7 +10,7 @@ The RSS community is committed to increasing the participation of groups traditi
 One key component is the [Inclusion@RSS](https://sites.google.com/seas.upenn.edu/inclusion-rss-2023/home){:target="_blank"} Fellowship Program, which aims to help participants show up and thrive at RSS 2023. Fellowships will be awarded to selected BSc, MSc, and first and second year PhD students. Priority will be given to students who have not previously attended RSS and/or are new to the robotics research community.
 To learn more about [Inclusion@RSS](https://sites.google.com/seas.upenn.edu/inclusion-rss-2023/home){:target="_blank"}, or to apply for the Fellowship Program, see the event’s [website](https://sites.google.com/seas.upenn.edu/inclusion-rss-2023/home){:target="_blank"}. 
 
-
+For instructions and directions at the venue, please check out the [venue page]({{ site.baseurl }}/attending/atvenue/).
 
 ### Important Dates
 <table class="table">

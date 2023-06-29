@@ -9,6 +9,8 @@ published: true
 
 This schedule makes it easy to find sesssion information, technical content, and events. A pdf copy of the program overview is available <a href="{{ site.baseurl }}/images/RSS_Schedule.pdf"><strong>[here]</strong>.</a>
 
+For information about the venue and location of the events in the program please check out the [venue page]({{ site.baseurl }}/attending/atvenue/). 
+
 <table class="schedule" cellspacing="0" border="0">
        <tr>
               <td style="width: 5em; border: none; background-color: #E2F0D9;"></td>
@@ -43,7 +45,7 @@ This schedule makes it easy to find sesssion information, technical content, and
               <td style="background-color: #E2F0D950;">10:00AM</td>
               <td style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/earlycareer#ec1">Early Career Spotlight: Harold Soh</a></td>
               <td style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/earlycareer#ec2">Early Career Spotlight: Michael Posa</a></td>
-              <td style="background-color: #FFD96650;">Test of Time Award</td>
+              <td style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/testoftimeaward/">Test of Time Award</a></td>
               <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=14.%20Multi-Robot%20and%20Aerial%20Systems">14. Multi-Robot and Aerial Systems</a></td>
               </tr>
        <tr>
@@ -92,9 +94,9 @@ This schedule makes it easy to find sesssion information, technical content, and
               </tr>
        <tr>
               <td style="background-color: #E2F0D950;">2:30PM</td>
-              <td style="background-color: #D9D9D950;">Coffee Break</td>
-              <td style="background-color: #D9D9D950;">Coffee Break</td>
-              <td style="background-color: #D9D9D950;">Coffee Break</td>
+              <td style="background-color: #D9D9D950;">Coffee Break & Demos</td>
+              <td style="background-color: #D9D9D950;">Coffee Break & Demos</td>
+              <td style="background-color: #D9D9D950;">Coffee Break & Demos</td>
               </tr>
        <tr>
               <td style="background-color: #E2F0D950;">3:00PM</td>
@@ -319,7 +321,7 @@ This schedule makes it easy to find sesssion information, technical content, and
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">2:30PM</td>
-              <td style="background-color: #D9D9D950;">Coffee Break</td>
+              <td style="background-color: #D9D9D950;">Coffee Break & Demos</td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">3:00PM</td>
@@ -413,7 +415,7 @@ This schedule makes it easy to find sesssion information, technical content, and
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">2:30PM</td>
-              <td style="background-color: #D9D9D950;">Coffee Break</td>
+              <td style="background-color: #D9D9D950;">Coffee Break & Demos</td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">3:00PM</td>
@@ -477,7 +479,7 @@ This schedule makes it easy to find sesssion information, technical content, and
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">10:00AM</td>
-              <td style="background-color: #FFD96650;">Test of Time Award</td>
+              <td style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/testoftimeaward/">Test of Time Award</a></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">10:30AM</td>
@@ -509,7 +511,7 @@ This schedule makes it easy to find sesssion information, technical content, and
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">2:30PM</td>
-              <td style="background-color: #D9D9D950;">Coffee Break</td>
+              <td style="background-color: #D9D9D950;">Coffee Break & Demos</td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">3:00PM</td>
