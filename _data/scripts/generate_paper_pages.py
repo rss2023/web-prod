@@ -19,6 +19,7 @@ def main():
     sessionName = "SessionName"
     posterName = "PosterID"
     demoName = "Demo"
+    awardName = "AwardNom"
     supplementaryName = "Supplementary"
     posterSessionName = "PosterSession"
     notesName = "Notes"
@@ -106,12 +107,15 @@ invisible: true
           # g.write("### Session: "+session+"\n{: style=\"text-align: center;\"}\n\n")
           # if row[notesName].split(";")[1] != "":
           #   g.write("### "+row[notesName].split(";")[1]+"\n{: style=\"margin-top: 10px; color: #428bca; text-align: center;\"}\n\n")
-          # if row[notesName].split(";")[2] != "":
-          #   g.write("### Nominated for "+row[notesName].split(";")[2]+" Paper\n{: style=\"margin-top: 10px; color: #428bca; text-align: center;\"}\n\n")
           
           g.write("### Paper ID "+row[paperIDName] +"\n{: style=\"margin-top: 10px; text-align: center;\"}\n\n")
           # g.write("### Session "+row[sessionName]+"\n{: style=\"text-align: center;\"}\n\n")
           
+          if row[awardName].strip() != "":
+            g.write("### Nominated for "+row[awardName].strip().title()+" Paper\n{: style=\"margin-top: 10px; font-weight: bold; color: #555555; text-align: center;\"}\n\n")
+          
+
+
           g.write("### [Session "+row[sessionName]+"]({{ site.baseurl }}/program/papersession?session="+row[sessionName].replace(' ','%20').replace('&','%26')+")\n{: style=\"text-align: center;\"}\n\n")
 
 
