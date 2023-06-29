@@ -85,7 +85,7 @@ Posters for workshops can be mounted during the specific workshop timings within
 <tr><td>Jul 10</td>  <td> 8:00am - 6:00pm</td> </tr>
 <tr><td>Jul 14</td>  <td> 12:00pm - 6:00pm</td> </tr>
 </table>
-
+<hr>
 #### RSS Pioneers Posters
 Posters for RSS Pioneers can be mounted inside **Grand Ballroom A**. The posters should be mounted and dismounted within the following times:
 
@@ -96,7 +96,7 @@ Posters for RSS Pioneers can be mounted inside **Grand Ballroom A**. The posters
 <tr><td>Jul 13</td>  <td> 8:00am - 11:00am</td> </tr>
 <tr><td>Jul 14</td>  <td> 8:00am - 11:00am</td> </tr>
 </table>
-
+<hr>
 #### Accepted Paper Posters
 Posters for accepted papers can be mounted inside **Grand Ballroom A**. The posters should be mounted and dismounted within the following times:
 
@@ -107,6 +107,17 @@ Posters for accepted papers can be mounted inside **Grand Ballroom A**. The post
 <tr><td>Jul 13</td>  <td> 12:00pm - 6:00pm</td> </tr>
 <tr><td>Jul 14</td>  <td> 12:00pm - 6:00pm</td> </tr>
 </table>
+<hr>
+<br>
+<center>
+  <a href="{{ site.baseurl }}/images/RSS-2023_GB-A.png">
+     <img src="{{ site.baseurl }}/images/RSS-2023_GB-A.png" style="width: 40%;"
+     alt="EXCO Grand Ballroom A Layout">
+  </a>
+</center>
+
+The layout of EXCO Grand Ballroom A shows the numbered poster stands that correspond to the Poster ID for each <a href="{{ site.baseurl }}/program/papers/">paper</a>. Click on individual paper pages to find its Poster ID where it will be showcased during its poster session in the Grand Ballroom. 
+
 
 
 ## Accessibility
