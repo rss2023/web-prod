@@ -13,6 +13,8 @@ published: true
 
 The registration portal is hosted on PheedLoop at this link: **[site.pheedloop.com/event/RSS2023](https://site.pheedloop.com/event/RSS2023/home/)**.
 
+*After July 5, only virtual registrations will be allowed through the portal. At that time, in-person attendees will be required to register at the event at the [registration desk]({{ site.baseurl }}/attending/atvenue#registration).*
+
 <table class="table" style="margin-top: -10px;">
     <thead>
       <tr>
