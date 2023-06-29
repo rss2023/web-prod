@@ -29,6 +29,11 @@ published: true
 </style>
 
 
+<div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
+ For virtual attendance please check <b><a href="https://pheedloop.com/RSS2023/virtual/" target="_blank">Pheedloop</a></b>.
+</div>
+
+
 ## Map of Daegu EXCO
 
 <div class="venue-map">
