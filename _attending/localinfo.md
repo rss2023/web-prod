@@ -46,9 +46,11 @@ The organizers welcome you to the vibrant venue of RSS 2023 - the [Daegu Exhibit
 ### Getting to EXCO
 Check [here](https://valley-teal-a78.notion.site/How-to-Get-to-EXCO-5ce59f1517e34e5d90673f2ed80ba699){:target="_blank"} for information about getting to EXCO. 
 
-### Things to do
+### Nearby Shops and Restaurants
 For information about things to do around EXCO, check this [page](https://valley-teal-a78.notion.site/Around-EXCO-d19e1a10f18746458d12ebba32b702e2){:target="_blank"}.
 
+
+### Local Tours
 Check [here]({{ site.baseurl }}/attending/localtours/) for information about local tours in and around Daegu.
 
 
