@@ -121,6 +121,7 @@ The organizers welcome you to the vibrant venue of RSS 2023 - the [Daegu Exhibit
 <div class="sponsor-row2 flex-container">
   <img alt="Angel Robotics" src="{{ site.baseurl }}/images/sponsors/angel-robotics.png">
   <img alt="JMarple" src="{{ site.baseurl }}/images/sponsors/jmarple.png">
+  <img alt="Hanwha Systems" src="{{ site.baseurl }}/images/sponsors/hanwha-systems.jpg">
   <img alt="KAIST" src="{{ site.baseurl }}/images/sponsors/kaist.png">
   <img alt="Nearthlab" src="{{ site.baseurl }}/images/sponsors/nearthlab.png">
   <img alt="Pablo Air" src="{{ site.baseurl }}/images/sponsors/pablo-air.png">
