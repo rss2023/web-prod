@@ -80,7 +80,6 @@ Attendees are requested to ensure their posters are mounted and unmounted at the
 #### Workshop Posters
 Posters for workshops can be mounted during the specific workshop timings within each **workshop room location**. The posters should be mounted and dismounted within the workshop timings or the following times (workshop timings taking precedence):
 
-
 <table id="myTable">
 <tr><td>Jul 10</td>  <td> 8:00am - 6:00pm</td> </tr>
 <tr><td>Jul 14</td>  <td> 12:00pm - 6:00pm</td> </tr>
@@ -94,7 +93,6 @@ Posters for RSS Pioneers can be mounted inside **Grand Ballroom A**. The posters
 <tr><td>Jul 11</td>  <td> 8:00am - 11:00am</td> </tr>
 <tr><td>Jul 12</td>  <td> 8:00am - 11:00am</td> </tr>
 <tr><td>Jul 13</td>  <td> 8:00am - 11:00am</td> </tr>
-<tr><td>Jul 14</td>  <td> 8:00am - 11:00am</td> </tr>
 </table>
 <hr>
 #### Accepted Paper Posters
@@ -105,7 +103,6 @@ Posters for accepted papers can be mounted inside **Grand Ballroom A**. The post
 <tr><td>Jul 11</td>  <td> 12:00pm - 6:00pm</td> </tr>
 <tr><td>Jul 12</td>  <td> 12:00pm - 6:00pm</td> </tr>
 <tr><td>Jul 13</td>  <td> 12:00pm - 6:00pm</td> </tr>
-<tr><td>Jul 14</td>  <td> 12:00pm - 6:00pm</td> </tr>
 </table>
 <hr>
 <br>
