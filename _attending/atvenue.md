@@ -30,7 +30,7 @@ published: true
 
 
 <div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
- For virtual attendance please check <b><a href="{{ site.baseurl }}/attending/virtual/">here</a></b>.
+ For virtual attendance, please check <b><a href="{{ site.baseurl }}/attending/virtual/">here</a></b>.
 </div>
 
 
@@ -119,6 +119,25 @@ Posters for accepted papers can be mounted inside **Grand Ballroom A**. The post
 The layout of EXCO Grand Ballroom A shows the numbered poster stands that correspond to the Poster ID for each <a href="{{ site.baseurl }}/program/papers/">paper</a>. Click on individual paper pages to find its Poster ID where it will be showcased during its poster session in the Grand Ballroom. 
 
 
-
 ## Accessibility
 Accessibility information is available [here]({{ site.baseurl }}/attending/accessibility/).
+
+## Venue Facilities
+EXCO has [several facilities](https://www.exco.co.kr/eng/facility/sub05.html){:target="_blank"} available on site.
+
+|   &ensp; | &ensp; **EXCO Location** &ensp; | &ensp; **Timings** |
+| *Nursing Room* &ensp; | &ensp; West Wing 1F &ensp; | &ensp; 09:00am - 6:00pm |
+| *First Aid* &ensp; | &ensp; West Wing 1F &ensp; | &ensp; 09:00am - 6:00pm |
+| *Lockers* &ensp; | &ensp; West Wing 1F &ensp; | &ensp; 09:00am - 9:00pm |
+| *ATM* &ensp; | &ensp; West Wing 1F &ensp; | &ensp; 09:00am - 9:00pm |
+
+
+<br>
+
+KNU Global Plaza (for RSS Pioneers) has the following facilities on site.
+
+|   &ensp; | &ensp; **KNU Location** &ensp; |
+| *Nursing Room* &ensp; | &ensp; Room 205 (next to workshop) |
+
+
+Please reach out to the local volunteers for any assistance.
