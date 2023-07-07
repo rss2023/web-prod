@@ -103,6 +103,7 @@ Posters for accepted papers can be mounted inside **Grand Ballroom A**. The post
 <tr><td>Jul 11</td>  <td> 12:00pm - 6:00pm</td> </tr>
 <tr><td>Jul 12</td>  <td> 12:00pm - 6:00pm</td> </tr>
 <tr><td>Jul 13</td>  <td> 12:00pm - 6:00pm</td> </tr>
+<tr><td>Jul 14</td>  <td> 8:00am - 12:00pm</td> </tr>
 </table>
 <hr>
 <br>
