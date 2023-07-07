@@ -107,6 +107,33 @@ Posters for accepted papers can be mounted inside **Grand Ballroom A**. The post
 </table>
 <hr>
 <br>
+
+## Demonstrations
+
+Authors of RSS 2023 Demo papers will also have the opportunity to demonstrate the robotics technology highlighted by their contributions during the early afternoon coffee break (2:30pm to 3pm) on the day that their demo paper is presented.
+
+<table id="myTable">
+<tr>
+     <td>Jul 11</td> 
+     <td>2:30pm-3:00pm</td> 
+     <td><a href="{{ site.baseurl }}/program/papers/023/ ">Paper 23</a> (demo 1 area) and <a href="{{ site.baseurl }}/program/papers/024/ ">Paper 24</a> (demo 2 area)
+     </td>
+</tr>
+<tr>
+     <td>Jul 12</td> 
+     <td>2:30pm-3:00pm</td> 
+     <td><a href="{{ site.baseurl }}/program/papers/055/ ">Paper 55</a> (demo 1 area) and <a href="{{ site.baseurl }}/program/papers/056/ ">Paper 56</a> (demo 2 area)</td>
+</tr>
+<tr>
+     <td>Jul 13</td> 
+     <td>2:30pm-3:00pm</td> 
+     <td><a href="{{ site.baseurl }}/program/papers/087/ ">Paper 87</a> (demo 1 area) and <a href="{{ site.baseurl }}/program/papers/088/ ">Paper 88</a> (demo 2 area)</td>
+</tr>
+</table>
+
+
+<hr>
+<br>
 <center>
   <a href="{{ site.baseurl }}/images/RSS-2023_GB-A.png">
      <img src="{{ site.baseurl }}/images/RSS-2023_GB-A.png" style="width: 40%;"
@@ -116,9 +143,15 @@ Posters for accepted papers can be mounted inside **Grand Ballroom A**. The post
 
 The layout of EXCO Grand Ballroom A shows the numbered poster stands that correspond to the Poster ID for each <a href="{{ site.baseurl }}/program/papers/">paper</a>. Click on individual paper pages to find its Poster ID where it will be showcased during its poster session in the Grand Ballroom. 
 
+<hr>
+<br>
 
 ## Accessibility
 Accessibility information is available [here]({{ site.baseurl }}/attending/accessibility/).
+
+
+<hr>
+<br>
 
 ## Venue Facilities
 EXCO has [several facilities](https://www.exco.co.kr/eng/facility/sub05.html){:target="_blank"} available on site.
