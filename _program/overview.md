@@ -65,7 +65,7 @@ For information about the venue and location of the events in the program please
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">11:30AM</td>
-              <td style="background-color: #FFD96650;">Paper Awards &amp;         RSS Town Hall</td>
+              <td style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/awards/">Paper Awards</a> &amp;         RSS Town Hall</td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">12:00PM</td>
@@ -582,7 +582,7 @@ For information about the venue and location of the events in the program please
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">11:30AM</td>
-              <td style="background-color: #FFD96650;">Paper Awards &amp;         RSS Town Hall</td>
+              <td style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/awards/">Paper Awards</a> &amp;         RSS Town Hall</td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">12:00PM</td>
