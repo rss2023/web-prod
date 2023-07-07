@@ -44,7 +44,7 @@ published: true
 The organizers welcome you to the vibrant venue of RSS 2023 - the [Daegu Exhibition and Convention Center (EXCO)](https://exco.co.kr/eng/){:target="_blank"}.
 
 ### Getting to EXCO
-Check [here](https://valley-teal-a78.notion.site/How-to-Get-to-EXCO-5ce59f1517e34e5d90673f2ed80ba699){:target="_blank"} for information about getting to EXCO. 
+Check [here](https://valley-teal-a78.notion.site/How-to-Get-to-EXCO-5ce59f1517e34e5d90673f2ed80ba699){:target="_blank"} for information about getting to EXCO. If you are looking for shuttles to and from the Marriot, check [here]({{ site.baseurl }}/attending/localinfo#shuttles)
 
 ### Nearby Shops and Restaurants
 For information about things to do around EXCO, check this [page](https://valley-teal-a78.notion.site/Around-EXCO-d19e1a10f18746458d12ebba32b702e2){:target="_blank"}.
@@ -141,6 +141,18 @@ Shuttle bus services between EXCO and Daegu Marriott Hotel will be arranged dail
     </tbody>
 </table>
 
+## Shuttles
+Shuttles will be available to and from the Daegu Marrior Hotel.
+
+| &ensp; | &ensp; **Marriott to EXCO** &ensp; | &ensp; **EXCO to Marriott** |
+| &ensp; | &ensp;  __*Departure Time*__  &ensp; | &ensp; __*Departure Time*__ |
+**Jul 10** &ensp; | &ensp; 8:00am &ensp; | &ensp; 8:15pm (*After Welcome Reception* )|
+**Jul 11** &ensp; | &ensp; 7:30am &ensp; | &ensp; 6:15pm |
+**Jul 12** &ensp; | &ensp; 7:30am &ensp; | &ensp; 8:15pm (*After Banquet* )|
+**Jul 13** &ensp; | &ensp; 7:30am &ensp; | &ensp; 8:45pm (*After Farewell Reception* )|
+**Jul 14** &ensp; | &ensp; 7:30am &ensp; | &ensp; 6:15pm (*After Workshops* )|
+
+<br>
 
 ## Getting to Daegu
 
