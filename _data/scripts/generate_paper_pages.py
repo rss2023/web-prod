@@ -24,7 +24,8 @@ def main():
     posterSessionName = "PosterSession"
     notesName = "Notes"
     #list of embargo paper ids
-    embargo = ["070"]
+    # embargo = ["070"]
+    embargo = []
 
     #DEBUG
     clean_affiliations = set()
