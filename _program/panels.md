@@ -3,8 +3,8 @@ layout: page
 title: Panels
 description: Panels at the conference.
 priority: 6
-invisible: false
-published: true
+invisible: true
+published: false
 ---
 
 # Funding Agency Panel
@@ -46,7 +46,7 @@ For relevant information highlighting the activities and priorities in robotics 
 
 # Industry Panel
 
-*Introduction*: Each panelist will describe their career path and current work in robotics. 
+*Introductions*: Each panelist will describe their career path and current work in robotics. 
 <br>
 *Moderated Discussion*: The moderator will pose questions to the panelists that will cover a broad set of topics. The discussion might touch upon recent developments and aspects of real-world production systems, and opportunities versus challenges in deploying modern research advances.
 <br>
