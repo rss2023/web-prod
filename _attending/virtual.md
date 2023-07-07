@@ -16,8 +16,7 @@ Virtual participants will first need to [register]({{ site.baseurl }}/attending/
 
 
 
-**Workshops:** To join workshops, choose the desired workshop under the *Sessions* tab.
-To join workshops, choose the desired workshop under the *Sessions* tab. You can access the Zoom meeting room through these Pheedloop sessions. Alternatively, you can find the Zoom link at the bottom (*Description* section) of each virtual workshop session (which will be updated before the workshops commence). 
+**Workshops:** To join workshops, choose the desired workshop under the *Sessions* tab. You can access the Zoom meeting room through these Pheedloop sessions. Alternatively, you can find the Zoom link at the bottom (*Description* section) of each virtual workshop session (which will be updated before the workshops commence). 
 
 For comprehensive workshop details, refer to the individual workshop websites listed [here]({{ site.baseurl }}/program/workshops/).
 
