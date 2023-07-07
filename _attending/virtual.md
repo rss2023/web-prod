@@ -14,15 +14,16 @@ For virtual attendance please check [Pheedloop](https://pheedloop.com/RSS2023/vi
 
 Virtual participants will first need to [register]({{ site.baseurl }}/attending/registration/). The registrants will then obtain access to the conference through [Pheedloop](https://pheedloop.com/RSS2023/virtual/).
 
+**Main Conference:** To join the main conference, choose the current day’s session under the *Sessions* tab (named *"&lt;Day&gt; Main Conference"*). Here you will find a description of this session and a YouTube link to the livestream. Click on the link or copy-paste the URL into your browser to view the main conference stream.
 
 
 **Workshops:** To join workshops, choose the desired workshop under the *Sessions* tab. You can access the Zoom meeting room through these Pheedloop sessions. Alternatively, you can find the Zoom link at the bottom (*Description* section) of each virtual workshop session (which will be updated before the workshops commence). 
 
 For comprehensive workshop details, refer to the individual workshop websites listed [here]({{ site.baseurl }}/program/workshops/).
 
-<div>
+<div style="text-align: center;">
   <a href="{{ site.baseurl }}/images/virtualinstructions.png">
-  <img src="{{ site.baseurl }}/images/virtualinstructions.png" style="width: 100%;"/>
+  <img alt="Workshops virtual instructions" src="{{ site.baseurl }}/images/virtualinstructions.png" style="width: 80%;"/>
   </a>
 </div>
 
