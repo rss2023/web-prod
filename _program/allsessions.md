@@ -21,7 +21,8 @@ published: true
 
 #myTable th, #myTable td {
   text-align: left;
-  padding: 12px;
+/*  padding: 12px;*/
+  padding: 6px;
 }
 
 #myTable tr {
@@ -44,18 +45,24 @@ For information about the location of the sessions check out the [venue page]({{
   <tr class="toprowHeader">
     <th >Date</th>
     <th >Time</th>
-    <th >Session Name</th>
+    <th >Session Name and Chairs</th>
   </tr>
  {% for session in site.data.rss2023PaperSessions %}
- <tr session="{{ session.SessionName }}">
+  <tr session="{{ session.SessionName }}" style="border-bottom: none;">
     <td>{{ session.Date }}</td>
     <td>{{ session.Time }}</td>
-    <td>
+    <td colspan=2 >
       <a href="{{ site.baseurl }}/program/papersession?session={{ session.SessionLink }}">
       {{ session.SessionName }}
       </a>
     </td>
   </tr>
+  <tr>
+    <td style="padding-top: 0px;"></td><td style="padding-top: 0px;"></td>
+    <td style="padding-top: 0px; font-size: smaller;">{{ session.CoChair1 }}<br> <i>{{ session.CoChair1Affiliation }}</i></td>
+    <td style="padding-top: 0px; font-size: smaller;">{{ session.CoChair2 }}<br> <i>{{ session.CoChair2Affiliation }}</i></td>
+  </tr>
+  
 {% endfor %}
 </table>
 
