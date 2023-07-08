@@ -59,8 +59,8 @@ For information about the location of the sessions check out the [venue page]({{
   </tr>
   <tr>
     <td style="padding-top: 0px;"></td><td style="padding-top: 0px;"></td>
-    <td style="padding-top: 0px; font-size: smaller;">{{ session.CoChair1 }}<br> <i>{{ session.CoChair1Affiliation }}</i></td>
-    <td style="padding-top: 0px; font-size: smaller;">{{ session.CoChair2 }}<br> <i>{{ session.CoChair2Affiliation }}</i></td>
+    <td style="padding-top: 0px; font-size: smaller;">{{ session.C1 }}<br> <i>{{ session.C1A }}</i></td>
+    <td style="padding-top: 0px; font-size: smaller;">{{ session.C2 }}<br> <i>{{ session.C2A }}</i></td>
   </tr>
   
 {% endfor %}
