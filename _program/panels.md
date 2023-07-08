@@ -3,8 +3,8 @@ layout: page
 title: Panels
 description: Panels at the conference.
 priority: 6
-invisible: true
-published: false
+invisible: false
+published: true
 ---
 
 # Funding Agency Panel
