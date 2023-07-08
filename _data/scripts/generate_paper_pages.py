@@ -9,6 +9,7 @@ import argparse
 import codecs
 import csv
 import os
+import sys
 import shutil
 
 def main():
@@ -33,6 +34,10 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('csv_program', help='Path to program with group assigments')
     parser.add_argument('outdir', help='Directory for output paper pages')
+
+    print(len(sys.argv))
+    if len(sys.argv)==4:
+        parser.add_argument('sessions_db', help='Path to sessions list with chairs')
     args = parser.parse_args()
 
     os.makedirs(args.outdir, exist_ok=True)
@@ -42,6 +47,23 @@ def main():
     total_row_count = sum(1 if row[1]!="" else None for row in fileObject)
     f.close()
     print("Number of rows: ",total_row_count)
+
+    session_dict = dict()
+    try:
+        if args.sessions_db :
+            f = open(args.sessions_db, 'r')
+            fileObject = csv.DictReader(f)
+
+            print(fileObject)
+            for row in fileObject:
+                link = "session="+ row["SessionName"].replace(' ','%20').replace('&','%26') + "&c1=" + row["C1"].replace(' ','%20').replace('&','%26') + "&c2=" + row["C2"].replace(' ','%20').replace('&','%26') + "&c1a=" + row["C1A"].replace(' ','%20').replace('&','%26') + "&c2a=" + row["C2A"].replace(' ','%20').replace('&','%26')
+                print(link)
+                session_dict[row["SessionName"]] = link
+
+            f.close()
+    except:
+        pass
+
 
     # Read program information
     with open(args.csv_program) as f:
@@ -117,7 +139,16 @@ invisible: true
           
 
 
-          g.write("### [Session "+row[sessionName]+"]({{ site.baseurl }}/program/papersession?session="+row[sessionName].replace(' ','%20').replace('&','%26')+")\n{: style=\"text-align: center;\"}\n\n")
+          # g.write("### [Session "+row[sessionName]+"]({{ site.baseurl }}/program/papersession?session="+row[sessionName].replace(' ','%20').replace('&','%26')+")\n{: style=\"text-align: center;\"}\n\n")
+          
+
+          link = "?session="+row[sessionName].replace(' ','%20').replace('&','%26')
+          try:
+            link = session_dict[row[sessionName]]
+          except:
+            pass
+
+          g.write("### [Session "+row[sessionName]+"]({{ site.baseurl }}/program/papersession?"+link+")\n{: style=\"text-align: center;\"}\n\n")
 
 
 
