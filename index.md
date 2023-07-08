@@ -6,7 +6,6 @@ title: Home
 Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 
 
-{% comment %}
 <div style="width: 100%; background-color: black; border-radius: 10px; padding: 5px; justify-content: center; text-align: center;">
 <iframe id="livestream" style="width: 80%; aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/YG-UCTS5Tbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <div id="dayselector" style="width: 100%; text-align: center; justify-content: center; display: inline-flex;">
@@ -25,7 +24,6 @@ $(document).ready(function() {
     });
   });
 </script>
-{% endcomment %}
 
 ### News and Updates
 
