@@ -8,9 +8,6 @@ published: true
 ---
 
 <div class="page" id="inner-content">
-  <h1 class="page-title">{{ page.title }}</h1>
-  <br/>
-  
 <style>
 * {
   box-sizing: border-box;
@@ -36,6 +33,23 @@ published: true
 }
 </style>
 
+<h1 class="page-title">{{ page.title }}</h1>
+<br/>
+
+<div style="width: 100%; text-align: center;">
+<div style="width: 100%; text-align: center; margin-top: -20px;  margin-bottom: 15px;">
+  <i id="chairedby"></i>
+</div>
+<div class="paper-authors">
+<div class="paper-author-box">
+    <div id="c1" class="paper-author-name"></div>
+    <div id="c1a" class="paper-author-uni"></div>
+</div>
+<div class="paper-author-box">
+    <div id="c2" class="paper-author-name"></div>
+    <div id="c2a" class="paper-author-uni"></div>
+</div>
+</div>
 <hr>
 
 <table id="myTable">
@@ -86,6 +100,37 @@ $(document).ready(function() {
     searchKey = "tr[session='"+ sessionName +"'],.toprowHeader";
     $rows.hide().filter(searchKey).show();
     $(".page-title").text("Session "+sessionName);
+
+
+    param = jQuery.QueryString["c1"];
+    if(param)
+    {
+      $("#chairedby").text("Chaired By");
+    }
+    param = jQuery.QueryString["c1"];
+    if(param)
+    {
+      name = param.replaceAll('%20', ' ').replaceAll('%26','&');
+      $("#c1").text(name);
+    }
+    param = jQuery.QueryString["c2"];
+    if(param)
+    {
+      name = param.replaceAll('%20', ' ').replaceAll('%26','&');
+      $("#c2").text(name);
+    }
+    param = jQuery.QueryString["c1a"];
+    if(param)
+    {
+      name = param.replaceAll('%20', ' ').replaceAll('%26','&');
+      $("#c1a").text(name);
+    }
+    param = jQuery.QueryString["c2a"];
+    if(param)
+    {
+      name = param.replaceAll('%20', ' ').replaceAll('%26','&');
+      $("#c2a").text(name);
+    }
 });
 </script>
 
