@@ -86,7 +86,7 @@ For information about the venue and location of the events in the program please
               <td style="background-color: #E2F0D950;">1:30PM</td>
               <td rowspan=3 style="background-color: #BDD7EE50;"><a href="{{ site.baseurl }}/program/workshops#monday-july-10">Workshop Session</a></td>
               <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=3.%20Self-supervision%20and%20RL%20for%20Manipulation&c1=Joseph%20Lim&c2=Jens%20Kober&c1a=KAIST&c2a=TU%20Delft">3. Self-supervision and RL for Manipulation</a></td>
-              <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=7.%20Mobile%20Manipulation%20and%20Locomotion&c1=Hae-Won%20Park&c2=&c1a=KAIST&c2a=">7. Mobile Manipulation and Locomotion</a></td>
+              <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=7.%20Mobile%20Manipulation%20and%20Locomotion&c1=Hae-Won%20Park&c2=Tirthankar%20Bandyopadhyay&c1a=KAIST&c2a=CSIRO">7. Mobile Manipulation and Locomotion</a></td>
               <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=11.%20Control%20%26%20Dynamics&c1=Nadia%20Figueroa&c2=Nima%20Fazeli&c1a=University%20of%20Pennsylvania&c2a=University%20of%20Michigan">11. Control & Dynamics</a></td>
               <td rowspan=3 style="background-color: #BDD7EE50;"><a href="{{ site.baseurl }}/program/workshops#friday-july-14">Workshop Session</a></td>
        </tr>
@@ -521,7 +521,7 @@ For information about the venue and location of the events in the program please
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">1:30PM</td>
-              <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=7.%20Mobile%20Manipulation%20and%20Locomotion&c1=Hae-Won%20Park&c2=&c1a=KAIST&c2a=">7. Mobile Manipulation and Locomotion</a></td>
+              <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=7.%20Mobile%20Manipulation%20and%20Locomotion&c1=Hae-Won%20Park&c2=Tirthankar%20Bandyopadhyay&c1a=KAIST&c2a=CSIRO">7. Mobile Manipulation and Locomotion</a></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">2:00PM</td>
