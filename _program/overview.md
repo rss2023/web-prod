@@ -61,7 +61,7 @@ For information about the venue and location of the events in the program please
               <td rowspan=2 style="background-color: #BDD7EE50;"><a href="{{ site.baseurl }}/program/workshops#monday-july-10">Workshop Session</a></td>
               <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=2.%20Manipulation%20from%20Demonstrations%20and%20Teleoperation&c1=Florian%20Shkurti&c2=Dongheui%20Lee&c1a=University%20of%20Toronto&c2a=TU%20Wien">2. Manipulation from Demonstrations and Teleoperation</a></td>
               <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=6.%20Grasping%20and%20Manipulation&c1=Abhishek%20Gupta&c2=Juxi%20Leitner&c1a=University%20of%20Washington&c2a=Monash%20University">6. Grasping and Manipulation</a></td>
-              <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=10.%20Robot%20Perception&c1=Christoffer%20Heckman&c2=&c1a=University%20of%20Colorado%20Boulder&c2a=">10. Robot Perception</a></td>
+              <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=10.%20Robot%20Perception&c1=Christoffer%20Heckman&c2=David%20Rosen&c1a=University%20of%20Colorado%20Boulder&c2a=Northeastern%20University">10. Robot Perception</a></td>
               <td style="background-color: #C5E0B450;">Poster Session &amp; Coffee Break</td>
        </tr>
        <tr>
@@ -600,7 +600,7 @@ For information about the venue and location of the events in the program please
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">11:00AM</td>
-              <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=10.%20Robot%20Perception&c1=Christoffer%20Heckman&c2=&c1a=University%20of%20Colorado%20Boulder&c2a=">10. Robot Perception</a></td>
+              <td rowspan=2 style="background-color: #ED7D3150;"><a href="{{ site.baseurl }}/program/papersession?session=10.%20Robot%20Perception&c1=Christoffer%20Heckman&c2=David%20Rosen&c1a=University%20of%20Colorado%20Boulder&c2a=Northeastern%20University">10. Robot Perception</a></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">11:30AM</td>
