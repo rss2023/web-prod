@@ -6,6 +6,24 @@ title: Home
 Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 
 
+<div style="width: 100%; background-color: black; border-radius: 10px; padding: 5px; justify-content: center; text-align: center;">
+<iframe id="livestream" style="width: 80%; aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/YG-UCTS5Tbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div id="dayselector" style="width: 100%; text-align: center; justify-content: center; display: inline-flex;">
+  <div class="daybutton" link="YG-UCTS5Tbk">Jul 11</div>
+  <div class="daybutton" link="QXmcu9fVnak">Jul 12</div>
+  <div class="daybutton" link="ftQhK75Ri1E">Jul 13</div>
+  <div class="daybutton" link="0-WXg0hH5Co">Jul 14</div>
+</div>
+</div>
+<script>
+$(document).ready(function() {
+    $("#dayselector div").click(function()
+    {
+      link = $(this).attr("link");
+      $("#livestream").attr("src", "https://www.youtube-nocookie.com/embed/"+link); 
+    });
+  });
+</script>
 
 ### News and Updates
 
@@ -14,8 +32,10 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 <div width="100%" style="border: solid #aaa 3px; background:#444; padding: 5px; color: white; text-align: center;">
  Reviews released and rebuttal invitations between April 3rd &ndash; April 8th, 2023 (<a href="https://time.is/Anywhere_on_Earth">AoE</a>).
 </div>
-
 {% endcomment %}
+
+
+
 
 * Program Overview is available [here]({{ site.baseurl }}/program/overview/).
 * Keynote Talks announced [here]({{ site.baseurl }}/program/keynote/).
