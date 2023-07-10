@@ -38,6 +38,26 @@ For relevant information highlighting the activities and priorities in robotics 
 
 **Bio:** Jordan M. Berg is a Program Officer at the US National Science Foundation since 2014. NSF programs he has been associated with include the Future of Work at the Human-Technology Frontier (FW-HTF); Foundational Research in Robotics (FRR); EFRI C3 Soft Robotics (C3SoRo); EFRI Brain-Inspired Dynamics for Engineering Energy-Efficient Circuits and Artificial Intelligence (BRAID); the National Robotics Initiative (NRI); Dynamics, Control, and System Diagnostics (DCSD); Mind, Machine, and Motor Nexus (M3X); Cyber Physical Systems (CPS); and the National AI Research Institutes (NAIRI). Prior to joining NSF, Dr Berg was professor of Mechanical Engineering at Texas Tech University for 25 years. Dr Berg received the BSE and MSE in Mechanical and Aerospace Engineering from Princeton University, and the MS in Mathematics and PhD in Mechanical Engineering and Mechanics from Drexel University. He has held visiting appointments at the US Air Force Research Labs, the Institute for Mathematics and Its Applications at the University of Minnesota, and the Universities of Ruhuna and Peradeniya in Sri Lanka. His research interests include nonlinear control, modeling and control of micro- and nanosystems and material systems, mechatronics, robotics, human-technology interactions, and social and economic consequences of technological innovation.
 
+<br>
+<hr>
+
+
+<div id="f2" class="talk">
+  <div class="talk-profile">
+    <img src="{{site.baseurl}}/images/funding_panel_2.png"/>
+  </div>
+  <div class="talk-speaker">
+    <h3>Hyun Soo Woo</h3>
+    <h4>Program Director of Robotics</h4>
+    <h4>Korea Evaluation Institute of Industrial Technology (KEIT)</h4>
+  </div>
+</div>
+
+## Korea Evaluation Institute of Industrial Technology
+{: class="talk-title"}
+
+**Bio:** Dr. Hyunsoo Woo is the Program Director (PD) of Robotics in Korea Evaluation Institute of Industrial Technology (KEIT). He, as the PD, initiates, manages, and evaluates robotics R&D programs and also works with policy makers to promote robotics industries. He received B.S., M.S. and PhD degrees from Dept. of Mechanical Engineering at KAIST (Korea Advanced Institute of Science and Technology) in 2000, 2002, and 2009, respectively. Dr. Woo has been a senior and then principal researcher in Korea Institute of Machinery and Materials (KIMM) since 2010, primary research interest being development of medical and rehabilitation robots. 
+
 
 <br/>
 <hr>
