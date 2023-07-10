@@ -124,7 +124,7 @@ For information about the venue and location of the events in the program please
        <tr>
               <td style="background-color: #E2F0D950;">5:00PM</td>
               <td rowspan=2 style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/keynote#k1">Keynote Talk:                     Alice Oh</a></td>
-              <td rowspan=2 style="background-color: #FFD96650;">Industry Panel</td>
+              <td rowspan=2 style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/panels#industry-panel">Industry Panel</a></td>
               <td rowspan=2 style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/keynote#k2">Keynote Talk:                     Jamie Paik</a></td>
               </tr>
        <tr>
@@ -140,7 +140,7 @@ For information about the venue and location of the events in the program please
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">6:30PM</td>
-              <td rowspan=3 style="background-color: #FFD96650;">Funding Agency    Panel</td>
+              <td rowspan=3 style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/panels#funding-agency-panel">Funding Agency    Panel</a></td>
               <td rowspan=4 style="background-color: #A6A6A650;">Banquet<br><a href="https://goo.gl/maps/pD1rBJzGaZrohyfd7">@Hotel Inter-Burgo EXCO</a></td>
        </tr>
        <tr>
@@ -351,7 +351,7 @@ For information about the venue and location of the events in the program please
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">6:30PM</td>
-              <td rowspan=3 style="background-color: #FFD96650;">Funding Agency    Panel</td>
+              <td rowspan=3 style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/panels#funding-agency-panel">Funding Agency    Panel</a></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">7:00PM</td>
@@ -434,7 +434,7 @@ For information about the venue and location of the events in the program please
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">5:00PM</td>
-              <td rowspan=2 style="background-color: #FFD96650;">Industry Panel</td>
+              <td rowspan=2 style="background-color: #FFD96650;"><a href="{{ site.baseurl }}/program/panels#industry-panel">Industry Panel</a></td>
        </tr>
        <tr>
               <td style="background-color: #E2F0D950;">5:30PM</td>
