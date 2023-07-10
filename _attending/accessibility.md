@@ -13,7 +13,7 @@ At RSS 2023, we will do our best to create an accessible environment for all att
 ### Live Captioning
 To ensure our content is accessible to everyone, we will provide on-screen live captioning to offline participants, and YouTube captioning to online participants. Links and Contents that will provide live captioning are as below.
 
-### To see the live captioning on YouTube, please click on "settings icon", select "subtitles/CC", check "English".
+#### To see the live captioning on YouTube, please click on "settings icon", select "subtitles/CC", check "English".
 
 **Tuesday, July 11**: [Caption Only Website](https://live2.syncwords.com/w-FaxaxX), [YouTube Link](https://youtube.com/live/YG-UCTS5Tbk?feature=share)
 * Welcome Remarks
