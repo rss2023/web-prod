@@ -96,4 +96,47 @@ For relevant information highlighting the activities and priorities in robotics 
 
 <br/>
 <hr>
+<div id="i1" class="talk">
+  <div class="talk-profile">
+    <img src="{{site.baseurl}}/images/industry_panel_2.jpg"/>
+  </div>
+  <div class="talk-speaker">
+    <h3>Lucas Kaul</h3>
+    <h4>Full Stack Roboticist</h4>
+    <h4>Toyota Research Institute</h4>
+    <h4><a target="_blank" href="https://www.linkedin.com/in/lukas-kaul-b7334597/">[LinkedIn]</a></h4>
+  </div>
+</div>
+
+
+## Toyota Research Institute
+{: class="talk-title"}
+
+**Bio:** Lukas is a roboticist with strong theoretical background and hands-on experience in building, integrating and controlling autonomous systems. 
+
+
+<br/>
+<hr>
+
+<div id="i1" class="talk">
+  <div class="talk-profile">
+    <img src="{{site.baseurl}}/images/industry_panel_3.png"/>
+  </div>
+  <div class="talk-speaker">
+    <h3>Charles Swan</h3>
+    <h4>Senior Manager, Software Development</h4>
+    <h4>Amazon Robotics</h4>
+    <h4><a target="_blank" href="https://www.amazon.science/author/charles-swan">[Profile]</a></h4>
+  </div>
+</div>
+
+
+## Amazon Robotics
+{: class="talk-title"}
+
+**Bio:** Charles is a Senior Manager, Software Development at Amazon Robotics in Seattle, Washington, USA.
+
+
+<br/>
+<hr>
 <br/>
