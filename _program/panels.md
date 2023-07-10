@@ -2,7 +2,7 @@
 layout: page
 title: Panels
 description: Panels at the conference.
-priority: 6
+priority: 5
 invisible: false
 published: true
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Awards
 description: Award details.
-priority: 5
+priority: 6
 invisible: false
 published: true
 ---
