@@ -2,7 +2,7 @@
 layout: page
 title: At the Venue
 description: Information about the venue.
-priority: 14
+priority: 15
 invisible: false
 published: true
 ---

@@ -11,22 +11,26 @@ At RSS 2023, we will do our best to create an accessible environment for all att
 
 ## Hearing Accessibility
 ### Live Captioning
-To ensure our content is accessible to everyone, we will provide on-screen live captioning on the Zoom webinar (links will be shared soon). Contents that will provide live captioning are as below.
+To ensure our content is accessible to everyone, we will provide on-screen live captioning to offline participants, and YouTube captioning to online participants. Links and Contents that will provide live captioning are as below.
 
-**Tuesday, July 11**
+**Tuesday, July 11**: [Caption Only Website](https://live2.syncwords.com/w-FaxaxX), [YouTube Link](https://youtube.com/live/YG-UCTS5Tbk?feature=share)
 * Welcome Remarks
 * All RSS Spotlight Talks
 * Early Career Spotlight Talk
 * Keynote Talk
 * Funding Agency Panel
 
-**Wednesday, July 12 and Thursday, July 13**
+**Wednesday, July 12**: [Caption Only Website](https://live2.syncwords.com/w-OLBhNz), [YouTube Link](https://youtube.com/live/QXmcu9fVnak?feature=share)
 * All RSS Spotlight Talks
 * Early Career Spotlight Talk
-* Keynote Talk (Thursday)
-* Industry Panel (Wednesday)
+* Industry Panel 
   
-**Friday, July 14**
+**Thursday, July 13**: [Caption Only Website](https://live2.syncwords.com/w-hIGhH6), [YouTube Link](https://youtube.com/live/ftQhK75Ri1E?feature=share)
+* All RSS Spotlight Talks
+* Early Career Spotlight Talk
+* Keynote Talk 
+  
+**Friday, July 14**: [Caption Only Website](https://live2.syncwords.com/w-WqagsD), [YouTube Link](https://youtube.com/live/0-WXg0hH5Co?feature=share)
 * RSS Spotlight Talks
 
 ## Mobile Accessibility
