@@ -15,7 +15,7 @@ To ensure our content is accessible to everyone, we will provide on-screen live 
 
 #### To see the live captioning on YouTube, please click on "settings icon", select "subtitles/CC", check "English".
 
-**Tuesday, July 11**: [Caption Only Website](https://live2.syncwords.com/w-FaxaxX), [YouTube Link](https://youtube.com/live/YG-UCTS5Tbk?feature=share)
+**Tuesday, July 11**: [Caption Only Website](https://live2.syncwords.com/w-FaxaxX), [YouTube Link](https://youtube.com/live/hEO2-LY5i0o?feature=share)
 * Welcome Remarks
 * All RSS Spotlight Talks
 * Early Career Spotlight Talk
