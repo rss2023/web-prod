@@ -112,8 +112,7 @@ For relevant information highlighting the activities and priorities in robotics 
 ## Toyota Research Institute
 {: class="talk-title"}
 
-**Bio:** Lukas is a roboticist with strong theoretical background and hands-on experience in building, integrating and controlling autonomous systems. 
-
+**Bio:** Lukas Kaul is a research scientist at the Toyota Research Institute, with strong theoretical background and hands-on experience in building, integrating and controlling autonomous systems. He is commited to a mission of creating a future where robotics amplifies the human experience.
 
 <br/>
 <hr>
