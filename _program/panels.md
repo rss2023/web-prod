@@ -96,12 +96,12 @@ For relevant information highlighting the activities and priorities in robotics 
 
 <br/>
 <hr>
-<div id="i1" class="talk">
+<div id="i2" class="talk">
   <div class="talk-profile">
     <img src="{{site.baseurl}}/images/industry_panel_2.jpg"/>
   </div>
   <div class="talk-speaker">
-    <h3>Lucas Kaul</h3>
+    <h3>Lukas Kaul</h3>
     <h4>Full Stack Roboticist</h4>
     <h4>Toyota Research Institute</h4>
     <h4><a target="_blank" href="https://www.linkedin.com/in/lukas-kaul-b7334597/">[LinkedIn]</a></h4>
@@ -117,7 +117,30 @@ For relevant information highlighting the activities and priorities in robotics 
 <br/>
 <hr>
 
-<div id="i1" class="talk">
+<div id="i4" class="talk">
+  <div class="talk-profile">
+    <img src="{{site.baseurl}}/images/industry_panel_4.png"/>
+  </div>
+  <div class="talk-speaker">
+    <h3>Inmo Jang</h3>
+    <h4>Robotics Applied Scientist/Engineer</h4>
+    <h4>Samsung</h4>
+    <h4><a target="_blank" href="https://sites.google.com/view/inmojang">[Profile]</a></h4>
+  </div>
+</div>
+
+
+## Samsung
+{: class="talk-title"}
+
+**Bio:** Inmo Jang is a Principal Robotics Applied Scientist/Engineer at Samsung, and also an Honorary Research Associate at the University of Manchester. He is currently working for connecting between the robot technology being developed in academia and the requirements of the users in inspection/maintenance of infrastructures.
+His research interests range over the areas of multi-robot/agent systems, decentralised autonomous decision-making, control and navigation for robots, human multi-robot interaction, and their real-world applications. 
+Prior to joining Samsung, he was a postdoctoral research associate in Robotics for Extreme Environment Group at the University of Manchester, where he was involved in RAIN(Robotics and AI in Nuclear) project, one of the four big robotics and AI projects funded by EPSRC. He was also a JAEA NEST Fellow (visiting researcher) at the University of Tokyo, Japan in 2020. Since 2015, He has worked towards decision making of multi-robot systems and finished PhD in Cranfield University, UK, under Prof Hyo-Sang Shin and Prof Antonios Tsourdos. In South Korea, he worked at Korea Aerospace Industries, Ltd., and also worked at Korea Institute of Aviation Safety Technology in total 5+ years. Before that, he completed MSc/BSc in Mechanical and Aerospace Engineering in Seoul National University, S.Korea.
+
+<br/>
+<hr>
+
+<div id="i3" class="talk">
   <div class="talk-profile">
     <img src="{{site.baseurl}}/images/industry_panel_3.png"/>
   </div>
