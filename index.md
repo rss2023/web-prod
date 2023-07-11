@@ -7,7 +7,7 @@ Jul 10 &ndash; Jul 14, 2023<br>Daegu, Republic of Korea</h1>
 
 
 <div style="width: 100%; background-color: black; border-radius: 10px; padding: 5px; justify-content: center; text-align: center;">
-<iframe id="livestream" style="width: 80%; aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/QXmcu9fVnak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe id="livestream" style="width: 80%; aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/ftQhK75Ri1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <div id="dayselector" style="width: 100%; text-align: center; justify-content: center; display: inline-flex;">
   <div class="daybutton" link="hEO2-LY5i0o">Jul 11</div>
   <div class="daybutton" link="QXmcu9fVnak">Jul 12</div>
