@@ -539,3 +539,11 @@ padding-inline-start: 1.2em;
     opacity: 0.8;
     font-weight: bold;
 }
+
+.WIN{
+    font-weight: bolder;
+}
+
+.WIN:before{
+    content: "[WINNER] ";
+}
