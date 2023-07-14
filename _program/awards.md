@@ -15,7 +15,7 @@ Congratulations to the following authors!
  {% for paper in site.data.rss2023CameraReadyInfo %}
  {% if paper.AwardNom == "BEST" %}
 
-<a href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
+<a class="{{ paper.AwardWinner }}" href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
 }}/">{{paper.PaperTitle}}</a>
 <br>
 <i>{{ paper.AuthorNames | replace: ';', ' and ' | replace: '*', ''}}</i>
@@ -31,7 +31,7 @@ Congratulations to the following authors!
  {% for paper in site.data.rss2023CameraReadyInfo %}
  {% if paper.AwardNom == "BEST SYSTEM" %}
 
-<a href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
+<a class="{{ paper.AwardWinner }}" href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
 }}/">{{paper.PaperTitle}}</a>
 <br>
 <i>{{ paper.AuthorNames | replace: ';', ' and ' | replace: '*', ''}}</i>
@@ -47,7 +47,7 @@ Congratulations to the following authors!
  {% for paper in site.data.rss2023CameraReadyInfo %}
  {% if paper.AwardNom == "BEST STUDENT" %}
 
-<a href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
+<a class="{{ paper.AwardWinner }}" href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
 }}/">{{paper.PaperTitle}}</a>
 <br>
 <i>{{ paper.AuthorNames | replace: ';', ' and ' | replace: '*', ''}}</i>
@@ -63,7 +63,7 @@ Congratulations to the following authors!
  {% for paper in site.data.rss2023CameraReadyInfo %}
  {% if paper.AwardNom == "BEST DEMO" %}
 
-<a href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
+<a class="{{ paper.AwardWinner }}" href="{{ site.baseurl }}/program/papers/{{ paper.PaperIDZeroes
 }}/">{{paper.PaperTitle}}</a>
 <br>
 <i>{{ paper.AuthorNames | replace: ';', ' and ' | replace: '*', ''}}</i>

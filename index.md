@@ -37,6 +37,7 @@ $(document).ready(function() {
 
 
 
+* Paper Award Winners have been announced [here]({{ site.baseurl }}/program/awards/).
 * Program Overview is available [here]({{ site.baseurl }}/program/overview/).
 * Keynote Talks announced [here]({{ site.baseurl }}/program/keynote/).
 * Early Career Spotlights announced [here]({{ site.baseurl }}/program/earlycareer/).
